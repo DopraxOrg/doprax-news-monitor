@@ -1,0 +1,27 @@
+name: Doprax News Monitor
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: install dependencies
+        run: pip install feedparser
+
+      - name: run monitor
+        run: python monitor.py
+
+      - name: commit updates
+        run: |
+          git config --global user.name "news-bot"
+          git config --global user.email "bot@github.com"
+          git add news.md
+          git commit -m "update news" || exit 0
+          git push
