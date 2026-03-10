@@ -2,7 +2,7 @@ name: Doprax News Monitor
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,16 +12,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: install dependencies
+      - name: install python packages
         run: pip install feedparser
 
       - name: run monitor
         run: python monitor.py
 
-      - name: commit updates
+      - name: commit results
         run: |
           git config --global user.name "news-bot"
           git config --global user.email "bot@github.com"
-          git add news.md
-          git commit -m "update news" || exit 0
+          git add README.md
+          git commit -m "daily news update" || exit 0
           git push
