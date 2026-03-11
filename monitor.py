@@ -1,10 +1,11 @@
 import feedparser
+import os
 from datetime import datetime
 
 keywords = open("keywords.txt").read().lower().splitlines()
 feeds = open("feeds.txt").read().splitlines()
 
-results = []
+new_items = []
 
 for feed in feeds:
     parsed = feedparser.parse(feed)
@@ -13,15 +14,49 @@ for feed in feeds:
         text = (entry.title + " " + entry.get("summary","")).lower()
 
         if any(k in text for k in keywords):
-            results.append(f"- [{entry.title}]({entry.link})")
+            date = entry.get("published","")
+            item = f"- {date} — [{entry.title}]({entry.link})"
+            new_items.append(item)
 
-results = list(dict.fromkeys(results))[:20]
+# remove duplicates
+new_items = list(dict.fromkeys(new_items))
 
-with open("README.md", "w") as f:
-    f.write("# Doprax News Monitor\n\n")
-    f.write("Automated ecosystem news relevant to Doprax users.\n\n")
-    f.write(f"Last update: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n\n")
-    f.write("## Latest Signals\n\n")
+# read existing README
+if os.path.exists("README.md"):
+    with open("README.md") as f:
+        content = f.read()
+else:
+    content = ""
 
-    for r in results:
-        f.write(r + "\n")
+start_marker = "<!-- NEWS START -->"
+end_marker = "<!-- NEWS END -->"
+
+if start_marker in content:
+    old_section = content.split(start_marker)[1].split(end_marker)[0]
+    old_items = [line.strip() for line in old_section.split("\n") if line.strip()]
+else:
+    old_items = []
+
+combined = new_items + old_items
+combined = list(dict.fromkeys(combined))  # deduplicate
+
+# keep latest 100
+combined = combined[:100]
+
+news_block = "\n".join(combined)
+
+new_content = f"""# Doprax News Monitor
+
+Automated ecosystem news relevant to Doprax users.
+
+Last update: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}
+
+## Latest Signals
+
+{start_marker}
+{news_block}
+{end_marker}
+"""
+
+with open("README.md","w") as f:
+    f.write(new_content)
