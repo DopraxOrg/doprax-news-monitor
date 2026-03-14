@@ -2,23 +2,35 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-13 08:26 UTC
+Last update: 2026-03-14 08:21 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 14 Mar 2026 08:11:07 +0000 — [I Replaced a $200/mo Screenshot API With a Single Python File](https://dev.to/vesper_finch/i-replaced-a-200mo-screenshot-api-with-a-single-python-file-1im9)
+- Sat, 14 Mar 2026 08:05:09 +0000 — [Server/VM/Instance: Connecting to Azure from your local environment](https://dev.to/precious_nwafor/servervminstance-connecting-to-azure-from-your-local-environment-244)
+- 2026-03-13T06:17:24+00:00 — [Fully self-hosted distributed scraping infrastructure — 50 nodes, local NAS, zero cloud, 3.9M records over 2 years](https://www.reddit.com/r/selfhosted/comments/1rsflyj/fully_selfhosted_distributed_scraping/)
+- 2026-03-14T02:32:49+00:00 — [Should I use common Postgres / Redis for all self hosted services?](https://www.reddit.com/r/selfhosted/comments/1rt7lbh/should_i_use_common_postgres_redis_for_all_self/)
+- 2026-03-13T17:15:16+00:00 — [drydock - Docker container update monitor with 23 registry providers, 20 notification triggers, vulnerability scanning, and a distributed agent architecture](https://www.reddit.com/r/selfhosted/comments/1rstdsv/drydock_docker_container_update_monitor_with_23/)
+- 2026-03-13T13:20:58+00:00 — [Host your own audio transcription / diarization server: TranscriptionSuite (GPLv3+)](https://www.reddit.com/r/selfhosted/comments/1rsn5s6/host_your_own_audio_transcription_diarization/)
+- 2026-03-14T07:48:19+00:00 — [Unable to properly install Komodo](https://www.reddit.com/r/selfhosted/comments/1rtdfc8/unable_to_properly_install_komodo/)
+- 2026-03-14T07:07:30+00:00 — [Accessing my homelab from outside my home network](https://www.reddit.com/r/selfhosted/comments/1rtcrb0/accessing_my_homelab_from_outside_my_home_network/)
+- 2026-03-13T20:16:30+00:00 — [Open source alternative to Semrush for SEO](https://www.reddit.com/r/selfhosted/comments/1rsyf9m/open_source_alternative_to_semrush_for_seo/)
+- 2026-03-13T19:25:21+00:00 — [Suggestions for docker-based apps that automatically archive saved and upvoted Reddit posts?](https://www.reddit.com/r/selfhosted/comments/1rsx1g4/suggestions_for_dockerbased_apps_that/)
+- 2026-03-12T20:24:10+00:00 — [Do DevOps engineers actually memorize YAML?](https://www.reddit.com/r/devops/comments/1rs22ta/do_devops_engineers_actually_memorize_yaml/)
+- 2026-03-12T17:37:41+00:00 — [Roles for those who might be "not good enough" to be DevOps?](https://www.reddit.com/r/devops/comments/1rrxfri/roles_for_those_who_might_be_not_good_enough_to/)
+- 2026-03-12T14:00:22+00:00 — [I analyzed 1.6M git events to measure what happens when you scale AI code generation without scaling QA. Here are the numbers.](https://www.reddit.com/r/devops/comments/1rrrj0v/i_analyzed_16m_git_events_to_measure_what_happens/)
+- 2026-03-13T08:30:38+00:00 — [From algorithmic trading to DevOps - looking for career advice](https://www.reddit.com/r/devops/comments/1rshqxl/from_algorithmic_trading_to_devops_looking_for/)
+- 2026-03-11T19:54:37+00:00 — [Launch darkly rugpull coming](https://www.reddit.com/r/devops/comments/1rr4fen/launch_darkly_rugpull_coming/)
+- 2026-03-12T17:09:18+00:00 — [Need Advice for experience](https://www.reddit.com/r/devops/comments/1rrwmyi/need_advice_for_experience/)
+- Fri, 13 Mar 2026 17:09:59 +0000 — [The wild six weeks for NanoClaw’s creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
 - Fri, 13 Mar 2026 08:15:29 +0000 — [Building ChaCC-API: A personal journey from 2023 to today](https://dev.to/jonas1015/building-chacc-api-a-personal-journey-from-2023-to-today-2oj9)
 - Fri, 13 Mar 2026 08:12:41 +0000 — [THM - Blue](https://dev.to/mikensen/thm-blue-353m)
-- 2026-03-13T06:17:24+00:00 — [Fully self-hosted distributed scraping infrastructure — 50 nodes, local NAS, zero cloud, 3.9M records over 2 years](https://www.reddit.com/r/selfhosted/comments/1rsflyj/fully_selfhosted_distributed_scraping/)
 - 2026-03-12T20:36:35+00:00 — [One Week Later](https://www.reddit.com/r/selfhosted/comments/1rs2fao/one_week_later/)
 - 2026-03-13T06:47:28+00:00 — [DockFlare update + looking for help with multilingual support](https://www.reddit.com/r/selfhosted/comments/1rsg3rg/dockflare_update_looking_for_help_with/)
 - 2026-03-13T08:09:41+00:00 — [I built an open-source AI traffic light controller that runs on a $200 Jetson Nano — no cloud, no subscription, 25-35% less wait time](https://www.reddit.com/r/selfhosted/comments/1rshf2l/i_built_an_opensource_ai_traffic_light_controller/)
 - 2026-03-13T07:56:24+00:00 — [We've built an open-source LLM analytics tool because we didn't want to pay for enterprise tools. Here is the Docker Compose.](https://www.reddit.com/r/selfhosted/comments/1rsh7p2/weve_built_an_opensource_llm_analytics_tool/)
 - 2026-03-13T06:57:39+00:00 — [Shelfmark Hardlink Issues](https://www.reddit.com/r/selfhosted/comments/1rsg9jt/shelfmark_hardlink_issues/)
-- 2026-03-12T20:24:10+00:00 — [Do DevOps engineers actually memorize YAML?](https://www.reddit.com/r/devops/comments/1rs22ta/do_devops_engineers_actually_memorize_yaml/)
-- 2026-03-12T17:37:41+00:00 — [Roles for those who might be "not good enough" to be DevOps?](https://www.reddit.com/r/devops/comments/1rrxfri/roles_for_those_who_might_be_not_good_enough_to/)
-- 2026-03-12T14:00:22+00:00 — [I analyzed 1.6M git events to measure what happens when you scale AI code generation without scaling QA. Here are the numbers.](https://www.reddit.com/r/devops/comments/1rrrj0v/i_analyzed_16m_git_events_to_measure_what_happens/)
-- 2026-03-11T19:54:37+00:00 — [Launch darkly rugpull coming](https://www.reddit.com/r/devops/comments/1rr4fen/launch_darkly_rugpull_coming/)
 - 2026-03-09T18:27:23+00:00 — [I got a role by having general knowledge and good interviewing skills, now what ?](https://www.reddit.com/r/devops/comments/1rp8c07/i_got_a_role_by_having_general_knowledge_and_good/)
 - 2026-03-08T23:04:43+00:00 — [I made an interactive progressive roadmap for new DevOps Engineers](https://www.reddit.com/r/devops/comments/1rojfho/i_made_an_interactive_progressive_roadmap_for_new/)
 - Thu, 12 Mar 2026 08:14:39 +0000 — [How to Build a Multi-Provider LLM Infrastructure with an AI Gateway (OpenAI, Claude, Azure & Vertex)](https://dev.to/hadil/how-to-build-a-multi-provider-llm-infrastructure-with-an-ai-gateway-openai-claude-azure-vertex-2kpc)
