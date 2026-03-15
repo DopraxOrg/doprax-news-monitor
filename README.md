@@ -2,11 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-14 08:21 UTC
+Last update: 2026-03-15 08:23 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 15 Mar 2026 08:00:00 +0000 — [10 Best Code Climate Alternatives for Code Quality in 2026](https://dev.to/rahulxsingh/10-best-code-climate-alternatives-for-code-quality-in-2026-259d)
+- Sun, 15 Mar 2026 08:00:00 +0000 — [SonarQube vs SonarCloud: Self-Hosted vs Cloud Code Quality (2026)](https://dev.to/rahulxsingh/sonarqube-vs-sonarcloud-self-hosted-vs-cloud-code-quality-2026-dkj)
+- Sun, 15 Mar 2026 07:29:15 +0000 — [I Got Selected as an AWS Community Builder – Containers on My First Try. Here's My Honest Story.](https://dev.to/remus_kalathil_235e438778/i-got-selected-as-an-aws-community-builder-containers-on-my-first-try-heres-my-honest-story-58a5)
+- 2026-03-14T23:03:34+00:00 — [Open source doesn’t mean safe](https://www.reddit.com/r/selfhosted/comments/1rtxssn/open_source_doesnt_mean_safe/)
+- 2026-03-15T06:03:55+00:00 — [Sharing my way of keeping track of what I want to self-host](https://www.reddit.com/r/selfhosted/comments/1ru6f84/sharing_my_way_of_keeping_track_of_what_i_want_to/)
+- 2026-03-15T08:13:28+00:00 — [OpenFlow — self-hosted dashboard for AI coding sessions with session persistence and voice control](https://www.reddit.com/r/selfhosted/comments/1ru8hvw/openflow_selfhosted_dashboard_for_ai_coding/)
+- 2026-03-15T07:54:09+00:00 — [Anytype selfhosted auf Wyse 5070](https://www.reddit.com/r/selfhosted/comments/1ru86x0/anytype_selfhosted_auf_wyse_5070/)
+- 2026-03-14T17:08:56+00:00 — [[Beginner] Should I always use separate data disks with mount points in Proxmox VMs/LXCs? How do you handle this in practice?](https://www.reddit.com/r/selfhosted/comments/1rtoukb/beginner_should_i_always_use_separate_data_disks/)
+- 2026-03-14T20:10:36+00:00 — [How does DevOps actually work inside companies day to day?](https://www.reddit.com/r/devops/comments/1rttiym/how_does_devops_actually_work_inside_companies/)
+- 2026-03-14T22:13:14+00:00 — [Exoscale SKS review: great DX, security model is a problem](https://www.reddit.com/r/devops/comments/1rtwkwy/exoscale_sks_review_great_dx_security_model_is_a/)
+- 2026-03-14T18:02:04+00:00 — [DevOps engineer from Africa trying to break into the global market looking for advice](https://www.reddit.com/r/devops/comments/1rtq85s/devops_engineer_from_africa_trying_to_break_into/)
+- 2026-03-12T20:24:10+00:00 — [Do DevOps engineers actually memorize YAML?](https://www.reddit.com/r/devops/comments/1rs22ta/do_devops_engineers_actually_memorize_yaml/)
+- 2026-03-12T14:00:22+00:00 — [I analyzed 1.6M git events to measure what happens when you scale AI code generation without scaling QA. Here are the numbers.](https://www.reddit.com/r/devops/comments/1rrrj0v/i_analyzed_16m_git_events_to_measure_what_happens/)
+- 2026-03-12T17:37:41+00:00 — [Roles for those who might be "not good enough" to be DevOps?](https://www.reddit.com/r/devops/comments/1rrxfri/roles_for_those_who_might_be_not_good_enough_to/)
+- 2026-03-13T08:30:38+00:00 — [From algorithmic trading to DevOps - looking for career advice](https://www.reddit.com/r/devops/comments/1rshqxl/from_algorithmic_trading_to_devops_looking_for/)
+- 2026-03-11T19:54:37+00:00 — [Launch darkly rugpull coming](https://www.reddit.com/r/devops/comments/1rr4fen/launch_darkly_rugpull_coming/)
+- 2026-03-12T17:09:18+00:00 — [Need Advice for experience](https://www.reddit.com/r/devops/comments/1rrwmyi/need_advice_for_experience/)
+- Fri, 13 Mar 2026 17:09:59 +0000 — [The wild six weeks for NanoClaw’s creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
 - Sat, 14 Mar 2026 08:11:07 +0000 — [I Replaced a $200/mo Screenshot API With a Single Python File](https://dev.to/vesper_finch/i-replaced-a-200mo-screenshot-api-with-a-single-python-file-1im9)
 - Sat, 14 Mar 2026 08:05:09 +0000 — [Server/VM/Instance: Connecting to Azure from your local environment](https://dev.to/precious_nwafor/servervminstance-connecting-to-azure-from-your-local-environment-244)
 - 2026-03-13T06:17:24+00:00 — [Fully self-hosted distributed scraping infrastructure — 50 nodes, local NAS, zero cloud, 3.9M records over 2 years](https://www.reddit.com/r/selfhosted/comments/1rsflyj/fully_selfhosted_distributed_scraping/)
@@ -17,13 +35,6 @@ Last update: 2026-03-14 08:21 UTC
 - 2026-03-14T07:07:30+00:00 — [Accessing my homelab from outside my home network](https://www.reddit.com/r/selfhosted/comments/1rtcrb0/accessing_my_homelab_from_outside_my_home_network/)
 - 2026-03-13T20:16:30+00:00 — [Open source alternative to Semrush for SEO](https://www.reddit.com/r/selfhosted/comments/1rsyf9m/open_source_alternative_to_semrush_for_seo/)
 - 2026-03-13T19:25:21+00:00 — [Suggestions for docker-based apps that automatically archive saved and upvoted Reddit posts?](https://www.reddit.com/r/selfhosted/comments/1rsx1g4/suggestions_for_dockerbased_apps_that/)
-- 2026-03-12T20:24:10+00:00 — [Do DevOps engineers actually memorize YAML?](https://www.reddit.com/r/devops/comments/1rs22ta/do_devops_engineers_actually_memorize_yaml/)
-- 2026-03-12T17:37:41+00:00 — [Roles for those who might be "not good enough" to be DevOps?](https://www.reddit.com/r/devops/comments/1rrxfri/roles_for_those_who_might_be_not_good_enough_to/)
-- 2026-03-12T14:00:22+00:00 — [I analyzed 1.6M git events to measure what happens when you scale AI code generation without scaling QA. Here are the numbers.](https://www.reddit.com/r/devops/comments/1rrrj0v/i_analyzed_16m_git_events_to_measure_what_happens/)
-- 2026-03-13T08:30:38+00:00 — [From algorithmic trading to DevOps - looking for career advice](https://www.reddit.com/r/devops/comments/1rshqxl/from_algorithmic_trading_to_devops_looking_for/)
-- 2026-03-11T19:54:37+00:00 — [Launch darkly rugpull coming](https://www.reddit.com/r/devops/comments/1rr4fen/launch_darkly_rugpull_coming/)
-- 2026-03-12T17:09:18+00:00 — [Need Advice for experience](https://www.reddit.com/r/devops/comments/1rrwmyi/need_advice_for_experience/)
-- Fri, 13 Mar 2026 17:09:59 +0000 — [The wild six weeks for NanoClaw’s creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
 - Fri, 13 Mar 2026 08:15:29 +0000 — [Building ChaCC-API: A personal journey from 2023 to today](https://dev.to/jonas1015/building-chacc-api-a-personal-journey-from-2023-to-today-2oj9)
 - Fri, 13 Mar 2026 08:12:41 +0000 — [THM - Blue](https://dev.to/mikensen/thm-blue-353m)
 - 2026-03-12T20:36:35+00:00 — [One Week Later](https://www.reddit.com/r/selfhosted/comments/1rs2fao/one_week_later/)
