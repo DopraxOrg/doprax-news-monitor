@@ -2,27 +2,35 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-15 08:23 UTC
+Last update: 2026-03-16 08:42 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 16 Mar 2026 08:23:04 +0000 — [🏗️ Building my home server P5: Network-wide ad blocking with Pi-hole](https://dev.to/denesbeck/building-my-home-server-p5-network-wide-ad-blocking-with-pi-hole-2j3f)
+- Mon, 16 Mar 2026 08:18:24 +0000 — [Everything You Need to Know About MiroFish: The AI Swarm Engine Predicting Everything](https://dev.to/therealmrmumba/everything-you-need-to-know-about-mirofish-the-ai-swarm-engine-predicting-everything-5fp3)
+- 2026-03-15T15:47:59+00:00 — [These cameras were supposed to be e-waste. No RTSP, no docs, no protocol anyone's heard of. I reverse-engineered 100 000 URL patterns to make them work.](https://www.reddit.com/r/selfhosted/comments/1ruhgeq/these_cameras_were_supposed_to_be_ewaste_no_rtsp/)
+- 2026-03-15T16:11:09+00:00 — [We built an open-source headless browser that is 9x faster and uses 16x less memory than Chrome over the network](https://www.reddit.com/r/selfhosted/comments/1rui22u/we_built_an_opensource_headless_browser_that_is/)
+- 2026-03-15T22:59:20+00:00 — [whats the one thing you self host that you would never go back to a managed service for](https://www.reddit.com/r/selfhosted/comments/1rusn0x/whats_the_one_thing_you_self_host_that_you_would/)
+- 2026-03-15T11:46:21+00:00 — [Termix v2.0.0 - RDP, VNC, and Telnet Support (self-hosted Termius alternative that syncs across all devices)](https://www.reddit.com/r/selfhosted/comments/1ruc04h/termix_v200_rdp_vnc_and_telnet_support_selfhosted/)
+- 2026-03-16T05:34:54+00:00 — [I have the slowest NAS on earth.](https://www.reddit.com/r/selfhosted/comments/1rv10gs/i_have_the_slowest_nas_on_earth/)
+- 2026-03-14T23:03:34+00:00 — [Open source doesn’t mean safe](https://www.reddit.com/r/selfhosted/comments/1rtxssn/open_source_doesnt_mean_safe/)
+- 2026-03-15T20:57:44+00:00 — [How to securely cast Jellyfin via Google Cast within a Tailnet](https://www.reddit.com/r/selfhosted/comments/1rupl1f/how_to_securely_cast_jellyfin_via_google_cast/)
+- 2026-03-15T06:03:55+00:00 — [Sharing my way of keeping track of what I want to self-host](https://www.reddit.com/r/selfhosted/comments/1ru6f84/sharing_my_way_of_keeping_track_of_what_i_want_to/)
+- 2026-03-14T20:10:36+00:00 — [How does DevOps actually work inside companies day to day?](https://www.reddit.com/r/devops/comments/1rttiym/how_does_devops_actually_work_inside_companies/)
+- 2026-03-14T18:02:04+00:00 — [DevOps engineer from Africa trying to break into the global market looking for advice](https://www.reddit.com/r/devops/comments/1rtq85s/devops_engineer_from_africa_trying_to_break_into/)
+- 2026-03-12T20:24:10+00:00 — [Do DevOps engineers actually memorize YAML?](https://www.reddit.com/r/devops/comments/1rs22ta/do_devops_engineers_actually_memorize_yaml/)
+- 2026-03-13T08:30:38+00:00 — [From algorithmic trading to DevOps - looking for career advice](https://www.reddit.com/r/devops/comments/1rshqxl/from_algorithmic_trading_to_devops_looking_for/)
+- 2026-03-12T14:00:22+00:00 — [I analyzed 1.6M git events to measure what happens when you scale AI code generation without scaling QA. Here are the numbers.](https://www.reddit.com/r/devops/comments/1rrrj0v/i_analyzed_16m_git_events_to_measure_what_happens/)
+- 2026-03-12T17:37:41+00:00 — [Roles for those who might be "not good enough" to be DevOps?](https://www.reddit.com/r/devops/comments/1rrxfri/roles_for_those_who_might_be_not_good_enough_to/)
+- 2026-03-11T19:54:37+00:00 — [Launch darkly rugpull coming](https://www.reddit.com/r/devops/comments/1rr4fen/launch_darkly_rugpull_coming/)
 - Sun, 15 Mar 2026 08:00:00 +0000 — [10 Best Code Climate Alternatives for Code Quality in 2026](https://dev.to/rahulxsingh/10-best-code-climate-alternatives-for-code-quality-in-2026-259d)
 - Sun, 15 Mar 2026 08:00:00 +0000 — [SonarQube vs SonarCloud: Self-Hosted vs Cloud Code Quality (2026)](https://dev.to/rahulxsingh/sonarqube-vs-sonarcloud-self-hosted-vs-cloud-code-quality-2026-dkj)
 - Sun, 15 Mar 2026 07:29:15 +0000 — [I Got Selected as an AWS Community Builder – Containers on My First Try. Here's My Honest Story.](https://dev.to/remus_kalathil_235e438778/i-got-selected-as-an-aws-community-builder-containers-on-my-first-try-heres-my-honest-story-58a5)
-- 2026-03-14T23:03:34+00:00 — [Open source doesn’t mean safe](https://www.reddit.com/r/selfhosted/comments/1rtxssn/open_source_doesnt_mean_safe/)
-- 2026-03-15T06:03:55+00:00 — [Sharing my way of keeping track of what I want to self-host](https://www.reddit.com/r/selfhosted/comments/1ru6f84/sharing_my_way_of_keeping_track_of_what_i_want_to/)
 - 2026-03-15T08:13:28+00:00 — [OpenFlow — self-hosted dashboard for AI coding sessions with session persistence and voice control](https://www.reddit.com/r/selfhosted/comments/1ru8hvw/openflow_selfhosted_dashboard_for_ai_coding/)
 - 2026-03-15T07:54:09+00:00 — [Anytype selfhosted auf Wyse 5070](https://www.reddit.com/r/selfhosted/comments/1ru86x0/anytype_selfhosted_auf_wyse_5070/)
 - 2026-03-14T17:08:56+00:00 — [[Beginner] Should I always use separate data disks with mount points in Proxmox VMs/LXCs? How do you handle this in practice?](https://www.reddit.com/r/selfhosted/comments/1rtoukb/beginner_should_i_always_use_separate_data_disks/)
-- 2026-03-14T20:10:36+00:00 — [How does DevOps actually work inside companies day to day?](https://www.reddit.com/r/devops/comments/1rttiym/how_does_devops_actually_work_inside_companies/)
 - 2026-03-14T22:13:14+00:00 — [Exoscale SKS review: great DX, security model is a problem](https://www.reddit.com/r/devops/comments/1rtwkwy/exoscale_sks_review_great_dx_security_model_is_a/)
-- 2026-03-14T18:02:04+00:00 — [DevOps engineer from Africa trying to break into the global market looking for advice](https://www.reddit.com/r/devops/comments/1rtq85s/devops_engineer_from_africa_trying_to_break_into/)
-- 2026-03-12T20:24:10+00:00 — [Do DevOps engineers actually memorize YAML?](https://www.reddit.com/r/devops/comments/1rs22ta/do_devops_engineers_actually_memorize_yaml/)
-- 2026-03-12T14:00:22+00:00 — [I analyzed 1.6M git events to measure what happens when you scale AI code generation without scaling QA. Here are the numbers.](https://www.reddit.com/r/devops/comments/1rrrj0v/i_analyzed_16m_git_events_to_measure_what_happens/)
-- 2026-03-12T17:37:41+00:00 — [Roles for those who might be "not good enough" to be DevOps?](https://www.reddit.com/r/devops/comments/1rrxfri/roles_for_those_who_might_be_not_good_enough_to/)
-- 2026-03-13T08:30:38+00:00 — [From algorithmic trading to DevOps - looking for career advice](https://www.reddit.com/r/devops/comments/1rshqxl/from_algorithmic_trading_to_devops_looking_for/)
-- 2026-03-11T19:54:37+00:00 — [Launch darkly rugpull coming](https://www.reddit.com/r/devops/comments/1rr4fen/launch_darkly_rugpull_coming/)
 - 2026-03-12T17:09:18+00:00 — [Need Advice for experience](https://www.reddit.com/r/devops/comments/1rrwmyi/need_advice_for_experience/)
 - Fri, 13 Mar 2026 17:09:59 +0000 — [The wild six weeks for NanoClaw’s creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
 - Sat, 14 Mar 2026 08:11:07 +0000 — [I Replaced a $200/mo Screenshot API With a Single Python File](https://dev.to/vesper_finch/i-replaced-a-200mo-screenshot-api-with-a-single-python-file-1im9)
