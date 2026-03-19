@@ -2,23 +2,38 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-18 08:34 UTC
+Last update: 2026-03-19 08:28 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 18 Mar 2026 08:20:03 +0000 — [Building “The Better Store”  — Part 4: Implementing a Microservices Architecture with Cloud Native Patterns and AWS Services](https://dev.to/aws-builders/building-the-better-store-part-4-implementing-a-microservices-architecture-with-cloud-native-585a)
-- Wed, 18 Mar 2026 08:17:50 +0000 — [Ebooks Reading](https://dev.to/selfhostingsh/ebooks-reading-2p5l)
+- Thu, 19 Mar 2026 03:31:01 +0000 — [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
+- 2026-03-18T14:02:18+00:00 — [My humble home lab / self-hosted setup](https://www.reddit.com/r/selfhosted/comments/1rx4qr8/my_humble_home_lab_selfhosted_setup/)
+- 2026-03-19T07:31:31+00:00 — [Kubernetes for Homelab?](https://www.reddit.com/r/selfhosted/comments/1rxtxz9/kubernetes_for_homelab/)
+- 2026-03-18T13:35:45+00:00 — [Introducing Unsloth Studio: an open-source web UI for local LLMs](https://www.reddit.com/r/selfhosted/comments/1rx42qt/introducing_unsloth_studio_an_opensource_web_ui/)
+- 2026-03-19T04:09:01+00:00 — [Behold, my self hosted homelab.](https://www.reddit.com/r/selfhosted/comments/1rxqemp/behold_my_self_hosted_homelab/)
+- 2026-03-18T21:53:01+00:00 — [Wall cabinet homelab, NUC + 16TB unRAID + 40 containers in the only spot I had](https://www.reddit.com/r/selfhosted/comments/1rxhkma/wall_cabinet_homelab_nuc_16tb_unraid_40/)
+- 2026-03-19T02:17:59+00:00 — [Advice on Reverse Proxy](https://www.reddit.com/r/selfhosted/comments/1rxo1qj/advice_on_reverse_proxy/)
+- 2026-03-18T15:21:23+00:00 — [Why is theres so little IPv6 compatibility and ressources for self hosting solutions ?](https://www.reddit.com/r/selfhosted/comments/1rx6sxz/why_is_theres_so_little_ipv6_compatibility_and/)
+- 2026-03-18T16:05:09+00:00 — [I turned my old OnePlus 5T into a Home Assistant server + Linux desktop](https://www.reddit.com/r/selfhosted/comments/1rx7zfq/i_turned_my_old_oneplus_5t_into_a_home_assistant/)
+- 2026-03-19T08:16:34+00:00 — [should i backup encoded-videos](https://www.reddit.com/r/selfhosted/comments/1rxumr3/should_i_backup_encodedvideos/)
+- 2026-03-18T15:16:52+00:00 — [Check home server security issues](https://www.reddit.com/r/selfhosted/comments/1rx6oqy/check_home_server_security_issues/)
+- 2026-03-18T21:34:01+00:00 — [Macbook + docker = no response on network sometimes](https://www.reddit.com/r/selfhosted/comments/1rxh2yw/macbook_docker_no_response_on_network_sometimes/)
+- 2026-03-18T14:41:10+00:00 — [Just an appreciation post for armbian and radxa.](https://www.reddit.com/r/selfhosted/comments/1rx5r18/just_an_appreciation_post_for_armbian_and_radxa/)
 - 2026-03-17T21:59:32+00:00 — [Looking for a self-hosted documentation tool for my homelab (Wiki.js, Docmost alternatives?)](https://www.reddit.com/r/selfhosted/comments/1rwkvqg/looking_for_a_selfhosted_documentation_tool_for/)
-- 2026-03-17T16:48:28+00:00 — [Backblaze B2 Price Increase.](https://www.reddit.com/r/selfhosted/comments/1rwc01l/backblaze_b2_price_increase/)
-- 2026-03-17T18:19:00+00:00 — [Here's my work-in-progress homelab setup with k8s that I've been using for all my self-hosting needs](https://www.reddit.com/r/selfhosted/comments/1rwendh/heres_my_workinprogress_homelab_setup_with_k8s/)
-- 2026-03-18T01:51:47+00:00 — [Looking for advice as a complete beginner](https://www.reddit.com/r/selfhosted/comments/1rwqp53/looking_for_advice_as_a_complete_beginner/)
-- 2026-03-17T18:22:29+00:00 — [Lancache prefill question](https://www.reddit.com/r/selfhosted/comments/1rweqw5/lancache_prefill_question/)
+- 2026-03-18T07:52:23+00:00 — [What does your day in DevOps look like?](https://www.reddit.com/r/devops/comments/1rwxlq8/what_does_your_day_in_devops_look_like/)
+- 2026-03-18T14:12:16+00:00 — [Weve been running into a lot of friction trying to get a clear picture across all our services lately](https://www.reddit.com/r/devops/comments/1rx502f/weve_been_running_into_a_lot_of_friction_trying/)
 - 2026-03-17T01:41:47+00:00 — [Product developer to devops. What should I know?](https://www.reddit.com/r/devops/comments/1rvt8tr/product_developer_to_devops_what_should_i_know/)
 - 2026-03-16T13:21:11+00:00 — [Cinder CSI vs Ceph RBD CSI in Kubernetes: An Analysis of Persistent Volume Lifecycle Performance](https://www.reddit.com/r/devops/comments/1rv99cj/cinder_csi_vs_ceph_rbd_csi_in_kubernetes_an/)
 - 2026-03-16T18:00:21+00:00 — [does anyone using this exact architecture?](https://www.reddit.com/r/devops/comments/1rvgyh6/does_anyone_using_this_exact_architecture/)
 - 2026-03-14T20:10:36+00:00 — [How does DevOps actually work inside companies day to day?](https://www.reddit.com/r/devops/comments/1rttiym/how_does_devops_actually_work_inside_companies/)
 - 2026-03-14T18:02:04+00:00 — [DevOps engineer from Africa trying to break into the global market looking for advice](https://www.reddit.com/r/devops/comments/1rtq85s/devops_engineer_from_africa_trying_to_break_into/)
+- Wed, 18 Mar 2026 08:20:03 +0000 — [Building “The Better Store”  — Part 4: Implementing a Microservices Architecture with Cloud Native Patterns and AWS Services](https://dev.to/aws-builders/building-the-better-store-part-4-implementing-a-microservices-architecture-with-cloud-native-585a)
+- Wed, 18 Mar 2026 08:17:50 +0000 — [Ebooks Reading](https://dev.to/selfhostingsh/ebooks-reading-2p5l)
+- 2026-03-17T16:48:28+00:00 — [Backblaze B2 Price Increase.](https://www.reddit.com/r/selfhosted/comments/1rwc01l/backblaze_b2_price_increase/)
+- 2026-03-17T18:19:00+00:00 — [Here's my work-in-progress homelab setup with k8s that I've been using for all my self-hosting needs](https://www.reddit.com/r/selfhosted/comments/1rwendh/heres_my_workinprogress_homelab_setup_with_k8s/)
+- 2026-03-18T01:51:47+00:00 — [Looking for advice as a complete beginner](https://www.reddit.com/r/selfhosted/comments/1rwqp53/looking_for_advice_as_a_complete_beginner/)
+- 2026-03-17T18:22:29+00:00 — [Lancache prefill question](https://www.reddit.com/r/selfhosted/comments/1rweqw5/lancache_prefill_question/)
 - 2026-03-12T20:24:10+00:00 — [Do DevOps engineers actually memorize YAML?](https://www.reddit.com/r/devops/comments/1rs22ta/do_devops_engineers_actually_memorize_yaml/)
 - Tue, 17 Mar 2026 08:20:17 +0000 — [Operation Epic Fury: the Iranian C2 nobody found (0/94 VT, RDTSC sandbox evasion, 8 months pre-op)](https://dev.to/paolocostanzo/operation-epic-fury-the-iranian-c2-nobody-found-094-vt-rdtsc-sandbox-evasion-8-months-pre-op-13nc)
 - Tue, 17 Mar 2026 08:07:08 +0000 — [Why AI Coding Tools Eat Your RAM (And How to Fix It)](https://dev.to/thestack_ai/why-ai-coding-tools-eat-your-ram-and-how-to-fix-it-1l53)
