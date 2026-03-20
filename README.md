@@ -2,14 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-19 08:28 UTC
+Last update: 2026-03-20 08:27 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 20 Mar 2026 08:09:17 +0000 — [Incremental Backup with PostgreSQL 17](https://dev.to/camptocamp-geo/incremental-backup-with-postgresql-17-47e8)
+- Fri, 20 Mar 2026 07:54:18 +0000 — [Secure File Uploads in Laravel: Validation, Storage & Basic Virus Protection](https://dev.to/addwebsolutionpvtltd/secure-file-uploads-in-laravel-validation-storage-basic-virus-protection-1hb4)
+- 2026-03-19T23:08:59+00:00 — [Proud of my little self hosted server](https://www.reddit.com/r/selfhosted/comments/1ryflmp/proud_of_my_little_self_hosted_server/)
+- 2026-03-19T11:30:12+00:00 — [Stop overthinking it - a mini PC with SATA bays is all you need for Plex](https://www.reddit.com/r/selfhosted/comments/1rxxw62/stop_overthinking_it_a_mini_pc_with_sata_bays_is/)
+- 2026-03-19T23:25:06+00:00 — [MinIO vs SeaweedFS vs Garage](https://www.reddit.com/r/selfhosted/comments/1ryfzw4/minio_vs_seaweedfs_vs_garage/)
+- 2026-03-20T08:19:44+00:00 — [DroneDB V2: The open source ecosystem for modern geospatial data management](https://www.reddit.com/r/selfhosted/comments/1ryqksf/dronedb_v2_the_open_source_ecosystem_for_modern/)
+- 2026-03-19T18:14:14+00:00 — [Is anyone actually using CopyParty or Sync-In?](https://www.reddit.com/r/selfhosted/comments/1ry826i/is_anyone_actually_using_copyparty_or_syncin/)
+- 2026-03-19T07:31:31+00:00 — [Kubernetes for Homelab?](https://www.reddit.com/r/selfhosted/comments/1rxtxz9/kubernetes_for_homelab/)
+- 2026-03-19T12:59:53+00:00 — [Open Archiver v0.4.2 is here: Local file path ingestion, Google Workspace optimizations, and secure Redis](https://www.reddit.com/r/selfhosted/comments/1rxzr4i/open_archiver_v042_is_here_local_file_path/)
+- 2026-03-20T07:49:46+00:00 — [Debian/Docker: containers can't resolve dns querries ("SERVFAIL"). Is Debian or Pihole the issue?](https://www.reddit.com/r/selfhosted/comments/1ryq3ya/debiandocker_containers_cant_resolve_dns_querries/)
+- 2026-03-19T13:28:02+00:00 — [How do you keep track of which repos depend on which in a large org?](https://www.reddit.com/r/devops/comments/1ry0edd/how_do_you_keep_track_of_which_repos_depend_on/)
+- 2026-03-19T08:37:48+00:00 — [Added a lightweight AWS/Azure hygiene scan to our CI - sharing the 20 rules we check](https://www.reddit.com/r/devops/comments/1rxuyet/added_a_lightweight_awsazure_hygiene_scan_to_our/)
+- 2026-03-19T00:25:48+00:00 — [I calculated how much my CI failures actually cost](https://www.reddit.com/r/devops/comments/1rxlfxd/i_calculated_how_much_my_ci_failures_actually_cost/)
+- 2026-03-18T07:52:23+00:00 — [What does your day in DevOps look like?](https://www.reddit.com/r/devops/comments/1rwxlq8/what_does_your_day_in_devops_look_like/)
+- 2026-03-18T14:12:16+00:00 — [Weve been running into a lot of friction trying to get a clear picture across all our services lately](https://www.reddit.com/r/devops/comments/1rx502f/weve_been_running_into_a_lot_of_friction_trying/)
+- 2026-03-17T01:41:47+00:00 — [Product developer to devops. What should I know?](https://www.reddit.com/r/devops/comments/1rvt8tr/product_developer_to_devops_what_should_i_know/)
+- 2026-03-16T13:21:11+00:00 — [Cinder CSI vs Ceph RBD CSI in Kubernetes: An Analysis of Persistent Volume Lifecycle Performance](https://www.reddit.com/r/devops/comments/1rv99cj/cinder_csi_vs_ceph_rbd_csi_in_kubernetes_an/)
 - Thu, 19 Mar 2026 03:31:01 +0000 — [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
 - 2026-03-18T14:02:18+00:00 — [My humble home lab / self-hosted setup](https://www.reddit.com/r/selfhosted/comments/1rx4qr8/my_humble_home_lab_selfhosted_setup/)
-- 2026-03-19T07:31:31+00:00 — [Kubernetes for Homelab?](https://www.reddit.com/r/selfhosted/comments/1rxtxz9/kubernetes_for_homelab/)
 - 2026-03-18T13:35:45+00:00 — [Introducing Unsloth Studio: an open-source web UI for local LLMs](https://www.reddit.com/r/selfhosted/comments/1rx42qt/introducing_unsloth_studio_an_opensource_web_ui/)
 - 2026-03-19T04:09:01+00:00 — [Behold, my self hosted homelab.](https://www.reddit.com/r/selfhosted/comments/1rxqemp/behold_my_self_hosted_homelab/)
 - 2026-03-18T21:53:01+00:00 — [Wall cabinet homelab, NUC + 16TB unRAID + 40 containers in the only spot I had](https://www.reddit.com/r/selfhosted/comments/1rxhkma/wall_cabinet_homelab_nuc_16tb_unraid_40/)
@@ -21,10 +37,6 @@ Last update: 2026-03-19 08:28 UTC
 - 2026-03-18T21:34:01+00:00 — [Macbook + docker = no response on network sometimes](https://www.reddit.com/r/selfhosted/comments/1rxh2yw/macbook_docker_no_response_on_network_sometimes/)
 - 2026-03-18T14:41:10+00:00 — [Just an appreciation post for armbian and radxa.](https://www.reddit.com/r/selfhosted/comments/1rx5r18/just_an_appreciation_post_for_armbian_and_radxa/)
 - 2026-03-17T21:59:32+00:00 — [Looking for a self-hosted documentation tool for my homelab (Wiki.js, Docmost alternatives?)](https://www.reddit.com/r/selfhosted/comments/1rwkvqg/looking_for_a_selfhosted_documentation_tool_for/)
-- 2026-03-18T07:52:23+00:00 — [What does your day in DevOps look like?](https://www.reddit.com/r/devops/comments/1rwxlq8/what_does_your_day_in_devops_look_like/)
-- 2026-03-18T14:12:16+00:00 — [Weve been running into a lot of friction trying to get a clear picture across all our services lately](https://www.reddit.com/r/devops/comments/1rx502f/weve_been_running_into_a_lot_of_friction_trying/)
-- 2026-03-17T01:41:47+00:00 — [Product developer to devops. What should I know?](https://www.reddit.com/r/devops/comments/1rvt8tr/product_developer_to_devops_what_should_i_know/)
-- 2026-03-16T13:21:11+00:00 — [Cinder CSI vs Ceph RBD CSI in Kubernetes: An Analysis of Persistent Volume Lifecycle Performance](https://www.reddit.com/r/devops/comments/1rv99cj/cinder_csi_vs_ceph_rbd_csi_in_kubernetes_an/)
 - 2026-03-16T18:00:21+00:00 — [does anyone using this exact architecture?](https://www.reddit.com/r/devops/comments/1rvgyh6/does_anyone_using_this_exact_architecture/)
 - 2026-03-14T20:10:36+00:00 — [How does DevOps actually work inside companies day to day?](https://www.reddit.com/r/devops/comments/1rttiym/how_does_devops_actually_work_inside_companies/)
 - 2026-03-14T18:02:04+00:00 — [DevOps engineer from Africa trying to break into the global market looking for advice](https://www.reddit.com/r/devops/comments/1rtq85s/devops_engineer_from_africa_trying_to_break_into/)
