@@ -2,14 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-20 08:27 UTC
+Last update: 2026-03-21 08:17 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 21 Mar 2026 08:12:23 +0000 — [3 Plugins vs 200K Stars: Why I Still Pick Claude Code Channels Over OpenClaw](https://dev.to/ji_ai/3-plugins-vs-200k-stars-why-i-still-pick-claude-code-channels-over-openclaw-2pce)
+- Sat, 21 Mar 2026 08:09:27 +0000 — [Production Secrets Management: From .env Files to Vault and Beyond](https://dev.to/young_gao/production-secrets-management-from-env-files-to-vault-and-beyond-cp1)
+- Sat, 21 Mar 2026 08:06:52 +0000 — [Containerize Your AI Agent Stack With Docker Compose: 4 Patterns That Work](https://dev.to/klement_gunndu/containerize-your-ai-agent-stack-with-docker-compose-4-patterns-that-work-4ln9)
+- Sat, 21 Mar 2026 08:02:16 +0000 — [AI coding philosophy](https://dev.to/bumbulik0/ai-coding-philosophy-2eoj)
+- 2026-03-20T17:43:02+00:00 — [Update: TapMap now supports Linux and Docker as requested](https://www.reddit.com/r/selfhosted/comments/1rz2zsb/update_tapmap_now_supports_linux_and_docker_as/)
+- 2026-03-21T00:34:21+00:00 — [If Docker Hub images are so insecure why does everyone still use them as the default?](https://www.reddit.com/r/selfhosted/comments/1rzddrb/if_docker_hub_images_are_so_insecure_why_does/)
+- 2026-03-20T20:13:44+00:00 — [Docker image for Obsidian Sync Headless](https://www.reddit.com/r/selfhosted/comments/1rz6ycy/docker_image_for_obsidian_sync_headless/)
+- 2026-03-21T01:18:54+00:00 — [self hosted wireguard vs tailscale?](https://www.reddit.com/r/selfhosted/comments/1rzediq/self_hosted_wireguard_vs_tailscale/)
+- 2026-03-20T21:04:32+00:00 — [good backup does not mean good recovery](https://www.reddit.com/r/selfhosted/comments/1rz89tt/good_backup_does_not_mean_good_recovery/)
+- 2026-03-19T23:08:59+00:00 — [Proud of my little self hosted server](https://www.reddit.com/r/selfhosted/comments/1ryflmp/proud_of_my_little_self_hosted_server/)
+- 2026-03-20T11:54:13+00:00 — [Kumiho v0.12.0 - Fast & Flexible Self-hosted E-Book/Audiobook Server (Docker)](https://www.reddit.com/r/selfhosted/comments/1ryu7g7/kumiho_v0120_fast_flexible_selfhosted/)
+- 2026-03-20T13:06:14+00:00 — [Chubo: An attempt at a Talos-like, API-driven OS for the Nomad/Consul/Vault stack](https://www.reddit.com/r/devops/comments/1ryvqo2/chubo_an_attempt_at_a_taloslike_apidriven_os_for/)
+- 2026-03-19T13:28:02+00:00 — [How do you keep track of which repos depend on which in a large org?](https://www.reddit.com/r/devops/comments/1ry0edd/how_do_you_keep_track_of_which_repos_depend_on/)
+- 2026-03-19T08:37:48+00:00 — [Added a lightweight AWS/Azure hygiene scan to our CI - sharing the 20 rules we check](https://www.reddit.com/r/devops/comments/1rxuyet/added_a_lightweight_awsazure_hygiene_scan_to_our/)
+- 2026-03-19T00:25:48+00:00 — [I calculated how much my CI failures actually cost](https://www.reddit.com/r/devops/comments/1rxlfxd/i_calculated_how_much_my_ci_failures_actually_cost/)
+- 2026-03-18T07:52:23+00:00 — [What does your day in DevOps look like?](https://www.reddit.com/r/devops/comments/1rwxlq8/what_does_your_day_in_devops_look_like/)
+- 2026-03-18T14:12:16+00:00 — [Weve been running into a lot of friction trying to get a clear picture across all our services lately](https://www.reddit.com/r/devops/comments/1rx502f/weve_been_running_into_a_lot_of_friction_trying/)
 - Fri, 20 Mar 2026 08:09:17 +0000 — [Incremental Backup with PostgreSQL 17](https://dev.to/camptocamp-geo/incremental-backup-with-postgresql-17-47e8)
 - Fri, 20 Mar 2026 07:54:18 +0000 — [Secure File Uploads in Laravel: Validation, Storage & Basic Virus Protection](https://dev.to/addwebsolutionpvtltd/secure-file-uploads-in-laravel-validation-storage-basic-virus-protection-1hb4)
-- 2026-03-19T23:08:59+00:00 — [Proud of my little self hosted server](https://www.reddit.com/r/selfhosted/comments/1ryflmp/proud_of_my_little_self_hosted_server/)
 - 2026-03-19T11:30:12+00:00 — [Stop overthinking it - a mini PC with SATA bays is all you need for Plex](https://www.reddit.com/r/selfhosted/comments/1rxxw62/stop_overthinking_it_a_mini_pc_with_sata_bays_is/)
 - 2026-03-19T23:25:06+00:00 — [MinIO vs SeaweedFS vs Garage](https://www.reddit.com/r/selfhosted/comments/1ryfzw4/minio_vs_seaweedfs_vs_garage/)
 - 2026-03-20T08:19:44+00:00 — [DroneDB V2: The open source ecosystem for modern geospatial data management](https://www.reddit.com/r/selfhosted/comments/1ryqksf/dronedb_v2_the_open_source_ecosystem_for_modern/)
@@ -17,11 +33,6 @@ Last update: 2026-03-20 08:27 UTC
 - 2026-03-19T07:31:31+00:00 — [Kubernetes for Homelab?](https://www.reddit.com/r/selfhosted/comments/1rxtxz9/kubernetes_for_homelab/)
 - 2026-03-19T12:59:53+00:00 — [Open Archiver v0.4.2 is here: Local file path ingestion, Google Workspace optimizations, and secure Redis](https://www.reddit.com/r/selfhosted/comments/1rxzr4i/open_archiver_v042_is_here_local_file_path/)
 - 2026-03-20T07:49:46+00:00 — [Debian/Docker: containers can't resolve dns querries ("SERVFAIL"). Is Debian or Pihole the issue?](https://www.reddit.com/r/selfhosted/comments/1ryq3ya/debiandocker_containers_cant_resolve_dns_querries/)
-- 2026-03-19T13:28:02+00:00 — [How do you keep track of which repos depend on which in a large org?](https://www.reddit.com/r/devops/comments/1ry0edd/how_do_you_keep_track_of_which_repos_depend_on/)
-- 2026-03-19T08:37:48+00:00 — [Added a lightweight AWS/Azure hygiene scan to our CI - sharing the 20 rules we check](https://www.reddit.com/r/devops/comments/1rxuyet/added_a_lightweight_awsazure_hygiene_scan_to_our/)
-- 2026-03-19T00:25:48+00:00 — [I calculated how much my CI failures actually cost](https://www.reddit.com/r/devops/comments/1rxlfxd/i_calculated_how_much_my_ci_failures_actually_cost/)
-- 2026-03-18T07:52:23+00:00 — [What does your day in DevOps look like?](https://www.reddit.com/r/devops/comments/1rwxlq8/what_does_your_day_in_devops_look_like/)
-- 2026-03-18T14:12:16+00:00 — [Weve been running into a lot of friction trying to get a clear picture across all our services lately](https://www.reddit.com/r/devops/comments/1rx502f/weve_been_running_into_a_lot_of_friction_trying/)
 - 2026-03-17T01:41:47+00:00 — [Product developer to devops. What should I know?](https://www.reddit.com/r/devops/comments/1rvt8tr/product_developer_to_devops_what_should_i_know/)
 - 2026-03-16T13:21:11+00:00 — [Cinder CSI vs Ceph RBD CSI in Kubernetes: An Analysis of Persistent Volume Lifecycle Performance](https://www.reddit.com/r/devops/comments/1rv99cj/cinder_csi_vs_ceph_rbd_csi_in_kubernetes_an/)
 - Thu, 19 Mar 2026 03:31:01 +0000 — [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
@@ -96,15 +107,4 @@ Last update: 2026-03-20 08:27 UTC
 - 2026-03-13T06:57:39+00:00 — [Shelfmark Hardlink Issues](https://www.reddit.com/r/selfhosted/comments/1rsg9jt/shelfmark_hardlink_issues/)
 - 2026-03-09T18:27:23+00:00 — [I got a role by having general knowledge and good interviewing skills, now what ?](https://www.reddit.com/r/devops/comments/1rp8c07/i_got_a_role_by_having_general_knowledge_and_good/)
 - 2026-03-08T23:04:43+00:00 — [I made an interactive progressive roadmap for new DevOps Engineers](https://www.reddit.com/r/devops/comments/1rojfho/i_made_an_interactive_progressive_roadmap_for_new/)
-- Thu, 12 Mar 2026 08:14:39 +0000 — [How to Build a Multi-Provider LLM Infrastructure with an AI Gateway (OpenAI, Claude, Azure & Vertex)](https://dev.to/hadil/how-to-build-a-multi-provider-llm-infrastructure-with-an-ai-gateway-openai-claude-azure-vertex-2kpc)
-- Thu, 12 Mar 2026 08:10:38 +0000 — [How I Built a Tiny AI-Powered Knowledge Base (And What I Learned)](https://dev.to/akshayitzme/how-i-built-a-tiny-ai-powered-knowledge-base-and-what-i-learned-5hi0)
-- 2026-03-11T11:33:07+00:00 — [I turned my old Galaxy S10 into a self-hosted server running Ubuntu 24.04 LTS with Jellyfin, Samba, and Tailscale - no Docker, no chroot, no proot - fully integrated at the system level with pure init, auto-running the entire container at device boot if needed!](https://www.reddit.com/r/selfhosted/comments/1rqr8yq/i_turned_my_old_galaxy_s10_into_a_selfhosted/)
-- 2026-03-11T22:15:32+00:00 — [Should I self host Bitwarden (with Vaultwarden) or am I just paranoid?](https://www.reddit.com/r/selfhosted/comments/1rr8bzy/should_i_self_host_bitwarden_with_vaultwarden_or/)
-- 2026-03-11T22:15:35+00:00 — [Vaultwarden replica](https://www.reddit.com/r/selfhosted/comments/1rr8c18/vaultwarden_replica/)
-- 2026-03-11T17:57:49+00:00 — [Simple Alternative to OneDrive/iCloud??](https://www.reddit.com/r/selfhosted/comments/1rr13d7/simple_alternative_to_onedriveicloud/)
-- 2026-03-11T18:47:53+00:00 — [Looking for app with booru-like tagging while respecting file hierarchy](https://www.reddit.com/r/selfhosted/comments/1rr2j6c/looking_for_app_with_boorulike_tagging_while/)
-- 2026-03-11T17:19:15+00:00 — [Help with deciding about my first homelab](https://www.reddit.com/r/selfhosted/comments/1rqzzem/help_with_deciding_about_my_first_homelab/)
-- 2026-03-11T22:38:39+00:00 — [How to use WUD?](https://www.reddit.com/r/selfhosted/comments/1rr8y59/how_to_use_wud/)
-- 2026-03-11T21:15:43+00:00 — [Website redesign - Arr stack moved to VPS](https://www.reddit.com/r/selfhosted/comments/1rr6p6x/website_redesign_arr_stack_moved_to_vps/)
-- 2026-03-08T22:48:21+00:00 — [I'm looking to move to a proper devops/platform engineer role](https://www.reddit.com/r/devops/comments/1roj11d/im_looking_to_move_to_a_proper_devopsplatform/)
 <!-- NEWS END -->
