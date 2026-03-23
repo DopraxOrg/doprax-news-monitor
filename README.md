@@ -2,15 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-22 08:20 UTC
+Last update: 2026-03-23 08:41 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 23 Mar 2026 08:21:25 +0000 — [Real-Time Energy Supply Risk Monitoring — How I Combined 4 Government Data Sources Into One API](https://dev.to/dave_sng_ec0ec8421d812d35/real-time-energy-supply-risk-monitoring-how-i-combined-4-government-data-sources-into-one-api-17c1)
+- Mon, 23 Mar 2026 08:20:43 +0000 — [Kafka 4.2.0 on Kubernetes - Complete Setup Guide - Exposed to Internet](https://dev.to/giveitatry/kafka-on-kubernetes-complete-setup-guide-exposed-to-internet-2l83)
+- Mon, 23 Mar 2026 08:07:05 +0000 — [EKS Auto Mode: Kubernetes sin drama😝](https://dev.to/aws-espanol/eks-auto-mode-kubernetes-sin-drama-1afk)
+- Mon, 23 Mar 2026 08:00:31 +0000 — [Your First Rotifer Gene in 5 Minutes](https://dev.to/rotiferdev/your-first-rotifer-gene-in-5-minutes-3mnk)
+- Mon, 23 Mar 2026 07:37:58 +0000 — [Beyond 'It Works on My Machine': Solving Docker Networking & DNS Bottlenecks](https://dev.to/ameer-pk/beyond-it-works-on-my-machine-solving-docker-networking-dns-bottlenecks-4f3m)
+- Mon, 23 Mar 2026 07:23:02 +0000 — [Tired of hand-editing Traefik YAML? This little tool makes route management way easier](https://dev.to/baboon/tired-of-hand-editing-traefik-yaml-this-little-tool-makes-route-management-way-easier-1do6)
+- 2026-03-23T04:06:10+00:00 — [My goal to sustain an open source tool without turning it into a subscription trap](https://www.reddit.com/r/selfhosted/comments/1s16t9v/my_goal_to_sustain_an_open_source_tool_without/)
+- 2026-03-23T06:58:28+00:00 — [chithi v0.0.100 - Self hosted end-to-end encrypted file/folder sharing service - Now with reverse file sharing support](https://www.reddit.com/r/selfhosted/comments/1s19rbq/chithi_v00100_self_hosted_endtoend_encrypted/)
+- 2026-03-22T23:02:24+00:00 — [Domain and security suggestions for shared family server](https://www.reddit.com/r/selfhosted/comments/1s106f5/domain_and_security_suggestions_for_shared_family/)
+- 2026-03-22T23:53:36+00:00 — [Self hosting secrets proxy for agents?](https://www.reddit.com/r/selfhosted/comments/1s11du0/self_hosting_secrets_proxy_for_agents/)
+- 2026-03-21T18:37:08+00:00 — [It's Not Friday Anymore - Roundup](https://www.reddit.com/r/selfhosted/comments/1rzz3dt/its_not_friday_anymore_roundup/)
+- 2026-03-22T23:10:48+00:00 — [Nextcloud works in Safari but Files won’t load in Brave , any ideas?](https://www.reddit.com/r/selfhosted/comments/1s10dj9/nextcloud_works_in_safari_but_files_wont_load_in/)
+- 2026-03-21T19:50:24+00:00 — [From 6 years MERN Full Stack to DevOps in 2026 (AI era) , just finished 1.5 month full-time tool grind, planning 10-15 projects. Real talk: what do I actually need to land a job?](https://www.reddit.com/r/devops/comments/1s00x6l/from_6_years_mern_full_stack_to_devops_in_2026_ai/)
+- 2026-03-20T16:33:30+00:00 — [Replacing MinIO with RustFS via simple binary swap (Zero-data migration guide)](https://www.reddit.com/r/devops/comments/1rz148h/replacing_minio_with_rustfs_via_simple_binary/)
+- 2026-03-20T13:06:14+00:00 — [Chubo: An attempt at a Talos-like, API-driven OS for the Nomad/Consul/Vault stack](https://www.reddit.com/r/devops/comments/1ryvqo2/chubo_an_attempt_at_a_taloslike_apidriven_os_for/)
+- 2026-03-19T13:28:02+00:00 — [How do you keep track of which repos depend on which in a large org?](https://www.reddit.com/r/devops/comments/1ry0edd/how_do_you_keep_track_of_which_repos_depend_on/)
 - Sun, 22 Mar 2026 08:02:38 +0000 — [I Built a Graph-Based Tool Search Engine for LLM Agents — Here's What I Learned After 1068 Tools](https://dev.to/sonaiengine/i-built-a-graph-based-tool-search-engine-for-llm-agents-heres-what-i-learned-after-1068-tools-4fj4)
 - Sun, 22 Mar 2026 08:00:00 +0000 — [Snyk vs Semgrep: SCA Platform vs Custom SAST Rules in 2026](https://dev.to/rahulxsingh/snyk-vs-semgrep-sca-platform-vs-custom-sast-rules-in-2026-3047)
 - Sun, 22 Mar 2026 07:14:19 +0000 — [Kubernetes CrashLoopBackOff: Root Cause and Fix (With Real Examples)](https://dev.to/yash_step2dev/kubernetes-crashloopbackoff-root-cause-and-fix-with-real-examples-5bcp)
-- 2026-03-21T18:37:08+00:00 — [It's Not Friday Anymore - Roundup](https://www.reddit.com/r/selfhosted/comments/1rzz3dt/its_not_friday_anymore_roundup/)
 - 2026-03-21T19:10:18+00:00 — [Apprise URL Builder up and running!](https://www.reddit.com/r/selfhosted/comments/1rzzxdx/apprise_url_builder_up_and_running/)
 - 2026-03-21T23:16:10+00:00 — [My Prosody setup with Docker Compose](https://www.reddit.com/r/selfhosted/comments/1s05sp6/my_prosody_setup_with_docker_compose/)
 - 2026-03-21T08:47:27+00:00 — [Why Is everyone persisting Redis… Even when it’s just a Cache?](https://www.reddit.com/r/selfhosted/comments/1rzmjb0/why_is_everyone_persisting_redis_even_when_its/)
@@ -21,10 +36,6 @@ Last update: 2026-03-22 08:20 UTC
 - 2026-03-22T05:13:02+00:00 — [Software stack for all-in-one media pc + home server?](https://www.reddit.com/r/selfhosted/comments/1s0d53b/software_stack_for_allinone_media_pc_home_server/)
 - 2026-03-22T01:22:26+00:00 — [PSA: If Jellyfin goes unreachable via Tailscale, check Tailscale's DNS health before assuming the container died](https://www.reddit.com/r/selfhosted/comments/1s08lre/psa_if_jellyfin_goes_unreachable_via_tailscale/)
 - 2026-03-20T17:43:02+00:00 — [Update: TapMap now supports Linux and Docker as requested](https://www.reddit.com/r/selfhosted/comments/1rz2zsb/update_tapmap_now_supports_linux_and_docker_as/)
-- 2026-03-21T19:50:24+00:00 — [From 6 years MERN Full Stack to DevOps in 2026 (AI era) , just finished 1.5 month full-time tool grind, planning 10-15 projects. Real talk: what do I actually need to land a job?](https://www.reddit.com/r/devops/comments/1s00x6l/from_6_years_mern_full_stack_to_devops_in_2026_ai/)
-- 2026-03-20T16:33:30+00:00 — [Replacing MinIO with RustFS via simple binary swap (Zero-data migration guide)](https://www.reddit.com/r/devops/comments/1rz148h/replacing_minio_with_rustfs_via_simple_binary/)
-- 2026-03-20T13:06:14+00:00 — [Chubo: An attempt at a Talos-like, API-driven OS for the Nomad/Consul/Vault stack](https://www.reddit.com/r/devops/comments/1ryvqo2/chubo_an_attempt_at_a_taloslike_apidriven_os_for/)
-- 2026-03-19T13:28:02+00:00 — [How do you keep track of which repos depend on which in a large org?](https://www.reddit.com/r/devops/comments/1ry0edd/how_do_you_keep_track_of_which_repos_depend_on/)
 - Sat, 21 Mar 2026 08:12:23 +0000 — [3 Plugins vs 200K Stars: Why I Still Pick Claude Code Channels Over OpenClaw](https://dev.to/ji_ai/3-plugins-vs-200k-stars-why-i-still-pick-claude-code-channels-over-openclaw-2pce)
 - Sat, 21 Mar 2026 08:09:27 +0000 — [Production Secrets Management: From .env Files to Vault and Beyond](https://dev.to/young_gao/production-secrets-management-from-env-files-to-vault-and-beyond-cp1)
 - Sat, 21 Mar 2026 08:06:52 +0000 — [Containerize Your AI Agent Stack With Docker Compose: 4 Patterns That Work](https://dev.to/klement_gunndu/containerize-your-ai-agent-stack-with-docker-compose-4-patterns-that-work-4ln9)
@@ -96,15 +107,4 @@ Last update: 2026-03-22 08:20 UTC
 - Sun, 15 Mar 2026 08:00:00 +0000 — [10 Best Code Climate Alternatives for Code Quality in 2026](https://dev.to/rahulxsingh/10-best-code-climate-alternatives-for-code-quality-in-2026-259d)
 - Sun, 15 Mar 2026 08:00:00 +0000 — [SonarQube vs SonarCloud: Self-Hosted vs Cloud Code Quality (2026)](https://dev.to/rahulxsingh/sonarqube-vs-sonarcloud-self-hosted-vs-cloud-code-quality-2026-dkj)
 - Sun, 15 Mar 2026 07:29:15 +0000 — [I Got Selected as an AWS Community Builder – Containers on My First Try. Here's My Honest Story.](https://dev.to/remus_kalathil_235e438778/i-got-selected-as-an-aws-community-builder-containers-on-my-first-try-heres-my-honest-story-58a5)
-- 2026-03-15T08:13:28+00:00 — [OpenFlow — self-hosted dashboard for AI coding sessions with session persistence and voice control](https://www.reddit.com/r/selfhosted/comments/1ru8hvw/openflow_selfhosted_dashboard_for_ai_coding/)
-- 2026-03-15T07:54:09+00:00 — [Anytype selfhosted auf Wyse 5070](https://www.reddit.com/r/selfhosted/comments/1ru86x0/anytype_selfhosted_auf_wyse_5070/)
-- 2026-03-14T17:08:56+00:00 — [[Beginner] Should I always use separate data disks with mount points in Proxmox VMs/LXCs? How do you handle this in practice?](https://www.reddit.com/r/selfhosted/comments/1rtoukb/beginner_should_i_always_use_separate_data_disks/)
-- 2026-03-14T22:13:14+00:00 — [Exoscale SKS review: great DX, security model is a problem](https://www.reddit.com/r/devops/comments/1rtwkwy/exoscale_sks_review_great_dx_security_model_is_a/)
-- 2026-03-12T17:09:18+00:00 — [Need Advice for experience](https://www.reddit.com/r/devops/comments/1rrwmyi/need_advice_for_experience/)
-- Fri, 13 Mar 2026 17:09:59 +0000 — [The wild six weeks for NanoClaw’s creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/)
-- Sat, 14 Mar 2026 08:11:07 +0000 — [I Replaced a $200/mo Screenshot API With a Single Python File](https://dev.to/vesper_finch/i-replaced-a-200mo-screenshot-api-with-a-single-python-file-1im9)
-- Sat, 14 Mar 2026 08:05:09 +0000 — [Server/VM/Instance: Connecting to Azure from your local environment](https://dev.to/precious_nwafor/servervminstance-connecting-to-azure-from-your-local-environment-244)
-- 2026-03-13T06:17:24+00:00 — [Fully self-hosted distributed scraping infrastructure — 50 nodes, local NAS, zero cloud, 3.9M records over 2 years](https://www.reddit.com/r/selfhosted/comments/1rsflyj/fully_selfhosted_distributed_scraping/)
-- 2026-03-14T02:32:49+00:00 — [Should I use common Postgres / Redis for all self hosted services?](https://www.reddit.com/r/selfhosted/comments/1rt7lbh/should_i_use_common_postgres_redis_for_all_self/)
-- 2026-03-13T17:15:16+00:00 — [drydock - Docker container update monitor with 23 registry providers, 20 notification triggers, vulnerability scanning, and a distributed agent architecture](https://www.reddit.com/r/selfhosted/comments/1rstdsv/drydock_docker_container_update_monitor_with_23/)
 <!-- NEWS END -->
