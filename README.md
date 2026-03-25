@@ -2,11 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-24 08:36 UTC
+Last update: 2026-03-25 08:35 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 25 Mar 2026 08:24:44 +0000 — [How to Process Unstructured RFQs using OpenAI RAG and Node.js](https://dev.to/seafluxtechnologies/how-to-process-unstructured-rfqs-using-openai-rag-and-nodejs-1d5l)
+- Wed, 25 Mar 2026 08:22:35 +0000 — [YAML Validator Online: Lint and Format YAML Files](https://dev.to/_d7eb1c1703182e3ce1782/yaml-validator-online-lint-and-format-yaml-files-4kkf)
+- Wed, 25 Mar 2026 08:22:30 +0000 — [Best Online YAML Linter Tools in 2026](https://dev.to/_d7eb1c1703182e3ce1782/best-online-yaml-linter-tools-in-2026-7l7)
+- 2026-03-24T14:16:52+00:00 — [Komodo 🦎 Container manager 🦎 v2: Docker Swarm](https://www.reddit.com/r/selfhosted/comments/1s2f17m/komodo_container_manager_v2_docker_swarm/)
+- 2026-03-24T09:03:47+00:00 — [My Lifesaver: Use smart plug with server](https://www.reddit.com/r/selfhosted/comments/1s28l60/my_lifesaver_use_smart_plug_with_server/)
+- 2026-03-24T22:40:28+00:00 — [Google search feels like shopping mall with search bar duct-taped on (have I fixed it at my setup?)](https://www.reddit.com/r/selfhosted/comments/1s2sy9r/google_search_feels_like_shopping_mall_with/)
+- 2026-03-24T23:12:48+00:00 — [Headendarr - self-hosted IPTV/VOD management for Plex, Jellyfin, Kodi, and more](https://www.reddit.com/r/selfhosted/comments/1s2tsd2/headendarr_selfhosted_iptvvod_management_for_plex/)
+- 2026-03-24T16:46:44+00:00 — [not vibe coded: Assets - a free self-hosted net worth/FIRE tracker, March 2026 update](https://www.reddit.com/r/selfhosted/comments/1s2j6ol/not_vibe_coded_assets_a_free_selfhosted_net/)
+- 2026-03-24T20:14:23+00:00 — [Putting services in containers in preparation for migration.](https://www.reddit.com/r/selfhosted/comments/1s2p1k6/putting_services_in_containers_in_preparation_for/)
+- 2026-03-23T12:57:56+00:00 — [30% of your Kubernetes spend delivers zero value](https://www.reddit.com/r/devops/comments/1s1g4va/30_of_your_kubernetes_spend_delivers_zero_value/)
+- 2026-03-21T19:50:24+00:00 — [From 6 years MERN Full Stack to DevOps in 2026 (AI era) , just finished 1.5 month full-time tool grind, planning 10-15 projects. Real talk: what do I actually need to land a job?](https://www.reddit.com/r/devops/comments/1s00x6l/from_6_years_mern_full_stack_to_devops_in_2026_ai/)
+- 2026-03-20T16:33:30+00:00 — [Replacing MinIO with RustFS via simple binary swap (Zero-data migration guide)](https://www.reddit.com/r/devops/comments/1rz148h/replacing_minio_with_rustfs_via_simple_binary/)
+- 2026-03-20T13:06:14+00:00 — [Chubo: An attempt at a Talos-like, API-driven OS for the Nomad/Consul/Vault stack](https://www.reddit.com/r/devops/comments/1ryvqo2/chubo_an_attempt_at_a_taloslike_apidriven_os_for/)
 - Tue, 24 Mar 2026 08:36:30 +0000 — [Como Usar APIs DigitalOcean: Guia do Desenvolvedor para Infraestrutura Cloud](https://dev.to/lucas_ferreira/como-usar-apis-digitalocean-guia-do-desenvolvedor-para-infraestrutura-cloud-gmo)
 - Tue, 24 Mar 2026 08:27:43 +0000 — [How to Install WordPress on Ubuntu 24.04 with Nginx](https://dev.to/sst21/how-to-install-wordpress-on-ubuntu-2404-with-nginx-4jam)
 - 2026-03-23T22:27:06+00:00 — [How many of you run a hardware firewall?](https://www.reddit.com/r/selfhosted/comments/1s1vrib/how_many_of_you_run_a_hardware_firewall/)
@@ -18,10 +31,6 @@ Last update: 2026-03-24 08:36 UTC
 - 2026-03-23T04:06:10+00:00 — [My goal to sustain an open source tool without turning it into a subscription trap](https://www.reddit.com/r/selfhosted/comments/1s16t9v/my_goal_to_sustain_an_open_source_tool_without/)
 - 2026-03-24T05:18:53+00:00 — [Best Self Hosted Blog/News Like Website Service (is Ghost still the best?)](https://www.reddit.com/r/selfhosted/comments/1s24yp3/best_self_hosted_blognews_like_website_service_is/)
 - 2026-03-24T00:33:51+00:00 — [Challenges in multicontinent connection](https://www.reddit.com/r/selfhosted/comments/1s1yy48/challenges_in_multicontinent_connection/)
-- 2026-03-23T12:57:56+00:00 — [30% of your Kubernetes spend delivers zero value](https://www.reddit.com/r/devops/comments/1s1g4va/30_of_your_kubernetes_spend_delivers_zero_value/)
-- 2026-03-21T19:50:24+00:00 — [From 6 years MERN Full Stack to DevOps in 2026 (AI era) , just finished 1.5 month full-time tool grind, planning 10-15 projects. Real talk: what do I actually need to land a job?](https://www.reddit.com/r/devops/comments/1s00x6l/from_6_years_mern_full_stack_to_devops_in_2026_ai/)
-- 2026-03-20T16:33:30+00:00 — [Replacing MinIO with RustFS via simple binary swap (Zero-data migration guide)](https://www.reddit.com/r/devops/comments/1rz148h/replacing_minio_with_rustfs_via_simple_binary/)
-- 2026-03-20T13:06:14+00:00 — [Chubo: An attempt at a Talos-like, API-driven OS for the Nomad/Consul/Vault stack](https://www.reddit.com/r/devops/comments/1ryvqo2/chubo_an_attempt_at_a_taloslike_apidriven_os_for/)
 - Mon, 23 Mar 2026 08:21:25 +0000 — [Real-Time Energy Supply Risk Monitoring — How I Combined 4 Government Data Sources Into One API](https://dev.to/dave_sng_ec0ec8421d812d35/real-time-energy-supply-risk-monitoring-how-i-combined-4-government-data-sources-into-one-api-17c1)
 - Mon, 23 Mar 2026 08:20:43 +0000 — [Kafka 4.2.0 on Kubernetes - Complete Setup Guide - Exposed to Internet](https://dev.to/giveitatry/kafka-on-kubernetes-complete-setup-guide-exposed-to-internet-2l83)
 - Mon, 23 Mar 2026 08:07:05 +0000 — [EKS Auto Mode: Kubernetes sin drama😝](https://dev.to/aws-espanol/eks-auto-mode-kubernetes-sin-drama-1afk)
@@ -98,13 +107,4 @@ Last update: 2026-03-24 08:36 UTC
 - Tue, 17 Mar 2026 08:07:08 +0000 — [Why AI Coding Tools Eat Your RAM (And How to Fix It)](https://dev.to/thestack_ai/why-ai-coding-tools-eat-your-ram-and-how-to-fix-it-1l53)
 - Tue, 17 Mar 2026 08:00:00 +0000 — [CodeRabbit vs Greptile: Which AI Reviewer Catches More Bugs?](https://dev.to/rahulxsingh/coderabbit-vs-greptile-which-ai-reviewer-catches-more-bugs-4n9k)
 - 2026-03-17T05:56:31+00:00 — [Sanity check on my single-node Proxmox plan](https://www.reddit.com/r/selfhosted/comments/1rvye00/sanity_check_on_my_singlenode_proxmox_plan/)
-- 2026-03-15T15:47:59+00:00 — [These cameras were supposed to be e-waste. No RTSP, no docs, no protocol anyone's heard of. I reverse-engineered 100 000 URL patterns to make them work.](https://www.reddit.com/r/selfhosted/comments/1ruhgeq/these_cameras_were_supposed_to_be_ewaste_no_rtsp/)
-- 2026-03-17T08:08:56+00:00 — [Self-hosted monitoring system you can run with Docker (Go + TimescaleDB)](https://www.reddit.com/r/selfhosted/comments/1rw0j5y/selfhosted_monitoring_system_you_can_run_with/)
-- 2026-03-17T07:55:52+00:00 — [What's your biggest pain point managing multiple self-hosted services?](https://www.reddit.com/r/selfhosted/comments/1rw0bqb/whats_your_biggest_pain_point_managing_multiple/)
-- 2026-03-16T23:41:05+00:00 — [Newbie made a server](https://www.reddit.com/r/selfhosted/comments/1rvqeal/newbie_made_a_server/)
-- 2026-03-13T08:30:38+00:00 — [From algorithmic trading to DevOps - looking for career advice](https://www.reddit.com/r/devops/comments/1rshqxl/from_algorithmic_trading_to_devops_looking_for/)
-- Mon, 16 Mar 2026 08:23:04 +0000 — [🏗️ Building my home server P5: Network-wide ad blocking with Pi-hole](https://dev.to/denesbeck/building-my-home-server-p5-network-wide-ad-blocking-with-pi-hole-2j3f)
-- Mon, 16 Mar 2026 08:18:24 +0000 — [Everything You Need to Know About MiroFish: The AI Swarm Engine Predicting Everything](https://dev.to/therealmrmumba/everything-you-need-to-know-about-mirofish-the-ai-swarm-engine-predicting-everything-5fp3)
-- 2026-03-15T16:11:09+00:00 — [We built an open-source headless browser that is 9x faster and uses 16x less memory than Chrome over the network](https://www.reddit.com/r/selfhosted/comments/1rui22u/we_built_an_opensource_headless_browser_that_is/)
-- 2026-03-15T22:59:20+00:00 — [whats the one thing you self host that you would never go back to a managed service for](https://www.reddit.com/r/selfhosted/comments/1rusn0x/whats_the_one_thing_you_self_host_that_you_would/)
 <!-- NEWS END -->
