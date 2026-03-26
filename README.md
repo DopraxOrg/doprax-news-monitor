@@ -2,11 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-25 08:35 UTC
+Last update: 2026-03-26 08:40 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 26 Mar 2026 08:20:26 +0000 — [How I Built a Hallucination Detector for RAG Pipelines in Python](https://dev.to/devasish_banerjee_b55ceb1/how-i-built-a-hallucination-detector-for-rag-pipelines-in-python-5ahc)
+- Thu, 26 Mar 2026 08:13:25 +0000 — [My Plan Before Coding](https://dev.to/aikrooz/my-plan-before-coding-5cl2)
+- 2026-03-25T21:40:07+00:00 — [Finally Took The Dive, Now I'm Addicted](https://www.reddit.com/r/selfhosted/comments/1s3o9q3/finally_took_the_dive_now_im_addicted/)
+- 2026-03-26T08:10:53+00:00 — [My Experience with Porkbun and their Forced ID Verification](https://www.reddit.com/r/selfhosted/comments/1s41h9e/my_experience_with_porkbun_and_their_forced_id/)
+- 2026-03-25T13:42:30+00:00 — [TIL that Proxmox can provision Kubernetes Persistent Volumes](https://www.reddit.com/r/selfhosted/comments/1s3b3o6/til_that_proxmox_can_provision_kubernetes/)
+- 2026-03-26T02:09:50+00:00 — [Is it possible to self host an online retail website for free/low cost?](https://www.reddit.com/r/selfhosted/comments/1s3ut0m/is_it_possible_to_self_host_an_online_retail/)
+- 2026-03-25T11:08:39+00:00 — [Open source alternative to Gemini Enterprise that you can self host (PipesHub)](https://www.reddit.com/r/selfhosted/comments/1s37oba/open_source_alternative_to_gemini_enterprise_that/)
+- 2026-03-25T23:45:18+00:00 — [Persistent Issue with Cloudflared](https://www.reddit.com/r/selfhosted/comments/1s3rh17/persistent_issue_with_cloudflared/)
+- 2026-03-26T02:33:00+00:00 — [**eBay Cloud Platform Software Engineer interview — CodeSignal experience? (Engineering Systems Tools team, Toronto)**](https://www.reddit.com/r/devops/comments/1s3vbsg/ebay_cloud_platform_software_engineer_interview/)
+- 2026-03-25T10:43:07+00:00 — [2nd year CS Student looking for a reality check: Critique/Help my roadmap for DevOps/Cloud (AWS SAA, Terraform, CI/CD, and a Home Lab)](https://www.reddit.com/r/devops/comments/1s377go/2nd_year_cs_student_looking_for_a_reality_check/)
+- 2026-03-24T09:25:13+00:00 — [DevOps + AI. Where are we headed? Need honest insights from the community](https://www.reddit.com/r/devops/comments/1s28xen/devops_ai_where_are_we_headed_need_honest/)
+- 2026-03-24T01:58:10+00:00 — [CI/CD ephemeral runner/agent caching](https://www.reddit.com/r/devops/comments/1s20w4p/cicd_ephemeral_runneragent_caching/)
+- 2026-03-23T00:01:49+00:00 — [Backend dev → DevOps: what skills to focus on for long term?](https://www.reddit.com/r/devops/comments/1s11kz4/backend_dev_devops_what_skills_to_focus_on_for/)
+- 2026-03-21T19:50:24+00:00 — [From 6 years MERN Full Stack to DevOps in 2026 (AI era) , just finished 1.5 month full-time tool grind, planning 10-15 projects. Real talk: what do I actually need to land a job?](https://www.reddit.com/r/devops/comments/1s00x6l/from_6_years_mern_full_stack_to_devops_in_2026_ai/)
 - Wed, 25 Mar 2026 08:24:44 +0000 — [How to Process Unstructured RFQs using OpenAI RAG and Node.js](https://dev.to/seafluxtechnologies/how-to-process-unstructured-rfqs-using-openai-rag-and-nodejs-1d5l)
 - Wed, 25 Mar 2026 08:22:35 +0000 — [YAML Validator Online: Lint and Format YAML Files](https://dev.to/_d7eb1c1703182e3ce1782/yaml-validator-online-lint-and-format-yaml-files-4kkf)
 - Wed, 25 Mar 2026 08:22:30 +0000 — [Best Online YAML Linter Tools in 2026](https://dev.to/_d7eb1c1703182e3ce1782/best-online-yaml-linter-tools-in-2026-7l7)
@@ -17,7 +31,6 @@ Last update: 2026-03-25 08:35 UTC
 - 2026-03-24T16:46:44+00:00 — [not vibe coded: Assets - a free self-hosted net worth/FIRE tracker, March 2026 update](https://www.reddit.com/r/selfhosted/comments/1s2j6ol/not_vibe_coded_assets_a_free_selfhosted_net/)
 - 2026-03-24T20:14:23+00:00 — [Putting services in containers in preparation for migration.](https://www.reddit.com/r/selfhosted/comments/1s2p1k6/putting_services_in_containers_in_preparation_for/)
 - 2026-03-23T12:57:56+00:00 — [30% of your Kubernetes spend delivers zero value](https://www.reddit.com/r/devops/comments/1s1g4va/30_of_your_kubernetes_spend_delivers_zero_value/)
-- 2026-03-21T19:50:24+00:00 — [From 6 years MERN Full Stack to DevOps in 2026 (AI era) , just finished 1.5 month full-time tool grind, planning 10-15 projects. Real talk: what do I actually need to land a job?](https://www.reddit.com/r/devops/comments/1s00x6l/from_6_years_mern_full_stack_to_devops_in_2026_ai/)
 - 2026-03-20T16:33:30+00:00 — [Replacing MinIO with RustFS via simple binary swap (Zero-data migration guide)](https://www.reddit.com/r/devops/comments/1rz148h/replacing_minio_with_rustfs_via_simple_binary/)
 - 2026-03-20T13:06:14+00:00 — [Chubo: An attempt at a Talos-like, API-driven OS for the Nomad/Consul/Vault stack](https://www.reddit.com/r/devops/comments/1ryvqo2/chubo_an_attempt_at_a_taloslike_apidriven_os_for/)
 - Tue, 24 Mar 2026 08:36:30 +0000 — [Como Usar APIs DigitalOcean: Guia do Desenvolvedor para Infraestrutura Cloud](https://dev.to/lucas_ferreira/como-usar-apis-digitalocean-guia-do-desenvolvedor-para-infraestrutura-cloud-gmo)
@@ -94,17 +107,4 @@ Last update: 2026-03-25 08:35 UTC
 - 2026-03-18T14:41:10+00:00 — [Just an appreciation post for armbian and radxa.](https://www.reddit.com/r/selfhosted/comments/1rx5r18/just_an_appreciation_post_for_armbian_and_radxa/)
 - 2026-03-17T21:59:32+00:00 — [Looking for a self-hosted documentation tool for my homelab (Wiki.js, Docmost alternatives?)](https://www.reddit.com/r/selfhosted/comments/1rwkvqg/looking_for_a_selfhosted_documentation_tool_for/)
 - 2026-03-16T18:00:21+00:00 — [does anyone using this exact architecture?](https://www.reddit.com/r/devops/comments/1rvgyh6/does_anyone_using_this_exact_architecture/)
-- 2026-03-14T20:10:36+00:00 — [How does DevOps actually work inside companies day to day?](https://www.reddit.com/r/devops/comments/1rttiym/how_does_devops_actually_work_inside_companies/)
-- 2026-03-14T18:02:04+00:00 — [DevOps engineer from Africa trying to break into the global market looking for advice](https://www.reddit.com/r/devops/comments/1rtq85s/devops_engineer_from_africa_trying_to_break_into/)
-- Wed, 18 Mar 2026 08:20:03 +0000 — [Building “The Better Store”  — Part 4: Implementing a Microservices Architecture with Cloud Native Patterns and AWS Services](https://dev.to/aws-builders/building-the-better-store-part-4-implementing-a-microservices-architecture-with-cloud-native-585a)
-- Wed, 18 Mar 2026 08:17:50 +0000 — [Ebooks Reading](https://dev.to/selfhostingsh/ebooks-reading-2p5l)
-- 2026-03-17T16:48:28+00:00 — [Backblaze B2 Price Increase.](https://www.reddit.com/r/selfhosted/comments/1rwc01l/backblaze_b2_price_increase/)
-- 2026-03-17T18:19:00+00:00 — [Here's my work-in-progress homelab setup with k8s that I've been using for all my self-hosting needs](https://www.reddit.com/r/selfhosted/comments/1rwendh/heres_my_workinprogress_homelab_setup_with_k8s/)
-- 2026-03-18T01:51:47+00:00 — [Looking for advice as a complete beginner](https://www.reddit.com/r/selfhosted/comments/1rwqp53/looking_for_advice_as_a_complete_beginner/)
-- 2026-03-17T18:22:29+00:00 — [Lancache prefill question](https://www.reddit.com/r/selfhosted/comments/1rweqw5/lancache_prefill_question/)
-- 2026-03-12T20:24:10+00:00 — [Do DevOps engineers actually memorize YAML?](https://www.reddit.com/r/devops/comments/1rs22ta/do_devops_engineers_actually_memorize_yaml/)
-- Tue, 17 Mar 2026 08:20:17 +0000 — [Operation Epic Fury: the Iranian C2 nobody found (0/94 VT, RDTSC sandbox evasion, 8 months pre-op)](https://dev.to/paolocostanzo/operation-epic-fury-the-iranian-c2-nobody-found-094-vt-rdtsc-sandbox-evasion-8-months-pre-op-13nc)
-- Tue, 17 Mar 2026 08:07:08 +0000 — [Why AI Coding Tools Eat Your RAM (And How to Fix It)](https://dev.to/thestack_ai/why-ai-coding-tools-eat-your-ram-and-how-to-fix-it-1l53)
-- Tue, 17 Mar 2026 08:00:00 +0000 — [CodeRabbit vs Greptile: Which AI Reviewer Catches More Bugs?](https://dev.to/rahulxsingh/coderabbit-vs-greptile-which-ai-reviewer-catches-more-bugs-4n9k)
-- 2026-03-17T05:56:31+00:00 — [Sanity check on my single-node Proxmox plan](https://www.reddit.com/r/selfhosted/comments/1rvye00/sanity_check_on_my_singlenode_proxmox_plan/)
 <!-- NEWS END -->
