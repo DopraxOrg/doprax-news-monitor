@@ -2,11 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-26 08:40 UTC
+Last update: 2026-03-27 08:37 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 27 Mar 2026 08:02:33 +0000 — [Did You Know That LLMs Can Take Architecture as Code to the Next Level?](https://dev.to/alexey_pronsky_e3cd77bd7/did-you-know-that-llms-can-take-architecture-as-code-to-the-next-level-dc9)
+- Fri, 27 Mar 2026 08:01:32 +0000 — [How I reduced a Docker image from 1.12 GB to 131 MB (88% smaller)](https://dev.to/nadir_83ac7c548ca3c97d440/how-i-reduced-a-docker-image-from-112-gb-to-131-mb-88-smaller-952)
+- Fri, 27 Mar 2026 08:00:00 +0000 — [Semgrep Pricing in 2026: Open Source vs Team vs Enterprise Costs](https://dev.to/rahulxsingh/semgrep-pricing-in-2026-open-source-vs-team-vs-enterprise-costs-3dic)
+- 2026-03-27T02:26:45+00:00 — [Docker registry self-hosting](https://www.reddit.com/r/selfhosted/comments/1s4row4/docker_registry_selfhosting/)
+- 2026-03-26T12:31:55+00:00 — [Viseron 3.5.0 released - Self-hosted, local only NVR and Computer Vision software](https://www.reddit.com/r/selfhosted/comments/1s465cq/viseron_350_released_selfhosted_local_only_nvr/)
+- 2026-03-27T08:36:47+00:00 — [Running my entire SaaS on a single €15/month Hetzner VPS — here's the full stack](https://www.reddit.com/r/selfhosted/comments/1s4ygaz/running_my_entire_saas_on_a_single_15month/)
+- 2026-03-27T08:35:19+00:00 — [HiVoid – A QUIC-based proxy protocol with post-quantum cryptography](https://www.reddit.com/r/selfhosted/comments/1s4yfiw/hivoid_a_quicbased_proxy_protocol_with/)
+- 2026-03-27T08:33:50+00:00 — [I built a lightweight IMAP-to-Gmail Proxy to fix the slow/deprecated POP3 import (Docker-ready)](https://www.reddit.com/r/selfhosted/comments/1s4yeq6/i_built_a_lightweight_imaptogmail_proxy_to_fix/)
+- 2026-03-27T08:26:16+00:00 — [Apple TV client for Immich focused on continuous video playback](https://www.reddit.com/r/selfhosted/comments/1s4yah9/apple_tv_client_for_immich_focused_on_continuous/)
+- 2026-03-26T09:17:10+00:00 — [Soulbeet 0.5: Big update! Discovery playlists, Navidrome integration and more...](https://www.reddit.com/r/selfhosted/comments/1s42iiu/soulbeet_05_big_update_discovery_playlists/)
+- 2026-03-27T07:42:21+00:00 — [I’m building AXIOM to keep my dev environments strictly isolated and my $HOME clean.](https://www.reddit.com/r/selfhosted/comments/1s4xll2/im_building_axiom_to_keep_my_dev_environments/)
+- 2026-03-27T03:53:33+00:00 — [Will I get in trouble if I host a Jellyfin server publicly?](https://www.reddit.com/r/selfhosted/comments/1s4tjym/will_i_get_in_trouble_if_i_host_a_jellyfin_server/)
+- 2026-03-26T20:21:46+00:00 — [Hardware purchase advice](https://www.reddit.com/r/selfhosted/comments/1s4iq9m/hardware_purchase_advice/)
+- 2026-03-26T02:33:00+00:00 — [**eBay Cloud Platform Software Engineer interview — CodeSignal experience? (Engineering Systems Tools team, Toronto)**](https://www.reddit.com/r/devops/comments/1s3vbsg/ebay_cloud_platform_software_engineer_interview/)
+- 2026-03-24T09:25:13+00:00 — [DevOps + AI. Where are we headed? Need honest insights from the community](https://www.reddit.com/r/devops/comments/1s28xen/devops_ai_where_are_we_headed_need_honest/)
+- 2026-03-25T10:43:07+00:00 — [2nd year CS Student looking for a reality check: Critique/Help my roadmap for DevOps/Cloud (AWS SAA, Terraform, CI/CD, and a Home Lab)](https://www.reddit.com/r/devops/comments/1s377go/2nd_year_cs_student_looking_for_a_reality_check/)
+- 2026-03-24T01:58:10+00:00 — [CI/CD ephemeral runner/agent caching](https://www.reddit.com/r/devops/comments/1s20w4p/cicd_ephemeral_runneragent_caching/)
+- 2026-03-23T00:01:49+00:00 — [Backend dev → DevOps: what skills to focus on for long term?](https://www.reddit.com/r/devops/comments/1s11kz4/backend_dev_devops_what_skills_to_focus_on_for/)
 - Thu, 26 Mar 2026 08:20:26 +0000 — [How I Built a Hallucination Detector for RAG Pipelines in Python](https://dev.to/devasish_banerjee_b55ceb1/how-i-built-a-hallucination-detector-for-rag-pipelines-in-python-5ahc)
 - Thu, 26 Mar 2026 08:13:25 +0000 — [My Plan Before Coding](https://dev.to/aikrooz/my-plan-before-coding-5cl2)
 - 2026-03-25T21:40:07+00:00 — [Finally Took The Dive, Now I'm Addicted](https://www.reddit.com/r/selfhosted/comments/1s3o9q3/finally_took_the_dive_now_im_addicted/)
@@ -15,11 +33,6 @@ Last update: 2026-03-26 08:40 UTC
 - 2026-03-26T02:09:50+00:00 — [Is it possible to self host an online retail website for free/low cost?](https://www.reddit.com/r/selfhosted/comments/1s3ut0m/is_it_possible_to_self_host_an_online_retail/)
 - 2026-03-25T11:08:39+00:00 — [Open source alternative to Gemini Enterprise that you can self host (PipesHub)](https://www.reddit.com/r/selfhosted/comments/1s37oba/open_source_alternative_to_gemini_enterprise_that/)
 - 2026-03-25T23:45:18+00:00 — [Persistent Issue with Cloudflared](https://www.reddit.com/r/selfhosted/comments/1s3rh17/persistent_issue_with_cloudflared/)
-- 2026-03-26T02:33:00+00:00 — [**eBay Cloud Platform Software Engineer interview — CodeSignal experience? (Engineering Systems Tools team, Toronto)**](https://www.reddit.com/r/devops/comments/1s3vbsg/ebay_cloud_platform_software_engineer_interview/)
-- 2026-03-25T10:43:07+00:00 — [2nd year CS Student looking for a reality check: Critique/Help my roadmap for DevOps/Cloud (AWS SAA, Terraform, CI/CD, and a Home Lab)](https://www.reddit.com/r/devops/comments/1s377go/2nd_year_cs_student_looking_for_a_reality_check/)
-- 2026-03-24T09:25:13+00:00 — [DevOps + AI. Where are we headed? Need honest insights from the community](https://www.reddit.com/r/devops/comments/1s28xen/devops_ai_where_are_we_headed_need_honest/)
-- 2026-03-24T01:58:10+00:00 — [CI/CD ephemeral runner/agent caching](https://www.reddit.com/r/devops/comments/1s20w4p/cicd_ephemeral_runneragent_caching/)
-- 2026-03-23T00:01:49+00:00 — [Backend dev → DevOps: what skills to focus on for long term?](https://www.reddit.com/r/devops/comments/1s11kz4/backend_dev_devops_what_skills_to_focus_on_for/)
 - 2026-03-21T19:50:24+00:00 — [From 6 years MERN Full Stack to DevOps in 2026 (AI era) , just finished 1.5 month full-time tool grind, planning 10-15 projects. Real talk: what do I actually need to land a job?](https://www.reddit.com/r/devops/comments/1s00x6l/from_6_years_mern_full_stack_to_devops_in_2026_ai/)
 - Wed, 25 Mar 2026 08:24:44 +0000 — [How to Process Unstructured RFQs using OpenAI RAG and Node.js](https://dev.to/seafluxtechnologies/how-to-process-unstructured-rfqs-using-openai-rag-and-nodejs-1d5l)
 - Wed, 25 Mar 2026 08:22:35 +0000 — [YAML Validator Online: Lint and Format YAML Files](https://dev.to/_d7eb1c1703182e3ce1782/yaml-validator-online-lint-and-format-yaml-files-4kkf)
@@ -94,17 +107,4 @@ Last update: 2026-03-26 08:40 UTC
 - 2026-03-17T01:41:47+00:00 — [Product developer to devops. What should I know?](https://www.reddit.com/r/devops/comments/1rvt8tr/product_developer_to_devops_what_should_i_know/)
 - 2026-03-16T13:21:11+00:00 — [Cinder CSI vs Ceph RBD CSI in Kubernetes: An Analysis of Persistent Volume Lifecycle Performance](https://www.reddit.com/r/devops/comments/1rv99cj/cinder_csi_vs_ceph_rbd_csi_in_kubernetes_an/)
 - Thu, 19 Mar 2026 03:31:01 +0000 — [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/)
-- 2026-03-18T14:02:18+00:00 — [My humble home lab / self-hosted setup](https://www.reddit.com/r/selfhosted/comments/1rx4qr8/my_humble_home_lab_selfhosted_setup/)
-- 2026-03-18T13:35:45+00:00 — [Introducing Unsloth Studio: an open-source web UI for local LLMs](https://www.reddit.com/r/selfhosted/comments/1rx42qt/introducing_unsloth_studio_an_opensource_web_ui/)
-- 2026-03-19T04:09:01+00:00 — [Behold, my self hosted homelab.](https://www.reddit.com/r/selfhosted/comments/1rxqemp/behold_my_self_hosted_homelab/)
-- 2026-03-18T21:53:01+00:00 — [Wall cabinet homelab, NUC + 16TB unRAID + 40 containers in the only spot I had](https://www.reddit.com/r/selfhosted/comments/1rxhkma/wall_cabinet_homelab_nuc_16tb_unraid_40/)
-- 2026-03-19T02:17:59+00:00 — [Advice on Reverse Proxy](https://www.reddit.com/r/selfhosted/comments/1rxo1qj/advice_on_reverse_proxy/)
-- 2026-03-18T15:21:23+00:00 — [Why is theres so little IPv6 compatibility and ressources for self hosting solutions ?](https://www.reddit.com/r/selfhosted/comments/1rx6sxz/why_is_theres_so_little_ipv6_compatibility_and/)
-- 2026-03-18T16:05:09+00:00 — [I turned my old OnePlus 5T into a Home Assistant server + Linux desktop](https://www.reddit.com/r/selfhosted/comments/1rx7zfq/i_turned_my_old_oneplus_5t_into_a_home_assistant/)
-- 2026-03-19T08:16:34+00:00 — [should i backup encoded-videos](https://www.reddit.com/r/selfhosted/comments/1rxumr3/should_i_backup_encodedvideos/)
-- 2026-03-18T15:16:52+00:00 — [Check home server security issues](https://www.reddit.com/r/selfhosted/comments/1rx6oqy/check_home_server_security_issues/)
-- 2026-03-18T21:34:01+00:00 — [Macbook + docker = no response on network sometimes](https://www.reddit.com/r/selfhosted/comments/1rxh2yw/macbook_docker_no_response_on_network_sometimes/)
-- 2026-03-18T14:41:10+00:00 — [Just an appreciation post for armbian and radxa.](https://www.reddit.com/r/selfhosted/comments/1rx5r18/just_an_appreciation_post_for_armbian_and_radxa/)
-- 2026-03-17T21:59:32+00:00 — [Looking for a self-hosted documentation tool for my homelab (Wiki.js, Docmost alternatives?)](https://www.reddit.com/r/selfhosted/comments/1rwkvqg/looking_for_a_selfhosted_documentation_tool_for/)
-- 2026-03-16T18:00:21+00:00 — [does anyone using this exact architecture?](https://www.reddit.com/r/devops/comments/1rvgyh6/does_anyone_using_this_exact_architecture/)
 <!-- NEWS END -->
