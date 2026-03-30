@@ -2,24 +2,36 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-29 08:26 UTC
+Last update: 2026-03-30 09:01 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-03-29T18:53:59+00:00 — [Dispatcharr Release: v0.21.1 - IPTV Stream & EPG Management](https://www.reddit.com/r/selfhosted/comments/1s73je6/dispatcharr_release_v0211_iptv_stream_epg/)
+- 2026-03-30T08:10:10+00:00 — [looking for a reliable VPS in the netherlands](https://www.reddit.com/r/selfhosted/comments/1s7khq5/looking_for_a_reliable_vps_in_the_netherlands/)
+- 2026-03-29T13:57:30+00:00 — [Do people here love over-engineering their self-hosting setups?](https://www.reddit.com/r/selfhosted/comments/1s6vs75/do_people_here_love_overengineering_their/)
+- 2026-03-29T10:06:04+00:00 — [Portabase 1.9.4: Default Notifications, Agent Healthchecks, Database Improvements...](https://www.reddit.com/r/selfhosted/comments/1s6r6vi/portabase_194_default_notifications_agent/)
+- 2026-03-29T13:12:59+00:00 — [Sprout Track v1.2.3 - PostgreSQL support, report cards, activity timers, and webhook updates for the self-hosted baby tracker](https://www.reddit.com/r/selfhosted/comments/1s6uqyu/sprout_track_v123_postgresql_support_report_cards/)
+- 2026-03-30T01:02:45+00:00 — [SilverBullet v2 using NAS storage](https://www.reddit.com/r/selfhosted/comments/1s7ckaj/silverbullet_v2_using_nas_storage/)
+- 2026-03-28T20:01:34+00:00 — [Where do you store passwords for compose files?](https://www.reddit.com/r/selfhosted/comments/1s6aeld/where_do_you_store_passwords_for_compose_files/)
+- 2026-03-29T21:38:17+00:00 — [Steps to take before setting up a backup software?](https://www.reddit.com/r/selfhosted/comments/1s77tkc/steps_to_take_before_setting_up_a_backup_software/)
+- 2026-03-29T13:24:22+00:00 — [Need security help](https://www.reddit.com/r/selfhosted/comments/1s6v0fa/need_security_help/)
+- 2026-03-29T16:52:40+00:00 — [Help with disc migration](https://www.reddit.com/r/selfhosted/comments/1s70azc/help_with_disc_migration/)
+- 2026-03-29T09:21:49+00:00 — [Most straight-forward way to set up SOCKS5 proxy and VPN via Docker?](https://www.reddit.com/r/selfhosted/comments/1s6qhjn/most_straightforward_way_to_set_up_socks5_proxy/)
+- 2026-03-29T13:00:51+00:00 — [I think I am pivoting to DevOps ? Could you please help me guide from experience ?](https://www.reddit.com/r/devops/comments/1s6uh62/i_think_i_am_pivoting_to_devops_could_you_please/)
+- 2026-03-29T03:12:11+00:00 — [1.5 YOE DevOps Engineer – 2.16 LPA to 10 LPA in 3 Months Possible?](https://www.reddit.com/r/devops/comments/1s6k58a/15_yoe_devops_engineer_216_lpa_to_10_lpa_in_3/)
+- 2026-03-27T15:04:11+00:00 — [I'm building an open source list of useful package management tools, what should be included?](https://www.reddit.com/r/devops/comments/1s56o4a/im_building_an_open_source_list_of_useful_package/)
+- 2026-03-27T11:53:54+00:00 — [Docker vs. Firecracker for Browser Sandboxing?](https://www.reddit.com/r/devops/comments/1s51xj8/docker_vs_firecracker_for_browser_sandboxing/)
+- 2026-03-27T20:30:07+00:00 — [CS student (2.5 yrs left) aiming for DevOps — what should I focus on right now?](https://www.reddit.com/r/devops/comments/1s5fpm1/cs_student_25_yrs_left_aiming_for_devops_what/)
 - Sun, 29 Mar 2026 08:08:36 +0000 — [n8n vs Zapier in 2026: Why I Switched (And Saved €2,000/Year)](https://dev.to/automatewithai/n8n-vs-zapier-in-2026-why-i-switched-and-saved-eu2000year-59l7)
 - Sun, 29 Mar 2026 07:46:25 +0000 — [Getting Started with Django: Setting Up Your First Django Project](https://dev.to/codexmingle_community/getting-started-with-django-setting-up-your-first-django-project-1mii)
 - Sun, 29 Mar 2026 07:35:33 +0000 — [Aadhaar: India's Digital Identity Revolution — A Technical Deep Dive into the World's Most Sophisticated Identity Platform](https://dev.to/blacklovertech/aadhaar-indias-digital-identity-revolution-a-technical-deep-dive-into-the-worlds-most-274k)
-- 2026-03-28T20:01:34+00:00 — [Where do you store passwords for compose files?](https://www.reddit.com/r/selfhosted/comments/1s6aeld/where_do_you_store_passwords_for_compose_files/)
 - 2026-03-28T22:12:19+00:00 — [Security advice on a hosted domain](https://www.reddit.com/r/selfhosted/comments/1s6dmmc/security_advice_on_a_hosted_domain/)
 - 2026-03-29T07:34:44+00:00 — [macOS desktop app to manage GitHub Actions self-hosted runners — open source](https://www.reddit.com/r/selfhosted/comments/1s6ose7/macos_desktop_app_to_manage_github_actions/)
 - 2026-03-29T02:53:09+00:00 — [Gluetun: Qbittorrent error on download.](https://www.reddit.com/r/selfhosted/comments/1s6jrda/gluetun_qbittorrent_error_on_download/)
 - 2026-03-27T11:22:49+00:00 — [Free 750-page guide to self-hosting production apps - NO AI SLOP](https://www.reddit.com/r/selfhosted/comments/1s51bg1/free_750page_guide_to_selfhosting_production_apps/)
 - 2026-03-27T21:42:39+00:00 — [Rangarr: A Security-Hardened, SysAdmin-Built Replacement for Huntarr](https://www.reddit.com/r/selfhosted/comments/1s5hlek/rangarr_a_securityhardened_sysadminbuilt/)
 - 2026-03-29T07:20:59+00:00 — [toolchain suggestions](https://www.reddit.com/r/selfhosted/comments/1s6okbe/toolchain_suggestions/)
-- 2026-03-27T15:04:11+00:00 — [I'm building an open source list of useful package management tools, what should be included?](https://www.reddit.com/r/devops/comments/1s56o4a/im_building_an_open_source_list_of_useful_package/)
-- 2026-03-27T11:53:54+00:00 — [Docker vs. Firecracker for Browser Sandboxing?](https://www.reddit.com/r/devops/comments/1s51xj8/docker_vs_firecracker_for_browser_sandboxing/)
-- 2026-03-27T20:30:07+00:00 — [CS student (2.5 yrs left) aiming for DevOps — what should I focus on right now?](https://www.reddit.com/r/devops/comments/1s5fpm1/cs_student_25_yrs_left_aiming_for_devops_what/)
 - 2026-03-27T15:22:49+00:00 — [is OSS a lurking tool?](https://www.reddit.com/r/devops/comments/1s576ng/is_oss_a_lurking_tool/)
 - Sat, 28 Mar 2026 08:19:04 +0000 — [J'ai automatisé tout mon cycle de vente. Voilà ce qui s'est passé.](https://dev.to/innermost_47/jai-automatise-tout-mon-cycle-de-vente-voila-ce-qui-sest-passe-3n8c)
 - Sat, 28 Mar 2026 08:13:15 +0000 — [PostgreSQL Streaming WAL Archiver and a backup tool in Go (pgrwl)](https://dev.to/alzhi_f93e67fa45b972/postgresql-straming-wal-archiver-in-go-pgrwl-g91)
@@ -95,16 +107,4 @@ Last update: 2026-03-29 08:26 UTC
 - 2026-03-19T13:28:02+00:00 — [How do you keep track of which repos depend on which in a large org?](https://www.reddit.com/r/devops/comments/1ry0edd/how_do_you_keep_track_of_which_repos_depend_on/)
 - Sun, 22 Mar 2026 08:02:38 +0000 — [I Built a Graph-Based Tool Search Engine for LLM Agents — Here's What I Learned After 1068 Tools](https://dev.to/sonaiengine/i-built-a-graph-based-tool-search-engine-for-llm-agents-heres-what-i-learned-after-1068-tools-4fj4)
 - Sun, 22 Mar 2026 08:00:00 +0000 — [Snyk vs Semgrep: SCA Platform vs Custom SAST Rules in 2026](https://dev.to/rahulxsingh/snyk-vs-semgrep-sca-platform-vs-custom-sast-rules-in-2026-3047)
-- Sun, 22 Mar 2026 07:14:19 +0000 — [Kubernetes CrashLoopBackOff: Root Cause and Fix (With Real Examples)](https://dev.to/yash_step2dev/kubernetes-crashloopbackoff-root-cause-and-fix-with-real-examples-5bcp)
-- 2026-03-21T19:10:18+00:00 — [Apprise URL Builder up and running!](https://www.reddit.com/r/selfhosted/comments/1rzzxdx/apprise_url_builder_up_and_running/)
-- 2026-03-21T23:16:10+00:00 — [My Prosody setup with Docker Compose](https://www.reddit.com/r/selfhosted/comments/1s05sp6/my_prosody_setup_with_docker_compose/)
-- 2026-03-21T08:47:27+00:00 — [Why Is everyone persisting Redis… Even when it’s just a Cache?](https://www.reddit.com/r/selfhosted/comments/1rzmjb0/why_is_everyone_persisting_redis_even_when_its/)
-- 2026-03-21T17:04:06+00:00 — [Simple Minecraft dashboard](https://www.reddit.com/r/selfhosted/comments/1rzwpy9/simple_minecraft_dashboard/)
-- 2026-03-21T00:34:21+00:00 — [If Docker Hub images are so insecure why does everyone still use them as the default?](https://www.reddit.com/r/selfhosted/comments/1rzddrb/if_docker_hub_images_are_so_insecure_why_does/)
-- 2026-03-22T03:09:27+00:00 — [Server + Occasional gaming](https://www.reddit.com/r/selfhosted/comments/1s0at65/server_occasional_gaming/)
-- 2026-03-22T02:50:25+00:00 — [Fennec not working with custom syncserver](https://www.reddit.com/r/selfhosted/comments/1s0afhg/fennec_not_working_with_custom_syncserver/)
-- 2026-03-22T05:13:02+00:00 — [Software stack for all-in-one media pc + home server?](https://www.reddit.com/r/selfhosted/comments/1s0d53b/software_stack_for_allinone_media_pc_home_server/)
-- 2026-03-22T01:22:26+00:00 — [PSA: If Jellyfin goes unreachable via Tailscale, check Tailscale's DNS health before assuming the container died](https://www.reddit.com/r/selfhosted/comments/1s08lre/psa_if_jellyfin_goes_unreachable_via_tailscale/)
-- 2026-03-20T17:43:02+00:00 — [Update: TapMap now supports Linux and Docker as requested](https://www.reddit.com/r/selfhosted/comments/1rz2zsb/update_tapmap_now_supports_linux_and_docker_as/)
-- Sat, 21 Mar 2026 08:12:23 +0000 — [3 Plugins vs 200K Stars: Why I Still Pick Claude Code Channels Over OpenClaw](https://dev.to/ji_ai/3-plugins-vs-200k-stars-why-i-still-pick-claude-code-channels-over-openclaw-2pce)
 <!-- NEWS END -->
