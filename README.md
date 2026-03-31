@@ -2,11 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-03-30 09:01 UTC
+Last update: 2026-03-31 08:43 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 31 Mar 2026 08:15:57 +0000 — [End-to-end TLS for public-domain tunnels, without trusting the relay](https://dev.to/gosunuts/end-to-end-tls-for-public-domain-tunnels-without-trusting-the-relay-4452)
+- Tue, 31 Mar 2026 08:07:54 +0000 — [Running Kubernetes in Docker (KIND) Locally While Your Cluster Lives in Google Cloud Shell](https://dev.to/olymahmud/running-kubernetes-in-docker-kind-locally-while-your-cluster-lives-in-google-cloud-shell-4nia)
+- 2026-03-30T20:23:30+00:00 — [Lightwhale 3.0.0 released](https://www.reddit.com/r/selfhosted/comments/1s826q5/lightwhale_300_released/)
+- 2026-03-30T19:28:07+00:00 — [Super Productivity v18 - automations, zen theme, better mobile, and more reliable sync](https://www.reddit.com/r/selfhosted/comments/1s80n15/super_productivity_v18_automations_zen_theme/)
+- 2026-03-31T07:33:34+00:00 — [Update: F1ReplayTiming refactored to unified architecture (no more backend/front end setup headaches)](https://www.reddit.com/r/selfhosted/comments/1s8gqnt/update_f1replaytiming_refactored_to_unified/)
+- 2026-03-31T07:36:17+00:00 — [Moving away from Google Photos](https://www.reddit.com/r/selfhosted/comments/1s8gs7o/moving_away_from_google_photos/)
+- 2026-03-31T08:04:13+00:00 — [What should i do more with my home server ?](https://www.reddit.com/r/selfhosted/comments/1s8h86h/what_should_i_do_more_with_my_home_server/)
+- 2026-03-30T22:14:31+00:00 — [Overwhelmed with options, how to decide the stack correctly?](https://www.reddit.com/r/selfhosted/comments/1s854yz/overwhelmed_with_options_how_to_decide_the_stack/)
+- 2026-03-31T08:41:29+00:00 — [Has anyone Tips on selfhosting AI Blockers?](https://www.reddit.com/r/selfhosted/comments/1s8hti9/has_anyone_tips_on_selfhosting_ai_blockers/)
+- 2026-03-31T08:41:15+00:00 — [How to make your own VPN to avoid the UK government's Orwellian future](https://www.reddit.com/r/selfhosted/comments/1s8htdf/how_to_make_your_own_vpn_to_avoid_the_uk/)
+- 2026-03-31T08:34:46+00:00 — [what's the easiest way to set up an arr stack?](https://www.reddit.com/r/selfhosted/comments/1s8hpik/whats_the_easiest_way_to_set_up_an_arr_stack/)
+- 2026-03-31T03:51:01+00:00 — [New NAS Arriving This Week - I Have So Many Questions](https://www.reddit.com/r/selfhosted/comments/1s8cr19/new_nas_arriving_this_week_i_have_so_many/)
+- 2026-03-30T12:42:59+00:00 — [What are your thought on Docker Deep Dive vs Learn Docker in a Month Worth of Lunches](https://www.reddit.com/r/devops/comments/1s7phdh/what_are_your_thought_on_docker_deep_dive_vs/)
+- 2026-03-29T13:00:51+00:00 — [I think I am pivoting to DevOps ? Could you please help me guide from experience ?](https://www.reddit.com/r/devops/comments/1s6uh62/i_think_i_am_pivoting_to_devops_could_you_please/)
+- 2026-03-29T03:12:11+00:00 — [1.5 YOE DevOps Engineer – 2.16 LPA to 10 LPA in 3 Months Possible?](https://www.reddit.com/r/devops/comments/1s6k58a/15_yoe_devops_engineer_216_lpa_to_10_lpa_in_3/)
+- 2026-03-27T15:04:11+00:00 — [I'm building an open source list of useful package management tools, what should be included?](https://www.reddit.com/r/devops/comments/1s56o4a/im_building_an_open_source_list_of_useful_package/)
+- 2026-03-27T11:53:54+00:00 — [Docker vs. Firecracker for Browser Sandboxing?](https://www.reddit.com/r/devops/comments/1s51xj8/docker_vs_firecracker_for_browser_sandboxing/)
+- 2026-03-27T20:30:07+00:00 — [CS student (2.5 yrs left) aiming for DevOps — what should I focus on right now?](https://www.reddit.com/r/devops/comments/1s5fpm1/cs_student_25_yrs_left_aiming_for_devops_what/)
 - 2026-03-29T18:53:59+00:00 — [Dispatcharr Release: v0.21.1 - IPTV Stream & EPG Management](https://www.reddit.com/r/selfhosted/comments/1s73je6/dispatcharr_release_v0211_iptv_stream_epg/)
 - 2026-03-30T08:10:10+00:00 — [looking for a reliable VPS in the netherlands](https://www.reddit.com/r/selfhosted/comments/1s7khq5/looking_for_a_reliable_vps_in_the_netherlands/)
 - 2026-03-29T13:57:30+00:00 — [Do people here love over-engineering their self-hosting setups?](https://www.reddit.com/r/selfhosted/comments/1s6vs75/do_people_here_love_overengineering_their/)
@@ -18,11 +36,6 @@ Last update: 2026-03-30 09:01 UTC
 - 2026-03-29T13:24:22+00:00 — [Need security help](https://www.reddit.com/r/selfhosted/comments/1s6v0fa/need_security_help/)
 - 2026-03-29T16:52:40+00:00 — [Help with disc migration](https://www.reddit.com/r/selfhosted/comments/1s70azc/help_with_disc_migration/)
 - 2026-03-29T09:21:49+00:00 — [Most straight-forward way to set up SOCKS5 proxy and VPN via Docker?](https://www.reddit.com/r/selfhosted/comments/1s6qhjn/most_straightforward_way_to_set_up_socks5_proxy/)
-- 2026-03-29T13:00:51+00:00 — [I think I am pivoting to DevOps ? Could you please help me guide from experience ?](https://www.reddit.com/r/devops/comments/1s6uh62/i_think_i_am_pivoting_to_devops_could_you_please/)
-- 2026-03-29T03:12:11+00:00 — [1.5 YOE DevOps Engineer – 2.16 LPA to 10 LPA in 3 Months Possible?](https://www.reddit.com/r/devops/comments/1s6k58a/15_yoe_devops_engineer_216_lpa_to_10_lpa_in_3/)
-- 2026-03-27T15:04:11+00:00 — [I'm building an open source list of useful package management tools, what should be included?](https://www.reddit.com/r/devops/comments/1s56o4a/im_building_an_open_source_list_of_useful_package/)
-- 2026-03-27T11:53:54+00:00 — [Docker vs. Firecracker for Browser Sandboxing?](https://www.reddit.com/r/devops/comments/1s51xj8/docker_vs_firecracker_for_browser_sandboxing/)
-- 2026-03-27T20:30:07+00:00 — [CS student (2.5 yrs left) aiming for DevOps — what should I focus on right now?](https://www.reddit.com/r/devops/comments/1s5fpm1/cs_student_25_yrs_left_aiming_for_devops_what/)
 - Sun, 29 Mar 2026 08:08:36 +0000 — [n8n vs Zapier in 2026: Why I Switched (And Saved €2,000/Year)](https://dev.to/automatewithai/n8n-vs-zapier-in-2026-why-i-switched-and-saved-eu2000year-59l7)
 - Sun, 29 Mar 2026 07:46:25 +0000 — [Getting Started with Django: Setting Up Your First Django Project](https://dev.to/codexmingle_community/getting-started-with-django-setting-up-your-first-django-project-1mii)
 - Sun, 29 Mar 2026 07:35:33 +0000 — [Aadhaar: India's Digital Identity Revolution — A Technical Deep Dive into the World's Most Sophisticated Identity Platform](https://dev.to/blacklovertech/aadhaar-indias-digital-identity-revolution-a-technical-deep-dive-into-the-worlds-most-274k)
@@ -94,17 +107,4 @@ Last update: 2026-03-30 09:01 UTC
 - 2026-03-24T05:18:53+00:00 — [Best Self Hosted Blog/News Like Website Service (is Ghost still the best?)](https://www.reddit.com/r/selfhosted/comments/1s24yp3/best_self_hosted_blognews_like_website_service_is/)
 - 2026-03-24T00:33:51+00:00 — [Challenges in multicontinent connection](https://www.reddit.com/r/selfhosted/comments/1s1yy48/challenges_in_multicontinent_connection/)
 - Mon, 23 Mar 2026 08:21:25 +0000 — [Real-Time Energy Supply Risk Monitoring — How I Combined 4 Government Data Sources Into One API](https://dev.to/dave_sng_ec0ec8421d812d35/real-time-energy-supply-risk-monitoring-how-i-combined-4-government-data-sources-into-one-api-17c1)
-- Mon, 23 Mar 2026 08:20:43 +0000 — [Kafka 4.2.0 on Kubernetes - Complete Setup Guide - Exposed to Internet](https://dev.to/giveitatry/kafka-on-kubernetes-complete-setup-guide-exposed-to-internet-2l83)
-- Mon, 23 Mar 2026 08:07:05 +0000 — [EKS Auto Mode: Kubernetes sin drama😝](https://dev.to/aws-espanol/eks-auto-mode-kubernetes-sin-drama-1afk)
-- Mon, 23 Mar 2026 08:00:31 +0000 — [Your First Rotifer Gene in 5 Minutes](https://dev.to/rotiferdev/your-first-rotifer-gene-in-5-minutes-3mnk)
-- Mon, 23 Mar 2026 07:37:58 +0000 — [Beyond 'It Works on My Machine': Solving Docker Networking & DNS Bottlenecks](https://dev.to/ameer-pk/beyond-it-works-on-my-machine-solving-docker-networking-dns-bottlenecks-4f3m)
-- Mon, 23 Mar 2026 07:23:02 +0000 — [Tired of hand-editing Traefik YAML? This little tool makes route management way easier](https://dev.to/baboon/tired-of-hand-editing-traefik-yaml-this-little-tool-makes-route-management-way-easier-1do6)
-- 2026-03-23T06:58:28+00:00 — [chithi v0.0.100 - Self hosted end-to-end encrypted file/folder sharing service - Now with reverse file sharing support](https://www.reddit.com/r/selfhosted/comments/1s19rbq/chithi_v00100_self_hosted_endtoend_encrypted/)
-- 2026-03-22T23:02:24+00:00 — [Domain and security suggestions for shared family server](https://www.reddit.com/r/selfhosted/comments/1s106f5/domain_and_security_suggestions_for_shared_family/)
-- 2026-03-22T23:53:36+00:00 — [Self hosting secrets proxy for agents?](https://www.reddit.com/r/selfhosted/comments/1s11du0/self_hosting_secrets_proxy_for_agents/)
-- 2026-03-21T18:37:08+00:00 — [It's Not Friday Anymore - Roundup](https://www.reddit.com/r/selfhosted/comments/1rzz3dt/its_not_friday_anymore_roundup/)
-- 2026-03-22T23:10:48+00:00 — [Nextcloud works in Safari but Files won’t load in Brave , any ideas?](https://www.reddit.com/r/selfhosted/comments/1s10dj9/nextcloud_works_in_safari_but_files_wont_load_in/)
-- 2026-03-19T13:28:02+00:00 — [How do you keep track of which repos depend on which in a large org?](https://www.reddit.com/r/devops/comments/1ry0edd/how_do_you_keep_track_of_which_repos_depend_on/)
-- Sun, 22 Mar 2026 08:02:38 +0000 — [I Built a Graph-Based Tool Search Engine for LLM Agents — Here's What I Learned After 1068 Tools](https://dev.to/sonaiengine/i-built-a-graph-based-tool-search-engine-for-llm-agents-heres-what-i-learned-after-1068-tools-4fj4)
-- Sun, 22 Mar 2026 08:00:00 +0000 — [Snyk vs Semgrep: SCA Platform vs Custom SAST Rules in 2026](https://dev.to/rahulxsingh/snyk-vs-semgrep-sca-platform-vs-custom-sast-rules-in-2026-3047)
 <!-- NEWS END -->
