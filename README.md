@@ -2,11 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-01 08:52 UTC
+Last update: 2026-04-02 08:42 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 02 Apr 2026 08:22:39 +0000 — [Fleetfolio: Making Penetration Testing Accessible to Everyone](https://dev.to/reema_riyazkhan_aa44ab89/fleetfolio-making-penetration-testing-accessible-to-everyone-3576)
+- Thu, 02 Apr 2026 08:21:45 +0000 — [Health Checks That Actually Work: Liveness vs Readiness vs Startup Probes](https://dev.to/dylan_dumont_266378d98367/health-checks-that-actually-work-liveness-vs-readiness-vs-startup-probes-1bkp)
+- Thu, 02 Apr 2026 08:19:33 +0000 — [Forrester Wave CNAPP 2026 Deep Dive — Runtime-First Cloud Security and Open-Source CNAPP Stack Guide](https://dev.to/x4nent/forrester-wave-cnapp-2026-deep-dive-runtime-first-cloud-security-and-open-source-cnapp-stack-guide-21ho)
+- Thu, 02 Apr 2026 08:18:59 +0000 — [ما هو Microsoft VibeVoice؟ وكيفية استخدام نماذج الذكاء الاصطناعي الصوتية مفتوحة المصدر](https://dev.to/yusuf_khalidd/m-hw-microsoft-vibevoice-wkyfy-stkhdm-nmdhj-ldhk-lstny-lswty-mftwh-lmsdr-a1n)
+- Thu, 02 Apr 2026 08:18:11 +0000 — [5 n8n Automation Workflows That Save Me 10+ Hours Every Week](https://dev.to/_c53314221f3ba7d2574d/5-n8n-automation-workflows-that-save-me-10-hours-every-week-mid)
+- Thu, 02 Apr 2026 08:17:47 +0000 — [Building an AI-Powered Telegram Bot with Claude API and n8n: A Complete Guide](https://dev.to/_c53314221f3ba7d2574d/building-an-ai-powered-telegram-bot-with-claude-api-and-n8n-a-complete-guide-15ck)
+- 2026-04-01T20:23:33+00:00 — [Anyone combining self hosting with tools to clean up old data online](https://www.reddit.com/r/selfhosted/comments/1s9w9ex/anyone_combining_self_hosting_with_tools_to_clean/)
+- 2026-04-01T20:11:27+00:00 — [How minimal is your lab/server?](https://www.reddit.com/r/selfhosted/comments/1s9vx9o/how_minimal_is_your_labserver/)
+- 2026-04-01T14:01:22+00:00 — [Budget HomeLab 6 Month Update](https://www.reddit.com/r/selfhosted/comments/1s9lfwm/budget_homelab_6_month_update/)
+- 2026-04-02T02:17:01+00:00 — [How can I safely add Caddy, Element/Matrix, and Vaultwarden to my existing homelab setup?](https://www.reddit.com/r/selfhosted/comments/1sa4sy3/how_can_i_safely_add_caddy_elementmatrix_and/)
+- 2026-04-01T20:50:13+00:00 — [Securing Coolify with Tailscale - Feedback needed](https://www.reddit.com/r/selfhosted/comments/1s9wzv2/securing_coolify_with_tailscale_feedback_needed/)
+- 2026-04-01T20:40:27+00:00 — [Plex Server/Docker-Compose help required](https://www.reddit.com/r/selfhosted/comments/1s9wq8o/plex_serverdockercompose_help_required/)
+- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
+- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
+- 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
+- 2026-04-01T09:33:17+00:00 — [Docker save in a browser](https://www.reddit.com/r/devops/comments/1s9fp5x/docker_save_in_a_browser/)
+- 2026-03-31T11:54:45+00:00 — [Added GCP support to my cloud resource scanner - full rule list and looking for feedback](https://www.reddit.com/r/devops/comments/1s8laf6/added_gcp_support_to_my_cloud_resource_scanner/)
+- 2026-03-31T19:18:31+00:00 — [What's a good Kubernetes Ingress Architecture on Azure?](https://www.reddit.com/r/devops/comments/1s8x5db/whats_a_good_kubernetes_ingress_architecture_on/)
 - Wed, 01 Apr 2026 08:31:13 +0000 — [I Built a Python Tool to Check If AI Search Engines Can Find Your Website](https://dev.to/juan_camiloauriti_646918/i-built-a-python-tool-to-check-if-ai-search-engines-can-find-your-website-4c7a)
 - Wed, 01 Apr 2026 08:30:06 +0000 — [From AWS Key Leak to evnx: The Origin Story of a Developer's Safety Net](https://dev.to/ajitkumar/from-aws-key-leak-to-evnx-the-origin-story-of-a-developers-safety-net-4eh5)
 - 2026-04-01T02:50:24+00:00 — [PSA: Update OpenClaw to 2026.3.28 now — Critical privilege escalation and sandbox file read patched](https://www.reddit.com/r/selfhosted/comments/1s98e2k/psa_update_openclaw_to_2026328_now_critical/)
@@ -15,8 +33,6 @@ Last update: 2026-04-01 08:52 UTC
 - 2026-04-01T06:24:47+00:00 — [Uptime Mate - Uptime Kuma Apple Watch app got a big update](https://www.reddit.com/r/selfhosted/comments/1s9cju2/uptime_mate_uptime_kuma_apple_watch_app_got_a_big/)
 - 2026-03-31T20:04:18+00:00 — [What solution to use Cloudflare DNS (no proxy) while still hide the IP address for my homelab](https://www.reddit.com/r/selfhosted/comments/1s8ygc2/what_solution_to_use_cloudflare_dns_no_proxy/)
 - 2026-03-31T11:23:52+00:00 — [How to secure your HomeLab?](https://www.reddit.com/r/selfhosted/comments/1s8ko4p/how_to_secure_your_homelab/)
-- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
-- 2026-03-31T11:54:45+00:00 — [Added GCP support to my cloud resource scanner - full rule list and looking for feedback](https://www.reddit.com/r/devops/comments/1s8laf6/added_gcp_support_to_my_cloud_resource_scanner/)
 - 2026-03-30T12:42:59+00:00 — [What are your thought on Docker Deep Dive vs Learn Docker in a Month Worth of Lunches](https://www.reddit.com/r/devops/comments/1s7phdh/what_are_your_thought_on_docker_deep_dive_vs/)
 - 2026-03-29T13:00:51+00:00 — [I think I am pivoting to DevOps ? Could you please help me guide from experience ?](https://www.reddit.com/r/devops/comments/1s6uh62/i_think_i_am_pivoting_to_devops_could_you_please/)
 - 2026-03-29T03:12:11+00:00 — [1.5 YOE DevOps Engineer – 2.16 LPA to 10 LPA in 3 Months Possible?](https://www.reddit.com/r/devops/comments/1s6k58a/15_yoe_devops_engineer_216_lpa_to_10_lpa_in_3/)
@@ -91,20 +107,4 @@ Last update: 2026-04-01 08:52 UTC
 - 2026-03-26T02:09:50+00:00 — [Is it possible to self host an online retail website for free/low cost?](https://www.reddit.com/r/selfhosted/comments/1s3ut0m/is_it_possible_to_self_host_an_online_retail/)
 - 2026-03-25T11:08:39+00:00 — [Open source alternative to Gemini Enterprise that you can self host (PipesHub)](https://www.reddit.com/r/selfhosted/comments/1s37oba/open_source_alternative_to_gemini_enterprise_that/)
 - 2026-03-25T23:45:18+00:00 — [Persistent Issue with Cloudflared](https://www.reddit.com/r/selfhosted/comments/1s3rh17/persistent_issue_with_cloudflared/)
-- 2026-03-21T19:50:24+00:00 — [From 6 years MERN Full Stack to DevOps in 2026 (AI era) , just finished 1.5 month full-time tool grind, planning 10-15 projects. Real talk: what do I actually need to land a job?](https://www.reddit.com/r/devops/comments/1s00x6l/from_6_years_mern_full_stack_to_devops_in_2026_ai/)
-- Wed, 25 Mar 2026 08:24:44 +0000 — [How to Process Unstructured RFQs using OpenAI RAG and Node.js](https://dev.to/seafluxtechnologies/how-to-process-unstructured-rfqs-using-openai-rag-and-nodejs-1d5l)
-- Wed, 25 Mar 2026 08:22:35 +0000 — [YAML Validator Online: Lint and Format YAML Files](https://dev.to/_d7eb1c1703182e3ce1782/yaml-validator-online-lint-and-format-yaml-files-4kkf)
-- Wed, 25 Mar 2026 08:22:30 +0000 — [Best Online YAML Linter Tools in 2026](https://dev.to/_d7eb1c1703182e3ce1782/best-online-yaml-linter-tools-in-2026-7l7)
-- 2026-03-24T14:16:52+00:00 — [Komodo 🦎 Container manager 🦎 v2: Docker Swarm](https://www.reddit.com/r/selfhosted/comments/1s2f17m/komodo_container_manager_v2_docker_swarm/)
-- 2026-03-24T09:03:47+00:00 — [My Lifesaver: Use smart plug with server](https://www.reddit.com/r/selfhosted/comments/1s28l60/my_lifesaver_use_smart_plug_with_server/)
-- 2026-03-24T22:40:28+00:00 — [Google search feels like shopping mall with search bar duct-taped on (have I fixed it at my setup?)](https://www.reddit.com/r/selfhosted/comments/1s2sy9r/google_search_feels_like_shopping_mall_with/)
-- 2026-03-24T23:12:48+00:00 — [Headendarr - self-hosted IPTV/VOD management for Plex, Jellyfin, Kodi, and more](https://www.reddit.com/r/selfhosted/comments/1s2tsd2/headendarr_selfhosted_iptvvod_management_for_plex/)
-- 2026-03-24T16:46:44+00:00 — [not vibe coded: Assets - a free self-hosted net worth/FIRE tracker, March 2026 update](https://www.reddit.com/r/selfhosted/comments/1s2j6ol/not_vibe_coded_assets_a_free_selfhosted_net/)
-- 2026-03-24T20:14:23+00:00 — [Putting services in containers in preparation for migration.](https://www.reddit.com/r/selfhosted/comments/1s2p1k6/putting_services_in_containers_in_preparation_for/)
-- 2026-03-23T12:57:56+00:00 — [30% of your Kubernetes spend delivers zero value](https://www.reddit.com/r/devops/comments/1s1g4va/30_of_your_kubernetes_spend_delivers_zero_value/)
-- 2026-03-20T16:33:30+00:00 — [Replacing MinIO with RustFS via simple binary swap (Zero-data migration guide)](https://www.reddit.com/r/devops/comments/1rz148h/replacing_minio_with_rustfs_via_simple_binary/)
-- 2026-03-20T13:06:14+00:00 — [Chubo: An attempt at a Talos-like, API-driven OS for the Nomad/Consul/Vault stack](https://www.reddit.com/r/devops/comments/1ryvqo2/chubo_an_attempt_at_a_taloslike_apidriven_os_for/)
-- Tue, 24 Mar 2026 08:36:30 +0000 — [Como Usar APIs DigitalOcean: Guia do Desenvolvedor para Infraestrutura Cloud](https://dev.to/lucas_ferreira/como-usar-apis-digitalocean-guia-do-desenvolvedor-para-infraestrutura-cloud-gmo)
-- Tue, 24 Mar 2026 08:27:43 +0000 — [How to Install WordPress on Ubuntu 24.04 with Nginx](https://dev.to/sst21/how-to-install-wordpress-on-ubuntu-2404-with-nginx-4jam)
-- 2026-03-23T22:27:06+00:00 — [How many of you run a hardware firewall?](https://www.reddit.com/r/selfhosted/comments/1s1vrib/how_many_of_you_run_a_hardware_firewall/)
 <!-- NEWS END -->
