@@ -2,11 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-02 08:42 UTC
+Last update: 2026-04-03 08:39 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-04-02T19:38:20+00:00 — [FAKKU DMCAed LANraragi, one of the most popular open-sourced self-hosted manga/doujinshi reader because they deemed it's "managing downloaded pirated content" despite, much like plex and jellyfin, what users decide to put on it does not have anything to do with the self-hosted reader itself](https://www.reddit.com/r/selfhosted/comments/1sarf7l/fakku_dmcaed_lanraragi_one_of_the_most_popular/)
+- 2026-04-03T00:21:42+00:00 — [Oikos — a self-hosted family planner with tasks, shopping, meals, calendar sync, budget & notes. No cloud, no frameworks, no subscriptions. Docker + PWA.](https://www.reddit.com/r/selfhosted/comments/1sayhni/oikos_a_selfhosted_family_planner_with_tasks/)
+- 2026-04-02T16:05:54+00:00 — [Laugh at my pain and learn from my mistakes](https://www.reddit.com/r/selfhosted/comments/1salkni/laugh_at_my_pain_and_learn_from_my_mistakes/)
+- 2026-04-02T21:57:32+00:00 — [I think I finally did it](https://www.reddit.com/r/selfhosted/comments/1sav2p3/i_think_i_finally_did_it/)
+- 2026-04-03T06:54:58+00:00 — [Where To Start?](https://www.reddit.com/r/selfhosted/comments/1sb6b7j/where_to_start/)
+- 2026-04-02T19:45:10+00:00 — [Email Notifications](https://www.reddit.com/r/selfhosted/comments/1sarln3/email_notifications/)
+- 2026-04-03T08:17:59+00:00 — [ProxyForge - Solving IP Throttling](https://www.reddit.com/r/selfhosted/comments/1sb7nzk/proxyforge_solving_ip_throttling/)
+- 2026-04-03T08:11:25+00:00 — [A free, self-hosted OpenSource AI code review bot for Gitea](https://www.reddit.com/r/selfhosted/comments/1sb7k96/a_free_selfhosted_opensource_ai_code_review_bot/)
+- 2026-04-03T08:10:11+00:00 — [VoidLLM - self-hosted LLM gateway with RBAC, load balancing, and usage tracking](https://www.reddit.com/r/selfhosted/comments/1sb7jih/voidllm_selfhosted_llm_gateway_with_rbac_load/)
+- 2026-04-03T08:07:50+00:00 — [I built a tool that gives every GitHub PR its own preview environment on a single VPS](https://www.reddit.com/r/selfhosted/comments/1sb7i7i/i_built_a_tool_that_gives_every_github_pr_its_own/)
+- 2026-04-03T07:58:46+00:00 — [RSS feed and Reddit aggregator for Kindle](https://www.reddit.com/r/selfhosted/comments/1sb7cpq/rss_feed_and_reddit_aggregator_for_kindle/)
+- 2026-04-03T07:57:00+00:00 — [Using my M4 MacBook Pro as Jellyfin Server, How is Power Consumption? And can I multitask for general use?](https://www.reddit.com/r/selfhosted/comments/1sb7boz/using_my_m4_macbook_pro_as_jellyfin_server_how_is/)
+- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
+- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
+- 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
 - Thu, 02 Apr 2026 08:22:39 +0000 — [Fleetfolio: Making Penetration Testing Accessible to Everyone](https://dev.to/reema_riyazkhan_aa44ab89/fleetfolio-making-penetration-testing-accessible-to-everyone-3576)
 - Thu, 02 Apr 2026 08:21:45 +0000 — [Health Checks That Actually Work: Liveness vs Readiness vs Startup Probes](https://dev.to/dylan_dumont_266378d98367/health-checks-that-actually-work-liveness-vs-readiness-vs-startup-probes-1bkp)
 - Thu, 02 Apr 2026 08:19:33 +0000 — [Forrester Wave CNAPP 2026 Deep Dive — Runtime-First Cloud Security and Open-Source CNAPP Stack Guide](https://dev.to/x4nent/forrester-wave-cnapp-2026-deep-dive-runtime-first-cloud-security-and-open-source-cnapp-stack-guide-21ho)
@@ -19,9 +34,6 @@ Last update: 2026-04-02 08:42 UTC
 - 2026-04-02T02:17:01+00:00 — [How can I safely add Caddy, Element/Matrix, and Vaultwarden to my existing homelab setup?](https://www.reddit.com/r/selfhosted/comments/1sa4sy3/how_can_i_safely_add_caddy_elementmatrix_and/)
 - 2026-04-01T20:50:13+00:00 — [Securing Coolify with Tailscale - Feedback needed](https://www.reddit.com/r/selfhosted/comments/1s9wzv2/securing_coolify_with_tailscale_feedback_needed/)
 - 2026-04-01T20:40:27+00:00 — [Plex Server/Docker-Compose help required](https://www.reddit.com/r/selfhosted/comments/1s9wq8o/plex_serverdockercompose_help_required/)
-- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
-- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
-- 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
 - 2026-04-01T09:33:17+00:00 — [Docker save in a browser](https://www.reddit.com/r/devops/comments/1s9fp5x/docker_save_in_a_browser/)
 - 2026-03-31T11:54:45+00:00 — [Added GCP support to my cloud resource scanner - full rule list and looking for feedback](https://www.reddit.com/r/devops/comments/1s8laf6/added_gcp_support_to_my_cloud_resource_scanner/)
 - 2026-03-31T19:18:31+00:00 — [What's a good Kubernetes Ingress Architecture on Azure?](https://www.reddit.com/r/devops/comments/1s8x5db/whats_a_good_kubernetes_ingress_architecture_on/)
@@ -95,16 +107,4 @@ Last update: 2026-04-02 08:42 UTC
 - 2026-03-27T07:42:21+00:00 — [I’m building AXIOM to keep my dev environments strictly isolated and my $HOME clean.](https://www.reddit.com/r/selfhosted/comments/1s4xll2/im_building_axiom_to_keep_my_dev_environments/)
 - 2026-03-27T03:53:33+00:00 — [Will I get in trouble if I host a Jellyfin server publicly?](https://www.reddit.com/r/selfhosted/comments/1s4tjym/will_i_get_in_trouble_if_i_host_a_jellyfin_server/)
 - 2026-03-26T20:21:46+00:00 — [Hardware purchase advice](https://www.reddit.com/r/selfhosted/comments/1s4iq9m/hardware_purchase_advice/)
-- 2026-03-24T09:25:13+00:00 — [DevOps + AI. Where are we headed? Need honest insights from the community](https://www.reddit.com/r/devops/comments/1s28xen/devops_ai_where_are_we_headed_need_honest/)
-- 2026-03-25T10:43:07+00:00 — [2nd year CS Student looking for a reality check: Critique/Help my roadmap for DevOps/Cloud (AWS SAA, Terraform, CI/CD, and a Home Lab)](https://www.reddit.com/r/devops/comments/1s377go/2nd_year_cs_student_looking_for_a_reality_check/)
-- 2026-03-24T01:58:10+00:00 — [CI/CD ephemeral runner/agent caching](https://www.reddit.com/r/devops/comments/1s20w4p/cicd_ephemeral_runneragent_caching/)
-- 2026-03-23T00:01:49+00:00 — [Backend dev → DevOps: what skills to focus on for long term?](https://www.reddit.com/r/devops/comments/1s11kz4/backend_dev_devops_what_skills_to_focus_on_for/)
-- Thu, 26 Mar 2026 08:20:26 +0000 — [How I Built a Hallucination Detector for RAG Pipelines in Python](https://dev.to/devasish_banerjee_b55ceb1/how-i-built-a-hallucination-detector-for-rag-pipelines-in-python-5ahc)
-- Thu, 26 Mar 2026 08:13:25 +0000 — [My Plan Before Coding](https://dev.to/aikrooz/my-plan-before-coding-5cl2)
-- 2026-03-25T21:40:07+00:00 — [Finally Took The Dive, Now I'm Addicted](https://www.reddit.com/r/selfhosted/comments/1s3o9q3/finally_took_the_dive_now_im_addicted/)
-- 2026-03-26T08:10:53+00:00 — [My Experience with Porkbun and their Forced ID Verification](https://www.reddit.com/r/selfhosted/comments/1s41h9e/my_experience_with_porkbun_and_their_forced_id/)
-- 2026-03-25T13:42:30+00:00 — [TIL that Proxmox can provision Kubernetes Persistent Volumes](https://www.reddit.com/r/selfhosted/comments/1s3b3o6/til_that_proxmox_can_provision_kubernetes/)
-- 2026-03-26T02:09:50+00:00 — [Is it possible to self host an online retail website for free/low cost?](https://www.reddit.com/r/selfhosted/comments/1s3ut0m/is_it_possible_to_self_host_an_online_retail/)
-- 2026-03-25T11:08:39+00:00 — [Open source alternative to Gemini Enterprise that you can self host (PipesHub)](https://www.reddit.com/r/selfhosted/comments/1s37oba/open_source_alternative_to_gemini_enterprise_that/)
-- 2026-03-25T23:45:18+00:00 — [Persistent Issue with Cloudflared](https://www.reddit.com/r/selfhosted/comments/1s3rh17/persistent_issue_with_cloudflared/)
 <!-- NEWS END -->
