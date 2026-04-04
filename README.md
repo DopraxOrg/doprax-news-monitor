@@ -2,11 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-03 08:39 UTC
+Last update: 2026-04-04 08:27 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-04-03T15:22:24+00:00 — [I built Stirling-PDF but for images](https://www.reddit.com/r/selfhosted/comments/1sbgjxk/i_built_stirlingpdf_but_for_images/)
+- 2026-04-04T03:24:54+00:00 — [PolicyFS - open-source FUSE filesystem for self-hosted media storage](https://www.reddit.com/r/selfhosted/comments/1sbyetc/policyfs_opensource_fuse_filesystem_for/)
+- 2026-04-03T09:00:04+00:00 — [homepagectl - automatically generate homepage configs from running Docker containers](https://www.reddit.com/r/selfhosted/comments/1sb8cas/homepagectl_automatically_generate_homepage/)
+- 2026-04-03T13:40:08+00:00 — [Traefik Manager v0.8.0 - a self-hosted web UI for managing Traefik](https://www.reddit.com/r/selfhosted/comments/1sbdwtz/traefik_manager_v080_a_selfhosted_web_ui_for/)
+- 2026-04-03T09:04:08+00:00 — [The core practical knowledge of self-hosting (that works for me)](https://www.reddit.com/r/selfhosted/comments/1sb8etz/the_core_practical_knowledge_of_selfhosting_that/)
+- 2026-04-04T00:42:54+00:00 — [I built a 3D Docker dashboard with anomaly detection, crash diagnostics, and dependency impact analysis](https://www.reddit.com/r/selfhosted/comments/1sbuzdy/i_built_a_3d_docker_dashboard_with_anomaly/)
+- 2026-04-04T07:55:49+00:00 — [Self-hostable Nepali calendar API, Docker image included](https://www.reddit.com/r/selfhosted/comments/1sc3b0m/selfhostable_nepali_calendar_api_docker_image/)
+- 2026-04-04T06:31:09+00:00 — [Unofficial third party Vikunja client](https://www.reddit.com/r/selfhosted/comments/1sc1vu3/unofficial_third_party_vikunja_client/)
+- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
+- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
+- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
+- 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
 - 2026-04-02T19:38:20+00:00 — [FAKKU DMCAed LANraragi, one of the most popular open-sourced self-hosted manga/doujinshi reader because they deemed it's "managing downloaded pirated content" despite, much like plex and jellyfin, what users decide to put on it does not have anything to do with the self-hosted reader itself](https://www.reddit.com/r/selfhosted/comments/1sarf7l/fakku_dmcaed_lanraragi_one_of_the_most_popular/)
 - 2026-04-03T00:21:42+00:00 — [Oikos — a self-hosted family planner with tasks, shopping, meals, calendar sync, budget & notes. No cloud, no frameworks, no subscriptions. Docker + PWA.](https://www.reddit.com/r/selfhosted/comments/1sayhni/oikos_a_selfhosted_family_planner_with_tasks/)
 - 2026-04-02T16:05:54+00:00 — [Laugh at my pain and learn from my mistakes](https://www.reddit.com/r/selfhosted/comments/1salkni/laugh_at_my_pain_and_learn_from_my_mistakes/)
@@ -19,9 +31,6 @@ Last update: 2026-04-03 08:39 UTC
 - 2026-04-03T08:07:50+00:00 — [I built a tool that gives every GitHub PR its own preview environment on a single VPS](https://www.reddit.com/r/selfhosted/comments/1sb7i7i/i_built_a_tool_that_gives_every_github_pr_its_own/)
 - 2026-04-03T07:58:46+00:00 — [RSS feed and Reddit aggregator for Kindle](https://www.reddit.com/r/selfhosted/comments/1sb7cpq/rss_feed_and_reddit_aggregator_for_kindle/)
 - 2026-04-03T07:57:00+00:00 — [Using my M4 MacBook Pro as Jellyfin Server, How is Power Consumption? And can I multitask for general use?](https://www.reddit.com/r/selfhosted/comments/1sb7boz/using_my_m4_macbook_pro_as_jellyfin_server_how_is/)
-- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
-- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
-- 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
 - Thu, 02 Apr 2026 08:22:39 +0000 — [Fleetfolio: Making Penetration Testing Accessible to Everyone](https://dev.to/reema_riyazkhan_aa44ab89/fleetfolio-making-penetration-testing-accessible-to-everyone-3576)
 - Thu, 02 Apr 2026 08:21:45 +0000 — [Health Checks That Actually Work: Liveness vs Readiness vs Startup Probes](https://dev.to/dylan_dumont_266378d98367/health-checks-that-actually-work-liveness-vs-readiness-vs-startup-probes-1bkp)
 - Thu, 02 Apr 2026 08:19:33 +0000 — [Forrester Wave CNAPP 2026 Deep Dive — Runtime-First Cloud Security and Open-Source CNAPP Stack Guide](https://dev.to/x4nent/forrester-wave-cnapp-2026-deep-dive-runtime-first-cloud-security-and-open-source-cnapp-stack-guide-21ho)
@@ -98,13 +107,4 @@ Last update: 2026-04-03 08:39 UTC
 - Fri, 27 Mar 2026 08:01:32 +0000 — [How I reduced a Docker image from 1.12 GB to 131 MB (88% smaller)](https://dev.to/nadir_83ac7c548ca3c97d440/how-i-reduced-a-docker-image-from-112-gb-to-131-mb-88-smaller-952)
 - Fri, 27 Mar 2026 08:00:00 +0000 — [Semgrep Pricing in 2026: Open Source vs Team vs Enterprise Costs](https://dev.to/rahulxsingh/semgrep-pricing-in-2026-open-source-vs-team-vs-enterprise-costs-3dic)
 - 2026-03-27T02:26:45+00:00 — [Docker registry self-hosting](https://www.reddit.com/r/selfhosted/comments/1s4row4/docker_registry_selfhosting/)
-- 2026-03-26T12:31:55+00:00 — [Viseron 3.5.0 released - Self-hosted, local only NVR and Computer Vision software](https://www.reddit.com/r/selfhosted/comments/1s465cq/viseron_350_released_selfhosted_local_only_nvr/)
-- 2026-03-27T08:36:47+00:00 — [Running my entire SaaS on a single €15/month Hetzner VPS — here's the full stack](https://www.reddit.com/r/selfhosted/comments/1s4ygaz/running_my_entire_saas_on_a_single_15month/)
-- 2026-03-27T08:35:19+00:00 — [HiVoid – A QUIC-based proxy protocol with post-quantum cryptography](https://www.reddit.com/r/selfhosted/comments/1s4yfiw/hivoid_a_quicbased_proxy_protocol_with/)
-- 2026-03-27T08:33:50+00:00 — [I built a lightweight IMAP-to-Gmail Proxy to fix the slow/deprecated POP3 import (Docker-ready)](https://www.reddit.com/r/selfhosted/comments/1s4yeq6/i_built_a_lightweight_imaptogmail_proxy_to_fix/)
-- 2026-03-27T08:26:16+00:00 — [Apple TV client for Immich focused on continuous video playback](https://www.reddit.com/r/selfhosted/comments/1s4yah9/apple_tv_client_for_immich_focused_on_continuous/)
-- 2026-03-26T09:17:10+00:00 — [Soulbeet 0.5: Big update! Discovery playlists, Navidrome integration and more...](https://www.reddit.com/r/selfhosted/comments/1s42iiu/soulbeet_05_big_update_discovery_playlists/)
-- 2026-03-27T07:42:21+00:00 — [I’m building AXIOM to keep my dev environments strictly isolated and my $HOME clean.](https://www.reddit.com/r/selfhosted/comments/1s4xll2/im_building_axiom_to_keep_my_dev_environments/)
-- 2026-03-27T03:53:33+00:00 — [Will I get in trouble if I host a Jellyfin server publicly?](https://www.reddit.com/r/selfhosted/comments/1s4tjym/will_i_get_in_trouble_if_i_host_a_jellyfin_server/)
-- 2026-03-26T20:21:46+00:00 — [Hardware purchase advice](https://www.reddit.com/r/selfhosted/comments/1s4iq9m/hardware_purchase_advice/)
 <!-- NEWS END -->
