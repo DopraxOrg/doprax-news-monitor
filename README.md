@@ -2,12 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-04 08:27 UTC
+Last update: 2026-04-05 08:30 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 05 Apr 2026 08:17:51 +0000 — [Zero-Cost API Infrastructure: Running a DaaS Business on an Idle Server](https://dev.to/tagg_dev/zero-cost-api-infrastructure-running-a-daas-business-on-an-idle-server-fac)
+- Sun, 05 Apr 2026 08:11:16 +0000 — [The Real Ceiling in Claude Code's Memory System (It’s Not the 200-Line Cap)](https://dev.to/penfieldlabs/the-real-ceiling-in-claude-codes-memory-system-its-not-the-200-line-cap-2cbl)
+- Sun, 05 Apr 2026 08:08:32 +0000 — [XYRONIX](https://dev.to/mohitscodiclab/xyronix-4j4d)
+- 2026-04-04T14:48:31+00:00 — [I dockerized my entire self-hosted stack and packaged each piece as standalone compose files - here's what I learned](https://www.reddit.com/r/selfhosted/comments/1scb596/i_dockerized_my_entire_selfhosted_stack_and/)
+- 2026-04-04T16:34:07+00:00 — [Which vulnerability scanners do you use for your homelab?](https://www.reddit.com/r/selfhosted/comments/1scdsxr/which_vulnerability_scanners_do_you_use_for_your/)
 - 2026-04-03T15:22:24+00:00 — [I built Stirling-PDF but for images](https://www.reddit.com/r/selfhosted/comments/1sbgjxk/i_built_stirlingpdf_but_for_images/)
+- 2026-04-04T21:34:08+00:00 — [is there a self hosted version of tachiyomi?](https://www.reddit.com/r/selfhosted/comments/1sclf9j/is_there_a_self_hosted_version_of_tachiyomi/)
+- 2026-04-04T21:12:43+00:00 — [Hosting Live Steam for Parents | Daughters Dance Recital](https://www.reddit.com/r/selfhosted/comments/1sckweo/hosting_live_steam_for_parents_daughters_dance/)
+- 2026-04-04T15:07:32+00:00 — [What does your stack look like? Sharing my single-node k8s homelab and curious what you all are running](https://www.reddit.com/r/selfhosted/comments/1scbmjl/what_does_your_stack_look_like_sharing_my/)
+- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
+- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
+- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
+- 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
 - 2026-04-04T03:24:54+00:00 — [PolicyFS - open-source FUSE filesystem for self-hosted media storage](https://www.reddit.com/r/selfhosted/comments/1sbyetc/policyfs_opensource_fuse_filesystem_for/)
 - 2026-04-03T09:00:04+00:00 — [homepagectl - automatically generate homepage configs from running Docker containers](https://www.reddit.com/r/selfhosted/comments/1sb8cas/homepagectl_automatically_generate_homepage/)
 - 2026-04-03T13:40:08+00:00 — [Traefik Manager v0.8.0 - a self-hosted web UI for managing Traefik](https://www.reddit.com/r/selfhosted/comments/1sbdwtz/traefik_manager_v080_a_selfhosted_web_ui_for/)
@@ -15,10 +27,6 @@ Last update: 2026-04-04 08:27 UTC
 - 2026-04-04T00:42:54+00:00 — [I built a 3D Docker dashboard with anomaly detection, crash diagnostics, and dependency impact analysis](https://www.reddit.com/r/selfhosted/comments/1sbuzdy/i_built_a_3d_docker_dashboard_with_anomaly/)
 - 2026-04-04T07:55:49+00:00 — [Self-hostable Nepali calendar API, Docker image included](https://www.reddit.com/r/selfhosted/comments/1sc3b0m/selfhostable_nepali_calendar_api_docker_image/)
 - 2026-04-04T06:31:09+00:00 — [Unofficial third party Vikunja client](https://www.reddit.com/r/selfhosted/comments/1sc1vu3/unofficial_third_party_vikunja_client/)
-- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
-- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
-- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
-- 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
 - 2026-04-02T19:38:20+00:00 — [FAKKU DMCAed LANraragi, one of the most popular open-sourced self-hosted manga/doujinshi reader because they deemed it's "managing downloaded pirated content" despite, much like plex and jellyfin, what users decide to put on it does not have anything to do with the self-hosted reader itself](https://www.reddit.com/r/selfhosted/comments/1sarf7l/fakku_dmcaed_lanraragi_one_of_the_most_popular/)
 - 2026-04-03T00:21:42+00:00 — [Oikos — a self-hosted family planner with tasks, shopping, meals, calendar sync, budget & notes. No cloud, no frameworks, no subscriptions. Docker + PWA.](https://www.reddit.com/r/selfhosted/comments/1sayhni/oikos_a_selfhosted_family_planner_with_tasks/)
 - 2026-04-02T16:05:54+00:00 — [Laugh at my pain and learn from my mistakes](https://www.reddit.com/r/selfhosted/comments/1salkni/laugh_at_my_pain_and_learn_from_my_mistakes/)
@@ -99,12 +107,4 @@ Last update: 2026-04-04 08:27 UTC
 - 2026-03-28T00:55:47+00:00 — [Too Much?](https://www.reddit.com/r/selfhosted/comments/1s5m9tc/too_much/)
 - 2026-03-27T19:12:13+00:00 — [Tickle - Self Hosted Itch.io for games, 3d prints and more](https://www.reddit.com/r/selfhosted/comments/1s5dm8k/tickle_self_hosted_itchio_for_games_3d_prints_and/)
 - 2026-03-27T21:34:19+00:00 — [Make GIF clips from your Plex library](https://www.reddit.com/r/selfhosted/comments/1s5hdib/make_gif_clips_from_your_plex_library/)
-- 2026-03-27T09:16:18+00:00 — [S3 Storage Benchmark Round 3: MinIO vs SeaweedFS vs Garage vs HS5 vs RustFS](https://www.reddit.com/r/selfhosted/comments/1s4z2ux/s3_storage_benchmark_round_3_minio_vs_seaweedfs/)
-- 2026-03-28T07:33:59+00:00 — [How secure is it to host Vaultwarden over the Internet?](https://www.reddit.com/r/selfhosted/comments/1s5tzj7/how_secure_is_it_to_host_vaultwarden_over_the/)
-- 2026-03-28T02:42:24+00:00 — [CraftCommand : Hybrid Orchestrator for Java & Bedrock Infrastructure](https://www.reddit.com/r/selfhosted/comments/1s5ok8v/craftcommand_hybrid_orchestrator_for_java_bedrock/)
-- 2026-03-26T02:33:00+00:00 — [**eBay Cloud Platform Software Engineer interview — CodeSignal experience? (Engineering Systems Tools team, Toronto)**](https://www.reddit.com/r/devops/comments/1s3vbsg/ebay_cloud_platform_software_engineer_interview/)
-- Fri, 27 Mar 2026 08:02:33 +0000 — [Did You Know That LLMs Can Take Architecture as Code to the Next Level?](https://dev.to/alexey_pronsky_e3cd77bd7/did-you-know-that-llms-can-take-architecture-as-code-to-the-next-level-dc9)
-- Fri, 27 Mar 2026 08:01:32 +0000 — [How I reduced a Docker image from 1.12 GB to 131 MB (88% smaller)](https://dev.to/nadir_83ac7c548ca3c97d440/how-i-reduced-a-docker-image-from-112-gb-to-131-mb-88-smaller-952)
-- Fri, 27 Mar 2026 08:00:00 +0000 — [Semgrep Pricing in 2026: Open Source vs Team vs Enterprise Costs](https://dev.to/rahulxsingh/semgrep-pricing-in-2026-open-source-vs-team-vs-enterprise-costs-3dic)
-- 2026-03-27T02:26:45+00:00 — [Docker registry self-hosting](https://www.reddit.com/r/selfhosted/comments/1s4row4/docker_registry_selfhosting/)
 <!-- NEWS END -->
