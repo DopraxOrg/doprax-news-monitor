@@ -2,25 +2,33 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-06 08:59 UTC
+Last update: 2026-04-07 08:49 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 07 Apr 2026 08:32:48 +0000 — [Best MCP Gateway for 50% Token Cost Savings](https://dev.to/pranay_batta/best-mcp-gateway-for-50-token-cost-savings-4anm)
+- 2026-04-06T19:09:13+00:00 — [I thought my VPS was hardened, but it was compromised and I can't figure out how. Please help!](https://www.reddit.com/r/selfhosted/comments/1se8ara/i_thought_my_vps_was_hardened_but_it_was/)
+- 2026-04-06T21:18:02+00:00 — [NordVPN's Meshnet: is it truly free? If so, is there any certainty that I am not the product?](https://www.reddit.com/r/selfhosted/comments/1sebwzh/nordvpns_meshnet_is_it_truly_free_if_so_is_there/)
+- 2026-04-07T00:28:00+00:00 — [How to use Git for docker compose & documention?](https://www.reddit.com/r/selfhosted/comments/1segmt9/how_to_use_git_for_docker_compose_documention/)
+- 2026-04-07T04:59:06+00:00 — [Yet another "permissions issues" post...](https://www.reddit.com/r/selfhosted/comments/1semi9n/yet_another_permissions_issues_post/)
+- 2026-04-05T19:48:57+00:00 — [Nomad Mk3: Offline, Open-source, low-power self-hosted media server](https://www.reddit.com/r/selfhosted/comments/1sdd5ny/nomad_mk3_offline_opensource_lowpower_selfhosted/)
+- 2026-04-06T12:48:28+00:00 — [Its time for PDF](https://www.reddit.com/r/selfhosted/comments/1sdxx6p/its_time_for_pdf/)
+- 2026-04-07T04:10:31+00:00 — [ownCloud 11.0.0-prealpha adds PHP 8.3 support (per forum reports)](https://www.reddit.com/r/selfhosted/comments/1selkfo/owncloud_1100prealpha_adds_php_83_support_per/)
+- 2026-04-06T18:36:00+00:00 — [Trying to get better at DevOps by working on real problems](https://www.reddit.com/r/devops/comments/1se7dt2/trying_to_get_better_at_devops_by_working_on_real/)
+- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
+- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
+- 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
+- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
 - Mon, 06 Apr 2026 08:46:20 +0000 — [AI-Generated APIs Keep Shipping Wildcard CORS. Here's the Fix.](https://dev.to/chandan_karn_fb750e731394/ai-generated-apis-keep-shipping-wildcard-cors-heres-the-fix-4m6d)
 - Mon, 06 Apr 2026 08:43:38 +0000 — [Building a Production-Ready Composable AI Agent System with CopilotKit and LangGraph](https://dev.to/ayushgupta/building-a-production-ready-composable-ai-agent-system-with-copilotkit-and-langgraph-141f)
 - Mon, 06 Apr 2026 08:35:51 +0000 — [Semantic Search with TypeScript: Using embed() and embedMany() for Vector Search](https://dev.to/neurolink/semantic-search-with-typescript-using-embed-and-embedmany-for-vector-search-4g60)
-- 2026-04-05T19:48:57+00:00 — [Nomad Mk3: Offline, Open-source, low-power self-hosted media server](https://www.reddit.com/r/selfhosted/comments/1sdd5ny/nomad_mk3_offline_opensource_lowpower_selfhosted/)
 - 2026-04-05T21:43:40+00:00 — [Next DNS -> Pihole, adguard home, technitium?](https://www.reddit.com/r/selfhosted/comments/1sdg0vb/next_dns_pihole_adguard_home_technitium/)
 - 2026-04-05T21:47:19+00:00 — [Good recipe self hosted app](https://www.reddit.com/r/selfhosted/comments/1sdg413/good_recipe_self_hosted_app/)
 - 2026-04-06T05:46:23+00:00 — [Super Newbie Questions](https://www.reddit.com/r/selfhosted/comments/1sdqbxd/super_newbie_questions/)
 - 2026-04-05T19:11:51+00:00 — [Need tips and suggestions regarding my home setup for future use](https://www.reddit.com/r/selfhosted/comments/1sdc83b/need_tips_and_suggestions_regarding_my_home_setup/)
 - 2026-04-06T00:28:05+00:00 — [Needing help setting up Nextcloud with Starlink and Cloudflare tunnels](https://www.reddit.com/r/selfhosted/comments/1sdjto2/needing_help_setting_up_nextcloud_with_starlink/)
 - 2026-04-06T00:13:47+00:00 — [Simple, lightweight Google Drive + Office replacement?](https://www.reddit.com/r/selfhosted/comments/1sdjihe/simple_lightweight_google_drive_office_replacement/)
-- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
-- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
-- 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
-- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
 - Sun, 05 Apr 2026 08:17:51 +0000 — [Zero-Cost API Infrastructure: Running a DaaS Business on an Idle Server](https://dev.to/tagg_dev/zero-cost-api-infrastructure-running-a-daas-business-on-an-idle-server-fac)
 - Sun, 05 Apr 2026 08:11:16 +0000 — [The Real Ceiling in Claude Code's Memory System (It’s Not the 200-Line Cap)](https://dev.to/penfieldlabs/the-real-ceiling-in-claude-codes-memory-system-its-not-the-200-line-cap-2cbl)
 - Sun, 05 Apr 2026 08:08:32 +0000 — [XYRONIX](https://dev.to/mohitscodiclab/xyronix-4j4d)
@@ -99,12 +107,4 @@ Last update: 2026-04-06 08:59 UTC
 - 2026-03-29T21:38:17+00:00 — [Steps to take before setting up a backup software?](https://www.reddit.com/r/selfhosted/comments/1s77tkc/steps_to_take_before_setting_up_a_backup_software/)
 - 2026-03-29T13:24:22+00:00 — [Need security help](https://www.reddit.com/r/selfhosted/comments/1s6v0fa/need_security_help/)
 - 2026-03-29T16:52:40+00:00 — [Help with disc migration](https://www.reddit.com/r/selfhosted/comments/1s70azc/help_with_disc_migration/)
-- 2026-03-29T09:21:49+00:00 — [Most straight-forward way to set up SOCKS5 proxy and VPN via Docker?](https://www.reddit.com/r/selfhosted/comments/1s6qhjn/most_straightforward_way_to_set_up_socks5_proxy/)
-- Sun, 29 Mar 2026 08:08:36 +0000 — [n8n vs Zapier in 2026: Why I Switched (And Saved €2,000/Year)](https://dev.to/automatewithai/n8n-vs-zapier-in-2026-why-i-switched-and-saved-eu2000year-59l7)
-- Sun, 29 Mar 2026 07:46:25 +0000 — [Getting Started with Django: Setting Up Your First Django Project](https://dev.to/codexmingle_community/getting-started-with-django-setting-up-your-first-django-project-1mii)
-- Sun, 29 Mar 2026 07:35:33 +0000 — [Aadhaar: India's Digital Identity Revolution — A Technical Deep Dive into the World's Most Sophisticated Identity Platform](https://dev.to/blacklovertech/aadhaar-indias-digital-identity-revolution-a-technical-deep-dive-into-the-worlds-most-274k)
-- 2026-03-28T22:12:19+00:00 — [Security advice on a hosted domain](https://www.reddit.com/r/selfhosted/comments/1s6dmmc/security_advice_on_a_hosted_domain/)
-- 2026-03-29T07:34:44+00:00 — [macOS desktop app to manage GitHub Actions self-hosted runners — open source](https://www.reddit.com/r/selfhosted/comments/1s6ose7/macos_desktop_app_to_manage_github_actions/)
-- 2026-03-29T02:53:09+00:00 — [Gluetun: Qbittorrent error on download.](https://www.reddit.com/r/selfhosted/comments/1s6jrda/gluetun_qbittorrent_error_on_download/)
-- 2026-03-27T11:22:49+00:00 — [Free 750-page guide to self-hosting production apps - NO AI SLOP](https://www.reddit.com/r/selfhosted/comments/1s51bg1/free_750page_guide_to_selfhosting_production_apps/)
 <!-- NEWS END -->
