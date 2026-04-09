@@ -2,14 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-08 08:49 UTC
+Last update: 2026-04-09 08:57 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 09 Apr 2026 08:48:29 +0000 — [I Tested 5 CI/CD Providers for 2,640 Node.js Projects. Here’s What I Learned.](https://dev.to/paudang/i-tested-5-cicd-providers-for-2640-nodejs-projects-heres-what-i-learned-7c6)
+- Thu, 09 Apr 2026 08:48:18 +0000 — [From Regtest to Mainnet: Setting Up a Voltage Cloud LND Node](https://dev.to/susangithaigan/from-regtest-to-mainnet-setting-up-a-voltage-cloud-lnd-node-1mg1)
+- Thu, 09 Apr 2026 08:40:45 +0000 — [I Built a Web Security Lab and Watched SQL Injection Get Blocked in Real Time](https://dev.to/meowth/i-built-a-web-security-lab-and-watched-sql-injection-get-blocked-in-real-time-402j)
+- 2026-04-07T21:47:33+00:00 — [New Project Megathread - Week of 07 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1sf9t5k/new_project_megathread_week_of_07_apr_2026/)
+- 2026-04-08T22:51:53+00:00 — [Me as a self hosting newbie (got cooked by n8n w/ python)](https://www.reddit.com/r/selfhosted/comments/1sg87de/me_as_a_self_hosting_newbie_got_cooked_by_n8n_w/)
+- 2026-04-08T23:07:17+00:00 — [Accounting software? For sole proprietor LLC](https://www.reddit.com/r/selfhosted/comments/1sg8ksc/accounting_software_for_sole_proprietor_llc/)
+- 2026-04-09T06:57:59+00:00 — [How do you bring it all together in a user friendly way?](https://www.reddit.com/r/selfhosted/comments/1sgia5k/how_do_you_bring_it_all_together_in_a_user/)
+- 2026-04-08T21:03:51+00:00 — [Best practice, running apps on same or different VMs](https://www.reddit.com/r/selfhosted/comments/1sg5hia/best_practice_running_apps_on_same_or_different/)
+- 2026-04-08T16:10:37+00:00 — [Getting Tailscale and Mullvad to work together.](https://www.reddit.com/r/selfhosted/comments/1sfxbe1/getting_tailscale_and_mullvad_to_work_together/)
+- 2026-04-06T18:36:00+00:00 — [Trying to get better at DevOps by working on real problems](https://www.reddit.com/r/devops/comments/1se7dt2/trying_to_get_better_at_devops_by_working_on_real/)
+- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
+- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
+- Wed, 08 Apr 2026 21:50:41 +0000 — [WireGuard VPN developer can’t ship software updates after Microsoft locks account](https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/)
 - Wed, 08 Apr 2026 08:21:13 +0000 — [K8S Admins' Top 5 Tasks: Navigating Kubernetes Complexity in](https://dev.to/pratik_kasbe/k8s-admins-top-5-tasks-navigating-kubernetes-complexity-in-399e)
 - Wed, 08 Apr 2026 08:15:59 +0000 — [I Renamed My Open-Source Project and Doubled Its Discoverability — Here's Why "CliGate" Replaced "ProxyPool Hub"](https://dev.to/yiyaoai/i-renamed-my-open-source-project-and-doubled-its-discoverability-heres-why-cligate-replaced-16pi)
-- 2026-04-07T21:47:33+00:00 — [New Project Megathread - Week of 07 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1sf9t5k/new_project_megathread_week_of_07_apr_2026/)
 - 2026-04-07T16:45:27+00:00 — [What other self-hosting and home network related subreddits and/or related YouTube channels do you follow? Looking to expand my horizons a bit and learn more along the way.](https://www.reddit.com/r/selfhosted/comments/1sf1f6h/what_other_selfhosting_and_home_network_related/)
 - 2026-04-08T07:05:45+00:00 — [Three-tier fallback + local vector indexes for YouTube ingestion; tradeoffs I hit](https://www.reddit.com/r/selfhosted/comments/1sflmu3/threetier_fallback_local_vector_indexes_for/)
 - 2026-04-06T19:09:13+00:00 — [I thought my VPS was hardened, but it was compromised and I can't figure out how. Please help!](https://www.reddit.com/r/selfhosted/comments/1se8ara/i_thought_my_vps_was_hardened_but_it_was/)
@@ -24,9 +36,6 @@ Last update: 2026-04-08 08:49 UTC
 - 2026-04-07T20:58:35+00:00 — [If you’re managing OpenTelemetry configs, I have a question for you](https://www.reddit.com/r/selfhosted/comments/1sf8ik5/if_youre_managing_opentelemetry_configs_i_have_a/)
 - 2026-04-07T00:28:00+00:00 — [How to use Git for docker compose & documention?](https://www.reddit.com/r/selfhosted/comments/1segmt9/how_to_use_git_for_docker_compose_documention/)
 - 2026-04-07T17:50:43+00:00 — [Can you have NPM proxy to its own WebUI for SSL?](https://www.reddit.com/r/selfhosted/comments/1sf3bxo/can_you_have_npm_proxy_to_its_own_webui_for_ssl/)
-- 2026-04-06T18:36:00+00:00 — [Trying to get better at DevOps by working on real problems](https://www.reddit.com/r/devops/comments/1se7dt2/trying_to_get_better_at_devops_by_working_on_real/)
-- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
-- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
 - 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
 - 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
 - Tue, 07 Apr 2026 08:32:48 +0000 — [Best MCP Gateway for 50% Token Cost Savings](https://dev.to/pranay_batta/best-mcp-gateway-for-50-token-cost-savings-4anm)
@@ -98,13 +107,4 @@ Last update: 2026-04-08 08:49 UTC
 - 2026-03-29T13:00:51+00:00 — [I think I am pivoting to DevOps ? Could you please help me guide from experience ?](https://www.reddit.com/r/devops/comments/1s6uh62/i_think_i_am_pivoting_to_devops_could_you_please/)
 - 2026-03-29T03:12:11+00:00 — [1.5 YOE DevOps Engineer – 2.16 LPA to 10 LPA in 3 Months Possible?](https://www.reddit.com/r/devops/comments/1s6k58a/15_yoe_devops_engineer_216_lpa_to_10_lpa_in_3/)
 - 2026-03-27T15:04:11+00:00 — [I'm building an open source list of useful package management tools, what should be included?](https://www.reddit.com/r/devops/comments/1s56o4a/im_building_an_open_source_list_of_useful_package/)
-- Tue, 31 Mar 2026 08:15:57 +0000 — [End-to-end TLS for public-domain tunnels, without trusting the relay](https://dev.to/gosunuts/end-to-end-tls-for-public-domain-tunnels-without-trusting-the-relay-4452)
-- Tue, 31 Mar 2026 08:07:54 +0000 — [Running Kubernetes in Docker (KIND) Locally While Your Cluster Lives in Google Cloud Shell](https://dev.to/olymahmud/running-kubernetes-in-docker-kind-locally-while-your-cluster-lives-in-google-cloud-shell-4nia)
-- 2026-03-30T20:23:30+00:00 — [Lightwhale 3.0.0 released](https://www.reddit.com/r/selfhosted/comments/1s826q5/lightwhale_300_released/)
-- 2026-03-30T19:28:07+00:00 — [Super Productivity v18 - automations, zen theme, better mobile, and more reliable sync](https://www.reddit.com/r/selfhosted/comments/1s80n15/super_productivity_v18_automations_zen_theme/)
-- 2026-03-31T07:33:34+00:00 — [Update: F1ReplayTiming refactored to unified architecture (no more backend/front end setup headaches)](https://www.reddit.com/r/selfhosted/comments/1s8gqnt/update_f1replaytiming_refactored_to_unified/)
-- 2026-03-31T07:36:17+00:00 — [Moving away from Google Photos](https://www.reddit.com/r/selfhosted/comments/1s8gs7o/moving_away_from_google_photos/)
-- 2026-03-31T08:04:13+00:00 — [What should i do more with my home server ?](https://www.reddit.com/r/selfhosted/comments/1s8h86h/what_should_i_do_more_with_my_home_server/)
-- 2026-03-30T22:14:31+00:00 — [Overwhelmed with options, how to decide the stack correctly?](https://www.reddit.com/r/selfhosted/comments/1s854yz/overwhelmed_with_options_how_to_decide_the_stack/)
-- 2026-03-31T08:41:29+00:00 — [Has anyone Tips on selfhosting AI Blockers?](https://www.reddit.com/r/selfhosted/comments/1s8hti9/has_anyone_tips_on_selfhosting_ai_blockers/)
 <!-- NEWS END -->
