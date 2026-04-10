@@ -2,23 +2,35 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-09 08:57 UTC
+Last update: 2026-04-10 08:57 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-04-09T22:01:15+00:00 — [New Project Megathread - Week of 09 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1sh3rjs/new_project_megathread_week_of_09_apr_2026/)
+- 2026-04-09T17:16:05+00:00 — [After my last post blew up, I audited my Docker security. It was worse than I thought.](https://www.reddit.com/r/selfhosted/comments/1sgvwep/after_my_last_post_blew_up_i_audited_my_docker/)
+- 2026-04-08T22:51:53+00:00 — [Me as a self hosting newbie (got cooked by n8n w/ python)](https://www.reddit.com/r/selfhosted/comments/1sg87de/me_as_a_self_hosting_newbie_got_cooked_by_n8n_w/)
+- 2026-04-10T05:12:44+00:00 — [Security Hardening - Host, Docker, Network](https://www.reddit.com/r/selfhosted/comments/1shd8y5/security_hardening_host_docker_network/)
+- 2026-04-09T10:01:37+00:00 — [My journey in the last 6 months...](https://www.reddit.com/r/selfhosted/comments/1sglbk1/my_journey_in_the_last_6_months/)
+- 2026-04-09T23:26:19+00:00 — [Manage Docker container updates and their respective compose files simultaneously](https://www.reddit.com/r/selfhosted/comments/1sh5uki/manage_docker_container_updates_and_their/)
+- 2026-04-09T17:38:03+00:00 — [Self hosting music library using navidrome](https://www.reddit.com/r/selfhosted/comments/1sgwj3r/self_hosting_music_library_using_navidrome/)
+- 2026-04-10T08:00:21+00:00 — [Invenicum: A modern, self-hostable collection and inventory manager for collectors who care about their data (Flutter + Node.js)](https://www.reddit.com/r/selfhosted/comments/1shg5ng/invenicum_a_modern_selfhostable_collection_and/)
+- 2026-04-09T14:37:35+00:00 — [YTPTube: v2.x major frontend update](https://www.reddit.com/r/selfhosted/comments/1sgrgah/ytptube_v2x_major_frontend_update/)
+- 2026-04-10T07:19:16+00:00 — [Selfhosting PDF/DOCX/PPT/... to Markdown service](https://www.reddit.com/r/selfhosted/comments/1shfgw0/selfhosting_pdfdocxppt_to_markdown_service/)
+- 2026-04-10T06:44:34+00:00 — [Help with Geo-blocking Plugin](https://www.reddit.com/r/selfhosted/comments/1shev4f/help_with_geoblocking_plugin/)
+- 2026-04-09T21:51:34+00:00 — [How do I set up the stack I previously had in Docker with k3s?](https://www.reddit.com/r/selfhosted/comments/1sh3iqg/how_do_i_set_up_the_stack_i_previously_had_in/)
+- 2026-04-06T18:36:00+00:00 — [Trying to get better at DevOps by working on real problems](https://www.reddit.com/r/devops/comments/1se7dt2/trying_to_get_better_at_devops_by_working_on_real/)
+- 2026-04-05T07:01:13+00:00 — [Hey, could anybody help with materials and roadmap for becoming strong DevOps?](https://www.reddit.com/r/devops/comments/1scwwp8/hey_could_anybody_help_with_materials_and_roadmap/)
+- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
+- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
 - Thu, 09 Apr 2026 08:48:29 +0000 — [I Tested 5 CI/CD Providers for 2,640 Node.js Projects. Here’s What I Learned.](https://dev.to/paudang/i-tested-5-cicd-providers-for-2640-nodejs-projects-heres-what-i-learned-7c6)
 - Thu, 09 Apr 2026 08:48:18 +0000 — [From Regtest to Mainnet: Setting Up a Voltage Cloud LND Node](https://dev.to/susangithaigan/from-regtest-to-mainnet-setting-up-a-voltage-cloud-lnd-node-1mg1)
 - Thu, 09 Apr 2026 08:40:45 +0000 — [I Built a Web Security Lab and Watched SQL Injection Get Blocked in Real Time](https://dev.to/meowth/i-built-a-web-security-lab-and-watched-sql-injection-get-blocked-in-real-time-402j)
 - 2026-04-07T21:47:33+00:00 — [New Project Megathread - Week of 07 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1sf9t5k/new_project_megathread_week_of_07_apr_2026/)
-- 2026-04-08T22:51:53+00:00 — [Me as a self hosting newbie (got cooked by n8n w/ python)](https://www.reddit.com/r/selfhosted/comments/1sg87de/me_as_a_self_hosting_newbie_got_cooked_by_n8n_w/)
 - 2026-04-08T23:07:17+00:00 — [Accounting software? For sole proprietor LLC](https://www.reddit.com/r/selfhosted/comments/1sg8ksc/accounting_software_for_sole_proprietor_llc/)
 - 2026-04-09T06:57:59+00:00 — [How do you bring it all together in a user friendly way?](https://www.reddit.com/r/selfhosted/comments/1sgia5k/how_do_you_bring_it_all_together_in_a_user/)
 - 2026-04-08T21:03:51+00:00 — [Best practice, running apps on same or different VMs](https://www.reddit.com/r/selfhosted/comments/1sg5hia/best_practice_running_apps_on_same_or_different/)
 - 2026-04-08T16:10:37+00:00 — [Getting Tailscale and Mullvad to work together.](https://www.reddit.com/r/selfhosted/comments/1sfxbe1/getting_tailscale_and_mullvad_to_work_together/)
-- 2026-04-06T18:36:00+00:00 — [Trying to get better at DevOps by working on real problems](https://www.reddit.com/r/devops/comments/1se7dt2/trying_to_get_better_at_devops_by_working_on_real/)
-- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
-- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
 - Wed, 08 Apr 2026 21:50:41 +0000 — [WireGuard VPN developer can’t ship software updates after Microsoft locks account](https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/)
 - Wed, 08 Apr 2026 08:21:13 +0000 — [K8S Admins' Top 5 Tasks: Navigating Kubernetes Complexity in](https://dev.to/pratik_kasbe/k8s-admins-top-5-tasks-navigating-kubernetes-complexity-in-399e)
 - Wed, 08 Apr 2026 08:15:59 +0000 — [I Renamed My Open-Source Project and Doubled Its Discoverability — Here's Why "CliGate" Replaced "ProxyPool Hub"](https://dev.to/yiyaoai/i-renamed-my-open-source-project-and-doubled-its-discoverability-heres-why-cligate-replaced-16pi)
@@ -95,16 +107,4 @@ Last update: 2026-04-09 08:57 UTC
 - 2026-04-01T09:33:17+00:00 — [Docker save in a browser](https://www.reddit.com/r/devops/comments/1s9fp5x/docker_save_in_a_browser/)
 - 2026-03-31T11:54:45+00:00 — [Added GCP support to my cloud resource scanner - full rule list and looking for feedback](https://www.reddit.com/r/devops/comments/1s8laf6/added_gcp_support_to_my_cloud_resource_scanner/)
 - 2026-03-31T19:18:31+00:00 — [What's a good Kubernetes Ingress Architecture on Azure?](https://www.reddit.com/r/devops/comments/1s8x5db/whats_a_good_kubernetes_ingress_architecture_on/)
-- Wed, 01 Apr 2026 08:31:13 +0000 — [I Built a Python Tool to Check If AI Search Engines Can Find Your Website](https://dev.to/juan_camiloauriti_646918/i-built-a-python-tool-to-check-if-ai-search-engines-can-find-your-website-4c7a)
-- Wed, 01 Apr 2026 08:30:06 +0000 — [From AWS Key Leak to evnx: The Origin Story of a Developer's Safety Net](https://dev.to/ajitkumar/from-aws-key-leak-to-evnx-the-origin-story-of-a-developers-safety-net-4eh5)
-- 2026-04-01T02:50:24+00:00 — [PSA: Update OpenClaw to 2026.3.28 now — Critical privilege escalation and sandbox file read patched](https://www.reddit.com/r/selfhosted/comments/1s98e2k/psa_update_openclaw_to_2026328_now_critical/)
-- 2026-03-31T08:41:15+00:00 — [How to make your own VPN to avoid the UK government's Orwellian future](https://www.reddit.com/r/selfhosted/comments/1s8htdf/how_to_make_your_own_vpn_to_avoid_the_uk/)
-- 2026-03-31T13:28:35+00:00 — [Octelium v0.29 - A Modern, Self-Hosted, FOSS Unified Alternative to Teleport, ngrok, Tailscale, Cloudflare Zero Trust/Access/Tunnel and remote access VPNs, now with Web Console for Management and Real-Time Monitoring, SIEM, DNS/TLS Management, SCIM, Encryption at Rest.](https://www.reddit.com/r/selfhosted/comments/1s8ngbf/octelium_v029_a_modern_selfhosted_foss_unified/)
-- 2026-04-01T06:24:47+00:00 — [Uptime Mate - Uptime Kuma Apple Watch app got a big update](https://www.reddit.com/r/selfhosted/comments/1s9cju2/uptime_mate_uptime_kuma_apple_watch_app_got_a_big/)
-- 2026-03-31T20:04:18+00:00 — [What solution to use Cloudflare DNS (no proxy) while still hide the IP address for my homelab](https://www.reddit.com/r/selfhosted/comments/1s8ygc2/what_solution_to_use_cloudflare_dns_no_proxy/)
-- 2026-03-31T11:23:52+00:00 — [How to secure your HomeLab?](https://www.reddit.com/r/selfhosted/comments/1s8ko4p/how_to_secure_your_homelab/)
-- 2026-03-30T12:42:59+00:00 — [What are your thought on Docker Deep Dive vs Learn Docker in a Month Worth of Lunches](https://www.reddit.com/r/devops/comments/1s7phdh/what_are_your_thought_on_docker_deep_dive_vs/)
-- 2026-03-29T13:00:51+00:00 — [I think I am pivoting to DevOps ? Could you please help me guide from experience ?](https://www.reddit.com/r/devops/comments/1s6uh62/i_think_i_am_pivoting_to_devops_could_you_please/)
-- 2026-03-29T03:12:11+00:00 — [1.5 YOE DevOps Engineer – 2.16 LPA to 10 LPA in 3 Months Possible?](https://www.reddit.com/r/devops/comments/1s6k58a/15_yoe_devops_engineer_216_lpa_to_10_lpa_in_3/)
-- 2026-03-27T15:04:11+00:00 — [I'm building an open source list of useful package management tools, what should be included?](https://www.reddit.com/r/devops/comments/1s56o4a/im_building_an_open_source_list_of_useful_package/)
 <!-- NEWS END -->
