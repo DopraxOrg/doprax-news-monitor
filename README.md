@@ -2,11 +2,13 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-10 08:57 UTC
+Last update: 2026-04-11 08:29 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 10 Apr 2026 15:49:52 +0000 — [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
+- Sat, 11 Apr 2026 08:06:05 +0000 — [From 2 Hours of Research to a Script in 10 Minutes: Building a Custom OpenClaw Skill for a Content Creator](https://dev.to/benutting/from-2-hours-of-research-to-a-script-in-10-minutes-building-a-custom-openclaw-skill-for-a-content-25p8)
 - 2026-04-09T22:01:15+00:00 — [New Project Megathread - Week of 09 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1sh3rjs/new_project_megathread_week_of_09_apr_2026/)
 - 2026-04-09T17:16:05+00:00 — [After my last post blew up, I audited my Docker security. It was worse than I thought.](https://www.reddit.com/r/selfhosted/comments/1sgvwep/after_my_last_post_blew_up_i_audited_my_docker/)
 - 2026-04-08T22:51:53+00:00 — [Me as a self hosting newbie (got cooked by n8n w/ python)](https://www.reddit.com/r/selfhosted/comments/1sg87de/me_as_a_self_hosting_newbie_got_cooked_by_n8n_w/)
@@ -105,6 +107,4 @@ Last update: 2026-04-10 08:57 UTC
 - 2026-04-01T20:50:13+00:00 — [Securing Coolify with Tailscale - Feedback needed](https://www.reddit.com/r/selfhosted/comments/1s9wzv2/securing_coolify_with_tailscale_feedback_needed/)
 - 2026-04-01T20:40:27+00:00 — [Plex Server/Docker-Compose help required](https://www.reddit.com/r/selfhosted/comments/1s9wq8o/plex_serverdockercompose_help_required/)
 - 2026-04-01T09:33:17+00:00 — [Docker save in a browser](https://www.reddit.com/r/devops/comments/1s9fp5x/docker_save_in_a_browser/)
-- 2026-03-31T11:54:45+00:00 — [Added GCP support to my cloud resource scanner - full rule list and looking for feedback](https://www.reddit.com/r/devops/comments/1s8laf6/added_gcp_support_to_my_cloud_resource_scanner/)
-- 2026-03-31T19:18:31+00:00 — [What's a good Kubernetes Ingress Architecture on Azure?](https://www.reddit.com/r/devops/comments/1s8x5db/whats_a_good_kubernetes_ingress_architecture_on/)
 <!-- NEWS END -->
