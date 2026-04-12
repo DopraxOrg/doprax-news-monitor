@@ -2,14 +2,33 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-11 08:29 UTC
+Last update: 2026-04-12 08:35 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 12 Apr 2026 08:24:04 +0000 — [Roslyn-Powered C# Analysis, Real NuGet DLL Reflection, and Safe Live File Editing for Claude — Privately, On Your Machine via MCP](https://dev.to/prashant_patil_9e62d3fa8a/roslyn-powered-c-analysis-real-nuget-dll-reflection-and-safe-live-file-editing-for-claude--3g48)
+- Sun, 12 Apr 2026 08:01:36 +0000 — [How to Set Up SSO Authentication in Your App's Admin Panel](https://dev.to/soldatov-ss/how-to-set-up-sso-authentication-in-your-apps-admin-panel-36k3)
+- Sun, 12 Apr 2026 07:52:39 +0000 — [JSON vs JSONB in PostgreSQL: I tested 1M rows to find ou](https://dev.to/ineron/json-vs-jsonb-in-postgresql-i-tested-1m-rows-to-find-ou-3cdj)
+- 2026-04-09T22:01:15+00:00 — [New Project Megathread - Week of 09 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1sh3rjs/new_project_megathread_week_of_09_apr_2026/)
+- 2026-04-11T20:16:23+00:00 — [Built a homelab from old, forgotten hardware during recovery. This is where it ended up (4–5 months later)](https://www.reddit.com/r/selfhosted/comments/1sitp0y/built_a_homelab_from_old_forgotten_hardware/)
+- 2026-04-11T09:18:22+00:00 — [Borg UI just hit 1,000+ stars and 2.0 is here - Web interface for BorgBackup](https://www.reddit.com/r/selfhosted/comments/1sie9qy/borg_ui_just_hit_1000_stars_and_20_is_here_web/)
+- 2026-04-11T06:34:19+00:00 — [tududi v1.0.0 is out! - your calm, open system for life and work](https://www.reddit.com/r/selfhosted/comments/1sibhqs/tududi_v100_is_out_your_calm_open_system_for_life/)
+- 2026-04-11T16:44:58+00:00 — [Server died. Rebuild with Docker again or switch to Proxmox?](https://www.reddit.com/r/selfhosted/comments/1sio2nr/server_died_rebuild_with_docker_again_or_switch/)
+- 2026-04-11T17:40:17+00:00 — [High memory usage Jellyfin](https://www.reddit.com/r/selfhosted/comments/1sipjy6/high_memory_usage_jellyfin/)
+- 2026-04-12T03:33:45+00:00 — [Intel Battlemage Docker Images - Frigate & FileFlows](https://www.reddit.com/r/selfhosted/comments/1sj3h5j/intel_battlemage_docker_images_frigate_fileflows/)
+- 2026-04-11T23:30:38+00:00 — [Upgrading from a Raspberry Pi 4 to an Optiplex: looking for advice](https://www.reddit.com/r/selfhosted/comments/1siyctk/upgrading_from_a_raspberry_pi_4_to_an_optiplex/)
+- 2026-04-11T04:29:44+00:00 — [Experience with self hosting 2026](https://www.reddit.com/r/selfhosted/comments/1si97ad/experience_with_self_hosting_2026/)
+- 2026-04-11T00:33:09+00:00 — [Intelligent Music Discovery & Automation Platform](https://www.reddit.com/r/selfhosted/comments/1si47o7/intelligent_music_discovery_automation_platform/)
+- 2026-04-11T15:57:55+00:00 — [Best way to expose services.](https://www.reddit.com/r/selfhosted/comments/1simu3h/best_way_to_expose_services/)
+- 2026-04-10T14:30:56+00:00 — [Stuck in a company with no Git workflow, no PRs, and resistance to change😭](https://www.reddit.com/r/devops/comments/1sho7g4/stuck_in_a_company_with_no_git_workflow_no_prs/)
+- 2026-04-10T18:59:44+00:00 — [FAANG nerds who jumped to SRE](https://www.reddit.com/r/devops/comments/1shvsag/faang_nerds_who_jumped_to_sre/)
+- 2026-04-06T18:36:00+00:00 — [Trying to get better at DevOps by working on real problems](https://www.reddit.com/r/devops/comments/1se7dt2/trying_to_get_better_at_devops_by_working_on_real/)
+- 2026-04-05T07:01:13+00:00 — [Hey, could anybody help with materials and roadmap for becoming strong DevOps?](https://www.reddit.com/r/devops/comments/1scwwp8/hey_could_anybody_help_with_materials_and_roadmap/)
+- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
+- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
 - Fri, 10 Apr 2026 15:49:52 +0000 — [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html)
 - Sat, 11 Apr 2026 08:06:05 +0000 — [From 2 Hours of Research to a Script in 10 Minutes: Building a Custom OpenClaw Skill for a Content Creator](https://dev.to/benutting/from-2-hours-of-research-to-a-script-in-10-minutes-building-a-custom-openclaw-skill-for-a-content-25p8)
-- 2026-04-09T22:01:15+00:00 — [New Project Megathread - Week of 09 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1sh3rjs/new_project_megathread_week_of_09_apr_2026/)
 - 2026-04-09T17:16:05+00:00 — [After my last post blew up, I audited my Docker security. It was worse than I thought.](https://www.reddit.com/r/selfhosted/comments/1sgvwep/after_my_last_post_blew_up_i_audited_my_docker/)
 - 2026-04-08T22:51:53+00:00 — [Me as a self hosting newbie (got cooked by n8n w/ python)](https://www.reddit.com/r/selfhosted/comments/1sg87de/me_as_a_self_hosting_newbie_got_cooked_by_n8n_w/)
 - 2026-04-10T05:12:44+00:00 — [Security Hardening - Host, Docker, Network](https://www.reddit.com/r/selfhosted/comments/1shd8y5/security_hardening_host_docker_network/)
@@ -21,10 +40,6 @@ Last update: 2026-04-11 08:29 UTC
 - 2026-04-10T07:19:16+00:00 — [Selfhosting PDF/DOCX/PPT/... to Markdown service](https://www.reddit.com/r/selfhosted/comments/1shfgw0/selfhosting_pdfdocxppt_to_markdown_service/)
 - 2026-04-10T06:44:34+00:00 — [Help with Geo-blocking Plugin](https://www.reddit.com/r/selfhosted/comments/1shev4f/help_with_geoblocking_plugin/)
 - 2026-04-09T21:51:34+00:00 — [How do I set up the stack I previously had in Docker with k3s?](https://www.reddit.com/r/selfhosted/comments/1sh3iqg/how_do_i_set_up_the_stack_i_previously_had_in/)
-- 2026-04-06T18:36:00+00:00 — [Trying to get better at DevOps by working on real problems](https://www.reddit.com/r/devops/comments/1se7dt2/trying_to_get_better_at_devops_by_working_on_real/)
-- 2026-04-05T07:01:13+00:00 — [Hey, could anybody help with materials and roadmap for becoming strong DevOps?](https://www.reddit.com/r/devops/comments/1scwwp8/hey_could_anybody_help_with_materials_and_roadmap/)
-- 2026-04-04T01:56:34+00:00 — [Are certs still wort it anymore in the job market??](https://www.reddit.com/r/devops/comments/1sbwkn7/are_certs_still_wort_it_anymore_in_the_job_market/)
-- 2026-04-02T06:58:16+00:00 — [your CI/CD pipeline probably ran malware on march 31st between 00:21 and 03:15 UTC. here's how to check.](https://www.reddit.com/r/devops/comments/1saa69w/your_cicd_pipeline_probably_ran_malware_on_march/)
 - Thu, 09 Apr 2026 08:48:29 +0000 — [I Tested 5 CI/CD Providers for 2,640 Node.js Projects. Here’s What I Learned.](https://dev.to/paudang/i-tested-5-cicd-providers-for-2640-nodejs-projects-heres-what-i-learned-7c6)
 - Thu, 09 Apr 2026 08:48:18 +0000 — [From Regtest to Mainnet: Setting Up a Voltage Cloud LND Node](https://dev.to/susangithaigan/from-regtest-to-mainnet-setting-up-a-voltage-cloud-lnd-node-1mg1)
 - Thu, 09 Apr 2026 08:40:45 +0000 — [I Built a Web Security Lab and Watched SQL Injection Get Blocked in Real Time](https://dev.to/meowth/i-built-a-web-security-lab-and-watched-sql-injection-get-blocked-in-real-time-402j)
@@ -92,19 +107,4 @@ Last update: 2026-04-11 08:29 UTC
 - 2026-04-03T08:11:25+00:00 — [A free, self-hosted OpenSource AI code review bot for Gitea](https://www.reddit.com/r/selfhosted/comments/1sb7k96/a_free_selfhosted_opensource_ai_code_review_bot/)
 - 2026-04-03T08:10:11+00:00 — [VoidLLM - self-hosted LLM gateway with RBAC, load balancing, and usage tracking](https://www.reddit.com/r/selfhosted/comments/1sb7jih/voidllm_selfhosted_llm_gateway_with_rbac_load/)
 - 2026-04-03T08:07:50+00:00 — [I built a tool that gives every GitHub PR its own preview environment on a single VPS](https://www.reddit.com/r/selfhosted/comments/1sb7i7i/i_built_a_tool_that_gives_every_github_pr_its_own/)
-- 2026-04-03T07:58:46+00:00 — [RSS feed and Reddit aggregator for Kindle](https://www.reddit.com/r/selfhosted/comments/1sb7cpq/rss_feed_and_reddit_aggregator_for_kindle/)
-- 2026-04-03T07:57:00+00:00 — [Using my M4 MacBook Pro as Jellyfin Server, How is Power Consumption? And can I multitask for general use?](https://www.reddit.com/r/selfhosted/comments/1sb7boz/using_my_m4_macbook_pro_as_jellyfin_server_how_is/)
-- Thu, 02 Apr 2026 08:22:39 +0000 — [Fleetfolio: Making Penetration Testing Accessible to Everyone](https://dev.to/reema_riyazkhan_aa44ab89/fleetfolio-making-penetration-testing-accessible-to-everyone-3576)
-- Thu, 02 Apr 2026 08:21:45 +0000 — [Health Checks That Actually Work: Liveness vs Readiness vs Startup Probes](https://dev.to/dylan_dumont_266378d98367/health-checks-that-actually-work-liveness-vs-readiness-vs-startup-probes-1bkp)
-- Thu, 02 Apr 2026 08:19:33 +0000 — [Forrester Wave CNAPP 2026 Deep Dive — Runtime-First Cloud Security and Open-Source CNAPP Stack Guide](https://dev.to/x4nent/forrester-wave-cnapp-2026-deep-dive-runtime-first-cloud-security-and-open-source-cnapp-stack-guide-21ho)
-- Thu, 02 Apr 2026 08:18:59 +0000 — [ما هو Microsoft VibeVoice؟ وكيفية استخدام نماذج الذكاء الاصطناعي الصوتية مفتوحة المصدر](https://dev.to/yusuf_khalidd/m-hw-microsoft-vibevoice-wkyfy-stkhdm-nmdhj-ldhk-lstny-lswty-mftwh-lmsdr-a1n)
-- Thu, 02 Apr 2026 08:18:11 +0000 — [5 n8n Automation Workflows That Save Me 10+ Hours Every Week](https://dev.to/_c53314221f3ba7d2574d/5-n8n-automation-workflows-that-save-me-10-hours-every-week-mid)
-- Thu, 02 Apr 2026 08:17:47 +0000 — [Building an AI-Powered Telegram Bot with Claude API and n8n: A Complete Guide](https://dev.to/_c53314221f3ba7d2574d/building-an-ai-powered-telegram-bot-with-claude-api-and-n8n-a-complete-guide-15ck)
-- 2026-04-01T20:23:33+00:00 — [Anyone combining self hosting with tools to clean up old data online](https://www.reddit.com/r/selfhosted/comments/1s9w9ex/anyone_combining_self_hosting_with_tools_to_clean/)
-- 2026-04-01T20:11:27+00:00 — [How minimal is your lab/server?](https://www.reddit.com/r/selfhosted/comments/1s9vx9o/how_minimal_is_your_labserver/)
-- 2026-04-01T14:01:22+00:00 — [Budget HomeLab 6 Month Update](https://www.reddit.com/r/selfhosted/comments/1s9lfwm/budget_homelab_6_month_update/)
-- 2026-04-02T02:17:01+00:00 — [How can I safely add Caddy, Element/Matrix, and Vaultwarden to my existing homelab setup?](https://www.reddit.com/r/selfhosted/comments/1sa4sy3/how_can_i_safely_add_caddy_elementmatrix_and/)
-- 2026-04-01T20:50:13+00:00 — [Securing Coolify with Tailscale - Feedback needed](https://www.reddit.com/r/selfhosted/comments/1s9wzv2/securing_coolify_with_tailscale_feedback_needed/)
-- 2026-04-01T20:40:27+00:00 — [Plex Server/Docker-Compose help required](https://www.reddit.com/r/selfhosted/comments/1s9wq8o/plex_serverdockercompose_help_required/)
-- 2026-04-01T09:33:17+00:00 — [Docker save in a browser](https://www.reddit.com/r/devops/comments/1s9fp5x/docker_save_in_a_browser/)
 <!-- NEWS END -->
