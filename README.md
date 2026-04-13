@@ -2,11 +2,12 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-12 08:35 UTC
+Last update: 2026-04-13 09:24 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 12 Apr 2026 12:28:57 +0000 — [Tell HN: Docker pull fails in Spain due to football Cloudflare block](https://news.ycombinator.com/item?id=47738883)
 - Sun, 12 Apr 2026 08:24:04 +0000 — [Roslyn-Powered C# Analysis, Real NuGet DLL Reflection, and Safe Live File Editing for Claude — Privately, On Your Machine via MCP](https://dev.to/prashant_patil_9e62d3fa8a/roslyn-powered-c-analysis-real-nuget-dll-reflection-and-safe-live-file-editing-for-claude--3g48)
 - Sun, 12 Apr 2026 08:01:36 +0000 — [How to Set Up SSO Authentication in Your App's Admin Panel](https://dev.to/soldatov-ss/how-to-set-up-sso-authentication-in-your-apps-admin-panel-36k3)
 - Sun, 12 Apr 2026 07:52:39 +0000 — [JSON vs JSONB in PostgreSQL: I tested 1M rows to find ou](https://dev.to/ineron/json-vs-jsonb-in-postgresql-i-tested-1m-rows-to-find-ou-3cdj)
@@ -106,5 +107,4 @@ Last update: 2026-04-12 08:35 UTC
 - 2026-04-03T08:17:59+00:00 — [ProxyForge - Solving IP Throttling](https://www.reddit.com/r/selfhosted/comments/1sb7nzk/proxyforge_solving_ip_throttling/)
 - 2026-04-03T08:11:25+00:00 — [A free, self-hosted OpenSource AI code review bot for Gitea](https://www.reddit.com/r/selfhosted/comments/1sb7k96/a_free_selfhosted_opensource_ai_code_review_bot/)
 - 2026-04-03T08:10:11+00:00 — [VoidLLM - self-hosted LLM gateway with RBAC, load balancing, and usage tracking](https://www.reddit.com/r/selfhosted/comments/1sb7jih/voidllm_selfhosted_llm_gateway_with_rbac_load/)
-- 2026-04-03T08:07:50+00:00 — [I built a tool that gives every GitHub PR its own preview environment on a single VPS](https://www.reddit.com/r/selfhosted/comments/1sb7i7i/i_built_a_tool_that_gives_every_github_pr_its_own/)
 <!-- NEWS END -->
