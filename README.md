@@ -2,11 +2,13 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-13 09:24 UTC
+Last update: 2026-04-14 09:07 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 14 Apr 2026 09:05:05 +0000 — [Building Production-Grade Observability: OpenTelemetry + Grafana Stack](https://dev.to/varunvarde/building-production-grade-observability-opentelemetry-grafana-stack-9mc)
+- Tue, 14 Apr 2026 09:00:58 +0000 — [Your Cron Jobs Are Silently Failing. Here's How to Know in 30 Seconds.](https://dev.to/pytheas/your-cron-jobs-are-silently-failing-heres-how-to-know-in-30-seconds-48ic)
 - Sun, 12 Apr 2026 12:28:57 +0000 — [Tell HN: Docker pull fails in Spain due to football Cloudflare block](https://news.ycombinator.com/item?id=47738883)
 - Sun, 12 Apr 2026 08:24:04 +0000 — [Roslyn-Powered C# Analysis, Real NuGet DLL Reflection, and Safe Live File Editing for Claude — Privately, On Your Machine via MCP](https://dev.to/prashant_patil_9e62d3fa8a/roslyn-powered-c-analysis-real-nuget-dll-reflection-and-safe-live-file-editing-for-claude--3g48)
 - Sun, 12 Apr 2026 08:01:36 +0000 — [How to Set Up SSO Authentication in Your App's Admin Panel](https://dev.to/soldatov-ss/how-to-set-up-sso-authentication-in-your-apps-admin-panel-36k3)
@@ -105,6 +107,4 @@ Last update: 2026-04-13 09:24 UTC
 - 2026-04-03T06:54:58+00:00 — [Where To Start?](https://www.reddit.com/r/selfhosted/comments/1sb6b7j/where_to_start/)
 - 2026-04-02T19:45:10+00:00 — [Email Notifications](https://www.reddit.com/r/selfhosted/comments/1sarln3/email_notifications/)
 - 2026-04-03T08:17:59+00:00 — [ProxyForge - Solving IP Throttling](https://www.reddit.com/r/selfhosted/comments/1sb7nzk/proxyforge_solving_ip_throttling/)
-- 2026-04-03T08:11:25+00:00 — [A free, self-hosted OpenSource AI code review bot for Gitea](https://www.reddit.com/r/selfhosted/comments/1sb7k96/a_free_selfhosted_opensource_ai_code_review_bot/)
-- 2026-04-03T08:10:11+00:00 — [VoidLLM - self-hosted LLM gateway with RBAC, load balancing, and usage tracking](https://www.reddit.com/r/selfhosted/comments/1sb7jih/voidllm_selfhosted_llm_gateway_with_rbac_load/)
 <!-- NEWS END -->
