@@ -2,11 +2,16 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-15 09:07 UTC
+Last update: 2026-04-16 09:07 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 16 Apr 2026 09:00:00 +0000 — [I Plugged Ollama Into My iPhone Keyboard. Here's the Full Self-Hosted Stack.](https://dev.to/omachala/i-plugged-ollama-into-my-iphone-keyboard-heres-the-full-self-hosted-stack-1ii8)
+- Thu, 16 Apr 2026 08:53:12 +0000 — [Dynamic Routes in Pareto: [slug], Catch-All, and Nested Layouts](https://dev.to/childrentime/dynamic-routes-in-pareto-slug-catch-all-and-nested-layouts-1766)
+- Thu, 16 Apr 2026 08:49:16 +0000 — [Control Your Tesla from the Terminal with a Kiro CLI Skill](https://dev.to/aws-builders/control-your-tesla-from-the-terminal-with-a-kiro-cli-skill-472g)
+- Thu, 16 Apr 2026 08:47:22 +0000 — [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-3cbk)
+- Thu, 16 Apr 2026 08:38:36 +0000 — [CI/CD, GitLab Pipelines and Kaniko](https://dev.to/yepchaos/cicd-gitlab-pipelines-and-kaniko-4oie)
 - Tue, 14 Apr 2026 09:05:05 +0000 — [Building Production-Grade Observability: OpenTelemetry + Grafana Stack](https://dev.to/varunvarde/building-production-grade-observability-opentelemetry-grafana-stack-9mc)
 - Tue, 14 Apr 2026 09:00:58 +0000 — [Your Cron Jobs Are Silently Failing. Here's How to Know in 30 Seconds.](https://dev.to/pytheas/your-cron-jobs-are-silently-failing-heres-how-to-know-in-30-seconds-48ic)
 - Sun, 12 Apr 2026 12:28:57 +0000 — [Tell HN: Docker pull fails in Spain due to football Cloudflare block](https://news.ycombinator.com/item?id=47738883)
@@ -102,9 +107,4 @@ Last update: 2026-04-15 09:07 UTC
 - 2026-04-04T06:31:09+00:00 — [Unofficial third party Vikunja client](https://www.reddit.com/r/selfhosted/comments/1sc1vu3/unofficial_third_party_vikunja_client/)
 - 2026-04-02T19:38:20+00:00 — [FAKKU DMCAed LANraragi, one of the most popular open-sourced self-hosted manga/doujinshi reader because they deemed it's "managing downloaded pirated content" despite, much like plex and jellyfin, what users decide to put on it does not have anything to do with the self-hosted reader itself](https://www.reddit.com/r/selfhosted/comments/1sarf7l/fakku_dmcaed_lanraragi_one_of_the_most_popular/)
 - 2026-04-03T00:21:42+00:00 — [Oikos — a self-hosted family planner with tasks, shopping, meals, calendar sync, budget & notes. No cloud, no frameworks, no subscriptions. Docker + PWA.](https://www.reddit.com/r/selfhosted/comments/1sayhni/oikos_a_selfhosted_family_planner_with_tasks/)
-- 2026-04-02T16:05:54+00:00 — [Laugh at my pain and learn from my mistakes](https://www.reddit.com/r/selfhosted/comments/1salkni/laugh_at_my_pain_and_learn_from_my_mistakes/)
-- 2026-04-02T21:57:32+00:00 — [I think I finally did it](https://www.reddit.com/r/selfhosted/comments/1sav2p3/i_think_i_finally_did_it/)
-- 2026-04-03T06:54:58+00:00 — [Where To Start?](https://www.reddit.com/r/selfhosted/comments/1sb6b7j/where_to_start/)
-- 2026-04-02T19:45:10+00:00 — [Email Notifications](https://www.reddit.com/r/selfhosted/comments/1sarln3/email_notifications/)
-- 2026-04-03T08:17:59+00:00 — [ProxyForge - Solving IP Throttling](https://www.reddit.com/r/selfhosted/comments/1sb7nzk/proxyforge_solving_ip_throttling/)
 <!-- NEWS END -->
