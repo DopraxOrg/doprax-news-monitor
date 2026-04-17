@@ -2,11 +2,14 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-16 09:07 UTC
+Last update: 2026-04-17 09:06 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 17 Apr 2026 09:01:16 +0000 — [Claude Opus 4.7: The Good, The Weird, and The Why Your Prompts Just Broke](https://dev.to/cooldashing24/claude-opus-47-the-good-the-weird-and-the-why-your-prompts-just-broke-1me6)
+- Fri, 17 Apr 2026 09:00:00 +0000 — [3 Ways to Configure Resources in Terraform](https://dev.to/ijay/3-ways-to-configure-resources-in-terraform-5a5b)
+- Fri, 17 Apr 2026 08:48:54 +0000 — [FastAPI With LangChain and MongoDB](https://dev.to/mongodb/fastapi-with-langchain-and-mongodb-1a08)
 - Thu, 16 Apr 2026 09:00:00 +0000 — [I Plugged Ollama Into My iPhone Keyboard. Here's the Full Self-Hosted Stack.](https://dev.to/omachala/i-plugged-ollama-into-my-iphone-keyboard-heres-the-full-self-hosted-stack-1ii8)
 - Thu, 16 Apr 2026 08:53:12 +0000 — [Dynamic Routes in Pareto: [slug], Catch-All, and Nested Layouts](https://dev.to/childrentime/dynamic-routes-in-pareto-slug-catch-all-and-nested-layouts-1766)
 - Thu, 16 Apr 2026 08:49:16 +0000 — [Control Your Tesla from the Terminal with a Kiro CLI Skill](https://dev.to/aws-builders/control-your-tesla-from-the-terminal-with-a-kiro-cli-skill-472g)
@@ -104,7 +107,4 @@ Last update: 2026-04-16 09:07 UTC
 - 2026-04-03T09:04:08+00:00 — [The core practical knowledge of self-hosting (that works for me)](https://www.reddit.com/r/selfhosted/comments/1sb8etz/the_core_practical_knowledge_of_selfhosting_that/)
 - 2026-04-04T00:42:54+00:00 — [I built a 3D Docker dashboard with anomaly detection, crash diagnostics, and dependency impact analysis](https://www.reddit.com/r/selfhosted/comments/1sbuzdy/i_built_a_3d_docker_dashboard_with_anomaly/)
 - 2026-04-04T07:55:49+00:00 — [Self-hostable Nepali calendar API, Docker image included](https://www.reddit.com/r/selfhosted/comments/1sc3b0m/selfhostable_nepali_calendar_api_docker_image/)
-- 2026-04-04T06:31:09+00:00 — [Unofficial third party Vikunja client](https://www.reddit.com/r/selfhosted/comments/1sc1vu3/unofficial_third_party_vikunja_client/)
-- 2026-04-02T19:38:20+00:00 — [FAKKU DMCAed LANraragi, one of the most popular open-sourced self-hosted manga/doujinshi reader because they deemed it's "managing downloaded pirated content" despite, much like plex and jellyfin, what users decide to put on it does not have anything to do with the self-hosted reader itself](https://www.reddit.com/r/selfhosted/comments/1sarf7l/fakku_dmcaed_lanraragi_one_of_the_most_popular/)
-- 2026-04-03T00:21:42+00:00 — [Oikos — a self-hosted family planner with tasks, shopping, meals, calendar sync, budget & notes. No cloud, no frameworks, no subscriptions. Docker + PWA.](https://www.reddit.com/r/selfhosted/comments/1sayhni/oikos_a_selfhosted_family_planner_with_tasks/)
 <!-- NEWS END -->
