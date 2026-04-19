@@ -2,11 +2,12 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-18 08:34 UTC
+Last update: 2026-04-19 08:40 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 19 Apr 2026 08:12:27 +0000 — [I Built a Real-Time Crowd Orchestration Engine for Stadium Events (PromptWar 2026)](https://dev.to/leechee/i-built-a-real-time-crowd-orchestration-engine-for-stadium-events-promptwar-2026-4o8b)
 - Fri, 17 Apr 2026 09:01:16 +0000 — [Claude Opus 4.7: The Good, The Weird, and The Why Your Prompts Just Broke](https://dev.to/cooldashing24/claude-opus-47-the-good-the-weird-and-the-why-your-prompts-just-broke-1me6)
 - Fri, 17 Apr 2026 09:00:00 +0000 — [3 Ways to Configure Resources in Terraform](https://dev.to/ijay/3-ways-to-configure-resources-in-terraform-5a5b)
 - Fri, 17 Apr 2026 08:48:54 +0000 — [FastAPI With LangChain and MongoDB](https://dev.to/mongodb/fastapi-with-langchain-and-mongodb-1a08)
@@ -106,5 +107,4 @@ Last update: 2026-04-18 08:34 UTC
 - 2026-04-03T13:40:08+00:00 — [Traefik Manager v0.8.0 - a self-hosted web UI for managing Traefik](https://www.reddit.com/r/selfhosted/comments/1sbdwtz/traefik_manager_v080_a_selfhosted_web_ui_for/)
 - 2026-04-03T09:04:08+00:00 — [The core practical knowledge of self-hosting (that works for me)](https://www.reddit.com/r/selfhosted/comments/1sb8etz/the_core_practical_knowledge_of_selfhosting_that/)
 - 2026-04-04T00:42:54+00:00 — [I built a 3D Docker dashboard with anomaly detection, crash diagnostics, and dependency impact analysis](https://www.reddit.com/r/selfhosted/comments/1sbuzdy/i_built_a_3d_docker_dashboard_with_anomaly/)
-- 2026-04-04T07:55:49+00:00 — [Self-hostable Nepali calendar API, Docker image included](https://www.reddit.com/r/selfhosted/comments/1sc3b0m/selfhostable_nepali_calendar_api_docker_image/)
 <!-- NEWS END -->
