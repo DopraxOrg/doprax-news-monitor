@@ -2,11 +2,13 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-19 08:40 UTC
+Last update: 2026-04-20 09:30 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 20 Apr 2026 09:18:00 +0000 — [10 Best Open Source Projects Every Developer Should Know (Including One You've Never Heard Of)](https://dev.to/sonotommy/10-best-open-source-projects-every-developer-should-know-including-one-youve-never-heard-of-3a3p)
+- Mon, 20 Apr 2026 09:06:38 +0000 — [I Built an Uptime Monitor in a Weekend — And Saved $180/Year](https://dev.to/benriemer/i-built-an-uptime-monitor-in-a-weekend-and-saved-180year-3f25)
 - Sun, 19 Apr 2026 08:12:27 +0000 — [I Built a Real-Time Crowd Orchestration Engine for Stadium Events (PromptWar 2026)](https://dev.to/leechee/i-built-a-real-time-crowd-orchestration-engine-for-stadium-events-promptwar-2026-4o8b)
 - Fri, 17 Apr 2026 09:01:16 +0000 — [Claude Opus 4.7: The Good, The Weird, and The Why Your Prompts Just Broke](https://dev.to/cooldashing24/claude-opus-47-the-good-the-weird-and-the-why-your-prompts-just-broke-1me6)
 - Fri, 17 Apr 2026 09:00:00 +0000 — [3 Ways to Configure Resources in Terraform](https://dev.to/ijay/3-ways-to-configure-resources-in-terraform-5a5b)
@@ -105,6 +107,4 @@ Last update: 2026-04-19 08:40 UTC
 - 2026-04-04T03:24:54+00:00 — [PolicyFS - open-source FUSE filesystem for self-hosted media storage](https://www.reddit.com/r/selfhosted/comments/1sbyetc/policyfs_opensource_fuse_filesystem_for/)
 - 2026-04-03T09:00:04+00:00 — [homepagectl - automatically generate homepage configs from running Docker containers](https://www.reddit.com/r/selfhosted/comments/1sb8cas/homepagectl_automatically_generate_homepage/)
 - 2026-04-03T13:40:08+00:00 — [Traefik Manager v0.8.0 - a self-hosted web UI for managing Traefik](https://www.reddit.com/r/selfhosted/comments/1sbdwtz/traefik_manager_v080_a_selfhosted_web_ui_for/)
-- 2026-04-03T09:04:08+00:00 — [The core practical knowledge of self-hosting (that works for me)](https://www.reddit.com/r/selfhosted/comments/1sb8etz/the_core_practical_knowledge_of_selfhosting_that/)
-- 2026-04-04T00:42:54+00:00 — [I built a 3D Docker dashboard with anomaly detection, crash diagnostics, and dependency impact analysis](https://www.reddit.com/r/selfhosted/comments/1sbuzdy/i_built_a_3d_docker_dashboard_with_anomaly/)
 <!-- NEWS END -->
