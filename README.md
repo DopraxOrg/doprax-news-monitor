@@ -2,11 +2,12 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-22 09:09 UTC
+Last update: 2026-04-23 09:16 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 23 Apr 2026 01:59:08 +0000 — [Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
 - Wed, 22 Apr 2026 08:51:17 +0000 — [LLMs Don't Fail — Execution Does: Why Agentic AI Needs a Control Layer](https://dev.to/sudarshangouda/llms-dont-fail-execution-does-why-agentic-ai-needs-a-control-layer-29i5)
 - Tue, 21 Apr 2026 09:11:11 +0000 — [SQLite Is All You Need (Until It Isn't) — A Practical Guide](https://dev.to/jarachagent/sqlite-is-all-you-need-until-it-isnt-a-practical-guide-568k)
 - Tue, 21 Apr 2026 09:03:18 +0000 — [Embedded Linux Development - Part 6](https://dev.to/cangulmez/embedded-linux-development-part-6-122k)
@@ -106,5 +107,4 @@ Last update: 2026-04-22 09:09 UTC
 - 2026-04-03T15:22:24+00:00 — [I built Stirling-PDF but for images](https://www.reddit.com/r/selfhosted/comments/1sbgjxk/i_built_stirlingpdf_but_for_images/)
 - 2026-04-04T21:34:08+00:00 — [is there a self hosted version of tachiyomi?](https://www.reddit.com/r/selfhosted/comments/1sclf9j/is_there_a_self_hosted_version_of_tachiyomi/)
 - 2026-04-04T21:12:43+00:00 — [Hosting Live Steam for Parents | Daughters Dance Recital](https://www.reddit.com/r/selfhosted/comments/1sckweo/hosting_live_steam_for_parents_daughters_dance/)
-- 2026-04-04T15:07:32+00:00 — [What does your stack look like? Sharing my single-node k8s homelab and curious what you all are running](https://www.reddit.com/r/selfhosted/comments/1scbmjl/what_does_your_stack_look_like_sharing_my/)
 <!-- NEWS END -->
