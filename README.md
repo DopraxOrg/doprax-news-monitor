@@ -2,11 +2,12 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-26 08:47 UTC
+Last update: 2026-04-27 10:02 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 27 Apr 2026 09:56:59 +0000 — [When Feelings Need a Graph How SurrealDB Became the Heart of Our Mental Wellness #SurrealDB #MongoDB #MentalHealthAI #MultiModal](https://dev.to/bapanapalli_praneeta/when-feelings-need-a-graph-how-surrealdb-became-the-heart-of-our-mental-wellness-surrealdb-4db3)
 - Fri, 24 Apr 2026 09:00:03 +0000 — [PostgreSQL: debugging a slow query and optimizing it](https://dev.to/ohugonnot/postgresql-debugging-a-slow-query-and-optimizing-it-56l1)
 - Thu, 23 Apr 2026 01:59:08 +0000 — [Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
 - Wed, 22 Apr 2026 08:51:17 +0000 — [LLMs Don't Fail — Execution Does: Why Agentic AI Needs a Control Layer](https://dev.to/sudarshangouda/llms-dont-fail-execution-does-why-agentic-ai-needs-a-control-layer-29i5)
@@ -106,5 +107,4 @@ Last update: 2026-04-26 08:47 UTC
 - 2026-04-04T14:48:31+00:00 — [I dockerized my entire self-hosted stack and packaged each piece as standalone compose files - here's what I learned](https://www.reddit.com/r/selfhosted/comments/1scb596/i_dockerized_my_entire_selfhosted_stack_and/)
 - 2026-04-04T16:34:07+00:00 — [Which vulnerability scanners do you use for your homelab?](https://www.reddit.com/r/selfhosted/comments/1scdsxr/which_vulnerability_scanners_do_you_use_for_your/)
 - 2026-04-03T15:22:24+00:00 — [I built Stirling-PDF but for images](https://www.reddit.com/r/selfhosted/comments/1sbgjxk/i_built_stirlingpdf_but_for_images/)
-- 2026-04-04T21:34:08+00:00 — [is there a self hosted version of tachiyomi?](https://www.reddit.com/r/selfhosted/comments/1sclf9j/is_there_a_self_hosted_version_of_tachiyomi/)
 <!-- NEWS END -->
