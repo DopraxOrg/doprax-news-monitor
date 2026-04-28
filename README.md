@@ -2,11 +2,15 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-27 10:02 UTC
+Last update: 2026-04-28 10:03 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 28 Apr 2026 09:46:47 +0000 — [Production-Ready Docker Setup for Laravel & Filament](https://dev.to/filamentmastery/production-ready-docker-setup-for-laravel-filament-2j9)
+- Tue, 28 Apr 2026 09:45:04 +0000 — [How to Cut Azure Cobalt 100 Costs by 25% with Auto-Scaling and KEDA 2.15](https://dev.to/johalputt/how-to-cut-azure-cobalt-100-costs-by-25-with-auto-scaling-and-keda-215-325c)
+- Tue, 28 Apr 2026 09:42:40 +0000 — [Who Says PHP Isn't Good Enough for OPC UA?](https://dev.to/gianfriaur/who-says-php-isnt-good-enough-for-opc-ua-5ma)
+- Tue, 28 Apr 2026 09:30:38 +0000 — [Why I built Heym instead of extending n8n](https://dev.to/heymrun/why-i-built-heym-instead-of-extending-n8n-5dg2)
 - Mon, 27 Apr 2026 09:56:59 +0000 — [When Feelings Need a Graph How SurrealDB Became the Heart of Our Mental Wellness #SurrealDB #MongoDB #MentalHealthAI #MultiModal](https://dev.to/bapanapalli_praneeta/when-feelings-need-a-graph-how-surrealdb-became-the-heart-of-our-mental-wellness-surrealdb-4db3)
 - Fri, 24 Apr 2026 09:00:03 +0000 — [PostgreSQL: debugging a slow query and optimizing it](https://dev.to/ohugonnot/postgresql-debugging-a-slow-query-and-optimizing-it-56l1)
 - Thu, 23 Apr 2026 01:59:08 +0000 — [Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
@@ -103,8 +107,4 @@ Last update: 2026-04-27 10:02 UTC
 - 2026-04-06T00:13:47+00:00 — [Simple, lightweight Google Drive + Office replacement?](https://www.reddit.com/r/selfhosted/comments/1sdjihe/simple_lightweight_google_drive_office_replacement/)
 - Sun, 05 Apr 2026 08:17:51 +0000 — [Zero-Cost API Infrastructure: Running a DaaS Business on an Idle Server](https://dev.to/tagg_dev/zero-cost-api-infrastructure-running-a-daas-business-on-an-idle-server-fac)
 - Sun, 05 Apr 2026 08:11:16 +0000 — [The Real Ceiling in Claude Code's Memory System (It’s Not the 200-Line Cap)](https://dev.to/penfieldlabs/the-real-ceiling-in-claude-codes-memory-system-its-not-the-200-line-cap-2cbl)
-- Sun, 05 Apr 2026 08:08:32 +0000 — [XYRONIX](https://dev.to/mohitscodiclab/xyronix-4j4d)
-- 2026-04-04T14:48:31+00:00 — [I dockerized my entire self-hosted stack and packaged each piece as standalone compose files - here's what I learned](https://www.reddit.com/r/selfhosted/comments/1scb596/i_dockerized_my_entire_selfhosted_stack_and/)
-- 2026-04-04T16:34:07+00:00 — [Which vulnerability scanners do you use for your homelab?](https://www.reddit.com/r/selfhosted/comments/1scdsxr/which_vulnerability_scanners_do_you_use_for_your/)
-- 2026-04-03T15:22:24+00:00 — [I built Stirling-PDF but for images](https://www.reddit.com/r/selfhosted/comments/1sbgjxk/i_built_stirlingpdf_but_for_images/)
 <!-- NEWS END -->
