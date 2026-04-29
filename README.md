@@ -2,11 +2,27 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-28 10:03 UTC
+Last update: 2026-04-29 09:55 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 29 Apr 2026 09:37:46 +0000 — [Desktop app to generate LLM fine-tuning datasets — got +16pp on HumanEval](https://dev.to/arondaron/desktop-app-to-generate-llm-fine-tuning-datasets-got-16pp-on-humaneval-4ng3)
+- Wed, 29 Apr 2026 09:37:24 +0000 — [Step-by-Step: Migrate Legacy Node.js 20 Apps to Bun 1.2 with TypeScript 5.8 for 40% Faster Startup](https://dev.to/johalputt/step-by-step-migrate-legacy-nodejs-20-apps-to-bun-12-with-typescript-58-for-40-faster-startup-4o2i)
+- Wed, 29 Apr 2026 09:37:09 +0000 — [Building WeRemember in Public — Day 1: Django project setup](https://dev.to/oranguengineer/building-weremember-in-public-day-1-django-project-setup-25ia)
+- Wed, 29 Apr 2026 09:25:13 +0000 — [Webhook Signature Verification (HMAC-SHA256) in Node, Python, Ruby — 2026 Guide](https://dev.to/shotatanikawa/webhook-signature-verification-hmac-sha256-in-node-python-ruby-2026-guide-26m)
+- 2026-04-23T22:01:07+00:00 — [New Project Megathread - Week of 23 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1stwv5b/new_project_megathread_week_of_23_apr_2026/)
+- 2026-04-28T20:51:16+00:00 — [NPMplus + CrowdSec setup, my notes](https://www.reddit.com/r/selfhosted/comments/1sydvmr/npmplus_crowdsec_setup_my_notes/)
+- 2026-04-28T12:09:07+00:00 — [Security question + general newbie behavior](https://www.reddit.com/r/selfhosted/comments/1sxziur/security_question_general_newbie_behavior/)
+- 2026-04-28T21:17:08+00:00 — [Looking for selfhosted IPv6- compatible remote access software](https://www.reddit.com/r/selfhosted/comments/1syekyk/looking_for_selfhosted_ipv6_compatible_remote/)
+- 2026-04-29T05:00:55+00:00 — [Searxng Valkey can not connect](https://www.reddit.com/r/selfhosted/comments/1syp1a0/searxng_valkey_can_not_connect/)
+- 2026-04-29T08:45:37+00:00 — [Llevo un año montando mi homelab con ZimaBlade + Proxmox y acabo de lanzar un blog para documentarlo todo](https://www.reddit.com/r/selfhosted/comments/1syt21m/llevo_un_año_montando_mi_homelab_con_zimablade/)
+- 2026-04-29T05:24:24+00:00 — [What is a tool or practice you adopted that quietly made your team more functional?](https://www.reddit.com/r/devops/comments/1syphf3/what_is_a_tool_or_practice_you_adopted_that/)
+- 2026-04-28T14:53:40+00:00 — [Multi-tenant observability on two servers: architecture tradeoffs and isolation challenges](https://www.reddit.com/r/devops/comments/1sy3ply/multitenant_observability_on_two_servers/)
+- 2026-04-28T14:03:45+00:00 — [proxy-pkcs11 - TLS forward proxy for PKCS#11 hardware tokens](https://www.reddit.com/r/devops/comments/1sy2dma/proxypkcs11_tls_forward_proxy_for_pkcs11_hardware/)
+- 2026-04-27T20:06:58+00:00 — [Where to find project based work in EU ?](https://www.reddit.com/r/devops/comments/1sxf2rc/where_to_find_project_based_work_in_eu/)
+- 2026-04-26T21:24:58+00:00 — [Self managed Kubernetes vs EKS](https://www.reddit.com/r/devops/comments/1swk39g/self_managed_kubernetes_vs_eks/)
+- 2026-04-27T14:59:39+00:00 — [Visual, step-by-step explainers for how the web actually works.](https://www.reddit.com/r/devops/comments/1sx682p/visual_stepbystep_explainers_for_how_the_web/)
 - Tue, 28 Apr 2026 09:46:47 +0000 — [Production-Ready Docker Setup for Laravel & Filament](https://dev.to/filamentmastery/production-ready-docker-setup-for-laravel-filament-2j9)
 - Tue, 28 Apr 2026 09:45:04 +0000 — [How to Cut Azure Cobalt 100 Costs by 25% with Auto-Scaling and KEDA 2.15](https://dev.to/johalputt/how-to-cut-azure-cobalt-100-costs-by-25-with-auto-scaling-and-keda-215-325c)
 - Tue, 28 Apr 2026 09:42:40 +0000 — [Who Says PHP Isn't Good Enough for OPC UA?](https://dev.to/gianfriaur/who-says-php-isnt-good-enough-for-opc-ua-5ma)
@@ -91,20 +107,4 @@ Last update: 2026-04-28 10:03 UTC
 - 2026-04-07T17:50:43+00:00 — [Can you have NPM proxy to its own WebUI for SSL?](https://www.reddit.com/r/selfhosted/comments/1sf3bxo/can_you_have_npm_proxy_to_its_own_webui_for_ssl/)
 - 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
 - 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
-- Tue, 07 Apr 2026 08:32:48 +0000 — [Best MCP Gateway for 50% Token Cost Savings](https://dev.to/pranay_batta/best-mcp-gateway-for-50-token-cost-savings-4anm)
-- 2026-04-07T04:59:06+00:00 — [Yet another "permissions issues" post...](https://www.reddit.com/r/selfhosted/comments/1semi9n/yet_another_permissions_issues_post/)
-- 2026-04-05T19:48:57+00:00 — [Nomad Mk3: Offline, Open-source, low-power self-hosted media server](https://www.reddit.com/r/selfhosted/comments/1sdd5ny/nomad_mk3_offline_opensource_lowpower_selfhosted/)
-- 2026-04-06T12:48:28+00:00 — [Its time for PDF](https://www.reddit.com/r/selfhosted/comments/1sdxx6p/its_time_for_pdf/)
-- 2026-04-07T04:10:31+00:00 — [ownCloud 11.0.0-prealpha adds PHP 8.3 support (per forum reports)](https://www.reddit.com/r/selfhosted/comments/1selkfo/owncloud_1100prealpha_adds_php_83_support_per/)
-- Mon, 06 Apr 2026 08:46:20 +0000 — [AI-Generated APIs Keep Shipping Wildcard CORS. Here's the Fix.](https://dev.to/chandan_karn_fb750e731394/ai-generated-apis-keep-shipping-wildcard-cors-heres-the-fix-4m6d)
-- Mon, 06 Apr 2026 08:43:38 +0000 — [Building a Production-Ready Composable AI Agent System with CopilotKit and LangGraph](https://dev.to/ayushgupta/building-a-production-ready-composable-ai-agent-system-with-copilotkit-and-langgraph-141f)
-- Mon, 06 Apr 2026 08:35:51 +0000 — [Semantic Search with TypeScript: Using embed() and embedMany() for Vector Search](https://dev.to/neurolink/semantic-search-with-typescript-using-embed-and-embedmany-for-vector-search-4g60)
-- 2026-04-05T21:43:40+00:00 — [Next DNS -> Pihole, adguard home, technitium?](https://www.reddit.com/r/selfhosted/comments/1sdg0vb/next_dns_pihole_adguard_home_technitium/)
-- 2026-04-05T21:47:19+00:00 — [Good recipe self hosted app](https://www.reddit.com/r/selfhosted/comments/1sdg413/good_recipe_self_hosted_app/)
-- 2026-04-06T05:46:23+00:00 — [Super Newbie Questions](https://www.reddit.com/r/selfhosted/comments/1sdqbxd/super_newbie_questions/)
-- 2026-04-05T19:11:51+00:00 — [Need tips and suggestions regarding my home setup for future use](https://www.reddit.com/r/selfhosted/comments/1sdc83b/need_tips_and_suggestions_regarding_my_home_setup/)
-- 2026-04-06T00:28:05+00:00 — [Needing help setting up Nextcloud with Starlink and Cloudflare tunnels](https://www.reddit.com/r/selfhosted/comments/1sdjto2/needing_help_setting_up_nextcloud_with_starlink/)
-- 2026-04-06T00:13:47+00:00 — [Simple, lightweight Google Drive + Office replacement?](https://www.reddit.com/r/selfhosted/comments/1sdjihe/simple_lightweight_google_drive_office_replacement/)
-- Sun, 05 Apr 2026 08:17:51 +0000 — [Zero-Cost API Infrastructure: Running a DaaS Business on an Idle Server](https://dev.to/tagg_dev/zero-cost-api-infrastructure-running-a-daas-business-on-an-idle-server-fac)
-- Sun, 05 Apr 2026 08:11:16 +0000 — [The Real Ceiling in Claude Code's Memory System (It’s Not the 200-Line Cap)](https://dev.to/penfieldlabs/the-real-ceiling-in-claude-codes-memory-system-its-not-the-200-line-cap-2cbl)
 <!-- NEWS END -->
