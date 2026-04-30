@@ -2,24 +2,35 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-04-29 09:55 UTC
+Last update: 2026-04-30 09:55 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 30 Apr 2026 09:38:40 +0000 — [vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)](https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k)
+- Thu, 30 Apr 2026 09:37:13 +0000 — [Building a Production DevOps Agent: From Slack to Kubernetes](https://dev.to/javieraguilarai/building-a-production-devops-agent-from-slack-to-kubernetes-33d1)
+- 2026-04-23T22:01:07+00:00 — [New Project Megathread - Week of 23 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1stwv5b/new_project_megathread_week_of_23_apr_2026/)
+- 2026-04-29T15:50:30+00:00 — [Hound - A Media Server Alternative to Plex/Jellyfin + Stremio](https://www.reddit.com/r/selfhosted/comments/1sz2r37/hound_a_media_server_alternative_to_plexjellyfin/)
+- 2026-04-29T15:44:24+00:00 — [Do you keep your docker containers running 24/7](https://www.reddit.com/r/selfhosted/comments/1sz2kur/do_you_keep_your_docker_containers_running_247/)
+- 2026-04-30T07:53:36+00:00 — [I built a web UI to download Spotify music with metadata, self-hosted via Docker](https://www.reddit.com/r/selfhosted/comments/1szphxm/i_built_a_web_ui_to_download_spotify_music_with/)
+- 2026-04-29T23:09:33+00:00 — [Selfhosted an IRC server](https://www.reddit.com/r/selfhosted/comments/1szes0d/selfhosted_an_irc_server/)
+- 2026-04-29T12:53:38+00:00 — [I’ve spent the past year building my homelab with a ZimaBlade and Proxmox, and I’ve just launched a blog to document everything.](https://www.reddit.com/r/selfhosted/comments/1syxyq3/ive_spent_the_past_year_building_my_homelab_with/)
+- 2026-04-29T09:57:27+00:00 — [How much hardening/security is enough?](https://www.reddit.com/r/selfhosted/comments/1syuagj/how_much_hardeningsecurity_is_enough/)
+- 2026-04-30T01:54:19+00:00 — [Euro office with nextcloud in docker](https://www.reddit.com/r/selfhosted/comments/1sziipq/euro_office_with_nextcloud_in_docker/)
+- 2026-04-29T19:25:37+00:00 — [Need some Advice regarding upskilling and job switch as a CloudOps Engineer ( GCP )](https://www.reddit.com/r/devops/comments/1sz8wzk/need_some_advice_regarding_upskilling_and_job/)
+- 2026-04-29T14:24:04+00:00 — [Need some ideas about my job situation as mid-level engineer](https://www.reddit.com/r/devops/comments/1sz0c07/need_some_ideas_about_my_job_situation_as/)
+- 2026-04-29T05:24:24+00:00 — [What is a tool or practice you adopted that quietly made your team more functional?](https://www.reddit.com/r/devops/comments/1syphf3/what_is_a_tool_or_practice_you_adopted_that/)
+- 2026-04-28T14:53:40+00:00 — [Multi-tenant observability on two servers: architecture tradeoffs and isolation challenges](https://www.reddit.com/r/devops/comments/1sy3ply/multitenant_observability_on_two_servers/)
+- 2026-04-28T14:03:45+00:00 — [proxy-pkcs11 - TLS forward proxy for PKCS#11 hardware tokens](https://www.reddit.com/r/devops/comments/1sy2dma/proxypkcs11_tls_forward_proxy_for_pkcs11_hardware/)
 - Wed, 29 Apr 2026 09:37:46 +0000 — [Desktop app to generate LLM fine-tuning datasets — got +16pp on HumanEval](https://dev.to/arondaron/desktop-app-to-generate-llm-fine-tuning-datasets-got-16pp-on-humaneval-4ng3)
 - Wed, 29 Apr 2026 09:37:24 +0000 — [Step-by-Step: Migrate Legacy Node.js 20 Apps to Bun 1.2 with TypeScript 5.8 for 40% Faster Startup](https://dev.to/johalputt/step-by-step-migrate-legacy-nodejs-20-apps-to-bun-12-with-typescript-58-for-40-faster-startup-4o2i)
 - Wed, 29 Apr 2026 09:37:09 +0000 — [Building WeRemember in Public — Day 1: Django project setup](https://dev.to/oranguengineer/building-weremember-in-public-day-1-django-project-setup-25ia)
 - Wed, 29 Apr 2026 09:25:13 +0000 — [Webhook Signature Verification (HMAC-SHA256) in Node, Python, Ruby — 2026 Guide](https://dev.to/shotatanikawa/webhook-signature-verification-hmac-sha256-in-node-python-ruby-2026-guide-26m)
-- 2026-04-23T22:01:07+00:00 — [New Project Megathread - Week of 23 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1stwv5b/new_project_megathread_week_of_23_apr_2026/)
 - 2026-04-28T20:51:16+00:00 — [NPMplus + CrowdSec setup, my notes](https://www.reddit.com/r/selfhosted/comments/1sydvmr/npmplus_crowdsec_setup_my_notes/)
 - 2026-04-28T12:09:07+00:00 — [Security question + general newbie behavior](https://www.reddit.com/r/selfhosted/comments/1sxziur/security_question_general_newbie_behavior/)
 - 2026-04-28T21:17:08+00:00 — [Looking for selfhosted IPv6- compatible remote access software](https://www.reddit.com/r/selfhosted/comments/1syekyk/looking_for_selfhosted_ipv6_compatible_remote/)
 - 2026-04-29T05:00:55+00:00 — [Searxng Valkey can not connect](https://www.reddit.com/r/selfhosted/comments/1syp1a0/searxng_valkey_can_not_connect/)
 - 2026-04-29T08:45:37+00:00 — [Llevo un año montando mi homelab con ZimaBlade + Proxmox y acabo de lanzar un blog para documentarlo todo](https://www.reddit.com/r/selfhosted/comments/1syt21m/llevo_un_año_montando_mi_homelab_con_zimablade/)
-- 2026-04-29T05:24:24+00:00 — [What is a tool or practice you adopted that quietly made your team more functional?](https://www.reddit.com/r/devops/comments/1syphf3/what_is_a_tool_or_practice_you_adopted_that/)
-- 2026-04-28T14:53:40+00:00 — [Multi-tenant observability on two servers: architecture tradeoffs and isolation challenges](https://www.reddit.com/r/devops/comments/1sy3ply/multitenant_observability_on_two_servers/)
-- 2026-04-28T14:03:45+00:00 — [proxy-pkcs11 - TLS forward proxy for PKCS#11 hardware tokens](https://www.reddit.com/r/devops/comments/1sy2dma/proxypkcs11_tls_forward_proxy_for_pkcs11_hardware/)
 - 2026-04-27T20:06:58+00:00 — [Where to find project based work in EU ?](https://www.reddit.com/r/devops/comments/1sxf2rc/where_to_find_project_based_work_in_eu/)
 - 2026-04-26T21:24:58+00:00 — [Self managed Kubernetes vs EKS](https://www.reddit.com/r/devops/comments/1swk39g/self_managed_kubernetes_vs_eks/)
 - 2026-04-27T14:59:39+00:00 — [Visual, step-by-step explainers for how the web actually works.](https://www.reddit.com/r/devops/comments/1sx682p/visual_stepbystep_explainers_for_how_the_web/)
@@ -96,15 +107,4 @@ Last update: 2026-04-29 09:55 UTC
 - 2026-04-06T19:09:13+00:00 — [I thought my VPS was hardened, but it was compromised and I can't figure out how. Please help!](https://www.reddit.com/r/selfhosted/comments/1se8ara/i_thought_my_vps_was_hardened_but_it_was/)
 - 2026-04-07T11:54:38+00:00 — [NewTon DC Tournament Manager](https://www.reddit.com/r/selfhosted/comments/1setskv/newton_dc_tournament_manager/)
 - 2026-04-06T21:18:02+00:00 — [NordVPN's Meshnet: is it truly free? If so, is there any certainty that I am not the product?](https://www.reddit.com/r/selfhosted/comments/1sebwzh/nordvpns_meshnet_is_it_truly_free_if_so_is_there/)
-- 2026-04-07T20:44:08+00:00 — [Advice for Mini PC for my new server setup](https://www.reddit.com/r/selfhosted/comments/1sf84te/advice_for_mini_pc_for_my_new_server_setup/)
-- 2026-04-08T02:44:11+00:00 — [T320 self hosting setup advice?](https://www.reddit.com/r/selfhosted/comments/1sfgqc8/t320_self_hosting_setup_advice/)
-- 2026-04-07T20:15:11+00:00 — [Rate my security- (& help me understand how to safely host a "public" server)](https://www.reddit.com/r/selfhosted/comments/1sf7cbn/rate_my_security_help_me_understand_how_to_safely/)
-- 2026-04-08T05:21:27+00:00 — [Hosting a VPN](https://www.reddit.com/r/selfhosted/comments/1sfjty2/hosting_a_vpn/)
-- 2026-04-07T16:14:58+00:00 — [Question about docker swarms](https://www.reddit.com/r/selfhosted/comments/1sf0k8a/question_about_docker_swarms/)
-- 2026-04-07T14:47:35+00:00 — [Tailscale Funnel as Immich mobile app server URL?](https://www.reddit.com/r/selfhosted/comments/1sey44q/tailscale_funnel_as_immich_mobile_app_server_url/)
-- 2026-04-07T20:58:35+00:00 — [If you’re managing OpenTelemetry configs, I have a question for you](https://www.reddit.com/r/selfhosted/comments/1sf8ik5/if_youre_managing_opentelemetry_configs_i_have_a/)
-- 2026-04-07T00:28:00+00:00 — [How to use Git for docker compose & documention?](https://www.reddit.com/r/selfhosted/comments/1segmt9/how_to_use_git_for_docker_compose_documention/)
-- 2026-04-07T17:50:43+00:00 — [Can you have NPM proxy to its own WebUI for SSL?](https://www.reddit.com/r/selfhosted/comments/1sf3bxo/can_you_have_npm_proxy_to_its_own_webui_for_ssl/)
-- 2026-04-01T04:32:01+00:00 — [🚀 Floci v1.1.0 — Free, open-source LocalStack alternative. Biggest release yet](https://www.reddit.com/r/devops/comments/1s9aihb/floci_v110_free_opensource_localstack_alternative/)
-- 2026-03-31T19:48:50+00:00 — [Built a free browser game for onboarding junior SREs on Kubernetes incident respons](https://www.reddit.com/r/devops/comments/1s8y0at/built_a_free_browser_game_for_onboarding_junior/)
 <!-- NEWS END -->
