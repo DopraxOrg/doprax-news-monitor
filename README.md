@@ -2,20 +2,35 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-02 08:55 UTC
+Last update: 2026-05-03 09:10 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 03 May 2026 09:05:04 +0000 — [Why We Chose Self-Hosted AI Over Cloud for Business Data](https://dev.to/ragleap/why-we-chose-self-hosted-ai-over-cloud-for-business-data-1of7)
+- Sun, 03 May 2026 09:03:50 +0000 — [Retrospective: Adopting Podman 5 for 1000 Developer Laptops – Security and Productivity Gains](https://dev.to/johalputt/retrospective-adopting-podman-5-for-1000-developer-laptops-security-and-productivity-gains-51m5)
+- 2026-04-30T22:01:10+00:00 — [New Project Megathread - Week of 30 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1t0ag05/new_project_megathread_week_of_30_apr_2026/)
+- 2026-05-03T08:08:59+00:00 — [Whats the point in a VPS?](https://www.reddit.com/r/selfhosted/comments/1t2ff9c/whats_the_point_in_a_vps/)
+- 2026-05-03T08:35:04+00:00 — [Self hosting Mozilla's BrowserQuest game](https://www.reddit.com/r/selfhosted/comments/1t2fv7e/self_hosting_mozillas_browserquest_game/)
+- 2026-05-02T01:48:55+00:00 — [Kubernetes is a beast to learn but it's really nice once running](https://www.reddit.com/r/selfhosted/comments/1t1cifp/kubernetes_is_a_beast_to_learn_but_its_really/)
+- 2026-05-02T18:34:10+00:00 — [mTLS vs VPN](https://www.reddit.com/r/selfhosted/comments/1t1xv1f/mtls_vs_vpn/)
+- 2026-05-02T08:27:29+00:00 — [Rebuild self-hosting from scratch, setup advice](https://www.reddit.com/r/selfhosted/comments/1t1k3n3/rebuild_selfhosting_from_scratch_setup_advice/)
+- 2026-05-02T17:25:31+00:00 — [Next Steps?](https://www.reddit.com/r/selfhosted/comments/1t1w14p/next_steps/)
+- 2026-05-03T05:12:11+00:00 — [Do I need to worry about security if only exposing HTTP/HTTPs?](https://www.reddit.com/r/selfhosted/comments/1t2c9ac/do_i_need_to_worry_about_security_if_only/)
+- 2026-05-03T04:38:03+00:00 — [Setting up a self-hosted ebook library — landing on Kavita, anyone done this?](https://www.reddit.com/r/selfhosted/comments/1t2bmib/setting_up_a_selfhosted_ebook_library_landing_on/)
+- 2026-05-02T04:32:33+00:00 — [Trailarr v0.9.0 - Plex Integration](https://www.reddit.com/r/selfhosted/comments/1t1fvb8/trailarr_v090_plex_integration/)
+- 2026-05-02T23:08:36+00:00 — [fedit — a deterministic CLI + MCP file editor I built after watching LLMs mangle my Terraform/YAML/nginx configs](https://www.reddit.com/r/devops/comments/1t24q5z/fedit_a_deterministic_cli_mcp_file_editor_i_built/)
+- 2026-05-01T17:34:56+00:00 — [Is "building a Docker image" during the CI pipeline considered a best practice?](https://www.reddit.com/r/devops/comments/1t106xt/is_building_a_docker_image_during_the_ci_pipeline/)
+- 2026-05-02T21:41:08+00:00 — [Looking for hands-on DevOps experience — happy to contribute to real projects](https://www.reddit.com/r/devops/comments/1t22o93/looking_for_handson_devops_experience_happy_to/)
+- 2026-05-01T15:26:46+00:00 — [Project Yellow Olive - Pokemon Yellow inspired Kubernetes TUI game](https://www.reddit.com/r/devops/comments/1t0wlmr/project_yellow_olive_pokemon_yellow_inspired/)
+- 2026-05-02T16:44:39+00:00 — [Where can I find DevOps tutors at an affordable rate?](https://www.reddit.com/r/devops/comments/1t1uy20/where_can_i_find_devops_tutors_at_an_affordable/)
+- 2026-05-01T22:39:10+00:00 — [Mookbars - Self-contained bookmarks page generator from environment variables](https://www.reddit.com/r/devops/comments/1t18aab/mookbars_selfcontained_bookmarks_page_generator/)
+- 2026-04-30T17:47:04+00:00 — [Does anyone have experience with self-hosting gitlab runners](https://www.reddit.com/r/devops/comments/1t03ibi/does_anyone_have_experience_with_selfhosting/)
 - Sat, 02 May 2026 04:00:42 +0000 — [K3k: Kubernetes in Kubernetes](https://github.com/rancher/k3k)
 - Sat, 02 May 2026 08:36:05 +0000 — [OpenClaw Sandbox vs Approvals vs Tool Policy: Three Different Safety Layers](https://dev.to/hex_agent/openclaw-sandbox-vs-approvals-vs-tool-policy-three-different-safety-layers-5ffn)
 - Sat, 02 May 2026 08:20:46 +0000 — [Cilium network policy kubectl‑capture feature replaced our tcpdump sidecars for debugging](https://dev.to/johalputt/cilium-network-policy-kubectl-capture-feature-replaced-our-tcpdump-sidecars-for-debugging-2dle)
 - Sat, 02 May 2026 08:18:43 +0000 — [Building Your First AI Chatbot with Guardrails](https://dev.to/leo_laish_25120db350ea449/building-your-first-ai-chatbot-with-guardrails-2c14)
-- 2026-04-30T22:01:10+00:00 — [New Project Megathread - Week of 30 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1t0ag05/new_project_megathread_week_of_30_apr_2026/)
-- 2026-05-02T01:48:55+00:00 — [Kubernetes is a beast to learn but it's really nice once running](https://www.reddit.com/r/selfhosted/comments/1t1cifp/kubernetes_is_a_beast_to_learn_but_its_really/)
 - 2026-05-01T08:45:26+00:00 — [Living in Turkmenistan: 75% of IPs blocked, 6Mbps max speed. Need Linux & VPN advice for 3D Freelancing.](https://www.reddit.com/r/selfhosted/comments/1t0nq8t/living_in_turkmenistan_75_of_ips_blocked_6mbps/)
-- 2026-05-02T04:32:33+00:00 — [Trailarr v0.9.0 - Plex Integration](https://www.reddit.com/r/selfhosted/comments/1t1fvb8/trailarr_v090_plex_integration/)
-- 2026-05-02T08:27:29+00:00 — [Rebuild self-hosting from scratch, setup advice](https://www.reddit.com/r/selfhosted/comments/1t1k3n3/rebuild_selfhosting_from_scratch_setup_advice/)
 - 2026-05-01T19:40:27+00:00 — [What are the legitimate risks of port forwarding?](https://www.reddit.com/r/selfhosted/comments/1t13o9x/what_are_the_legitimate_risks_of_port_forwarding/)
 - 2026-05-01T23:48:28+00:00 — [ProxTagger 1.4 - Bulk manage/backup and auto-tag your Proxmox VMs/Containers (the metadata PBS doesn't back up)](https://www.reddit.com/r/selfhosted/comments/1t19w91/proxtagger_14_bulk_managebackup_and_autotag_your/)
 - 2026-05-01T21:44:40+00:00 — [Started 2 weeks ago, maybe got a little addicted](https://www.reddit.com/r/selfhosted/comments/1t16ydc/started_2_weeks_ago_maybe_got_a_little_addicted/)
@@ -27,10 +42,6 @@ Last update: 2026-05-02 08:55 UTC
 - 2026-05-01T08:20:11+00:00 — [Journal v1.0: simple self-hosted journalling, single binary, SQLite, no accounts](https://www.reddit.com/r/selfhosted/comments/1t0najf/journal_v10_simple_selfhosted_journalling_single/)
 - 2026-05-01T17:35:36+00:00 — [Docker Compose Backups](https://www.reddit.com/r/selfhosted/comments/1t107k7/docker_compose_backups/)
 - 2026-05-01T10:30:54+00:00 — [Archived Emails](https://www.reddit.com/r/selfhosted/comments/1t0pl5n/archived_emails/)
-- 2026-05-01T17:34:56+00:00 — [Is "building a Docker image" during the CI pipeline considered a best practice?](https://www.reddit.com/r/devops/comments/1t106xt/is_building_a_docker_image_during_the_ci_pipeline/)
-- 2026-05-01T15:26:46+00:00 — [Project Yellow Olive - Pokemon Yellow inspired Kubernetes TUI game](https://www.reddit.com/r/devops/comments/1t0wlmr/project_yellow_olive_pokemon_yellow_inspired/)
-- 2026-05-01T22:39:10+00:00 — [Mookbars - Self-contained bookmarks page generator from environment variables](https://www.reddit.com/r/devops/comments/1t18aab/mookbars_selfcontained_bookmarks_page_generator/)
-- 2026-04-30T17:47:04+00:00 — [Does anyone have experience with self-hosting gitlab runners](https://www.reddit.com/r/devops/comments/1t03ibi/does_anyone_have_experience_with_selfhosting/)
 - 2026-05-01T10:32:28+00:00 — [DevOps Engineer looking to transition — what’s the next high-growth role?](https://www.reddit.com/r/devops/comments/1t0pm7y/devops_engineer_looking_to_transition_whats_the/)
 - 2026-04-30T17:38:33+00:00 — [Need guidance switching to DevOps (7 months experience, not a fresher, but getting rejected everywhere)](https://www.reddit.com/r/devops/comments/1t039nl/need_guidance_switching_to_devops_7_months/)
 - 2026-04-29T19:25:37+00:00 — [Need some Advice regarding upskilling and job switch as a CloudOps Engineer ( GCP )](https://www.reddit.com/r/devops/comments/1sz8wzk/need_some_advice_regarding_upskilling_and_job/)
@@ -96,15 +107,4 @@ Last update: 2026-05-02 08:55 UTC
 - Sun, 12 Apr 2026 12:28:57 +0000 — [Tell HN: Docker pull fails in Spain due to football Cloudflare block](https://news.ycombinator.com/item?id=47738883)
 - Sun, 12 Apr 2026 08:24:04 +0000 — [Roslyn-Powered C# Analysis, Real NuGet DLL Reflection, and Safe Live File Editing for Claude — Privately, On Your Machine via MCP](https://dev.to/prashant_patil_9e62d3fa8a/roslyn-powered-c-analysis-real-nuget-dll-reflection-and-safe-live-file-editing-for-claude--3g48)
 - Sun, 12 Apr 2026 08:01:36 +0000 — [How to Set Up SSO Authentication in Your App's Admin Panel](https://dev.to/soldatov-ss/how-to-set-up-sso-authentication-in-your-apps-admin-panel-36k3)
-- Sun, 12 Apr 2026 07:52:39 +0000 — [JSON vs JSONB in PostgreSQL: I tested 1M rows to find ou](https://dev.to/ineron/json-vs-jsonb-in-postgresql-i-tested-1m-rows-to-find-ou-3cdj)
-- 2026-04-09T22:01:15+00:00 — [New Project Megathread - Week of 09 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1sh3rjs/new_project_megathread_week_of_09_apr_2026/)
-- 2026-04-11T20:16:23+00:00 — [Built a homelab from old, forgotten hardware during recovery. This is where it ended up (4–5 months later)](https://www.reddit.com/r/selfhosted/comments/1sitp0y/built_a_homelab_from_old_forgotten_hardware/)
-- 2026-04-11T09:18:22+00:00 — [Borg UI just hit 1,000+ stars and 2.0 is here - Web interface for BorgBackup](https://www.reddit.com/r/selfhosted/comments/1sie9qy/borg_ui_just_hit_1000_stars_and_20_is_here_web/)
-- 2026-04-11T06:34:19+00:00 — [tududi v1.0.0 is out! - your calm, open system for life and work](https://www.reddit.com/r/selfhosted/comments/1sibhqs/tududi_v100_is_out_your_calm_open_system_for_life/)
-- 2026-04-11T16:44:58+00:00 — [Server died. Rebuild with Docker again or switch to Proxmox?](https://www.reddit.com/r/selfhosted/comments/1sio2nr/server_died_rebuild_with_docker_again_or_switch/)
-- 2026-04-11T17:40:17+00:00 — [High memory usage Jellyfin](https://www.reddit.com/r/selfhosted/comments/1sipjy6/high_memory_usage_jellyfin/)
-- 2026-04-12T03:33:45+00:00 — [Intel Battlemage Docker Images - Frigate & FileFlows](https://www.reddit.com/r/selfhosted/comments/1sj3h5j/intel_battlemage_docker_images_frigate_fileflows/)
-- 2026-04-11T23:30:38+00:00 — [Upgrading from a Raspberry Pi 4 to an Optiplex: looking for advice](https://www.reddit.com/r/selfhosted/comments/1siyctk/upgrading_from_a_raspberry_pi_4_to_an_optiplex/)
-- 2026-04-11T04:29:44+00:00 — [Experience with self hosting 2026](https://www.reddit.com/r/selfhosted/comments/1si97ad/experience_with_self_hosting_2026/)
-- 2026-04-11T00:33:09+00:00 — [Intelligent Music Discovery & Automation Platform](https://www.reddit.com/r/selfhosted/comments/1si47o7/intelligent_music_discovery_automation_platform/)
 <!-- NEWS END -->
