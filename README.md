@@ -2,15 +2,33 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-04 10:03 UTC
+Last update: 2026-05-05 09:49 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 04 May 2026 09:36:21 +0000 — [WinkTerm: AI That Shares Your Terminal Session (Not Just Command Suggestions)](https://dev.to/cznorth/winkterm-ai-that-shares-your-terminal-session-not-just-command-suggestions-8p9)
+- Tue, 05 May 2026 09:38:38 +0000 — [Postmortem: How a Corrupted Node Modules Folder Caused 3-Hour Outage for Our CI Pipeline](https://dev.to/johalputt/postmortem-how-a-corrupted-node-modules-folder-caused-3-hour-outage-for-our-ci-pipeline-2fnm)
+- Tue, 05 May 2026 09:37:15 +0000 — [Day 91 of #100DaysOfCode — DevCollab: Next.js Setup and Authentication](https://dev.to/m_saad_ahmad/day-91-of-100daysofcode-devcollab-nextjs-setup-and-authentication-4plo)
+- Tue, 05 May 2026 09:32:34 +0000 — [Enterprise Architecture Diagrams That Actually Scale](https://dev.to/karan_kumar_f09865ff0efe9/enterprise-architecture-diagrams-that-actually-scale-33b7)
+- Tue, 05 May 2026 09:24:26 +0000 — [🏛️ The System Design Playbook 📖](https://dev.to/truongpx396/the-system-design-playbook-3g2a)
 - 2026-04-30T22:01:10+00:00 — [New Project Megathread - Week of 30 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1t0ag05/new_project_megathread_week_of_30_apr_2026/)
+- 2026-05-04T15:31:12+00:00 — [PSA for anyone not using LXCs on Proxmox](https://www.reddit.com/r/selfhosted/comments/1t3l3zu/psa_for_anyone_not_using_lxcs_on_proxmox/)
 - 2026-05-04T08:06:35+00:00 — [n8n + Paperless-ngx + Paperless-GPT for adding RAG to your documents!](https://www.reddit.com/r/selfhosted/comments/1t3ba9r/n8n_paperlessngx_paperlessgpt_for_adding_rag_to/)
+- 2026-05-05T08:29:17+00:00 — [[Help] Best practice for IPv6 with Docker, Traefik, and OPNsense (/56 Prefix Delegation)](https://www.reddit.com/r/selfhosted/comments/1t49cnr/help_best_practice_for_ipv6_with_docker_traefik/)
 - 2026-05-04T06:49:19+00:00 — [Speakr v0.8.19 - Local audio/video transcription app update](https://www.reddit.com/r/selfhosted/comments/1t39ziv/speakr_v0819_local_audiovideo_transcription_app/)
+- 2026-05-05T00:14:39+00:00 — [Need help with hosting on local network](https://www.reddit.com/r/selfhosted/comments/1t3zh9d/need_help_with_hosting_on_local_network/)
+- 2026-05-05T02:53:10+00:00 — [acme.sh renewal error?](https://www.reddit.com/r/selfhosted/comments/1t4334v/acmesh_renewal_error/)
+- 2026-05-05T06:30:47+00:00 — [Stash app: images are gone after some changes, how to get them back?](https://www.reddit.com/r/selfhosted/comments/1t47d5n/stash_app_images_are_gone_after_some_changes_how/)
+- 2026-05-04T17:20:53+00:00 — [Homelab Architecture Review: IaC, Docker on LXC, and Service Isolation](https://www.reddit.com/r/selfhosted/comments/1t3o9yt/homelab_architecture_review_iac_docker_on_lxc_and/)
+- 2026-05-04T21:18:26+00:00 — [Issue with kubernetes and longhorn](https://www.reddit.com/r/selfhosted/comments/1t3v2tw/issue_with_kubernetes_and_longhorn/)
+- 2026-05-04T18:52:20+00:00 — [Help a beginner](https://www.reddit.com/r/selfhosted/comments/1t3qx6j/help_a_beginner/)
+- 2026-05-05T01:21:21+00:00 — [Any self-hosted/FOSS log fingerprinting/anomaly pipelines?](https://www.reddit.com/r/devops/comments/1t40zwx/any_selfhostedfoss_log_fingerprintinganomaly/)
+- 2026-05-04T02:58:52+00:00 — [How to monitor your Kubernetes cluster with the OpenTelemetry Collector using the agent + gateway pattern](https://www.reddit.com/r/devops/comments/1t35mos/how_to_monitor_your_kubernetes_cluster_with_the/)
+- 2026-05-03T16:28:34+00:00 — [Radar, the “yet another Kubernetes UI” project, now at 1.4k stars after a couple of months](https://www.reddit.com/r/devops/comments/1t2q3pj/radar_the_yet_another_kubernetes_ui_project_now/)
+- 2026-05-04T18:18:28+00:00 — [How do I start with DevOps](https://www.reddit.com/r/devops/comments/1t3pxzq/how_do_i_start_with_devops/)
+- 2026-05-04T14:25:51+00:00 — [K8S at first or not ? Clickhouse or Loki for logs ?](https://www.reddit.com/r/devops/comments/1t3j9p0/k8s_at_first_or_not_clickhouse_or_loki_for_logs/)
+- 2026-05-03T19:18:44+00:00 — [Is Docker still used in industry or is orchestration the way to go?](https://www.reddit.com/r/devops/comments/1t2uq6h/is_docker_still_used_in_industry_or_is/)
+- Mon, 04 May 2026 09:36:21 +0000 — [WinkTerm: AI That Shares Your Terminal Session (Not Just Command Suggestions)](https://dev.to/cznorth/winkterm-ai-that-shares-your-terminal-session-not-just-command-suggestions-8p9)
 - 2026-05-04T03:58:18+00:00 — [I spent way too long colour-matching my Homepage iframes...](https://www.reddit.com/r/selfhosted/comments/1t36tz5/i_spent_way_too_long_colourmatching_my_homepage/)
 - 2026-05-04T09:14:54+00:00 — [Self hosting for the first time (any tips and advice?)](https://www.reddit.com/r/selfhosted/comments/1t3cfdy/self_hosting_for_the_first_time_any_tips_and/)
 - 2026-05-04T08:58:49+00:00 — [Postiz Self-Hosted - All working, but API access does not](https://www.reddit.com/r/selfhosted/comments/1t3c56l/postiz_selfhosted_all_working_but_api_access_does/)
@@ -20,9 +38,6 @@ Last update: 2026-05-04 10:03 UTC
 - 2026-05-04T07:00:20+00:00 — [Arr Stack Question?](https://www.reddit.com/r/selfhosted/comments/1t3a68e/arr_stack_question/)
 - 2026-05-03T21:40:42+00:00 — [Selfhosting for expats who frequently move?](https://www.reddit.com/r/selfhosted/comments/1t2yfyg/selfhosting_for_expats_who_frequently_move/)
 - 2026-05-03T05:12:11+00:00 — [Do I need to worry about security if only exposing HTTP/HTTPs?](https://www.reddit.com/r/selfhosted/comments/1t2c9ac/do_i_need_to_worry_about_security_if_only/)
-- 2026-05-04T02:58:52+00:00 — [How to monitor your Kubernetes cluster with the OpenTelemetry Collector using the agent + gateway pattern](https://www.reddit.com/r/devops/comments/1t35mos/how_to_monitor_your_kubernetes_cluster_with_the/)
-- 2026-05-03T16:28:34+00:00 — [Radar, the “yet another Kubernetes UI” project, now at 1.4k stars after a couple of months](https://www.reddit.com/r/devops/comments/1t2q3pj/radar_the_yet_another_kubernetes_ui_project_now/)
-- 2026-05-03T19:18:44+00:00 — [Is Docker still used in industry or is orchestration the way to go?](https://www.reddit.com/r/devops/comments/1t2uq6h/is_docker_still_used_in_industry_or_is/)
 - 2026-05-03T15:02:40+00:00 — [4 YOE DevOps Engineer — Can someone review my resume? A senior told me I need 3+ pages to get offers but I kept it to 2 . can some give any suggestions on this.](https://www.reddit.com/r/devops/comments/1t2nu5b/4_yoe_devops_engineer_can_someone_review_my/)
 - 2026-05-01T17:34:56+00:00 — [Is "building a Docker image" during the CI pipeline considered a best practice?](https://www.reddit.com/r/devops/comments/1t106xt/is_building_a_docker_image_during_the_ci_pipeline/)
 - 2026-05-02T21:41:08+00:00 — [Looking for hands-on DevOps experience — happy to contribute to real projects](https://www.reddit.com/r/devops/comments/1t22o93/looking_for_handson_devops_experience_happy_to/)
@@ -92,19 +107,4 @@ Last update: 2026-05-04 10:03 UTC
 - 2026-04-28T21:17:08+00:00 — [Looking for selfhosted IPv6- compatible remote access software](https://www.reddit.com/r/selfhosted/comments/1syekyk/looking_for_selfhosted_ipv6_compatible_remote/)
 - 2026-04-29T05:00:55+00:00 — [Searxng Valkey can not connect](https://www.reddit.com/r/selfhosted/comments/1syp1a0/searxng_valkey_can_not_connect/)
 - 2026-04-29T08:45:37+00:00 — [Llevo un año montando mi homelab con ZimaBlade + Proxmox y acabo de lanzar un blog para documentarlo todo](https://www.reddit.com/r/selfhosted/comments/1syt21m/llevo_un_año_montando_mi_homelab_con_zimablade/)
-- 2026-04-27T20:06:58+00:00 — [Where to find project based work in EU ?](https://www.reddit.com/r/devops/comments/1sxf2rc/where_to_find_project_based_work_in_eu/)
-- 2026-04-26T21:24:58+00:00 — [Self managed Kubernetes vs EKS](https://www.reddit.com/r/devops/comments/1swk39g/self_managed_kubernetes_vs_eks/)
-- 2026-04-27T14:59:39+00:00 — [Visual, step-by-step explainers for how the web actually works.](https://www.reddit.com/r/devops/comments/1sx682p/visual_stepbystep_explainers_for_how_the_web/)
-- Tue, 28 Apr 2026 09:46:47 +0000 — [Production-Ready Docker Setup for Laravel & Filament](https://dev.to/filamentmastery/production-ready-docker-setup-for-laravel-filament-2j9)
-- Tue, 28 Apr 2026 09:45:04 +0000 — [How to Cut Azure Cobalt 100 Costs by 25% with Auto-Scaling and KEDA 2.15](https://dev.to/johalputt/how-to-cut-azure-cobalt-100-costs-by-25-with-auto-scaling-and-keda-215-325c)
-- Tue, 28 Apr 2026 09:42:40 +0000 — [Who Says PHP Isn't Good Enough for OPC UA?](https://dev.to/gianfriaur/who-says-php-isnt-good-enough-for-opc-ua-5ma)
-- Tue, 28 Apr 2026 09:30:38 +0000 — [Why I built Heym instead of extending n8n](https://dev.to/heymrun/why-i-built-heym-instead-of-extending-n8n-5dg2)
-- Mon, 27 Apr 2026 09:56:59 +0000 — [When Feelings Need a Graph How SurrealDB Became the Heart of Our Mental Wellness #SurrealDB #MongoDB #MentalHealthAI #MultiModal](https://dev.to/bapanapalli_praneeta/when-feelings-need-a-graph-how-surrealdb-became-the-heart-of-our-mental-wellness-surrealdb-4db3)
-- Fri, 24 Apr 2026 09:00:03 +0000 — [PostgreSQL: debugging a slow query and optimizing it](https://dev.to/ohugonnot/postgresql-debugging-a-slow-query-and-optimizing-it-56l1)
-- Thu, 23 Apr 2026 01:59:08 +0000 — [Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
-- Wed, 22 Apr 2026 08:51:17 +0000 — [LLMs Don't Fail — Execution Does: Why Agentic AI Needs a Control Layer](https://dev.to/sudarshangouda/llms-dont-fail-execution-does-why-agentic-ai-needs-a-control-layer-29i5)
-- Tue, 21 Apr 2026 09:11:11 +0000 — [SQLite Is All You Need (Until It Isn't) — A Practical Guide](https://dev.to/jarachagent/sqlite-is-all-you-need-until-it-isnt-a-practical-guide-568k)
-- Tue, 21 Apr 2026 09:03:18 +0000 — [Embedded Linux Development - Part 6](https://dev.to/cangulmez/embedded-linux-development-part-6-122k)
-- Mon, 20 Apr 2026 09:18:00 +0000 — [10 Best Open Source Projects Every Developer Should Know (Including One You've Never Heard Of)](https://dev.to/sonotommy/10-best-open-source-projects-every-developer-should-know-including-one-youve-never-heard-of-3a3p)
-- Mon, 20 Apr 2026 09:06:38 +0000 — [I Built an Uptime Monitor in a Weekend — And Saved $180/Year](https://dev.to/benriemer/i-built-an-uptime-monitor-in-a-weekend-and-saved-180year-3f25)
 <!-- NEWS END -->
