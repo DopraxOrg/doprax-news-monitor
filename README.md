@@ -2,16 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-05 09:49 UTC
+Last update: 2026-05-06 10:05 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 06 May 2026 10:00:30 +0000 — [How to Become an AI Engineer from a Java Developer Using Spring AI](https://dev.to/masteringbackend/how-to-become-an-ai-engineer-from-a-java-developer-using-spring-ai-3go7)
+- Wed, 06 May 2026 09:56:09 +0000 — [Run NextDNS and Tailscale together without breaking MagicDNS](https://dev.to/pratikbin/run-nextdns-and-tailscale-together-without-breaking-magicdns-4b06)
+- 2026-04-30T22:01:10+00:00 — [New Project Megathread - Week of 30 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1t0ag05/new_project_megathread_week_of_30_apr_2026/)
+- 2026-05-05T18:56:23+00:00 — [Docker Engine 29 has changed the default image store to containerd, duplicating storage of (compressed) base image layers](https://www.reddit.com/r/selfhosted/comments/1t4otpu/docker_engine_29_has_changed_the_default_image/)
+- 2026-05-05T22:03:22+00:00 — [What are the Risk of running a docker container as root? Specifically sonarr](https://www.reddit.com/r/selfhosted/comments/1t4tydw/what_are_the_risk_of_running_a_docker_container/)
+- 2026-05-05T11:07:29+00:00 — [NPM → Traefik or Caddy: Worth the switch?](https://www.reddit.com/r/selfhosted/comments/1t4c7tt/npm_traefik_or_caddy_worth_the_switch/)
+- 2026-05-06T02:01:53+00:00 — [Portainer: Moving from web editor stack to CI/CD driven stack](https://www.reddit.com/r/selfhosted/comments/1t4zh1o/portainer_moving_from_web_editor_stack_to_cicd/)
+- 2026-05-06T02:46:10+00:00 — [I spent way too long colour-matching my Homepage iframes...](https://www.reddit.com/r/selfhosted/comments/1t50fmw/i_spent_way_too_long_colourmatching_my_homepage/)
+- 2026-05-06T05:43:02+00:00 — [MediaCMS Without Docker?](https://www.reddit.com/r/selfhosted/comments/1t53zdw/mediacms_without_docker/)
+- 2026-05-06T01:52:07+00:00 — [Self-hostable alternative to VisualPing (specifically with prompt-based updating)](https://www.reddit.com/r/selfhosted/comments/1t4z94p/selfhostable_alternative_to_visualping/)
+- 2026-05-06T07:16:36+00:00 — [docker request truncation bug bypasses AuthZ plugins (CVE-2026-34040)](https://www.reddit.com/r/devops/comments/1t55mr0/docker_request_truncation_bug_bypasses_authz/)
+- 2026-05-06T09:10:00+00:00 — [Random ContainersNotReady [build helper] failures on GitLab Kubernetes runners after switching to custom CI Docker image](https://www.reddit.com/r/devops/comments/1t57i9t/random_containersnotready_build_helper_failures/)
+- 2026-05-05T12:35:35+00:00 — [How do you structure DevOps for personal projects?](https://www.reddit.com/r/devops/comments/1t4e5zp/how_do_you_structure_devops_for_personal_projects/)
+- 2026-05-05T13:20:53+00:00 — [Seeking advice on how to approach a complex multi-service webapp](https://www.reddit.com/r/devops/comments/1t4fb4f/seeking_advice_on_how_to_approach_a_complex/)
+- 2026-05-05T13:38:07+00:00 — [Weeks of building cross-repo dependency mapping: Things I got wrong, things I'm still unsure about](https://www.reddit.com/r/devops/comments/1t4fr9r/weeks_of_building_crossrepo_dependency_mapping/)
 - Tue, 05 May 2026 09:38:38 +0000 — [Postmortem: How a Corrupted Node Modules Folder Caused 3-Hour Outage for Our CI Pipeline](https://dev.to/johalputt/postmortem-how-a-corrupted-node-modules-folder-caused-3-hour-outage-for-our-ci-pipeline-2fnm)
 - Tue, 05 May 2026 09:37:15 +0000 — [Day 91 of #100DaysOfCode — DevCollab: Next.js Setup and Authentication](https://dev.to/m_saad_ahmad/day-91-of-100daysofcode-devcollab-nextjs-setup-and-authentication-4plo)
 - Tue, 05 May 2026 09:32:34 +0000 — [Enterprise Architecture Diagrams That Actually Scale](https://dev.to/karan_kumar_f09865ff0efe9/enterprise-architecture-diagrams-that-actually-scale-33b7)
 - Tue, 05 May 2026 09:24:26 +0000 — [🏛️ The System Design Playbook 📖](https://dev.to/truongpx396/the-system-design-playbook-3g2a)
-- 2026-04-30T22:01:10+00:00 — [New Project Megathread - Week of 30 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1t0ag05/new_project_megathread_week_of_30_apr_2026/)
 - 2026-05-04T15:31:12+00:00 — [PSA for anyone not using LXCs on Proxmox](https://www.reddit.com/r/selfhosted/comments/1t3l3zu/psa_for_anyone_not_using_lxcs_on_proxmox/)
 - 2026-05-04T08:06:35+00:00 — [n8n + Paperless-ngx + Paperless-GPT for adding RAG to your documents!](https://www.reddit.com/r/selfhosted/comments/1t3ba9r/n8n_paperlessngx_paperlessgpt_for_adding_rag_to/)
 - 2026-05-05T08:29:17+00:00 — [[Help] Best practice for IPv6 with Docker, Traefik, and OPNsense (/56 Prefix Delegation)](https://www.reddit.com/r/selfhosted/comments/1t49cnr/help_best_practice_for_ipv6_with_docker_traefik/)
@@ -93,18 +107,4 @@ Last update: 2026-05-05 09:49 UTC
 - 2026-04-23T22:01:07+00:00 — [New Project Megathread - Week of 23 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1stwv5b/new_project_megathread_week_of_23_apr_2026/)
 - 2026-04-30T07:53:36+00:00 — [I built a web UI to download Spotify music with metadata, self-hosted via Docker](https://www.reddit.com/r/selfhosted/comments/1szphxm/i_built_a_web_ui_to_download_spotify_music_with/)
 - 2026-04-29T23:09:33+00:00 — [Selfhosted an IRC server](https://www.reddit.com/r/selfhosted/comments/1szes0d/selfhosted_an_irc_server/)
-- 2026-04-29T12:53:38+00:00 — [I’ve spent the past year building my homelab with a ZimaBlade and Proxmox, and I’ve just launched a blog to document everything.](https://www.reddit.com/r/selfhosted/comments/1syxyq3/ive_spent_the_past_year_building_my_homelab_with/)
-- 2026-04-29T09:57:27+00:00 — [How much hardening/security is enough?](https://www.reddit.com/r/selfhosted/comments/1syuagj/how_much_hardeningsecurity_is_enough/)
-- 2026-04-30T01:54:19+00:00 — [Euro office with nextcloud in docker](https://www.reddit.com/r/selfhosted/comments/1sziipq/euro_office_with_nextcloud_in_docker/)
-- 2026-04-28T14:53:40+00:00 — [Multi-tenant observability on two servers: architecture tradeoffs and isolation challenges](https://www.reddit.com/r/devops/comments/1sy3ply/multitenant_observability_on_two_servers/)
-- 2026-04-28T14:03:45+00:00 — [proxy-pkcs11 - TLS forward proxy for PKCS#11 hardware tokens](https://www.reddit.com/r/devops/comments/1sy2dma/proxypkcs11_tls_forward_proxy_for_pkcs11_hardware/)
-- Wed, 29 Apr 2026 09:37:46 +0000 — [Desktop app to generate LLM fine-tuning datasets — got +16pp on HumanEval](https://dev.to/arondaron/desktop-app-to-generate-llm-fine-tuning-datasets-got-16pp-on-humaneval-4ng3)
-- Wed, 29 Apr 2026 09:37:24 +0000 — [Step-by-Step: Migrate Legacy Node.js 20 Apps to Bun 1.2 with TypeScript 5.8 for 40% Faster Startup](https://dev.to/johalputt/step-by-step-migrate-legacy-nodejs-20-apps-to-bun-12-with-typescript-58-for-40-faster-startup-4o2i)
-- Wed, 29 Apr 2026 09:37:09 +0000 — [Building WeRemember in Public — Day 1: Django project setup](https://dev.to/oranguengineer/building-weremember-in-public-day-1-django-project-setup-25ia)
-- Wed, 29 Apr 2026 09:25:13 +0000 — [Webhook Signature Verification (HMAC-SHA256) in Node, Python, Ruby — 2026 Guide](https://dev.to/shotatanikawa/webhook-signature-verification-hmac-sha256-in-node-python-ruby-2026-guide-26m)
-- 2026-04-28T20:51:16+00:00 — [NPMplus + CrowdSec setup, my notes](https://www.reddit.com/r/selfhosted/comments/1sydvmr/npmplus_crowdsec_setup_my_notes/)
-- 2026-04-28T12:09:07+00:00 — [Security question + general newbie behavior](https://www.reddit.com/r/selfhosted/comments/1sxziur/security_question_general_newbie_behavior/)
-- 2026-04-28T21:17:08+00:00 — [Looking for selfhosted IPv6- compatible remote access software](https://www.reddit.com/r/selfhosted/comments/1syekyk/looking_for_selfhosted_ipv6_compatible_remote/)
-- 2026-04-29T05:00:55+00:00 — [Searxng Valkey can not connect](https://www.reddit.com/r/selfhosted/comments/1syp1a0/searxng_valkey_can_not_connect/)
-- 2026-04-29T08:45:37+00:00 — [Llevo un año montando mi homelab con ZimaBlade + Proxmox y acabo de lanzar un blog para documentarlo todo](https://www.reddit.com/r/selfhosted/comments/1syt21m/llevo_un_año_montando_mi_homelab_con_zimablade/)
 <!-- NEWS END -->
