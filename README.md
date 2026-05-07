@@ -2,14 +2,31 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-06 10:05 UTC
+Last update: 2026-05-07 10:11 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 07 May 2026 10:01:48 +0000 — [Building SwiftDeploy: A Self-Writing Infrastructure Tool with OPA Policy Enforcement and Prometheus Observability](https://dev.to/hezekiah_umoh/building-swiftdeploy-a-self-writing-infrastructure-tool-with-opa-policy-enforcement-and-prometheus-2dm1)
+- Thu, 07 May 2026 10:00:00 +0000 — [Stop the Low Memory Killer: Mastering Memory-Efficient RAG on Android with Gemini Nano](https://dev.to/programmingcentral/stop-the-low-memory-killer-mastering-memory-efficient-rag-on-android-with-gemini-nano-5d8e)
+- 2026-04-30T22:01:10+00:00 — [New Project Megathread - Week of 30 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1t0ag05/new_project_megathread_week_of_30_apr_2026/)
+- 2026-05-06T19:13:51+00:00 — [MIT-licensed Sentry + Datadog replacement, self-hosts in ~90 seconds](https://www.reddit.com/r/selfhosted/comments/1t5mr70/mitlicensed_sentry_datadog_replacement_selfhosts/)
+- 2026-05-06T20:45:34+00:00 — [pia-tun - Lightweight PIA + WireGuard container with port forwarding, qBittorrent port sync, and zero leak killswitch](https://www.reddit.com/r/selfhosted/comments/1t5pc19/piatun_lightweight_pia_wireguard_container_with/)
+- 2026-05-06T23:59:59+00:00 — [tailscale alternatives?](https://www.reddit.com/r/selfhosted/comments/1t5ua7g/tailscale_alternatives/)
+- 2026-05-06T22:12:50+00:00 — [PSA: How to actually verify your Gluetun killswitch is working](https://www.reddit.com/r/selfhosted/comments/1t5royz/psa_how_to_actually_verify_your_gluetun/)
+- 2026-05-06T21:20:13+00:00 — [Wednesday Dashboard Post](https://www.reddit.com/r/selfhosted/comments/1t5qa5p/wednesday_dashboard_post/)
+- 2026-05-07T10:01:45+00:00 — [Planning my self-hosted homelab — roast my architecture before I build it](https://www.reddit.com/r/selfhosted/comments/1t65zt3/planning_my_selfhosted_homelab_roast_my/)
+- 2026-05-07T09:49:48+00:00 — [Thinking of ditching cPanel for Mailcow after their spam policies killed my deliverability — anyone made the switch?](https://www.reddit.com/r/selfhosted/comments/1t65red/thinking_of_ditching_cpanel_for_mailcow_after/)
+- 2026-05-06T16:31:44+00:00 — [Do you use Docker health check functionality?](https://www.reddit.com/r/selfhosted/comments/1t5i15z/do_you_use_docker_health_check_functionality/)
+- 2026-05-07T06:31:56+00:00 — [VPN Solution with subnet routing for TVs](https://www.reddit.com/r/selfhosted/comments/1t62eqw/vpn_solution_with_subnet_routing_for_tvs/)
+- 2026-05-06T23:04:38+00:00 — [Rate My Level As a First Year Master Student and suggestion of how to improve](https://www.reddit.com/r/devops/comments/1t5szk2/rate_my_level_as_a_first_year_master_student_and/)
+- 2026-05-06T13:21:13+00:00 — [Which DevOps tool do you think is under-documented for learners?](https://www.reddit.com/r/devops/comments/1t5crpi/which_devops_tool_do_you_think_is_underdocumented/)
+- 2026-05-06T07:16:36+00:00 — [docker request truncation bug bypasses AuthZ plugins (CVE-2026-34040)](https://www.reddit.com/r/devops/comments/1t55mr0/docker_request_truncation_bug_bypasses_authz/)
+- 2026-05-06T09:10:00+00:00 — [Random ContainersNotReady [build helper] failures on GitLab Kubernetes runners after switching to custom CI Docker image](https://www.reddit.com/r/devops/comments/1t57i9t/random_containersnotready_build_helper_failures/)
+- 2026-05-05T12:35:35+00:00 — [How do you structure DevOps for personal projects?](https://www.reddit.com/r/devops/comments/1t4e5zp/how_do_you_structure_devops_for_personal_projects/)
+- 2026-05-05T13:20:53+00:00 — [Seeking advice on how to approach a complex multi-service webapp](https://www.reddit.com/r/devops/comments/1t4fb4f/seeking_advice_on_how_to_approach_a_complex/)
 - Wed, 06 May 2026 10:00:30 +0000 — [How to Become an AI Engineer from a Java Developer Using Spring AI](https://dev.to/masteringbackend/how-to-become-an-ai-engineer-from-a-java-developer-using-spring-ai-3go7)
 - Wed, 06 May 2026 09:56:09 +0000 — [Run NextDNS and Tailscale together without breaking MagicDNS](https://dev.to/pratikbin/run-nextdns-and-tailscale-together-without-breaking-magicdns-4b06)
-- 2026-04-30T22:01:10+00:00 — [New Project Megathread - Week of 30 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1t0ag05/new_project_megathread_week_of_30_apr_2026/)
 - 2026-05-05T18:56:23+00:00 — [Docker Engine 29 has changed the default image store to containerd, duplicating storage of (compressed) base image layers](https://www.reddit.com/r/selfhosted/comments/1t4otpu/docker_engine_29_has_changed_the_default_image/)
 - 2026-05-05T22:03:22+00:00 — [What are the Risk of running a docker container as root? Specifically sonarr](https://www.reddit.com/r/selfhosted/comments/1t4tydw/what_are_the_risk_of_running_a_docker_container/)
 - 2026-05-05T11:07:29+00:00 — [NPM → Traefik or Caddy: Worth the switch?](https://www.reddit.com/r/selfhosted/comments/1t4c7tt/npm_traefik_or_caddy_worth_the_switch/)
@@ -17,10 +34,6 @@ Last update: 2026-05-06 10:05 UTC
 - 2026-05-06T02:46:10+00:00 — [I spent way too long colour-matching my Homepage iframes...](https://www.reddit.com/r/selfhosted/comments/1t50fmw/i_spent_way_too_long_colourmatching_my_homepage/)
 - 2026-05-06T05:43:02+00:00 — [MediaCMS Without Docker?](https://www.reddit.com/r/selfhosted/comments/1t53zdw/mediacms_without_docker/)
 - 2026-05-06T01:52:07+00:00 — [Self-hostable alternative to VisualPing (specifically with prompt-based updating)](https://www.reddit.com/r/selfhosted/comments/1t4z94p/selfhostable_alternative_to_visualping/)
-- 2026-05-06T07:16:36+00:00 — [docker request truncation bug bypasses AuthZ plugins (CVE-2026-34040)](https://www.reddit.com/r/devops/comments/1t55mr0/docker_request_truncation_bug_bypasses_authz/)
-- 2026-05-06T09:10:00+00:00 — [Random ContainersNotReady [build helper] failures on GitLab Kubernetes runners after switching to custom CI Docker image](https://www.reddit.com/r/devops/comments/1t57i9t/random_containersnotready_build_helper_failures/)
-- 2026-05-05T12:35:35+00:00 — [How do you structure DevOps for personal projects?](https://www.reddit.com/r/devops/comments/1t4e5zp/how_do_you_structure_devops_for_personal_projects/)
-- 2026-05-05T13:20:53+00:00 — [Seeking advice on how to approach a complex multi-service webapp](https://www.reddit.com/r/devops/comments/1t4fb4f/seeking_advice_on_how_to_approach_a_complex/)
 - 2026-05-05T13:38:07+00:00 — [Weeks of building cross-repo dependency mapping: Things I got wrong, things I'm still unsure about](https://www.reddit.com/r/devops/comments/1t4fr9r/weeks_of_building_crossrepo_dependency_mapping/)
 - Tue, 05 May 2026 09:38:38 +0000 — [Postmortem: How a Corrupted Node Modules Folder Caused 3-Hour Outage for Our CI Pipeline](https://dev.to/johalputt/postmortem-how-a-corrupted-node-modules-folder-caused-3-hour-outage-for-our-ci-pipeline-2fnm)
 - Tue, 05 May 2026 09:37:15 +0000 — [Day 91 of #100DaysOfCode — DevCollab: Next.js Setup and Authentication](https://dev.to/m_saad_ahmad/day-91-of-100daysofcode-devcollab-nextjs-setup-and-authentication-4plo)
@@ -94,17 +107,4 @@ Last update: 2026-05-06 10:05 UTC
 - 2026-04-30T16:12:03+00:00 — [Pangolin 1.18: Web proxy through VPN, high availability client routing, wildcard resources, alerts, and more](https://www.reddit.com/r/selfhosted/comments/1t00urv/pangolin_118_web_proxy_through_vpn_high/)
 - 2026-04-30T19:18:58+00:00 — [How I got my homelab to a fully declarative state with Terraform + Komodo + Gitea + Infisical + PocketID — and had to build a missing piece myself](https://www.reddit.com/r/selfhosted/comments/1t0632g/how_i_got_my_homelab_to_a_fully_declarative_state/)
 - 2026-05-01T06:52:42+00:00 — [Guidance with tailscale + coolify + cloudflare](https://www.reddit.com/r/selfhosted/comments/1t0lrjd/guidance_with_tailscale_coolify_cloudflare/)
-- 2026-05-01T07:13:21+00:00 — [[Help] Docker Nextcloud update stuck on old version (33.0.2) – Compose logs say "Skipped"](https://www.reddit.com/r/selfhosted/comments/1t0m4xs/help_docker_nextcloud_update_stuck_on_old_version/)
-- 2026-05-01T06:25:40+00:00 — [Can anyone explain how to self-host Piped to an idiot?](https://www.reddit.com/r/selfhosted/comments/1t0la8g/can_anyone_explain_how_to_selfhost_piped_to_an/)
-- 2026-04-29T15:50:30+00:00 — [Hound - A Media Server Alternative to Plex/Jellyfin + Stremio](https://www.reddit.com/r/selfhosted/comments/1sz2r37/hound_a_media_server_alternative_to_plexjellyfin/)
-- 2026-04-29T15:44:24+00:00 — [Do you keep your docker containers running 24/7](https://www.reddit.com/r/selfhosted/comments/1sz2kur/do_you_keep_your_docker_containers_running_247/)
-- 2026-04-30T12:09:03+00:00 — [Built a rust dashboard to stop giving SSH keys just for service restarts](https://www.reddit.com/r/devops/comments/1szu8dj/built_a_rust_dashboard_to_stop_giving_ssh_keys/)
-- 2026-04-30T19:36:50+00:00 — [Does anyone have good ideas for Docker alternatives?](https://www.reddit.com/r/devops/comments/1t06ksr/does_anyone_have_good_ideas_for_docker/)
-- 2026-04-29T14:24:04+00:00 — [Need some ideas about my job situation as mid-level engineer](https://www.reddit.com/r/devops/comments/1sz0c07/need_some_ideas_about_my_job_situation_as/)
-- 2026-04-29T05:24:24+00:00 — [What is a tool or practice you adopted that quietly made your team more functional?](https://www.reddit.com/r/devops/comments/1syphf3/what_is_a_tool_or_practice_you_adopted_that/)
-- Thu, 30 Apr 2026 09:38:40 +0000 — [vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)](https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k)
-- Thu, 30 Apr 2026 09:37:13 +0000 — [Building a Production DevOps Agent: From Slack to Kubernetes](https://dev.to/javieraguilarai/building-a-production-devops-agent-from-slack-to-kubernetes-33d1)
-- 2026-04-23T22:01:07+00:00 — [New Project Megathread - Week of 23 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1stwv5b/new_project_megathread_week_of_23_apr_2026/)
-- 2026-04-30T07:53:36+00:00 — [I built a web UI to download Spotify music with metadata, self-hosted via Docker](https://www.reddit.com/r/selfhosted/comments/1szphxm/i_built_a_web_ui_to_download_spotify_music_with/)
-- 2026-04-29T23:09:33+00:00 — [Selfhosted an IRC server](https://www.reddit.com/r/selfhosted/comments/1szes0d/selfhosted_an_irc_server/)
 <!-- NEWS END -->
