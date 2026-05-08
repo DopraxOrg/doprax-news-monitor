@@ -2,26 +2,34 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-07 10:11 UTC
+Last update: 2026-05-08 09:02 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 08 May 2026 09:01:07 +0000 — [The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9)
+- Fri, 08 May 2026 09:00:18 +0000 — [Using Claude Code with Docker Model Runner](https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo)
+- 2026-05-07T22:01:15+00:00 — [New Project Megathread - Week of 07 May 2026](https://www.reddit.com/r/selfhosted/comments/1t6oy0m/new_project_megathread_week_of_07_may_2026/)
+- 2026-05-08T06:25:22+00:00 — [My free ITSM project continues](https://www.reddit.com/r/selfhosted/comments/1t6zn8g/my_free_itsm_project_continues/)
+- 2026-05-07T19:20:36+00:00 — [Most efficient way to migrate a server into new hardware?](https://www.reddit.com/r/selfhosted/comments/1t6kk97/most_efficient_way_to_migrate_a_server_into_new/)
+- 2026-05-07T21:25:29+00:00 — [Planka - Trying and failing to upgrade planka in portainer (rootless)](https://www.reddit.com/r/selfhosted/comments/1t6o173/planka_trying_and_failing_to_upgrade_planka_in/)
+- 2026-05-06T20:45:34+00:00 — [pia-tun - Lightweight PIA + WireGuard container with port forwarding, qBittorrent port sync, and zero leak killswitch](https://www.reddit.com/r/selfhosted/comments/1t5pc19/piatun_lightweight_pia_wireguard_container_with/)
+- 2026-05-06T23:59:59+00:00 — [tailscale alternatives?](https://www.reddit.com/r/selfhosted/comments/1t5ua7g/tailscale_alternatives/)
+- 2026-05-06T19:13:51+00:00 — [MIT-licensed Sentry + Datadog replacement, self-hosts in ~90 seconds](https://www.reddit.com/r/selfhosted/comments/1t5mr70/mitlicensed_sentry_datadog_replacement_selfhosts/)
+- 2026-05-06T22:12:50+00:00 — [PSA: How to actually verify your Gluetun killswitch is working](https://www.reddit.com/r/selfhosted/comments/1t5royz/psa_how_to_actually_verify_your_gluetun/)
+- 2026-05-07T15:22:56+00:00 — [x509-certificate-exporter just shipped v4](https://www.reddit.com/r/devops/comments/1t6dqe9/x509certificateexporter_just_shipped_v4/)
+- 2026-05-08T02:48:00+00:00 — [Ansible/container workflow](https://www.reddit.com/r/devops/comments/1t6veip/ansiblecontainer_workflow/)
+- 2026-05-06T23:04:38+00:00 — [Rate My Level As a First Year Master Student and suggestion of how to improve](https://www.reddit.com/r/devops/comments/1t5szk2/rate_my_level_as_a_first_year_master_student_and/)
+- 2026-05-06T13:21:13+00:00 — [Which DevOps tool do you think is under-documented for learners?](https://www.reddit.com/r/devops/comments/1t5crpi/which_devops_tool_do_you_think_is_underdocumented/)
+- 2026-05-06T07:16:36+00:00 — [docker request truncation bug bypasses AuthZ plugins (CVE-2026-34040)](https://www.reddit.com/r/devops/comments/1t55mr0/docker_request_truncation_bug_bypasses_authz/)
 - Thu, 07 May 2026 10:01:48 +0000 — [Building SwiftDeploy: A Self-Writing Infrastructure Tool with OPA Policy Enforcement and Prometheus Observability](https://dev.to/hezekiah_umoh/building-swiftdeploy-a-self-writing-infrastructure-tool-with-opa-policy-enforcement-and-prometheus-2dm1)
 - Thu, 07 May 2026 10:00:00 +0000 — [Stop the Low Memory Killer: Mastering Memory-Efficient RAG on Android with Gemini Nano](https://dev.to/programmingcentral/stop-the-low-memory-killer-mastering-memory-efficient-rag-on-android-with-gemini-nano-5d8e)
 - 2026-04-30T22:01:10+00:00 — [New Project Megathread - Week of 30 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1t0ag05/new_project_megathread_week_of_30_apr_2026/)
-- 2026-05-06T19:13:51+00:00 — [MIT-licensed Sentry + Datadog replacement, self-hosts in ~90 seconds](https://www.reddit.com/r/selfhosted/comments/1t5mr70/mitlicensed_sentry_datadog_replacement_selfhosts/)
-- 2026-05-06T20:45:34+00:00 — [pia-tun - Lightweight PIA + WireGuard container with port forwarding, qBittorrent port sync, and zero leak killswitch](https://www.reddit.com/r/selfhosted/comments/1t5pc19/piatun_lightweight_pia_wireguard_container_with/)
-- 2026-05-06T23:59:59+00:00 — [tailscale alternatives?](https://www.reddit.com/r/selfhosted/comments/1t5ua7g/tailscale_alternatives/)
-- 2026-05-06T22:12:50+00:00 — [PSA: How to actually verify your Gluetun killswitch is working](https://www.reddit.com/r/selfhosted/comments/1t5royz/psa_how_to_actually_verify_your_gluetun/)
 - 2026-05-06T21:20:13+00:00 — [Wednesday Dashboard Post](https://www.reddit.com/r/selfhosted/comments/1t5qa5p/wednesday_dashboard_post/)
 - 2026-05-07T10:01:45+00:00 — [Planning my self-hosted homelab — roast my architecture before I build it](https://www.reddit.com/r/selfhosted/comments/1t65zt3/planning_my_selfhosted_homelab_roast_my/)
 - 2026-05-07T09:49:48+00:00 — [Thinking of ditching cPanel for Mailcow after their spam policies killed my deliverability — anyone made the switch?](https://www.reddit.com/r/selfhosted/comments/1t65red/thinking_of_ditching_cpanel_for_mailcow_after/)
 - 2026-05-06T16:31:44+00:00 — [Do you use Docker health check functionality?](https://www.reddit.com/r/selfhosted/comments/1t5i15z/do_you_use_docker_health_check_functionality/)
 - 2026-05-07T06:31:56+00:00 — [VPN Solution with subnet routing for TVs](https://www.reddit.com/r/selfhosted/comments/1t62eqw/vpn_solution_with_subnet_routing_for_tvs/)
-- 2026-05-06T23:04:38+00:00 — [Rate My Level As a First Year Master Student and suggestion of how to improve](https://www.reddit.com/r/devops/comments/1t5szk2/rate_my_level_as_a_first_year_master_student_and/)
-- 2026-05-06T13:21:13+00:00 — [Which DevOps tool do you think is under-documented for learners?](https://www.reddit.com/r/devops/comments/1t5crpi/which_devops_tool_do_you_think_is_underdocumented/)
-- 2026-05-06T07:16:36+00:00 — [docker request truncation bug bypasses AuthZ plugins (CVE-2026-34040)](https://www.reddit.com/r/devops/comments/1t55mr0/docker_request_truncation_bug_bypasses_authz/)
 - 2026-05-06T09:10:00+00:00 — [Random ContainersNotReady [build helper] failures on GitLab Kubernetes runners after switching to custom CI Docker image](https://www.reddit.com/r/devops/comments/1t57i9t/random_containersnotready_build_helper_failures/)
 - 2026-05-05T12:35:35+00:00 — [How do you structure DevOps for personal projects?](https://www.reddit.com/r/devops/comments/1t4e5zp/how_do_you_structure_devops_for_personal_projects/)
 - 2026-05-05T13:20:53+00:00 — [Seeking advice on how to approach a complex multi-service webapp](https://www.reddit.com/r/devops/comments/1t4fb4f/seeking_advice_on_how_to_approach_a_complex/)
@@ -99,12 +107,4 @@ Last update: 2026-05-07 10:11 UTC
 - 2026-05-01T17:35:36+00:00 — [Docker Compose Backups](https://www.reddit.com/r/selfhosted/comments/1t107k7/docker_compose_backups/)
 - 2026-05-01T10:30:54+00:00 — [Archived Emails](https://www.reddit.com/r/selfhosted/comments/1t0pl5n/archived_emails/)
 - 2026-05-01T10:32:28+00:00 — [DevOps Engineer looking to transition — what’s the next high-growth role?](https://www.reddit.com/r/devops/comments/1t0pm7y/devops_engineer_looking_to_transition_whats_the/)
-- 2026-04-30T17:38:33+00:00 — [Need guidance switching to DevOps (7 months experience, not a fresher, but getting rejected everywhere)](https://www.reddit.com/r/devops/comments/1t039nl/need_guidance_switching_to_devops_7_months/)
-- 2026-04-29T19:25:37+00:00 — [Need some Advice regarding upskilling and job switch as a CloudOps Engineer ( GCP )](https://www.reddit.com/r/devops/comments/1sz8wzk/need_some_advice_regarding_upskilling_and_job/)
-- Fri, 01 May 2026 09:05:02 +0000 — [tokens are now more expensive than juniors, and less predictable](https://dev.to/pvgomes/tokens-are-now-more-expensive-than-juniors-and-less-predictable-ei5)
-- Fri, 01 May 2026 09:00:10 +0000 — [Modern TypeScript Backends: Hono, ElysiaJS, and What Comes After NestJS](https://dev.to/refaatalktifan/modern-typescript-backends-hono-elysiajs-and-what-comes-after-nestjs-4o2a)
-- Fri, 01 May 2026 08:54:38 +0000 — [The 20,000-line PR that was actually 47 lines: building ClearPR](https://dev.to/vineethnkrishnan/the-20000-line-pr-that-was-actually-47-lines-building-clearpr-3h06)
-- 2026-04-30T16:12:03+00:00 — [Pangolin 1.18: Web proxy through VPN, high availability client routing, wildcard resources, alerts, and more](https://www.reddit.com/r/selfhosted/comments/1t00urv/pangolin_118_web_proxy_through_vpn_high/)
-- 2026-04-30T19:18:58+00:00 — [How I got my homelab to a fully declarative state with Terraform + Komodo + Gitea + Infisical + PocketID — and had to build a missing piece myself](https://www.reddit.com/r/selfhosted/comments/1t0632g/how_i_got_my_homelab_to_a_fully_declarative_state/)
-- 2026-05-01T06:52:42+00:00 — [Guidance with tailscale + coolify + cloudflare](https://www.reddit.com/r/selfhosted/comments/1t0lrjd/guidance_with_tailscale_coolify_cloudflare/)
 <!-- NEWS END -->
