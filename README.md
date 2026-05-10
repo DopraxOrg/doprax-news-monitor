@@ -2,24 +2,38 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-09 09:04 UTC
+Last update: 2026-05-10 09:19 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 09 May 2026 05:52:12 +0000 — [EU Parliamentary Research Service calls VPNs "a loophole that needs closing"](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)
+- Sun, 10 May 2026 08:54:09 +0000 — [Docker containers – How to Think About It (Inception 42 exercise)](https://dev.to/educhigon/docker-containers-how-to-think-about-it-inception-42-exercise-4op9)
+- Sun, 10 May 2026 08:51:08 +0000 — [I built an MCP server for a knowledge graph. It doesn't call any LLM.](https://dev.to/tykolt/i-built-an-mcp-server-for-a-knowledge-graph-it-doesnt-call-any-llm-211b)
+- Sun, 10 May 2026 08:50:36 +0000 — [Running a Tomcat App on ECS Fargate — A Complete Step-by-Step Guide](https://dev.to/1515_1c22035d85e1ae3d/running-a-tomcat-app-on-ecs-fargate-a-complete-step-by-step-guide-36al)
+- Sun, 10 May 2026 08:41:57 +0000 — [Kafka on Kubernetes: Performance Lessons for Any Disk-Heavy Data Service](https://dev.to/yaakovamar/kafka-on-kubernetes-performance-lessons-for-any-disk-heavy-data-service-3bl5)
+- 2026-05-07T22:01:15+00:00 — [New Project Megathread - Week of 07 May 2026](https://www.reddit.com/r/selfhosted/comments/1t6oy0m/new_project_megathread_week_of_07_may_2026/)
+- 2026-05-10T08:02:03+00:00 — [I built a Garage (S3) web UI with OIDC, Helm chart and proper file management](https://www.reddit.com/r/selfhosted/comments/1t90qzh/i_built_a_garage_s3_web_ui_with_oidc_helm_chart/)
+- 2026-05-09T21:08:10+00:00 — [from a hot laptop running immich to actually knowing what im doing (kind of)](https://www.reddit.com/r/selfhosted/comments/1t8n4i7/from_a_hot_laptop_running_immich_to_actually/)
+- 2026-05-10T00:51:05+00:00 — [Excalidraw so far. What i did not found or missed](https://www.reddit.com/r/selfhosted/comments/1t8safi/excalidraw_so_far_what_i_did_not_found_or_missed/)
+- 2026-05-09T17:16:14+00:00 — [Databasement v1.2 - simple database backup solution](https://www.reddit.com/r/selfhosted/comments/1t8awbq/databasement_v12_simple_database_backup_solution/)
+- 2026-05-09T23:01:27+00:00 — [Help! Yet another qbittorrent issue](https://www.reddit.com/r/selfhosted/comments/1t8puly/help_yet_another_qbittorrent_issue/)
+- 2026-05-09T18:55:33+00:00 — [Backup homeserver docker compose stack with restic](https://www.reddit.com/r/selfhosted/comments/1t8dk6q/backup_homeserver_docker_compose_stack_with_restic/)
+- 2026-05-09T00:22:15+00:00 — [Yet Another Crowdsec vs Fail2Ban with Traefik question](https://www.reddit.com/r/selfhosted/comments/1t7pgko/yet_another_crowdsec_vs_fail2ban_with_traefik/)
+- 2026-05-09T19:01:28+00:00 — [ISP port filtering](https://www.reddit.com/r/selfhosted/comments/1t8e00k/isp_port_filtering/)
+- 2026-05-09T17:28:58+00:00 — [Docker images are hundreds of MB; a full game engine compiles to 35MB WASM](https://www.reddit.com/r/devops/comments/1t8b8m4/docker_images_are_hundreds_of_mb_a_full_game/)
+- 2026-05-09T17:50:39+00:00 — [I built Orbit — an open-source modern VPS dashboard that combines metrics, logs, firewall, Docker and deploys in one Go binary](https://www.reddit.com/r/devops/comments/1t8btmh/i_built_orbit_an_opensource_modern_vps_dashboard/)
+- 2026-05-08T15:35:37+00:00 — [**[Collaboration] Building a mock enterprise IT environment on AWS — looking for learning partners**](https://www.reddit.com/r/devops/comments/1t7bh71/collaboration_building_a_mock_enterprise_it/)
+- 2026-05-07T15:22:56+00:00 — [x509-certificate-exporter just shipped v4](https://www.reddit.com/r/devops/comments/1t6dqe9/x509certificateexporter_just_shipped_v4/)
+- 2026-05-08T18:50:00+00:00 — [How do beginners actually start freelancing in DevOps](https://www.reddit.com/r/devops/comments/1t7gzib/how_do_beginners_actually_start_freelancing_in/)
 - Sat, 09 May 2026 05:52:12 +0000 — [EU calls VPNs "a loophole that needs closing" in age verification push](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)
 - Sat, 09 May 2026 08:44:39 +0000 — [Why AI Sandboxing Needs Kubernetes—And Why You Should Care Now](https://dev.to/pratheesh_s/why-ai-sandboxing-needs-kubernetes-and-why-you-should-care-now-5djk)
 - Sat, 09 May 2026 08:43:32 +0000 — [The Central Nervous System: Scaling the Agentic Radar to 24/7 with FastAPI and Webhooks](https://dev.to/datalaria/the-central-nervous-system-scaling-the-agentic-radar-to-247-with-fastapi-and-webhooks-pcg)
-- 2026-05-07T22:01:15+00:00 — [New Project Megathread - Week of 07 May 2026](https://www.reddit.com/r/selfhosted/comments/1t6oy0m/new_project_megathread_week_of_07_may_2026/)
-- 2026-05-09T00:22:15+00:00 — [Yet Another Crowdsec vs Fail2Ban with Traefik question](https://www.reddit.com/r/selfhosted/comments/1t7pgko/yet_another_crowdsec_vs_fail2ban_with_traefik/)
 - 2026-05-08T18:54:11+00:00 — [Cheap gamble m720q](https://www.reddit.com/r/selfhosted/comments/1t7h3l8/cheap_gamble_m720q/)
 - 2026-05-09T05:58:11+00:00 — [Gluetun port fowarding error with qBittorrent](https://www.reddit.com/r/selfhosted/comments/1t7wdwx/gluetun_port_fowarding_error_with_qbittorrent/)
 - 2026-05-09T00:46:00+00:00 — [Pinchflat ytdownloader is creating “write only” download directories.](https://www.reddit.com/r/selfhosted/comments/1t7pzch/pinchflat_ytdownloader_is_creating_write_only/)
 - 2026-05-09T02:02:52+00:00 — [Tell me about your Obscure linux distros you actually use on production servers for self-hosting](https://www.reddit.com/r/selfhosted/comments/1t7rna5/tell_me_about_your_obscure_linux_distros_you/)
 - 2026-05-09T01:33:39+00:00 — [MeshMonitor 4.2.3 - multi-source, Map Analysis, Solar reports](https://www.reddit.com/r/selfhosted/comments/1t7r0li/meshmonitor_423_multisource_map_analysis_solar/)
-- 2026-05-08T15:35:37+00:00 — [**[Collaboration] Building a mock enterprise IT environment on AWS — looking for learning partners**](https://www.reddit.com/r/devops/comments/1t7bh71/collaboration_building_a_mock_enterprise_it/)
-- 2026-05-07T15:22:56+00:00 — [x509-certificate-exporter just shipped v4](https://www.reddit.com/r/devops/comments/1t6dqe9/x509certificateexporter_just_shipped_v4/)
-- 2026-05-08T18:50:00+00:00 — [How do beginners actually start freelancing in DevOps](https://www.reddit.com/r/devops/comments/1t7gzib/how_do_beginners_actually_start_freelancing_in/)
 - 2026-05-08T02:48:00+00:00 — [Ansible/container workflow](https://www.reddit.com/r/devops/comments/1t6veip/ansiblecontainer_workflow/)
 - Fri, 08 May 2026 09:01:07 +0000 — [The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9)
 - Fri, 08 May 2026 09:00:18 +0000 — [Using Claude Code with Docker Model Runner](https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo)
@@ -93,18 +107,4 @@ Last update: 2026-05-09 09:04 UTC
 - Sun, 03 May 2026 09:03:50 +0000 — [Retrospective: Adopting Podman 5 for 1000 Developer Laptops – Security and Productivity Gains](https://dev.to/johalputt/retrospective-adopting-podman-5-for-1000-developer-laptops-security-and-productivity-gains-51m5)
 - 2026-05-03T08:35:04+00:00 — [Self hosting Mozilla's BrowserQuest game](https://www.reddit.com/r/selfhosted/comments/1t2fv7e/self_hosting_mozillas_browserquest_game/)
 - 2026-05-02T01:48:55+00:00 — [Kubernetes is a beast to learn but it's really nice once running](https://www.reddit.com/r/selfhosted/comments/1t1cifp/kubernetes_is_a_beast_to_learn_but_its_really/)
-- 2026-05-02T18:34:10+00:00 — [mTLS vs VPN](https://www.reddit.com/r/selfhosted/comments/1t1xv1f/mtls_vs_vpn/)
-- 2026-05-02T08:27:29+00:00 — [Rebuild self-hosting from scratch, setup advice](https://www.reddit.com/r/selfhosted/comments/1t1k3n3/rebuild_selfhosting_from_scratch_setup_advice/)
-- 2026-05-02T17:25:31+00:00 — [Next Steps?](https://www.reddit.com/r/selfhosted/comments/1t1w14p/next_steps/)
-- 2026-05-03T04:38:03+00:00 — [Setting up a self-hosted ebook library — landing on Kavita, anyone done this?](https://www.reddit.com/r/selfhosted/comments/1t2bmib/setting_up_a_selfhosted_ebook_library_landing_on/)
-- 2026-05-02T04:32:33+00:00 — [Trailarr v0.9.0 - Plex Integration](https://www.reddit.com/r/selfhosted/comments/1t1fvb8/trailarr_v090_plex_integration/)
-- 2026-05-02T23:08:36+00:00 — [fedit — a deterministic CLI + MCP file editor I built after watching LLMs mangle my Terraform/YAML/nginx configs](https://www.reddit.com/r/devops/comments/1t24q5z/fedit_a_deterministic_cli_mcp_file_editor_i_built/)
-- 2026-05-01T22:39:10+00:00 — [Mookbars - Self-contained bookmarks page generator from environment variables](https://www.reddit.com/r/devops/comments/1t18aab/mookbars_selfcontained_bookmarks_page_generator/)
-- 2026-04-30T17:47:04+00:00 — [Does anyone have experience with self-hosting gitlab runners](https://www.reddit.com/r/devops/comments/1t03ibi/does_anyone_have_experience_with_selfhosting/)
-- Sat, 02 May 2026 04:00:42 +0000 — [K3k: Kubernetes in Kubernetes](https://github.com/rancher/k3k)
-- Sat, 02 May 2026 08:36:05 +0000 — [OpenClaw Sandbox vs Approvals vs Tool Policy: Three Different Safety Layers](https://dev.to/hex_agent/openclaw-sandbox-vs-approvals-vs-tool-policy-three-different-safety-layers-5ffn)
-- Sat, 02 May 2026 08:20:46 +0000 — [Cilium network policy kubectl‑capture feature replaced our tcpdump sidecars for debugging](https://dev.to/johalputt/cilium-network-policy-kubectl-capture-feature-replaced-our-tcpdump-sidecars-for-debugging-2dle)
-- Sat, 02 May 2026 08:18:43 +0000 — [Building Your First AI Chatbot with Guardrails](https://dev.to/leo_laish_25120db350ea449/building-your-first-ai-chatbot-with-guardrails-2c14)
-- 2026-05-01T08:45:26+00:00 — [Living in Turkmenistan: 75% of IPs blocked, 6Mbps max speed. Need Linux & VPN advice for 3D Freelancing.](https://www.reddit.com/r/selfhosted/comments/1t0nq8t/living_in_turkmenistan_75_of_ips_blocked_6mbps/)
-- 2026-05-01T19:40:27+00:00 — [What are the legitimate risks of port forwarding?](https://www.reddit.com/r/selfhosted/comments/1t13o9x/what_are_the_legitimate_risks_of_port_forwarding/)
 <!-- NEWS END -->
