@@ -2,18 +2,35 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-10 09:19 UTC
+Last update: 2026-05-11 10:50 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 11 May 2026 10:38:12 +0000 — [AI Cost Optimization: A Simple Guide by Opslyft](https://dev.to/khushi_dubey/ai-cost-optimization-a-simple-guide-by-opslyft-3l52)
+- Mon, 11 May 2026 10:37:14 +0000 — [10 questions before choosing a cloud optimizer](https://dev.to/khushi_dubey/10-questions-before-choosing-a-cloud-optimizer-2695)
+- Mon, 11 May 2026 10:35:27 +0000 — [What is Container Orchestration?](https://dev.to/khushi_dubey/what-is-container-orchestration-4m7k)
+- Mon, 11 May 2026 10:24:03 +0000 — [How to detect when GitHub, AWS, or Discord is down — using a free JSON API](https://dev.to/denis_domino_39c139e9375b/how-to-detect-when-github-aws-or-discord-is-down-using-a-free-json-api-864)
+- 2026-05-07T22:01:15+00:00 — [New Project Megathread - Week of 07 May 2026](https://www.reddit.com/r/selfhosted/comments/1t6oy0m/new_project_megathread_week_of_07_may_2026/)
+- 2026-05-10T23:30:42+00:00 — [AirPipe v4: my self-hosted file transfer is now true peer-to-peer](https://www.reddit.com/r/selfhosted/comments/1t9mdul/airpipe_v4_my_selfhosted_file_transfer_is_now/)
+- 2026-05-10T12:14:33+00:00 — [Girls come and go, Docker Servers stay](https://www.reddit.com/r/selfhosted/comments/1t95c4m/girls_come_and_go_docker_servers_stay/)
+- 2026-05-10T09:28:19+00:00 — [Docker bypasses UFW and exposed my database. Again. Writing this down so I stop forgetting](https://www.reddit.com/r/selfhosted/comments/1t92807/docker_bypasses_ufw_and_exposed_my_database_again/)
+- 2026-05-11T07:05:38+00:00 — [Is FileBrowser Quantum + OIDC safe for sensitive docs?](https://www.reddit.com/r/selfhosted/comments/1t9vouj/is_filebrowser_quantum_oidc_safe_for_sensitive/)
+- 2026-05-11T10:17:51+00:00 — [Sandra: self-hostable graph + vector memory for LLM agents (0.89 on Structured Recall Bench vs 0.25–0.48 for vector stores)](https://www.reddit.com/r/selfhosted/comments/1t9z22z/sandra_selfhostable_graph_vector_memory_for_llm/)
+- 2026-05-11T09:33:34+00:00 — [Storage Layout (Help needed)](https://www.reddit.com/r/selfhosted/comments/1t9y8rx/storage_layout_help_needed/)
+- 2026-05-11T09:22:16+00:00 — [How to archive e-mail? (outlook/hotmail)](https://www.reddit.com/r/selfhosted/comments/1t9y1me/how_to_archive_email_outlookhotmail/)
+- 2026-05-11T09:08:02+00:00 — [Home Server Build - Feedback on Hardware & Software Stack](https://www.reddit.com/r/selfhosted/comments/1t9xsq6/home_server_build_feedback_on_hardware_software/)
+- 2026-05-10T08:02:03+00:00 — [I built a Garage (S3) web UI with OIDC, Helm chart and proper file management](https://www.reddit.com/r/selfhosted/comments/1t90qzh/i_built_a_garage_s3_web_ui_with_oidc_helm_chart/)
+- 2026-05-11T08:45:40+00:00 — [Advice appreciated](https://www.reddit.com/r/devops/comments/1t9xex8/advice_appreciated/)
+- 2026-05-10T19:22:15+00:00 — [learning resources for containerization/Kubernetes](https://www.reddit.com/r/devops/comments/1t9g8yw/learning_resources_for_containerizationkubernetes/)
+- 2026-05-11T06:39:54+00:00 — [Why we stopped pushing to Kubernetes directly and let the cluster pull from Git instead](https://www.reddit.com/r/devops/comments/1t9v804/why_we_stopped_pushing_to_kubernetes_directly_and/)
+- 2026-05-09T17:28:58+00:00 — [Docker images are hundreds of MB; a full game engine compiles to 35MB WASM](https://www.reddit.com/r/devops/comments/1t8b8m4/docker_images_are_hundreds_of_mb_a_full_game/)
+- 2026-05-09T17:50:39+00:00 — [I built Orbit — an open-source modern VPS dashboard that combines metrics, logs, firewall, Docker and deploys in one Go binary](https://www.reddit.com/r/devops/comments/1t8btmh/i_built_orbit_an_opensource_modern_vps_dashboard/)
 - Sat, 09 May 2026 05:52:12 +0000 — [EU Parliamentary Research Service calls VPNs "a loophole that needs closing"](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)
 - Sun, 10 May 2026 08:54:09 +0000 — [Docker containers – How to Think About It (Inception 42 exercise)](https://dev.to/educhigon/docker-containers-how-to-think-about-it-inception-42-exercise-4op9)
 - Sun, 10 May 2026 08:51:08 +0000 — [I built an MCP server for a knowledge graph. It doesn't call any LLM.](https://dev.to/tykolt/i-built-an-mcp-server-for-a-knowledge-graph-it-doesnt-call-any-llm-211b)
 - Sun, 10 May 2026 08:50:36 +0000 — [Running a Tomcat App on ECS Fargate — A Complete Step-by-Step Guide](https://dev.to/1515_1c22035d85e1ae3d/running-a-tomcat-app-on-ecs-fargate-a-complete-step-by-step-guide-36al)
 - Sun, 10 May 2026 08:41:57 +0000 — [Kafka on Kubernetes: Performance Lessons for Any Disk-Heavy Data Service](https://dev.to/yaakovamar/kafka-on-kubernetes-performance-lessons-for-any-disk-heavy-data-service-3bl5)
-- 2026-05-07T22:01:15+00:00 — [New Project Megathread - Week of 07 May 2026](https://www.reddit.com/r/selfhosted/comments/1t6oy0m/new_project_megathread_week_of_07_may_2026/)
-- 2026-05-10T08:02:03+00:00 — [I built a Garage (S3) web UI with OIDC, Helm chart and proper file management](https://www.reddit.com/r/selfhosted/comments/1t90qzh/i_built_a_garage_s3_web_ui_with_oidc_helm_chart/)
 - 2026-05-09T21:08:10+00:00 — [from a hot laptop running immich to actually knowing what im doing (kind of)](https://www.reddit.com/r/selfhosted/comments/1t8n4i7/from_a_hot_laptop_running_immich_to_actually/)
 - 2026-05-10T00:51:05+00:00 — [Excalidraw so far. What i did not found or missed](https://www.reddit.com/r/selfhosted/comments/1t8safi/excalidraw_so_far_what_i_did_not_found_or_missed/)
 - 2026-05-09T17:16:14+00:00 — [Databasement v1.2 - simple database backup solution](https://www.reddit.com/r/selfhosted/comments/1t8awbq/databasement_v12_simple_database_backup_solution/)
@@ -21,8 +38,6 @@ Last update: 2026-05-10 09:19 UTC
 - 2026-05-09T18:55:33+00:00 — [Backup homeserver docker compose stack with restic](https://www.reddit.com/r/selfhosted/comments/1t8dk6q/backup_homeserver_docker_compose_stack_with_restic/)
 - 2026-05-09T00:22:15+00:00 — [Yet Another Crowdsec vs Fail2Ban with Traefik question](https://www.reddit.com/r/selfhosted/comments/1t7pgko/yet_another_crowdsec_vs_fail2ban_with_traefik/)
 - 2026-05-09T19:01:28+00:00 — [ISP port filtering](https://www.reddit.com/r/selfhosted/comments/1t8e00k/isp_port_filtering/)
-- 2026-05-09T17:28:58+00:00 — [Docker images are hundreds of MB; a full game engine compiles to 35MB WASM](https://www.reddit.com/r/devops/comments/1t8b8m4/docker_images_are_hundreds_of_mb_a_full_game/)
-- 2026-05-09T17:50:39+00:00 — [I built Orbit — an open-source modern VPS dashboard that combines metrics, logs, firewall, Docker and deploys in one Go binary](https://www.reddit.com/r/devops/comments/1t8btmh/i_built_orbit_an_opensource_modern_vps_dashboard/)
 - 2026-05-08T15:35:37+00:00 — [**[Collaboration] Building a mock enterprise IT environment on AWS — looking for learning partners**](https://www.reddit.com/r/devops/comments/1t7bh71/collaboration_building_a_mock_enterprise_it/)
 - 2026-05-07T15:22:56+00:00 — [x509-certificate-exporter just shipped v4](https://www.reddit.com/r/devops/comments/1t6dqe9/x509certificateexporter_just_shipped_v4/)
 - 2026-05-08T18:50:00+00:00 — [How do beginners actually start freelancing in DevOps](https://www.reddit.com/r/devops/comments/1t7gzib/how_do_beginners_actually_start_freelancing_in/)
@@ -92,19 +107,4 @@ Last update: 2026-05-10 09:19 UTC
 - 2026-05-04T03:58:18+00:00 — [I spent way too long colour-matching my Homepage iframes...](https://www.reddit.com/r/selfhosted/comments/1t36tz5/i_spent_way_too_long_colourmatching_my_homepage/)
 - 2026-05-04T09:14:54+00:00 — [Self hosting for the first time (any tips and advice?)](https://www.reddit.com/r/selfhosted/comments/1t3cfdy/self_hosting_for_the_first_time_any_tips_and/)
 - 2026-05-04T08:58:49+00:00 — [Postiz Self-Hosted - All working, but API access does not](https://www.reddit.com/r/selfhosted/comments/1t3c56l/postiz_selfhosted_all_working_but_api_access_does/)
-- 2026-05-03T08:08:59+00:00 — [Whats the point in a VPS?](https://www.reddit.com/r/selfhosted/comments/1t2ff9c/whats_the_point_in_a_vps/)
-- 2026-05-04T06:00:04+00:00 — [Self-hosted document & email search: Need a lightweight RAG indexer with hybrid search](https://www.reddit.com/r/selfhosted/comments/1t394qe/selfhosted_document_email_search_need_a/)
-- 2026-05-04T09:57:40+00:00 — [Sanity check: First home server (Jellyfin, Navidrome, Pi-hole). Which refurbished Mini PC and OS?](https://www.reddit.com/r/selfhosted/comments/1t3d632/sanity_check_first_home_server_jellyfin_navidrome/)
-- 2026-05-04T07:00:20+00:00 — [Arr Stack Question?](https://www.reddit.com/r/selfhosted/comments/1t3a68e/arr_stack_question/)
-- 2026-05-03T21:40:42+00:00 — [Selfhosting for expats who frequently move?](https://www.reddit.com/r/selfhosted/comments/1t2yfyg/selfhosting_for_expats_who_frequently_move/)
-- 2026-05-03T05:12:11+00:00 — [Do I need to worry about security if only exposing HTTP/HTTPs?](https://www.reddit.com/r/selfhosted/comments/1t2c9ac/do_i_need_to_worry_about_security_if_only/)
-- 2026-05-03T15:02:40+00:00 — [4 YOE DevOps Engineer — Can someone review my resume? A senior told me I need 3+ pages to get offers but I kept it to 2 . can some give any suggestions on this.](https://www.reddit.com/r/devops/comments/1t2nu5b/4_yoe_devops_engineer_can_someone_review_my/)
-- 2026-05-01T17:34:56+00:00 — [Is "building a Docker image" during the CI pipeline considered a best practice?](https://www.reddit.com/r/devops/comments/1t106xt/is_building_a_docker_image_during_the_ci_pipeline/)
-- 2026-05-02T21:41:08+00:00 — [Looking for hands-on DevOps experience — happy to contribute to real projects](https://www.reddit.com/r/devops/comments/1t22o93/looking_for_handson_devops_experience_happy_to/)
-- 2026-05-01T15:26:46+00:00 — [Project Yellow Olive - Pokemon Yellow inspired Kubernetes TUI game](https://www.reddit.com/r/devops/comments/1t0wlmr/project_yellow_olive_pokemon_yellow_inspired/)
-- 2026-05-02T16:44:39+00:00 — [Where can I find DevOps tutors at an affordable rate?](https://www.reddit.com/r/devops/comments/1t1uy20/where_can_i_find_devops_tutors_at_an_affordable/)
-- Sun, 03 May 2026 09:05:04 +0000 — [Why We Chose Self-Hosted AI Over Cloud for Business Data](https://dev.to/ragleap/why-we-chose-self-hosted-ai-over-cloud-for-business-data-1of7)
-- Sun, 03 May 2026 09:03:50 +0000 — [Retrospective: Adopting Podman 5 for 1000 Developer Laptops – Security and Productivity Gains](https://dev.to/johalputt/retrospective-adopting-podman-5-for-1000-developer-laptops-security-and-productivity-gains-51m5)
-- 2026-05-03T08:35:04+00:00 — [Self hosting Mozilla's BrowserQuest game](https://www.reddit.com/r/selfhosted/comments/1t2fv7e/self_hosting_mozillas_browserquest_game/)
-- 2026-05-02T01:48:55+00:00 — [Kubernetes is a beast to learn but it's really nice once running](https://www.reddit.com/r/selfhosted/comments/1t1cifp/kubernetes_is_a_beast_to_learn_but_its_really/)
 <!-- NEWS END -->
