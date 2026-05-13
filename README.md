@@ -2,13 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-12 10:20 UTC
+Last update: 2026-05-13 10:10 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 13 May 2026 09:38:01 +0000 — [Every AI coding assistant is shipping the same security bugs.](https://dev.to/a-leks/every-ai-coding-assistant-is-shipping-the-same-security-bugs-25oi)
+- Wed, 13 May 2026 09:28:52 +0000 — [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
 - 2026-05-07T22:01:15+00:00 — [New Project Megathread - Week of 07 May 2026](https://www.reddit.com/r/selfhosted/comments/1t6oy0m/new_project_megathread_week_of_07_may_2026/)
+- 2026-05-13T00:21:24+00:00 — [Because we are a self hosting family that's why.](https://www.reddit.com/r/selfhosted/comments/1tbjmet/because_we_are_a_self_hosting_family_thats_why/)
+- 2026-05-13T01:38:10+00:00 — [Best way to block YouTube ads across all devices at home?](https://www.reddit.com/r/selfhosted/comments/1tbld1u/best_way_to_block_youtube_ads_across_all_devices/)
+- 2026-05-13T07:06:25+00:00 — [considering moving home NAS to proxmox](https://www.reddit.com/r/selfhosted/comments/1tbs1qp/considering_moving_home_nas_to_proxmox/)
+- 2026-05-13T08:58:13+00:00 — [Coder (VS Code in the browser) + few good extensions is all I need as my server management console](https://www.reddit.com/r/selfhosted/comments/1tbtz7p/coder_vs_code_in_the_browser_few_good_extensions/)
+- 2026-05-13T05:18:58+00:00 — [Which NAS should I get?](https://www.reddit.com/r/selfhosted/comments/1tbq2ja/which_nas_should_i_get/)
+- 2026-05-13T07:17:44+00:00 — [Mac Mini 2012 for a Self Hosted Newbie](https://www.reddit.com/r/selfhosted/comments/1tbs8x1/mac_mini_2012_for_a_self_hosted_newbie/)
+- 2026-05-12T19:28:34+00:00 — [Self hosting Musicians - What tools are you hosting](https://www.reddit.com/r/selfhosted/comments/1tbc07p/self_hosting_musicians_what_tools_are_you_hosting/)
 - 2026-05-11T23:08:38+00:00 — [Accidentally exposed publicly my entire LAN for 2 weeks](https://www.reddit.com/r/selfhosted/comments/1tajo1n/accidentally_exposed_publicly_my_entire_lan_for_2/)
+- 2026-05-12T10:58:22+00:00 — [RomM Alternatives?](https://www.reddit.com/r/selfhosted/comments/1tay3o2/romm_alternatives/)
+- 2026-05-12T15:40:06+00:00 — [Zero DHT nodes & decreased download rate when using Gluetun & Mullvad](https://www.reddit.com/r/selfhosted/comments/1tb5c7r/zero_dht_nodes_decreased_download_rate_when_using/)
+- 2026-05-13T01:50:53+00:00 — [New to DevOps – What Should I Learn First & What Does Your Daily Work Look Like?](https://www.reddit.com/r/devops/comments/1tblnnp/new_to_devops_what_should_i_learn_first_what_does/)
+- 2026-05-12T23:22:44+00:00 — [CI & Release environments automation](https://www.reddit.com/r/devops/comments/1tbi8o2/ci_release_environments_automation/)
+- 2026-05-12T10:38:21+00:00 — [How do EU companies think about dependency on US hyperscalers?](https://www.reddit.com/r/devops/comments/1taxpi1/how_do_eu_companies_think_about_dependency_on_us/)
+- 2026-05-11T11:09:12+00:00 — [how do you become top 0.1% in devops that gets paid 200k+? (US market)](https://www.reddit.com/r/devops/comments/1ta0297/how_do_you_become_top_01_in_devops_that_gets_paid/)
+- 2026-05-12T23:22:53+00:00 — [Why up-sizing nodes usually doesn't fix Kubernetes P99 spikes](https://www.reddit.com/r/devops/comments/1tbi8s8/why_upsizing_nodes_usually_doesnt_fix_kubernetes/)
+- 2026-05-13T01:28:46+00:00 — [Linux monitoring system in python](https://www.reddit.com/r/devops/comments/1tbl5br/linux_monitoring_system_in_python/)
 - 2026-05-11T17:37:29+00:00 — [Super Productivity v18.5.0 - Focus Mode rework, scheduler improvements, and better planning views](https://www.reddit.com/r/selfhosted/comments/1taafra/super_productivity_v1850_focus_mode_rework/)
 - 2026-05-11T22:08:58+00:00 — [Seeking recommendations for cheap, No-KYC / Offshore VPS providers to host VPNs](https://www.reddit.com/r/selfhosted/comments/1tai6p8/seeking_recommendations_for_cheap_nokyc_offshore/)
 - 2026-05-11T11:34:25+00:00 — [Does your self-hosted hobby pay off?](https://www.reddit.com/r/selfhosted/comments/1ta0lgb/does_your_selfhosted_hobby_pay_off/)
@@ -16,7 +33,6 @@ Last update: 2026-05-12 10:20 UTC
 - 2026-05-10T12:14:33+00:00 — [Girls come and go, Docker Servers stay](https://www.reddit.com/r/selfhosted/comments/1t95c4m/girls_come_and_go_docker_servers_stay/)
 - 2026-05-11T19:04:43+00:00 — [Mac Mini M4 Docker vs OrbStack (network performance)](https://www.reddit.com/r/selfhosted/comments/1tad0my/mac_mini_m4_docker_vs_orbstack_network_performance/)
 - 2026-05-11T07:05:38+00:00 — [Is FileBrowser Quantum + OIDC safe for sensitive docs?](https://www.reddit.com/r/selfhosted/comments/1t9vouj/is_filebrowser_quantum_oidc_safe_for_sensitive/)
-- 2026-05-11T11:09:12+00:00 — [how do you become top 0.1% in devops that gets paid 200k+? (US market)](https://www.reddit.com/r/devops/comments/1ta0297/how_do_you_become_top_01_in_devops_that_gets_paid/)
 - 2026-05-12T03:44:56+00:00 — [DevOps / Kubernetes / OAuth2 Proxy + Keycloak](https://www.reddit.com/r/devops/comments/1tapyei/devops_kubernetes_oauth2_proxy_keycloak/)
 - 2026-05-11T15:19:43+00:00 — [What are the chances of getting a role of cloud/devops engineer as your entry level job ?](https://www.reddit.com/r/devops/comments/1ta6fdy/what_are_the_chances_of_getting_a_role_of/)
 - 2026-05-11T08:45:40+00:00 — [Advice appreciated](https://www.reddit.com/r/devops/comments/1t9xex8/advice_appreciated/)
@@ -91,20 +107,4 @@ Last update: 2026-05-12 10:20 UTC
 - 2026-05-06T02:46:10+00:00 — [I spent way too long colour-matching my Homepage iframes...](https://www.reddit.com/r/selfhosted/comments/1t50fmw/i_spent_way_too_long_colourmatching_my_homepage/)
 - 2026-05-06T05:43:02+00:00 — [MediaCMS Without Docker?](https://www.reddit.com/r/selfhosted/comments/1t53zdw/mediacms_without_docker/)
 - 2026-05-06T01:52:07+00:00 — [Self-hostable alternative to VisualPing (specifically with prompt-based updating)](https://www.reddit.com/r/selfhosted/comments/1t4z94p/selfhostable_alternative_to_visualping/)
-- 2026-05-05T13:38:07+00:00 — [Weeks of building cross-repo dependency mapping: Things I got wrong, things I'm still unsure about](https://www.reddit.com/r/devops/comments/1t4fr9r/weeks_of_building_crossrepo_dependency_mapping/)
-- Tue, 05 May 2026 09:38:38 +0000 — [Postmortem: How a Corrupted Node Modules Folder Caused 3-Hour Outage for Our CI Pipeline](https://dev.to/johalputt/postmortem-how-a-corrupted-node-modules-folder-caused-3-hour-outage-for-our-ci-pipeline-2fnm)
-- Tue, 05 May 2026 09:37:15 +0000 — [Day 91 of #100DaysOfCode — DevCollab: Next.js Setup and Authentication](https://dev.to/m_saad_ahmad/day-91-of-100daysofcode-devcollab-nextjs-setup-and-authentication-4plo)
-- Tue, 05 May 2026 09:32:34 +0000 — [Enterprise Architecture Diagrams That Actually Scale](https://dev.to/karan_kumar_f09865ff0efe9/enterprise-architecture-diagrams-that-actually-scale-33b7)
-- Tue, 05 May 2026 09:24:26 +0000 — [🏛️ The System Design Playbook 📖](https://dev.to/truongpx396/the-system-design-playbook-3g2a)
-- 2026-05-04T15:31:12+00:00 — [PSA for anyone not using LXCs on Proxmox](https://www.reddit.com/r/selfhosted/comments/1t3l3zu/psa_for_anyone_not_using_lxcs_on_proxmox/)
-- 2026-05-04T08:06:35+00:00 — [n8n + Paperless-ngx + Paperless-GPT for adding RAG to your documents!](https://www.reddit.com/r/selfhosted/comments/1t3ba9r/n8n_paperlessngx_paperlessgpt_for_adding_rag_to/)
-- 2026-05-05T08:29:17+00:00 — [[Help] Best practice for IPv6 with Docker, Traefik, and OPNsense (/56 Prefix Delegation)](https://www.reddit.com/r/selfhosted/comments/1t49cnr/help_best_practice_for_ipv6_with_docker_traefik/)
-- 2026-05-04T06:49:19+00:00 — [Speakr v0.8.19 - Local audio/video transcription app update](https://www.reddit.com/r/selfhosted/comments/1t39ziv/speakr_v0819_local_audiovideo_transcription_app/)
-- 2026-05-05T00:14:39+00:00 — [Need help with hosting on local network](https://www.reddit.com/r/selfhosted/comments/1t3zh9d/need_help_with_hosting_on_local_network/)
-- 2026-05-05T02:53:10+00:00 — [acme.sh renewal error?](https://www.reddit.com/r/selfhosted/comments/1t4334v/acmesh_renewal_error/)
-- 2026-05-05T06:30:47+00:00 — [Stash app: images are gone after some changes, how to get them back?](https://www.reddit.com/r/selfhosted/comments/1t47d5n/stash_app_images_are_gone_after_some_changes_how/)
-- 2026-05-04T17:20:53+00:00 — [Homelab Architecture Review: IaC, Docker on LXC, and Service Isolation](https://www.reddit.com/r/selfhosted/comments/1t3o9yt/homelab_architecture_review_iac_docker_on_lxc_and/)
-- 2026-05-04T21:18:26+00:00 — [Issue with kubernetes and longhorn](https://www.reddit.com/r/selfhosted/comments/1t3v2tw/issue_with_kubernetes_and_longhorn/)
-- 2026-05-04T18:52:20+00:00 — [Help a beginner](https://www.reddit.com/r/selfhosted/comments/1t3qx6j/help_a_beginner/)
-- 2026-05-05T01:21:21+00:00 — [Any self-hosted/FOSS log fingerprinting/anomaly pipelines?](https://www.reddit.com/r/devops/comments/1t40zwx/any_selfhostedfoss_log_fingerprintinganomaly/)
 <!-- NEWS END -->
