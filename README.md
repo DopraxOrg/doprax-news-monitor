@@ -2,16 +2,28 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-13 10:10 UTC
+Last update: 2026-05-14 10:02 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 13 May 2026 09:38:01 +0000 — [Every AI coding assistant is shipping the same security bugs.](https://dev.to/a-leks/every-ai-coding-assistant-is-shipping-the-same-security-bugs-25oi)
-- Wed, 13 May 2026 09:28:52 +0000 — [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
+- Thu, 14 May 2026 09:44:33 +0000 — [🚀 Level Up Your Career: GeeksforGeeks Summer SkillUp 2026 is Coming!](https://dev.to/prakhar_doneria/level-up-your-career-geeksforgeeks-summer-skillup-2026-is-coming-4hb1)
+- Thu, 14 May 2026 09:43:02 +0000 — [The Tiny Proxy That Fixed Local Development for Our Multi-Repo Frontend](https://dev.to/subito/the-tiny-proxy-that-fixed-local-development-for-our-multi-repo-frontend-518b)
 - 2026-05-07T22:01:15+00:00 — [New Project Megathread - Week of 07 May 2026](https://www.reddit.com/r/selfhosted/comments/1t6oy0m/new_project_megathread_week_of_07_may_2026/)
 - 2026-05-13T00:21:24+00:00 — [Because we are a self hosting family that's why.](https://www.reddit.com/r/selfhosted/comments/1tbjmet/because_we_are_a_self_hosting_family_thats_why/)
+- 2026-05-13T22:57:08+00:00 — [512MB just to handle logins? I built something better on Rust (and it's free!)](https://www.reddit.com/r/selfhosted/comments/1tcfumz/512mb_just_to_handle_logins_i_built_something/)
+- 2026-05-13T22:30:38+00:00 — [Did my home server just get breached??](https://www.reddit.com/r/selfhosted/comments/1tcf6vv/did_my_home_server_just_get_breached/)
+- 2026-05-13T13:16:42+00:00 — [Custom Dashboard Im finally happy with](https://www.reddit.com/r/selfhosted/comments/1tbzdoc/custom_dashboard_im_finally_happy_with/)
+- 2026-05-14T08:33:17+00:00 — [Whats a better centralized way to manage Docker across Proxmox VMs/Containers ?](https://www.reddit.com/r/selfhosted/comments/1tcrzbi/whats_a_better_centralized_way_to_manage_docker/)
+- 2026-05-14T00:48:39+00:00 — [Are there safe ways without a vpn on my router?](https://www.reddit.com/r/selfhosted/comments/1tcihyd/are_there_safe_ways_without_a_vpn_on_my_router/)
+- 2026-05-14T07:10:12+00:00 — [How do you handle secure remote admin (while away from home)?](https://www.reddit.com/r/selfhosted/comments/1tcqibg/how_do_you_handle_secure_remote_admin_while_away/)
+- 2026-05-13T18:40:08+00:00 — [i do not regret building a nas](https://www.reddit.com/r/selfhosted/comments/1tc8ppj/i_do_not_regret_building_a_nas/)
 - 2026-05-13T01:38:10+00:00 — [Best way to block YouTube ads across all devices at home?](https://www.reddit.com/r/selfhosted/comments/1tbld1u/best_way_to_block_youtube_ads_across_all_devices/)
+- 2026-05-13T01:50:53+00:00 — [New to DevOps – What Should I Learn First & What Does Your Daily Work Look Like?](https://www.reddit.com/r/devops/comments/1tblnnp/new_to_devops_what_should_i_learn_first_what_does/)
+- 2026-05-13T13:58:27+00:00 — [Deployment advice for early stage startup!](https://www.reddit.com/r/devops/comments/1tc0h4j/deployment_advice_for_early_stage_startup/)
+- 2026-05-12T23:22:44+00:00 — [CI & Release environments automation](https://www.reddit.com/r/devops/comments/1tbi8o2/ci_release_environments_automation/)
+- Wed, 13 May 2026 09:38:01 +0000 — [Every AI coding assistant is shipping the same security bugs.](https://dev.to/a-leks/every-ai-coding-assistant-is-shipping-the-same-security-bugs-25oi)
+- Wed, 13 May 2026 09:28:52 +0000 — [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
 - 2026-05-13T07:06:25+00:00 — [considering moving home NAS to proxmox](https://www.reddit.com/r/selfhosted/comments/1tbs1qp/considering_moving_home_nas_to_proxmox/)
 - 2026-05-13T08:58:13+00:00 — [Coder (VS Code in the browser) + few good extensions is all I need as my server management console](https://www.reddit.com/r/selfhosted/comments/1tbtz7p/coder_vs_code_in_the_browser_few_good_extensions/)
 - 2026-05-13T05:18:58+00:00 — [Which NAS should I get?](https://www.reddit.com/r/selfhosted/comments/1tbq2ja/which_nas_should_i_get/)
@@ -20,8 +32,6 @@ Last update: 2026-05-13 10:10 UTC
 - 2026-05-11T23:08:38+00:00 — [Accidentally exposed publicly my entire LAN for 2 weeks](https://www.reddit.com/r/selfhosted/comments/1tajo1n/accidentally_exposed_publicly_my_entire_lan_for_2/)
 - 2026-05-12T10:58:22+00:00 — [RomM Alternatives?](https://www.reddit.com/r/selfhosted/comments/1tay3o2/romm_alternatives/)
 - 2026-05-12T15:40:06+00:00 — [Zero DHT nodes & decreased download rate when using Gluetun & Mullvad](https://www.reddit.com/r/selfhosted/comments/1tb5c7r/zero_dht_nodes_decreased_download_rate_when_using/)
-- 2026-05-13T01:50:53+00:00 — [New to DevOps – What Should I Learn First & What Does Your Daily Work Look Like?](https://www.reddit.com/r/devops/comments/1tblnnp/new_to_devops_what_should_i_learn_first_what_does/)
-- 2026-05-12T23:22:44+00:00 — [CI & Release environments automation](https://www.reddit.com/r/devops/comments/1tbi8o2/ci_release_environments_automation/)
 - 2026-05-12T10:38:21+00:00 — [How do EU companies think about dependency on US hyperscalers?](https://www.reddit.com/r/devops/comments/1taxpi1/how_do_eu_companies_think_about_dependency_on_us/)
 - 2026-05-11T11:09:12+00:00 — [how do you become top 0.1% in devops that gets paid 200k+? (US market)](https://www.reddit.com/r/devops/comments/1ta0297/how_do_you_become_top_01_in_devops_that_gets_paid/)
 - 2026-05-12T23:22:53+00:00 — [Why up-sizing nodes usually doesn't fix Kubernetes P99 spikes](https://www.reddit.com/r/devops/comments/1tbi8s8/why_upsizing_nodes_usually_doesnt_fix_kubernetes/)
@@ -97,14 +107,4 @@ Last update: 2026-05-13 10:10 UTC
 - 2026-05-07T06:31:56+00:00 — [VPN Solution with subnet routing for TVs](https://www.reddit.com/r/selfhosted/comments/1t62eqw/vpn_solution_with_subnet_routing_for_tvs/)
 - 2026-05-06T09:10:00+00:00 — [Random ContainersNotReady [build helper] failures on GitLab Kubernetes runners after switching to custom CI Docker image](https://www.reddit.com/r/devops/comments/1t57i9t/random_containersnotready_build_helper_failures/)
 - 2026-05-05T12:35:35+00:00 — [How do you structure DevOps for personal projects?](https://www.reddit.com/r/devops/comments/1t4e5zp/how_do_you_structure_devops_for_personal_projects/)
-- 2026-05-05T13:20:53+00:00 — [Seeking advice on how to approach a complex multi-service webapp](https://www.reddit.com/r/devops/comments/1t4fb4f/seeking_advice_on_how_to_approach_a_complex/)
-- Wed, 06 May 2026 10:00:30 +0000 — [How to Become an AI Engineer from a Java Developer Using Spring AI](https://dev.to/masteringbackend/how-to-become-an-ai-engineer-from-a-java-developer-using-spring-ai-3go7)
-- Wed, 06 May 2026 09:56:09 +0000 — [Run NextDNS and Tailscale together without breaking MagicDNS](https://dev.to/pratikbin/run-nextdns-and-tailscale-together-without-breaking-magicdns-4b06)
-- 2026-05-05T18:56:23+00:00 — [Docker Engine 29 has changed the default image store to containerd, duplicating storage of (compressed) base image layers](https://www.reddit.com/r/selfhosted/comments/1t4otpu/docker_engine_29_has_changed_the_default_image/)
-- 2026-05-05T22:03:22+00:00 — [What are the Risk of running a docker container as root? Specifically sonarr](https://www.reddit.com/r/selfhosted/comments/1t4tydw/what_are_the_risk_of_running_a_docker_container/)
-- 2026-05-05T11:07:29+00:00 — [NPM → Traefik or Caddy: Worth the switch?](https://www.reddit.com/r/selfhosted/comments/1t4c7tt/npm_traefik_or_caddy_worth_the_switch/)
-- 2026-05-06T02:01:53+00:00 — [Portainer: Moving from web editor stack to CI/CD driven stack](https://www.reddit.com/r/selfhosted/comments/1t4zh1o/portainer_moving_from_web_editor_stack_to_cicd/)
-- 2026-05-06T02:46:10+00:00 — [I spent way too long colour-matching my Homepage iframes...](https://www.reddit.com/r/selfhosted/comments/1t50fmw/i_spent_way_too_long_colourmatching_my_homepage/)
-- 2026-05-06T05:43:02+00:00 — [MediaCMS Without Docker?](https://www.reddit.com/r/selfhosted/comments/1t53zdw/mediacms_without_docker/)
-- 2026-05-06T01:52:07+00:00 — [Self-hostable alternative to VisualPing (specifically with prompt-based updating)](https://www.reddit.com/r/selfhosted/comments/1t4z94p/selfhostable_alternative_to_visualping/)
 <!-- NEWS END -->
