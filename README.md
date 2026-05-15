@@ -2,24 +2,34 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-14 10:02 UTC
+Last update: 2026-05-15 10:10 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 15 May 2026 09:55:49 +0000 — [Building a Post-Quantum E2EE Library: Introducing Paranoia.ts (searching contributors)](https://dev.to/mateocallec/building-a-post-quantum-e2ee-library-introducing-paranoiats-searching-contributors-1em3)
+- 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
+- 2026-05-14T12:53:34+00:00 — [services with actually generous free tiers for open-source projects. my list, what would you add?](https://www.reddit.com/r/selfhosted/comments/1tcxb1b/services_with_actually_generous_free_tiers_for/)
+- 2026-05-15T06:35:41+00:00 — [[HELP!] Can someone Help me Fix This API Error?](https://www.reddit.com/r/selfhosted/comments/1tdo28x/help_can_someone_help_me_fix_this_api_error/)
+- 2026-05-15T08:12:48+00:00 — [My Selfhosted](https://www.reddit.com/r/selfhosted/comments/1tdpt6m/my_selfhosted/)
+- 2026-05-14T08:33:17+00:00 — [Whats a better centralized way to manage Docker across Proxmox VMs/Containers ?](https://www.reddit.com/r/selfhosted/comments/1tcrzbi/whats_a_better_centralized_way_to_manage_docker/)
+- 2026-05-13T22:30:38+00:00 — [Did my home server just get breached??](https://www.reddit.com/r/selfhosted/comments/1tcf6vv/did_my_home_server_just_get_breached/)
+- 2026-05-14T19:26:10+00:00 — [Is this an ideal secure setup?](https://www.reddit.com/r/selfhosted/comments/1td8ixs/is_this_an_ideal_secure_setup/)
+- 2026-05-14T14:46:59+00:00 — [NGINX CVE-2026-42945 (ngx_http_rewrite_module) — patched boundary is 1.30.1 / 1.31.0](https://www.reddit.com/r/devops/comments/1td0es6/nginx_cve202642945_ngx_http_rewrite_module/)
+- 2026-05-15T07:13:53+00:00 — [Beginner in DevOps, review my Bitbucket pipeline (AWS ECR -> EC2)](https://www.reddit.com/r/devops/comments/1tdork6/beginner_in_devops_review_my_bitbucket_pipeline/)
+- 2026-05-14T12:32:50+00:00 — [Should i go for these DevOps courses to start with or youtube only?](https://www.reddit.com/r/devops/comments/1tcwsw1/should_i_go_for_these_devops_courses_to_start/)
+- 2026-05-14T14:39:33+00:00 — [Built a self-hosted operational alert system for Linux & Docker (looking for feedback)](https://www.reddit.com/r/devops/comments/1td072o/built_a_selfhosted_operational_alert_system_for/)
+- 2026-05-13T01:50:53+00:00 — [New to DevOps – What Should I Learn First & What Does Your Daily Work Look Like?](https://www.reddit.com/r/devops/comments/1tblnnp/new_to_devops_what_should_i_learn_first_what_does/)
 - Thu, 14 May 2026 09:44:33 +0000 — [🚀 Level Up Your Career: GeeksforGeeks Summer SkillUp 2026 is Coming!](https://dev.to/prakhar_doneria/level-up-your-career-geeksforgeeks-summer-skillup-2026-is-coming-4hb1)
 - Thu, 14 May 2026 09:43:02 +0000 — [The Tiny Proxy That Fixed Local Development for Our Multi-Repo Frontend](https://dev.to/subito/the-tiny-proxy-that-fixed-local-development-for-our-multi-repo-frontend-518b)
 - 2026-05-07T22:01:15+00:00 — [New Project Megathread - Week of 07 May 2026](https://www.reddit.com/r/selfhosted/comments/1t6oy0m/new_project_megathread_week_of_07_may_2026/)
 - 2026-05-13T00:21:24+00:00 — [Because we are a self hosting family that's why.](https://www.reddit.com/r/selfhosted/comments/1tbjmet/because_we_are_a_self_hosting_family_thats_why/)
 - 2026-05-13T22:57:08+00:00 — [512MB just to handle logins? I built something better on Rust (and it's free!)](https://www.reddit.com/r/selfhosted/comments/1tcfumz/512mb_just_to_handle_logins_i_built_something/)
-- 2026-05-13T22:30:38+00:00 — [Did my home server just get breached??](https://www.reddit.com/r/selfhosted/comments/1tcf6vv/did_my_home_server_just_get_breached/)
 - 2026-05-13T13:16:42+00:00 — [Custom Dashboard Im finally happy with](https://www.reddit.com/r/selfhosted/comments/1tbzdoc/custom_dashboard_im_finally_happy_with/)
-- 2026-05-14T08:33:17+00:00 — [Whats a better centralized way to manage Docker across Proxmox VMs/Containers ?](https://www.reddit.com/r/selfhosted/comments/1tcrzbi/whats_a_better_centralized_way_to_manage_docker/)
 - 2026-05-14T00:48:39+00:00 — [Are there safe ways without a vpn on my router?](https://www.reddit.com/r/selfhosted/comments/1tcihyd/are_there_safe_ways_without_a_vpn_on_my_router/)
 - 2026-05-14T07:10:12+00:00 — [How do you handle secure remote admin (while away from home)?](https://www.reddit.com/r/selfhosted/comments/1tcqibg/how_do_you_handle_secure_remote_admin_while_away/)
 - 2026-05-13T18:40:08+00:00 — [i do not regret building a nas](https://www.reddit.com/r/selfhosted/comments/1tc8ppj/i_do_not_regret_building_a_nas/)
 - 2026-05-13T01:38:10+00:00 — [Best way to block YouTube ads across all devices at home?](https://www.reddit.com/r/selfhosted/comments/1tbld1u/best_way_to_block_youtube_ads_across_all_devices/)
-- 2026-05-13T01:50:53+00:00 — [New to DevOps – What Should I Learn First & What Does Your Daily Work Look Like?](https://www.reddit.com/r/devops/comments/1tblnnp/new_to_devops_what_should_i_learn_first_what_does/)
 - 2026-05-13T13:58:27+00:00 — [Deployment advice for early stage startup!](https://www.reddit.com/r/devops/comments/1tc0h4j/deployment_advice_for_early_stage_startup/)
 - 2026-05-12T23:22:44+00:00 — [CI & Release environments automation](https://www.reddit.com/r/devops/comments/1tbi8o2/ci_release_environments_automation/)
 - Wed, 13 May 2026 09:38:01 +0000 — [Every AI coding assistant is shipping the same security bugs.](https://dev.to/a-leks/every-ai-coding-assistant-is-shipping-the-same-security-bugs-25oi)
@@ -97,14 +107,4 @@ Last update: 2026-05-14 10:02 UTC
 - 2026-05-06T23:04:38+00:00 — [Rate My Level As a First Year Master Student and suggestion of how to improve](https://www.reddit.com/r/devops/comments/1t5szk2/rate_my_level_as_a_first_year_master_student_and/)
 - 2026-05-06T13:21:13+00:00 — [Which DevOps tool do you think is under-documented for learners?](https://www.reddit.com/r/devops/comments/1t5crpi/which_devops_tool_do_you_think_is_underdocumented/)
 - 2026-05-06T07:16:36+00:00 — [docker request truncation bug bypasses AuthZ plugins (CVE-2026-34040)](https://www.reddit.com/r/devops/comments/1t55mr0/docker_request_truncation_bug_bypasses_authz/)
-- Thu, 07 May 2026 10:01:48 +0000 — [Building SwiftDeploy: A Self-Writing Infrastructure Tool with OPA Policy Enforcement and Prometheus Observability](https://dev.to/hezekiah_umoh/building-swiftdeploy-a-self-writing-infrastructure-tool-with-opa-policy-enforcement-and-prometheus-2dm1)
-- Thu, 07 May 2026 10:00:00 +0000 — [Stop the Low Memory Killer: Mastering Memory-Efficient RAG on Android with Gemini Nano](https://dev.to/programmingcentral/stop-the-low-memory-killer-mastering-memory-efficient-rag-on-android-with-gemini-nano-5d8e)
-- 2026-04-30T22:01:10+00:00 — [New Project Megathread - Week of 30 Apr 2026](https://www.reddit.com/r/selfhosted/comments/1t0ag05/new_project_megathread_week_of_30_apr_2026/)
-- 2026-05-06T21:20:13+00:00 — [Wednesday Dashboard Post](https://www.reddit.com/r/selfhosted/comments/1t5qa5p/wednesday_dashboard_post/)
-- 2026-05-07T10:01:45+00:00 — [Planning my self-hosted homelab — roast my architecture before I build it](https://www.reddit.com/r/selfhosted/comments/1t65zt3/planning_my_selfhosted_homelab_roast_my/)
-- 2026-05-07T09:49:48+00:00 — [Thinking of ditching cPanel for Mailcow after their spam policies killed my deliverability — anyone made the switch?](https://www.reddit.com/r/selfhosted/comments/1t65red/thinking_of_ditching_cpanel_for_mailcow_after/)
-- 2026-05-06T16:31:44+00:00 — [Do you use Docker health check functionality?](https://www.reddit.com/r/selfhosted/comments/1t5i15z/do_you_use_docker_health_check_functionality/)
-- 2026-05-07T06:31:56+00:00 — [VPN Solution with subnet routing for TVs](https://www.reddit.com/r/selfhosted/comments/1t62eqw/vpn_solution_with_subnet_routing_for_tvs/)
-- 2026-05-06T09:10:00+00:00 — [Random ContainersNotReady [build helper] failures on GitLab Kubernetes runners after switching to custom CI Docker image](https://www.reddit.com/r/devops/comments/1t57i9t/random_containersnotready_build_helper_failures/)
-- 2026-05-05T12:35:35+00:00 — [How do you structure DevOps for personal projects?](https://www.reddit.com/r/devops/comments/1t4e5zp/how_do_you_structure_devops_for_personal_projects/)
 <!-- NEWS END -->
