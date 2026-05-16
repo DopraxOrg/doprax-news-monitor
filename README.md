@@ -2,11 +2,14 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-15 10:10 UTC
+Last update: 2026-05-16 09:18 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 16 May 2026 09:02:51 +0000 — [Stop Hiring, Start Orchestrating: Running an AI Agent Company with Paperclip on Railway](https://dev.to/alphasec/stop-hiring-start-orchestrating-running-an-ai-agent-company-with-paperclip-on-railway-41bn)
+- Sat, 16 May 2026 09:00:47 +0000 — [85. Embeddings and Vector Search: Memory for Language Models](https://dev.to/yakhilesh/85-embeddings-and-vector-search-memory-for-language-models-1di5)
+- Sat, 16 May 2026 08:56:10 +0000 — [I built a CLI that builds itself — and it outperformed Gemini Pro using a free model](https://dev.to/mathew_thecoder/i-built-a-cli-that-builds-itself-and-it-outperformed-gemini-pro-using-a-free-model-1g44)
 - Fri, 15 May 2026 09:55:49 +0000 — [Building a Post-Quantum E2EE Library: Introducing Paranoia.ts (searching contributors)](https://dev.to/mateocallec/building-a-post-quantum-e2ee-library-introducing-paranoiats-searching-contributors-1em3)
 - 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
 - 2026-05-14T12:53:34+00:00 — [services with actually generous free tiers for open-source projects. my list, what would you add?](https://www.reddit.com/r/selfhosted/comments/1tcxb1b/services_with_actually_generous_free_tiers_for/)
@@ -104,7 +107,4 @@ Last update: 2026-05-15 10:10 UTC
 - 2026-05-06T23:59:59+00:00 — [tailscale alternatives?](https://www.reddit.com/r/selfhosted/comments/1t5ua7g/tailscale_alternatives/)
 - 2026-05-06T19:13:51+00:00 — [MIT-licensed Sentry + Datadog replacement, self-hosts in ~90 seconds](https://www.reddit.com/r/selfhosted/comments/1t5mr70/mitlicensed_sentry_datadog_replacement_selfhosts/)
 - 2026-05-06T22:12:50+00:00 — [PSA: How to actually verify your Gluetun killswitch is working](https://www.reddit.com/r/selfhosted/comments/1t5royz/psa_how_to_actually_verify_your_gluetun/)
-- 2026-05-06T23:04:38+00:00 — [Rate My Level As a First Year Master Student and suggestion of how to improve](https://www.reddit.com/r/devops/comments/1t5szk2/rate_my_level_as_a_first_year_master_student_and/)
-- 2026-05-06T13:21:13+00:00 — [Which DevOps tool do you think is under-documented for learners?](https://www.reddit.com/r/devops/comments/1t5crpi/which_devops_tool_do_you_think_is_underdocumented/)
-- 2026-05-06T07:16:36+00:00 — [docker request truncation bug bypasses AuthZ plugins (CVE-2026-34040)](https://www.reddit.com/r/devops/comments/1t55mr0/docker_request_truncation_bug_bypasses_authz/)
 <!-- NEWS END -->
