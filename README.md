@@ -2,25 +2,39 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-16 09:18 UTC
+Last update: 2026-05-17 09:25 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 17 May 2026 06:17:26 +0000 — [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
+- Sun, 17 May 2026 09:06:04 +0000 — [Production-Ready GPU Inference Autoscaling on EKS with Karpenter, KEDA, and Dragonfly](https://dev.to/tazmainiandevil/production-ready-gpu-inference-autoscaling-on-eks-with-karpenter-keda-and-dragonfly-2f1p)
+- 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
+- 2026-05-17T01:21:10+00:00 — [MinusPod: self-hosted podcast ad remover now has opt-in crowdsourced patterns, learns from everyone else's corrections](https://www.reddit.com/r/selfhosted/comments/1tfbbvw/minuspod_selfhosted_podcast_ad_remover_now_has/)
+- 2026-05-17T08:24:19+00:00 — [I built a self-hosted bridge that syncs cheap BLE smart scales to Garmin / Home Assistant / InfluxDB (no vendor cloud)](https://www.reddit.com/r/selfhosted/comments/1tfjjcm/i_built_a_selfhosted_bridge_that_syncs_cheap_ble/)
+- 2026-05-16T22:56:49+00:00 — [Easy to setup NextCloud alternative for an idiot?](https://www.reddit.com/r/selfhosted/comments/1tf85sz/easy_to_setup_nextcloud_alternative_for_an_idiot/)
+- 2026-05-16T09:19:12+00:00 — [Self hosting OpenStreetMaps for offline usage](https://www.reddit.com/r/selfhosted/comments/1teonc1/self_hosting_openstreetmaps_for_offline_usage/)
+- 2026-05-17T02:56:10+00:00 — [Setting up WireGuard on Synology DSM 7 using Docker and Gluetun](https://www.reddit.com/r/selfhosted/comments/1tfdaux/setting_up_wireguard_on_synology_dsm_7_using/)
+- 2026-05-17T07:09:56+00:00 — [Docker as root, a necessary evil?](https://www.reddit.com/r/selfhosted/comments/1tfi7nv/docker_as_root_a_necessary_evil/)
+- 2026-05-16T08:53:16+00:00 — [Anthias v2026.05.0: biggest release in years, per-asset scheduling, Pi 5 support, and a lot of cleanup](https://www.reddit.com/r/selfhosted/comments/1teo6j1/anthias_v2026050_biggest_release_in_years/)
+- 2026-05-17T03:50:54+00:00 — [Budget-Friendly Singapore VPS for V2Ray/Xray + Occasional Torrenting (Beginner Friendly)](https://www.reddit.com/r/selfhosted/comments/1tfeenm/budgetfriendly_singapore_vps_for_v2rayxray/)
+- 2026-05-16T19:02:49+00:00 — [Should I stick with n8n as an orchestrator or move to fully coded solutions?](https://www.reddit.com/r/selfhosted/comments/1tf2hhm/should_i_stick_with_n8n_as_an_orchestrator_or/)
+- 2026-05-16T18:36:20+00:00 — [What OS for offset backup for my parent’s place?](https://www.reddit.com/r/selfhosted/comments/1tf1s89/what_os_for_offset_backup_for_my_parents_place/)
+- 2026-05-15T22:59:56+00:00 — [Docker Security Cheatsheet](https://www.reddit.com/r/selfhosted/comments/1tec2hc/docker_security_cheatsheet/)
+- 2026-05-16T09:06:07+00:00 — [Transitioning from SWE to SRE/Architect: Looking for books on Architecture and Observability](https://www.reddit.com/r/devops/comments/1teof1x/transitioning_from_swe_to_srearchitect_looking/)
+- 2026-05-14T14:46:59+00:00 — [NGINX CVE-2026-42945 (ngx_http_rewrite_module) — patched boundary is 1.30.1 / 1.31.0](https://www.reddit.com/r/devops/comments/1td0es6/nginx_cve202642945_ngx_http_rewrite_module/)
+- 2026-05-14T12:32:50+00:00 — [Should i go for these DevOps courses to start with or youtube only?](https://www.reddit.com/r/devops/comments/1tcwsw1/should_i_go_for_these_devops_courses_to_start/)
+- 2026-05-15T07:13:53+00:00 — [Beginner in DevOps, review my Bitbucket pipeline (AWS ECR -> EC2)](https://www.reddit.com/r/devops/comments/1tdork6/beginner_in_devops_review_my_bitbucket_pipeline/)
 - Sat, 16 May 2026 09:02:51 +0000 — [Stop Hiring, Start Orchestrating: Running an AI Agent Company with Paperclip on Railway](https://dev.to/alphasec/stop-hiring-start-orchestrating-running-an-ai-agent-company-with-paperclip-on-railway-41bn)
 - Sat, 16 May 2026 09:00:47 +0000 — [85. Embeddings and Vector Search: Memory for Language Models](https://dev.to/yakhilesh/85-embeddings-and-vector-search-memory-for-language-models-1di5)
 - Sat, 16 May 2026 08:56:10 +0000 — [I built a CLI that builds itself — and it outperformed Gemini Pro using a free model](https://dev.to/mathew_thecoder/i-built-a-cli-that-builds-itself-and-it-outperformed-gemini-pro-using-a-free-model-1g44)
 - Fri, 15 May 2026 09:55:49 +0000 — [Building a Post-Quantum E2EE Library: Introducing Paranoia.ts (searching contributors)](https://dev.to/mateocallec/building-a-post-quantum-e2ee-library-introducing-paranoiats-searching-contributors-1em3)
-- 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
 - 2026-05-14T12:53:34+00:00 — [services with actually generous free tiers for open-source projects. my list, what would you add?](https://www.reddit.com/r/selfhosted/comments/1tcxb1b/services_with_actually_generous_free_tiers_for/)
 - 2026-05-15T06:35:41+00:00 — [[HELP!] Can someone Help me Fix This API Error?](https://www.reddit.com/r/selfhosted/comments/1tdo28x/help_can_someone_help_me_fix_this_api_error/)
 - 2026-05-15T08:12:48+00:00 — [My Selfhosted](https://www.reddit.com/r/selfhosted/comments/1tdpt6m/my_selfhosted/)
 - 2026-05-14T08:33:17+00:00 — [Whats a better centralized way to manage Docker across Proxmox VMs/Containers ?](https://www.reddit.com/r/selfhosted/comments/1tcrzbi/whats_a_better_centralized_way_to_manage_docker/)
 - 2026-05-13T22:30:38+00:00 — [Did my home server just get breached??](https://www.reddit.com/r/selfhosted/comments/1tcf6vv/did_my_home_server_just_get_breached/)
 - 2026-05-14T19:26:10+00:00 — [Is this an ideal secure setup?](https://www.reddit.com/r/selfhosted/comments/1td8ixs/is_this_an_ideal_secure_setup/)
-- 2026-05-14T14:46:59+00:00 — [NGINX CVE-2026-42945 (ngx_http_rewrite_module) — patched boundary is 1.30.1 / 1.31.0](https://www.reddit.com/r/devops/comments/1td0es6/nginx_cve202642945_ngx_http_rewrite_module/)
-- 2026-05-15T07:13:53+00:00 — [Beginner in DevOps, review my Bitbucket pipeline (AWS ECR -> EC2)](https://www.reddit.com/r/devops/comments/1tdork6/beginner_in_devops_review_my_bitbucket_pipeline/)
-- 2026-05-14T12:32:50+00:00 — [Should i go for these DevOps courses to start with or youtube only?](https://www.reddit.com/r/devops/comments/1tcwsw1/should_i_go_for_these_devops_courses_to_start/)
 - 2026-05-14T14:39:33+00:00 — [Built a self-hosted operational alert system for Linux & Docker (looking for feedback)](https://www.reddit.com/r/devops/comments/1td072o/built_a_selfhosted_operational_alert_system_for/)
 - 2026-05-13T01:50:53+00:00 — [New to DevOps – What Should I Learn First & What Does Your Daily Work Look Like?](https://www.reddit.com/r/devops/comments/1tblnnp/new_to_devops_what_should_i_learn_first_what_does/)
 - Thu, 14 May 2026 09:44:33 +0000 — [🚀 Level Up Your Career: GeeksforGeeks Summer SkillUp 2026 is Coming!](https://dev.to/prakhar_doneria/level-up-your-career-geeksforgeeks-summer-skillup-2026-is-coming-4hb1)
@@ -93,18 +107,4 @@ Last update: 2026-05-16 09:18 UTC
 - Sat, 09 May 2026 08:44:39 +0000 — [Why AI Sandboxing Needs Kubernetes—And Why You Should Care Now](https://dev.to/pratheesh_s/why-ai-sandboxing-needs-kubernetes-and-why-you-should-care-now-5djk)
 - Sat, 09 May 2026 08:43:32 +0000 — [The Central Nervous System: Scaling the Agentic Radar to 24/7 with FastAPI and Webhooks](https://dev.to/datalaria/the-central-nervous-system-scaling-the-agentic-radar-to-247-with-fastapi-and-webhooks-pcg)
 - 2026-05-08T18:54:11+00:00 — [Cheap gamble m720q](https://www.reddit.com/r/selfhosted/comments/1t7h3l8/cheap_gamble_m720q/)
-- 2026-05-09T05:58:11+00:00 — [Gluetun port fowarding error with qBittorrent](https://www.reddit.com/r/selfhosted/comments/1t7wdwx/gluetun_port_fowarding_error_with_qbittorrent/)
-- 2026-05-09T00:46:00+00:00 — [Pinchflat ytdownloader is creating “write only” download directories.](https://www.reddit.com/r/selfhosted/comments/1t7pzch/pinchflat_ytdownloader_is_creating_write_only/)
-- 2026-05-09T02:02:52+00:00 — [Tell me about your Obscure linux distros you actually use on production servers for self-hosting](https://www.reddit.com/r/selfhosted/comments/1t7rna5/tell_me_about_your_obscure_linux_distros_you/)
-- 2026-05-09T01:33:39+00:00 — [MeshMonitor 4.2.3 - multi-source, Map Analysis, Solar reports](https://www.reddit.com/r/selfhosted/comments/1t7r0li/meshmonitor_423_multisource_map_analysis_solar/)
-- 2026-05-08T02:48:00+00:00 — [Ansible/container workflow](https://www.reddit.com/r/devops/comments/1t6veip/ansiblecontainer_workflow/)
-- Fri, 08 May 2026 09:01:07 +0000 — [The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9)
-- Fri, 08 May 2026 09:00:18 +0000 — [Using Claude Code with Docker Model Runner](https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo)
-- 2026-05-08T06:25:22+00:00 — [My free ITSM project continues](https://www.reddit.com/r/selfhosted/comments/1t6zn8g/my_free_itsm_project_continues/)
-- 2026-05-07T19:20:36+00:00 — [Most efficient way to migrate a server into new hardware?](https://www.reddit.com/r/selfhosted/comments/1t6kk97/most_efficient_way_to_migrate_a_server_into_new/)
-- 2026-05-07T21:25:29+00:00 — [Planka - Trying and failing to upgrade planka in portainer (rootless)](https://www.reddit.com/r/selfhosted/comments/1t6o173/planka_trying_and_failing_to_upgrade_planka_in/)
-- 2026-05-06T20:45:34+00:00 — [pia-tun - Lightweight PIA + WireGuard container with port forwarding, qBittorrent port sync, and zero leak killswitch](https://www.reddit.com/r/selfhosted/comments/1t5pc19/piatun_lightweight_pia_wireguard_container_with/)
-- 2026-05-06T23:59:59+00:00 — [tailscale alternatives?](https://www.reddit.com/r/selfhosted/comments/1t5ua7g/tailscale_alternatives/)
-- 2026-05-06T19:13:51+00:00 — [MIT-licensed Sentry + Datadog replacement, self-hosts in ~90 seconds](https://www.reddit.com/r/selfhosted/comments/1t5mr70/mitlicensed_sentry_datadog_replacement_selfhosts/)
-- 2026-05-06T22:12:50+00:00 — [PSA: How to actually verify your Gluetun killswitch is working](https://www.reddit.com/r/selfhosted/comments/1t5royz/psa_how_to_actually_verify_your_gluetun/)
 <!-- NEWS END -->
