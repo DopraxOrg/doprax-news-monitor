@@ -2,16 +2,28 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-18 11:34 UTC
+Last update: 2026-05-19 10:51 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 19 May 2026 10:33:05 +0000 — [Welcome to the Distributed Systems World — The Challenges Nobody Warned You About](https://dev.to/moh_moh701/welcome-to-the-distributed-systems-world-the-challenges-nobody-warned-you-about-4plb)
+- 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
+- 2026-05-18T19:26:26+00:00 — [Things I didn't think of when I decided to start self-hosting: Not relying on a $120 subscription to sync my academic library in grad school!](https://www.reddit.com/r/selfhosted/comments/1tgyb61/things_i_didnt_think_of_when_i_decided_to_start/)
+- 2026-05-18T20:26:19+00:00 — [I built a daily homelab health receipt printer](https://www.reddit.com/r/selfhosted/comments/1th04c7/i_built_a_daily_homelab_health_receipt_printer/)
+- 2026-05-18T13:33:24+00:00 — [Nylon: I replaced Tailscale with my own mesh VPN](https://www.reddit.com/r/selfhosted/comments/1tgmt17/nylon_i_replaced_tailscale_with_my_own_mesh_vpn/)
+- 2026-05-17T21:03:49+00:00 — [Profilarr v2 is Out!](https://www.reddit.com/r/selfhosted/comments/1tg1sav/profilarr_v2_is_out/)
+- 2026-05-19T05:00:28+00:00 — [Ntfy and iPhone No Push Notifications](https://www.reddit.com/r/selfhosted/comments/1thcpzx/ntfy_and_iphone_no_push_notifications/)
+- 2026-05-18T15:24:29+00:00 — [Re: Mini Shai-Hulud, how are we managing image versions?](https://www.reddit.com/r/selfhosted/comments/1tgpxru/re_mini_shaihulud_how_are_we_managing_image/)
+- 2026-05-18T11:14:04+00:00 — [Graduating this year and want to start DevOps/Cloud Engineering — where should I begin?](https://www.reddit.com/r/devops/comments/1tgjfc9/graduating_this_year_and_want_to_start/)
+- 2026-05-18T16:52:42+00:00 — [Ephemeral Environment](https://www.reddit.com/r/devops/comments/1tgsjel/ephemeral_environment/)
+- 2026-05-18T13:41:20+00:00 — [Looking for someone to learn Kubernetes, Terraform, GCP](https://www.reddit.com/r/devops/comments/1tgn0pn/looking_for_someone_to_learn_kubernetes_terraform/)
+- 2026-05-17T22:30:24+00:00 — [Career pivot from bare metal infra to DevOps](https://www.reddit.com/r/devops/comments/1tg3zbd/career_pivot_from_bare_metal_infra_to_devops/)
+- 2026-05-16T09:06:07+00:00 — [Transitioning from SWE to SRE/Architect: Looking for books on Architecture and Observability](https://www.reddit.com/r/devops/comments/1teof1x/transitioning_from_swe_to_srearchitect_looking/)
+- 2026-05-14T14:46:59+00:00 — [NGINX CVE-2026-42945 (ngx_http_rewrite_module) — patched boundary is 1.30.1 / 1.31.0](https://www.reddit.com/r/devops/comments/1td0es6/nginx_cve202642945_ngx_http_rewrite_module/)
 - Mon, 18 May 2026 11:32:49 +0000 — [MCP Gateways vs Agent Gateways vs AI Gateways: What's the Difference and Which Do You Need?](https://dev.to/lovestaco/mcp-gateways-vs-agent-gateways-vs-ai-gateways-whats-the-difference-and-which-do-you-need-2gn6)
 - Mon, 18 May 2026 11:30:00 +0000 — [Sector-aware threat intel API: stop triaging hundreds of CVEs manually](https://dev.to/setounkpe7/sector-aware-threat-intel-api-stop-triaging-hundreds-of-cves-manually-5097)
 - Mon, 18 May 2026 11:27:15 +0000 — [Windows Secretly Ate 83GB of My Disk Space — The Hidden .db-wal File Nobody Talks About](https://dev.to/dhaval_upadhyay_30f8292a8/windows-secretly-ate-83gb-of-my-disk-space-the-hidden-db-wal-file-nobody-talks-about-1blb)
-- 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
-- 2026-05-17T21:03:49+00:00 — [Profilarr v2 is Out!](https://www.reddit.com/r/selfhosted/comments/1tg1sav/profilarr_v2_is_out/)
 - 2026-05-17T15:14:38+00:00 — [Q: What to selfhost in a network blackout to the public?](https://www.reddit.com/r/selfhosted/comments/1tfsazu/q_what_to_selfhost_in_a_network_blackout_to_the/)
 - 2026-05-17T16:55:57+00:00 — [My Ultimate Self-Hosted Maps & Location History Setup (Synology NAS, Fedora, Traccar, and Organic Maps)](https://www.reddit.com/r/selfhosted/comments/1tfv16j/my_ultimate_selfhosted_maps_location_history/)
 - 2026-05-18T09:20:08+00:00 — [Authelia Issue - Cannot access Jellyfin after authentication.](https://www.reddit.com/r/selfhosted/comments/1tgh7wb/authelia_issue_cannot_access_jellyfin_after/)
@@ -20,10 +32,6 @@ Last update: 2026-05-18 11:34 UTC
 - 2026-05-17T01:21:10+00:00 — [MinusPod: self-hosted podcast ad remover now has opt-in crowdsourced patterns, learns from everyone else's corrections](https://www.reddit.com/r/selfhosted/comments/1tfbbvw/minuspod_selfhosted_podcast_ad_remover_now_has/)
 - 2026-05-17T07:09:56+00:00 — [Docker as root, a necessary evil?](https://www.reddit.com/r/selfhosted/comments/1tfi7nv/docker_as_root_a_necessary_evil/)
 - 2026-05-18T01:53:05+00:00 — [Security Recommendations for NAS and Torrenting](https://www.reddit.com/r/selfhosted/comments/1tg8k37/security_recommendations_for_nas_and_torrenting/)
-- 2026-05-18T11:14:04+00:00 — [Graduating this year and want to start DevOps/Cloud Engineering — where should I begin?](https://www.reddit.com/r/devops/comments/1tgjfc9/graduating_this_year_and_want_to_start/)
-- 2026-05-17T22:30:24+00:00 — [Career pivot from bare metal infra to DevOps](https://www.reddit.com/r/devops/comments/1tg3zbd/career_pivot_from_bare_metal_infra_to_devops/)
-- 2026-05-16T09:06:07+00:00 — [Transitioning from SWE to SRE/Architect: Looking for books on Architecture and Observability](https://www.reddit.com/r/devops/comments/1teof1x/transitioning_from_swe_to_srearchitect_looking/)
-- 2026-05-14T14:46:59+00:00 — [NGINX CVE-2026-42945 (ngx_http_rewrite_module) — patched boundary is 1.30.1 / 1.31.0](https://www.reddit.com/r/devops/comments/1td0es6/nginx_cve202642945_ngx_http_rewrite_module/)
 - 2026-05-14T12:32:50+00:00 — [Should i go for these DevOps courses to start with or youtube only?](https://www.reddit.com/r/devops/comments/1tcwsw1/should_i_go_for_these_devops_courses_to_start/)
 - 2026-05-15T07:13:53+00:00 — [Beginner in DevOps, review my Bitbucket pipeline (AWS ECR -> EC2)](https://www.reddit.com/r/devops/comments/1tdork6/beginner_in_devops_review_my_bitbucket_pipeline/)
 - Sun, 17 May 2026 06:17:26 +0000 — [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
@@ -99,12 +107,4 @@ Last update: 2026-05-18 11:34 UTC
 - 2026-05-11T06:39:54+00:00 — [Why we stopped pushing to Kubernetes directly and let the cluster pull from Git instead](https://www.reddit.com/r/devops/comments/1t9v804/why_we_stopped_pushing_to_kubernetes_directly_and/)
 - 2026-05-09T17:28:58+00:00 — [Docker images are hundreds of MB; a full game engine compiles to 35MB WASM](https://www.reddit.com/r/devops/comments/1t8b8m4/docker_images_are_hundreds_of_mb_a_full_game/)
 - 2026-05-09T17:50:39+00:00 — [I built Orbit — an open-source modern VPS dashboard that combines metrics, logs, firewall, Docker and deploys in one Go binary](https://www.reddit.com/r/devops/comments/1t8btmh/i_built_orbit_an_opensource_modern_vps_dashboard/)
-- Sat, 09 May 2026 05:52:12 +0000 — [EU Parliamentary Research Service calls VPNs "a loophole that needs closing"](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)
-- Sun, 10 May 2026 08:54:09 +0000 — [Docker containers – How to Think About It (Inception 42 exercise)](https://dev.to/educhigon/docker-containers-how-to-think-about-it-inception-42-exercise-4op9)
-- Sun, 10 May 2026 08:51:08 +0000 — [I built an MCP server for a knowledge graph. It doesn't call any LLM.](https://dev.to/tykolt/i-built-an-mcp-server-for-a-knowledge-graph-it-doesnt-call-any-llm-211b)
-- Sun, 10 May 2026 08:50:36 +0000 — [Running a Tomcat App on ECS Fargate — A Complete Step-by-Step Guide](https://dev.to/1515_1c22035d85e1ae3d/running-a-tomcat-app-on-ecs-fargate-a-complete-step-by-step-guide-36al)
-- Sun, 10 May 2026 08:41:57 +0000 — [Kafka on Kubernetes: Performance Lessons for Any Disk-Heavy Data Service](https://dev.to/yaakovamar/kafka-on-kubernetes-performance-lessons-for-any-disk-heavy-data-service-3bl5)
-- 2026-05-09T21:08:10+00:00 — [from a hot laptop running immich to actually knowing what im doing (kind of)](https://www.reddit.com/r/selfhosted/comments/1t8n4i7/from_a_hot_laptop_running_immich_to_actually/)
-- 2026-05-10T00:51:05+00:00 — [Excalidraw so far. What i did not found or missed](https://www.reddit.com/r/selfhosted/comments/1t8safi/excalidraw_so_far_what_i_did_not_found_or_missed/)
-- 2026-05-09T17:16:14+00:00 — [Databasement v1.2 - simple database backup solution](https://www.reddit.com/r/selfhosted/comments/1t8awbq/databasement_v12_simple_database_backup_solution/)
 <!-- NEWS END -->
