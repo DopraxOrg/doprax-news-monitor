@@ -2,23 +2,34 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-19 10:51 UTC
+Last update: 2026-05-20 10:39 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Tue, 19 May 2026 10:33:05 +0000 — [Welcome to the Distributed Systems World — The Challenges Nobody Warned You About](https://dev.to/moh_moh701/welcome-to-the-distributed-systems-world-the-challenges-nobody-warned-you-about-4plb)
+- Wed, 20 May 2026 10:30:24 +0000 — [7 Python Hiring Mistakes That Kill Projects (2026)](https://dev.to/ihor_ostin/7-python-hiring-mistakes-that-kill-projects-2026-2dl8)
 - 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
+- 2026-05-20T09:49:18+00:00 — [How is everyone bypassing CG-NAT these days when you actually need a static public IPv4?](https://www.reddit.com/r/selfhosted/comments/1tigttn/how_is_everyone_bypassing_cgnat_these_days_when/)
+- 2026-05-20T10:06:15+00:00 — [Beginner with $250 and zero Linux experience - talk me out of buying the wrong thing](https://www.reddit.com/r/selfhosted/comments/1tih5ai/beginner_with_250_and_zero_linux_experience_talk/)
+- 2026-05-19T16:19:13+00:00 — [How do you manage docker secrets?](https://www.reddit.com/r/selfhosted/comments/1thrv82/how_do_you_manage_docker_secrets/)
+- 2026-05-20T08:44:03+00:00 — [Is creating a mesh network via Pangolin or Wireguard possible?](https://www.reddit.com/r/selfhosted/comments/1tifo4n/is_creating_a_mesh_network_via_pangolin_or/)
+- 2026-05-19T11:22:14+00:00 — [[💧 Rejourney v2.4] - The Lightest and most Performant Session Replay for Web & Mobile Apps](https://www.reddit.com/r/selfhosted/comments/1thjwmh/rejourney_v24_the_lightest_and_most_performant/)
+- 2026-05-20T10:12:50+00:00 — [[Help] Where to start with homelab security? Reverse proxy, VPN, firewall, what actually matters?](https://www.reddit.com/r/selfhosted/comments/1tih9t4/help_where_to_start_with_homelab_security_reverse/)
+- 2026-05-19T18:58:08+00:00 — [Privacy-friendly VPS host for self-hosted WireGuard relay? (real-world experiences wanted)](https://www.reddit.com/r/selfhosted/comments/1thwmqp/privacyfriendly_vps_host_for_selfhosted_wireguard/)
+- 2026-05-19T18:27:49+00:00 — [Do you have a plan for if you drop dead or get hit by a bus tomorrow?](https://www.reddit.com/r/selfhosted/comments/1thvq1x/do_you_have_a_plan_for_if_you_drop_dead_or_get/)
+- 2026-05-20T08:40:05+00:00 — [Home server continually getting amdgpu crashes, any ideas?](https://www.reddit.com/r/selfhosted/comments/1tiflkq/home_server_continually_getting_amdgpu_crashes/)
 - 2026-05-18T19:26:26+00:00 — [Things I didn't think of when I decided to start self-hosting: Not relying on a $120 subscription to sync my academic library in grad school!](https://www.reddit.com/r/selfhosted/comments/1tgyb61/things_i_didnt_think_of_when_i_decided_to_start/)
 - 2026-05-18T20:26:19+00:00 — [I built a daily homelab health receipt printer](https://www.reddit.com/r/selfhosted/comments/1th04c7/i_built_a_daily_homelab_health_receipt_printer/)
-- 2026-05-18T13:33:24+00:00 — [Nylon: I replaced Tailscale with my own mesh VPN](https://www.reddit.com/r/selfhosted/comments/1tgmt17/nylon_i_replaced_tailscale_with_my_own_mesh_vpn/)
-- 2026-05-17T21:03:49+00:00 — [Profilarr v2 is Out!](https://www.reddit.com/r/selfhosted/comments/1tg1sav/profilarr_v2_is_out/)
-- 2026-05-19T05:00:28+00:00 — [Ntfy and iPhone No Push Notifications](https://www.reddit.com/r/selfhosted/comments/1thcpzx/ntfy_and_iphone_no_push_notifications/)
-- 2026-05-18T15:24:29+00:00 — [Re: Mini Shai-Hulud, how are we managing image versions?](https://www.reddit.com/r/selfhosted/comments/1tgpxru/re_mini_shaihulud_how_are_we_managing_image/)
+- 2026-05-19T17:06:06+00:00 — [DevOps career advice](https://www.reddit.com/r/devops/comments/1tht8yd/devops_career_advice/)
 - 2026-05-18T11:14:04+00:00 — [Graduating this year and want to start DevOps/Cloud Engineering — where should I begin?](https://www.reddit.com/r/devops/comments/1tgjfc9/graduating_this_year_and_want_to_start/)
 - 2026-05-18T16:52:42+00:00 — [Ephemeral Environment](https://www.reddit.com/r/devops/comments/1tgsjel/ephemeral_environment/)
 - 2026-05-18T13:41:20+00:00 — [Looking for someone to learn Kubernetes, Terraform, GCP](https://www.reddit.com/r/devops/comments/1tgn0pn/looking_for_someone_to_learn_kubernetes_terraform/)
 - 2026-05-17T22:30:24+00:00 — [Career pivot from bare metal infra to DevOps](https://www.reddit.com/r/devops/comments/1tg3zbd/career_pivot_from_bare_metal_infra_to_devops/)
+- Tue, 19 May 2026 10:33:05 +0000 — [Welcome to the Distributed Systems World — The Challenges Nobody Warned You About](https://dev.to/moh_moh701/welcome-to-the-distributed-systems-world-the-challenges-nobody-warned-you-about-4plb)
+- 2026-05-18T13:33:24+00:00 — [Nylon: I replaced Tailscale with my own mesh VPN](https://www.reddit.com/r/selfhosted/comments/1tgmt17/nylon_i_replaced_tailscale_with_my_own_mesh_vpn/)
+- 2026-05-17T21:03:49+00:00 — [Profilarr v2 is Out!](https://www.reddit.com/r/selfhosted/comments/1tg1sav/profilarr_v2_is_out/)
+- 2026-05-19T05:00:28+00:00 — [Ntfy and iPhone No Push Notifications](https://www.reddit.com/r/selfhosted/comments/1thcpzx/ntfy_and_iphone_no_push_notifications/)
+- 2026-05-18T15:24:29+00:00 — [Re: Mini Shai-Hulud, how are we managing image versions?](https://www.reddit.com/r/selfhosted/comments/1tgpxru/re_mini_shaihulud_how_are_we_managing_image/)
 - 2026-05-16T09:06:07+00:00 — [Transitioning from SWE to SRE/Architect: Looking for books on Architecture and Observability](https://www.reddit.com/r/devops/comments/1teof1x/transitioning_from_swe_to_srearchitect_looking/)
 - 2026-05-14T14:46:59+00:00 — [NGINX CVE-2026-42945 (ngx_http_rewrite_module) — patched boundary is 1.30.1 / 1.31.0](https://www.reddit.com/r/devops/comments/1td0es6/nginx_cve202642945_ngx_http_rewrite_module/)
 - Mon, 18 May 2026 11:32:49 +0000 — [MCP Gateways vs Agent Gateways vs AI Gateways: What's the Difference and Which Do You Need?](https://dev.to/lovestaco/mcp-gateways-vs-agent-gateways-vs-ai-gateways-whats-the-difference-and-which-do-you-need-2gn6)
@@ -96,15 +107,4 @@ Last update: 2026-05-19 10:51 UTC
 - 2026-05-10T19:22:15+00:00 — [learning resources for containerization/Kubernetes](https://www.reddit.com/r/devops/comments/1t9g8yw/learning_resources_for_containerizationkubernetes/)
 - Mon, 11 May 2026 10:38:12 +0000 — [AI Cost Optimization: A Simple Guide by Opslyft](https://dev.to/khushi_dubey/ai-cost-optimization-a-simple-guide-by-opslyft-3l52)
 - Mon, 11 May 2026 10:37:14 +0000 — [10 questions before choosing a cloud optimizer](https://dev.to/khushi_dubey/10-questions-before-choosing-a-cloud-optimizer-2695)
-- Mon, 11 May 2026 10:35:27 +0000 — [What is Container Orchestration?](https://dev.to/khushi_dubey/what-is-container-orchestration-4m7k)
-- Mon, 11 May 2026 10:24:03 +0000 — [How to detect when GitHub, AWS, or Discord is down — using a free JSON API](https://dev.to/denis_domino_39c139e9375b/how-to-detect-when-github-aws-or-discord-is-down-using-a-free-json-api-864)
-- 2026-05-10T09:28:19+00:00 — [Docker bypasses UFW and exposed my database. Again. Writing this down so I stop forgetting](https://www.reddit.com/r/selfhosted/comments/1t92807/docker_bypasses_ufw_and_exposed_my_database_again/)
-- 2026-05-11T10:17:51+00:00 — [Sandra: self-hostable graph + vector memory for LLM agents (0.89 on Structured Recall Bench vs 0.25–0.48 for vector stores)](https://www.reddit.com/r/selfhosted/comments/1t9z22z/sandra_selfhostable_graph_vector_memory_for_llm/)
-- 2026-05-11T09:33:34+00:00 — [Storage Layout (Help needed)](https://www.reddit.com/r/selfhosted/comments/1t9y8rx/storage_layout_help_needed/)
-- 2026-05-11T09:22:16+00:00 — [How to archive e-mail? (outlook/hotmail)](https://www.reddit.com/r/selfhosted/comments/1t9y1me/how_to_archive_email_outlookhotmail/)
-- 2026-05-11T09:08:02+00:00 — [Home Server Build - Feedback on Hardware & Software Stack](https://www.reddit.com/r/selfhosted/comments/1t9xsq6/home_server_build_feedback_on_hardware_software/)
-- 2026-05-10T08:02:03+00:00 — [I built a Garage (S3) web UI with OIDC, Helm chart and proper file management](https://www.reddit.com/r/selfhosted/comments/1t90qzh/i_built_a_garage_s3_web_ui_with_oidc_helm_chart/)
-- 2026-05-11T06:39:54+00:00 — [Why we stopped pushing to Kubernetes directly and let the cluster pull from Git instead](https://www.reddit.com/r/devops/comments/1t9v804/why_we_stopped_pushing_to_kubernetes_directly_and/)
-- 2026-05-09T17:28:58+00:00 — [Docker images are hundreds of MB; a full game engine compiles to 35MB WASM](https://www.reddit.com/r/devops/comments/1t8b8m4/docker_images_are_hundreds_of_mb_a_full_game/)
-- 2026-05-09T17:50:39+00:00 — [I built Orbit — an open-source modern VPS dashboard that combines metrics, logs, firewall, Docker and deploys in one Go binary](https://www.reddit.com/r/devops/comments/1t8btmh/i_built_orbit_an_opensource_modern_vps_dashboard/)
 <!-- NEWS END -->
