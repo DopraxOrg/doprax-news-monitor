@@ -2,15 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-20 10:39 UTC
+Last update: 2026-05-21 10:55 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 20 May 2026 10:30:24 +0000 — [7 Python Hiring Mistakes That Kill Projects (2026)](https://dev.to/ihor_ostin/7-python-hiring-mistakes-that-kill-projects-2026-2dl8)
+- Thu, 21 May 2026 10:42:07 +0000 — [PostgreSQL backup tool Databasus released backup verification in real database Docker containers](https://dev.to/declan_letoy/databasus-released-backup-verification-in-real-database-docker-containers-1p3b)
 - 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
-- 2026-05-20T09:49:18+00:00 — [How is everyone bypassing CG-NAT these days when you actually need a static public IPv4?](https://www.reddit.com/r/selfhosted/comments/1tigttn/how_is_everyone_bypassing_cgnat_these_days_when/)
+- 2026-05-21T05:16:48+00:00 — [My Spotify Replacement Setup (navidrome + lidarr with tubifarry + slskd + explo + aurral + musicbrainz/listenbrainz)](https://www.reddit.com/r/selfhosted/comments/1tjalq8/my_spotify_replacement_setup_navidrome_lidarr/)
+- 2026-05-20T20:35:21+00:00 — [(More) self-hosting best practices for devs](https://www.reddit.com/r/selfhosted/comments/1tiy4uk/more_selfhosting_best_practices_for_devs/)
+- 2026-05-21T08:24:56+00:00 — [Lightweight Nextcloud alternative with mobile app + desktop sync?](https://www.reddit.com/r/selfhosted/comments/1tje3hj/lightweight_nextcloud_alternative_with_mobile_app/)
+- 2026-05-20T17:42:32+00:00 — [How do you run your self hosted music setup?](https://www.reddit.com/r/selfhosted/comments/1tit14m/how_do_you_run_your_self_hosted_music_setup/)
+- 2026-05-20T23:36:08+00:00 — [Help me understand the risks associated with containerized and or disposable web browsers](https://www.reddit.com/r/selfhosted/comments/1tj2zzx/help_me_understand_the_risks_associated_with/)
+- 2026-05-20T20:11:24+00:00 — [Suggestions for Non-VPN external access for non-techie family members? WAY more detail inside.](https://www.reddit.com/r/selfhosted/comments/1tixfkq/suggestions_for_nonvpn_external_access_for/)
+- 2026-05-21T06:00:12+00:00 — [Architecture help for arr stack](https://www.reddit.com/r/selfhosted/comments/1tjbfrt/architecture_help_for_arr_stack/)
+- 2026-05-20T15:09:05+00:00 — [CI/CD and Docker Compose](https://www.reddit.com/r/selfhosted/comments/1tiojs8/cicd_and_docker_compose/)
 - 2026-05-20T10:06:15+00:00 — [Beginner with $250 and zero Linux experience - talk me out of buying the wrong thing](https://www.reddit.com/r/selfhosted/comments/1tih5ai/beginner_with_250_and_zero_linux_experience_talk/)
+- 2026-05-21T08:31:22+00:00 — [Tailscale issues - any advices?](https://www.reddit.com/r/selfhosted/comments/1tje7hb/tailscale_issues_any_advices/)
+- 2026-05-21T06:44:42+00:00 — [Want to switch to Cloud/DevOps engineer role](https://www.reddit.com/r/devops/comments/1tjca3u/want_to_switch_to_clouddevops_engineer_role/)
+- 2026-05-21T07:28:17+00:00 — [Help me develop few intermediate to advanced DevOps projects that simulate real time workflows.](https://www.reddit.com/r/devops/comments/1tjd38z/help_me_develop_few_intermediate_to_advanced/)
+- 2026-05-21T07:39:46+00:00 — [Python dev (Django/FastAPI/Docker/K8s) trying to break into DevOps — what should I prioritize, and what are the real problems no one warns you about?](https://www.reddit.com/r/devops/comments/1tjdatq/python_dev_djangofastapidockerk8s_trying_to_break/)
+- 2026-05-20T14:16:27+00:00 — [Automating container deployment on-premises](https://www.reddit.com/r/devops/comments/1tin1cr/automating_container_deployment_onpremises/)
+- 2026-05-19T17:06:06+00:00 — [DevOps career advice](https://www.reddit.com/r/devops/comments/1tht8yd/devops_career_advice/)
+- Wed, 20 May 2026 10:30:24 +0000 — [7 Python Hiring Mistakes That Kill Projects (2026)](https://dev.to/ihor_ostin/7-python-hiring-mistakes-that-kill-projects-2026-2dl8)
+- 2026-05-20T09:49:18+00:00 — [How is everyone bypassing CG-NAT these days when you actually need a static public IPv4?](https://www.reddit.com/r/selfhosted/comments/1tigttn/how_is_everyone_bypassing_cgnat_these_days_when/)
 - 2026-05-19T16:19:13+00:00 — [How do you manage docker secrets?](https://www.reddit.com/r/selfhosted/comments/1thrv82/how_do_you_manage_docker_secrets/)
 - 2026-05-20T08:44:03+00:00 — [Is creating a mesh network via Pangolin or Wireguard possible?](https://www.reddit.com/r/selfhosted/comments/1tifo4n/is_creating_a_mesh_network_via_pangolin_or/)
 - 2026-05-19T11:22:14+00:00 — [[💧 Rejourney v2.4] - The Lightest and most Performant Session Replay for Web & Mobile Apps](https://www.reddit.com/r/selfhosted/comments/1thjwmh/rejourney_v24_the_lightest_and_most_performant/)
@@ -20,7 +35,6 @@ Last update: 2026-05-20 10:39 UTC
 - 2026-05-20T08:40:05+00:00 — [Home server continually getting amdgpu crashes, any ideas?](https://www.reddit.com/r/selfhosted/comments/1tiflkq/home_server_continually_getting_amdgpu_crashes/)
 - 2026-05-18T19:26:26+00:00 — [Things I didn't think of when I decided to start self-hosting: Not relying on a $120 subscription to sync my academic library in grad school!](https://www.reddit.com/r/selfhosted/comments/1tgyb61/things_i_didnt_think_of_when_i_decided_to_start/)
 - 2026-05-18T20:26:19+00:00 — [I built a daily homelab health receipt printer](https://www.reddit.com/r/selfhosted/comments/1th04c7/i_built_a_daily_homelab_health_receipt_printer/)
-- 2026-05-19T17:06:06+00:00 — [DevOps career advice](https://www.reddit.com/r/devops/comments/1tht8yd/devops_career_advice/)
 - 2026-05-18T11:14:04+00:00 — [Graduating this year and want to start DevOps/Cloud Engineering — where should I begin?](https://www.reddit.com/r/devops/comments/1tgjfc9/graduating_this_year_and_want_to_start/)
 - 2026-05-18T16:52:42+00:00 — [Ephemeral Environment](https://www.reddit.com/r/devops/comments/1tgsjel/ephemeral_environment/)
 - 2026-05-18T13:41:20+00:00 — [Looking for someone to learn Kubernetes, Terraform, GCP](https://www.reddit.com/r/devops/comments/1tgn0pn/looking_for_someone_to_learn_kubernetes_terraform/)
@@ -93,18 +107,4 @@ Last update: 2026-05-20 10:39 UTC
 - 2026-05-11T11:09:12+00:00 — [how do you become top 0.1% in devops that gets paid 200k+? (US market)](https://www.reddit.com/r/devops/comments/1ta0297/how_do_you_become_top_01_in_devops_that_gets_paid/)
 - 2026-05-12T23:22:53+00:00 — [Why up-sizing nodes usually doesn't fix Kubernetes P99 spikes](https://www.reddit.com/r/devops/comments/1tbi8s8/why_upsizing_nodes_usually_doesnt_fix_kubernetes/)
 - 2026-05-13T01:28:46+00:00 — [Linux monitoring system in python](https://www.reddit.com/r/devops/comments/1tbl5br/linux_monitoring_system_in_python/)
-- 2026-05-11T17:37:29+00:00 — [Super Productivity v18.5.0 - Focus Mode rework, scheduler improvements, and better planning views](https://www.reddit.com/r/selfhosted/comments/1taafra/super_productivity_v1850_focus_mode_rework/)
-- 2026-05-11T22:08:58+00:00 — [Seeking recommendations for cheap, No-KYC / Offshore VPS providers to host VPNs](https://www.reddit.com/r/selfhosted/comments/1tai6p8/seeking_recommendations_for_cheap_nokyc_offshore/)
-- 2026-05-11T11:34:25+00:00 — [Does your self-hosted hobby pay off?](https://www.reddit.com/r/selfhosted/comments/1ta0lgb/does_your_selfhosted_hobby_pay_off/)
-- 2026-05-10T23:30:42+00:00 — [AirPipe v4: my self-hosted file transfer is now true peer-to-peer](https://www.reddit.com/r/selfhosted/comments/1t9mdul/airpipe_v4_my_selfhosted_file_transfer_is_now/)
-- 2026-05-10T12:14:33+00:00 — [Girls come and go, Docker Servers stay](https://www.reddit.com/r/selfhosted/comments/1t95c4m/girls_come_and_go_docker_servers_stay/)
-- 2026-05-11T19:04:43+00:00 — [Mac Mini M4 Docker vs OrbStack (network performance)](https://www.reddit.com/r/selfhosted/comments/1tad0my/mac_mini_m4_docker_vs_orbstack_network_performance/)
-- 2026-05-11T07:05:38+00:00 — [Is FileBrowser Quantum + OIDC safe for sensitive docs?](https://www.reddit.com/r/selfhosted/comments/1t9vouj/is_filebrowser_quantum_oidc_safe_for_sensitive/)
-- 2026-05-12T03:44:56+00:00 — [DevOps / Kubernetes / OAuth2 Proxy + Keycloak](https://www.reddit.com/r/devops/comments/1tapyei/devops_kubernetes_oauth2_proxy_keycloak/)
-- 2026-05-11T15:19:43+00:00 — [What are the chances of getting a role of cloud/devops engineer as your entry level job ?](https://www.reddit.com/r/devops/comments/1ta6fdy/what_are_the_chances_of_getting_a_role_of/)
-- 2026-05-11T08:45:40+00:00 — [Advice appreciated](https://www.reddit.com/r/devops/comments/1t9xex8/advice_appreciated/)
-- 2026-05-11T17:04:28+00:00 — [Feels like “AI SRE” is becoming the next big thing in infra after AI coding copilots.](https://www.reddit.com/r/devops/comments/1ta9ggi/feels_like_ai_sre_is_becoming_the_next_big_thing/)
-- 2026-05-10T19:22:15+00:00 — [learning resources for containerization/Kubernetes](https://www.reddit.com/r/devops/comments/1t9g8yw/learning_resources_for_containerizationkubernetes/)
-- Mon, 11 May 2026 10:38:12 +0000 — [AI Cost Optimization: A Simple Guide by Opslyft](https://dev.to/khushi_dubey/ai-cost-optimization-a-simple-guide-by-opslyft-3l52)
-- Mon, 11 May 2026 10:37:14 +0000 — [10 questions before choosing a cloud optimizer](https://dev.to/khushi_dubey/10-questions-before-choosing-a-cloud-optimizer-2695)
 <!-- NEWS END -->
