@@ -2,14 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-21 10:55 UTC
+Last update: 2026-05-22 10:39 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 18 May 2026 19:33:03 +0000 — [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
+- Fri, 22 May 2026 10:17:48 +0000 — [What’s the best tech stack for AI app development?](https://dev.to/hackmamba/whats-the-best-tech-stack-for-ai-app-development-2gi0)
+- 2026-05-21T22:01:04+00:00 — [New Project Megathread - Week of 21 May 2026](https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/)
+- 2026-05-22T09:25:54+00:00 — [nginx-poolslip: Fresh NGINX Zero-Day Concern Emerges After Recent Rift Patch](https://www.reddit.com/r/selfhosted/comments/1tkdrnh/nginxpoolslip_fresh_nginx_zeroday_concern_emerges/)
+- 2026-05-21T20:14:37+00:00 — [I just didn't want to push a button to wake my servers](https://www.reddit.com/r/selfhosted/comments/1tjwi5o/i_just_didnt_want_to_push_a_button_to_wake_my/)
+- 2026-05-21T05:16:48+00:00 — [My Spotify Replacement Setup (navidrome + lidarr with tubifarry + slskd + explo + aurral + musicbrainz/listenbrainz)](https://www.reddit.com/r/selfhosted/comments/1tjalq8/my_spotify_replacement_setup_navidrome_lidarr/)
+- 2026-05-21T18:22:45+00:00 — [Dynacat - 2.3.0](https://www.reddit.com/r/selfhosted/comments/1tjt8ey/dynacat_230/)
+- 2026-05-21T23:04:35+00:00 — [If you could restart, what would you do differently?](https://www.reddit.com/r/selfhosted/comments/1tk0znn/if_you_could_restart_what_would_you_do_differently/)
+- 2026-05-21T07:28:17+00:00 — [Help me develop few intermediate to advanced DevOps projects that simulate real time workflows.](https://www.reddit.com/r/devops/comments/1tjd38z/help_me_develop_few_intermediate_to_advanced/)
+- 2026-05-21T07:39:46+00:00 — [Python dev (Django/FastAPI/Docker/K8s) trying to break into DevOps — what should I prioritize, and what are the real problems no one warns you about?](https://www.reddit.com/r/devops/comments/1tjdatq/python_dev_djangofastapidockerk8s_trying_to_break/)
+- 2026-05-21T06:44:42+00:00 — [Want to switch to Cloud/DevOps engineer role](https://www.reddit.com/r/devops/comments/1tjca3u/want_to_switch_to_clouddevops_engineer_role/)
+- 2026-05-20T14:16:27+00:00 — [Automating container deployment on-premises](https://www.reddit.com/r/devops/comments/1tin1cr/automating_container_deployment_onpremises/)
+- Thu, 21 May 2026 19:33:39 +0000 — [Law enforcement shuts down VPN service used by two dozen ransomware gangs](https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/)
 - Thu, 21 May 2026 10:42:07 +0000 — [PostgreSQL backup tool Databasus released backup verification in real database Docker containers](https://dev.to/declan_letoy/databasus-released-backup-verification-in-real-database-docker-containers-1p3b)
 - 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
-- 2026-05-21T05:16:48+00:00 — [My Spotify Replacement Setup (navidrome + lidarr with tubifarry + slskd + explo + aurral + musicbrainz/listenbrainz)](https://www.reddit.com/r/selfhosted/comments/1tjalq8/my_spotify_replacement_setup_navidrome_lidarr/)
 - 2026-05-20T20:35:21+00:00 — [(More) self-hosting best practices for devs](https://www.reddit.com/r/selfhosted/comments/1tiy4uk/more_selfhosting_best_practices_for_devs/)
 - 2026-05-21T08:24:56+00:00 — [Lightweight Nextcloud alternative with mobile app + desktop sync?](https://www.reddit.com/r/selfhosted/comments/1tje3hj/lightweight_nextcloud_alternative_with_mobile_app/)
 - 2026-05-20T17:42:32+00:00 — [How do you run your self hosted music setup?](https://www.reddit.com/r/selfhosted/comments/1tit14m/how_do_you_run_your_self_hosted_music_setup/)
@@ -19,10 +31,6 @@ Last update: 2026-05-21 10:55 UTC
 - 2026-05-20T15:09:05+00:00 — [CI/CD and Docker Compose](https://www.reddit.com/r/selfhosted/comments/1tiojs8/cicd_and_docker_compose/)
 - 2026-05-20T10:06:15+00:00 — [Beginner with $250 and zero Linux experience - talk me out of buying the wrong thing](https://www.reddit.com/r/selfhosted/comments/1tih5ai/beginner_with_250_and_zero_linux_experience_talk/)
 - 2026-05-21T08:31:22+00:00 — [Tailscale issues - any advices?](https://www.reddit.com/r/selfhosted/comments/1tje7hb/tailscale_issues_any_advices/)
-- 2026-05-21T06:44:42+00:00 — [Want to switch to Cloud/DevOps engineer role](https://www.reddit.com/r/devops/comments/1tjca3u/want_to_switch_to_clouddevops_engineer_role/)
-- 2026-05-21T07:28:17+00:00 — [Help me develop few intermediate to advanced DevOps projects that simulate real time workflows.](https://www.reddit.com/r/devops/comments/1tjd38z/help_me_develop_few_intermediate_to_advanced/)
-- 2026-05-21T07:39:46+00:00 — [Python dev (Django/FastAPI/Docker/K8s) trying to break into DevOps — what should I prioritize, and what are the real problems no one warns you about?](https://www.reddit.com/r/devops/comments/1tjdatq/python_dev_djangofastapidockerk8s_trying_to_break/)
-- 2026-05-20T14:16:27+00:00 — [Automating container deployment on-premises](https://www.reddit.com/r/devops/comments/1tin1cr/automating_container_deployment_onpremises/)
 - 2026-05-19T17:06:06+00:00 — [DevOps career advice](https://www.reddit.com/r/devops/comments/1tht8yd/devops_career_advice/)
 - Wed, 20 May 2026 10:30:24 +0000 — [7 Python Hiring Mistakes That Kill Projects (2026)](https://dev.to/ihor_ostin/7-python-hiring-mistakes-that-kill-projects-2026-2dl8)
 - 2026-05-20T09:49:18+00:00 — [How is everyone bypassing CG-NAT these days when you actually need a static public IPv4?](https://www.reddit.com/r/selfhosted/comments/1tigttn/how_is_everyone_bypassing_cgnat_these_days_when/)
@@ -99,12 +107,4 @@ Last update: 2026-05-21 10:55 UTC
 - 2026-05-13T08:58:13+00:00 — [Coder (VS Code in the browser) + few good extensions is all I need as my server management console](https://www.reddit.com/r/selfhosted/comments/1tbtz7p/coder_vs_code_in_the_browser_few_good_extensions/)
 - 2026-05-13T05:18:58+00:00 — [Which NAS should I get?](https://www.reddit.com/r/selfhosted/comments/1tbq2ja/which_nas_should_i_get/)
 - 2026-05-13T07:17:44+00:00 — [Mac Mini 2012 for a Self Hosted Newbie](https://www.reddit.com/r/selfhosted/comments/1tbs8x1/mac_mini_2012_for_a_self_hosted_newbie/)
-- 2026-05-12T19:28:34+00:00 — [Self hosting Musicians - What tools are you hosting](https://www.reddit.com/r/selfhosted/comments/1tbc07p/self_hosting_musicians_what_tools_are_you_hosting/)
-- 2026-05-11T23:08:38+00:00 — [Accidentally exposed publicly my entire LAN for 2 weeks](https://www.reddit.com/r/selfhosted/comments/1tajo1n/accidentally_exposed_publicly_my_entire_lan_for_2/)
-- 2026-05-12T10:58:22+00:00 — [RomM Alternatives?](https://www.reddit.com/r/selfhosted/comments/1tay3o2/romm_alternatives/)
-- 2026-05-12T15:40:06+00:00 — [Zero DHT nodes & decreased download rate when using Gluetun & Mullvad](https://www.reddit.com/r/selfhosted/comments/1tb5c7r/zero_dht_nodes_decreased_download_rate_when_using/)
-- 2026-05-12T10:38:21+00:00 — [How do EU companies think about dependency on US hyperscalers?](https://www.reddit.com/r/devops/comments/1taxpi1/how_do_eu_companies_think_about_dependency_on_us/)
-- 2026-05-11T11:09:12+00:00 — [how do you become top 0.1% in devops that gets paid 200k+? (US market)](https://www.reddit.com/r/devops/comments/1ta0297/how_do_you_become_top_01_in_devops_that_gets_paid/)
-- 2026-05-12T23:22:53+00:00 — [Why up-sizing nodes usually doesn't fix Kubernetes P99 spikes](https://www.reddit.com/r/devops/comments/1tbi8s8/why_upsizing_nodes_usually_doesnt_fix_kubernetes/)
-- 2026-05-13T01:28:46+00:00 — [Linux monitoring system in python](https://www.reddit.com/r/devops/comments/1tbl5br/linux_monitoring_system_in_python/)
 <!-- NEWS END -->
