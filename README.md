@@ -2,23 +2,35 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-22 10:39 UTC
+Last update: 2026-05-23 09:30 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 18 May 2026 19:33:03 +0000 — [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
-- Fri, 22 May 2026 10:17:48 +0000 — [What’s the best tech stack for AI app development?](https://dev.to/hackmamba/whats-the-best-tech-stack-for-ai-app-development-2gi0)
+- Sat, 23 May 2026 06:54:49 +0000 — [Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/)
+- Sat, 23 May 2026 09:16:28 +0000 — [I Deployed Netflix's Web Server in 30 Seconds (And So Can You) - Docker Project 1](https://dev.to/peter_samuel_052b9056e236/i-deployed-netflixs-web-server-in-30-seconds-and-so-can-you-docker-project-1-ha1)
+- Sat, 23 May 2026 09:04:32 +0000 — [Spot instances as GitHub Actions runners](https://dev.to/lanycrost/spot-instances-as-github-actions-runners-h19)
+- Sat, 23 May 2026 09:03:23 +0000 — [readmegen — Generate beautiful README.md in seconds (12 templates, open source)](https://dev.to/feiwei8889/readmegen-generate-beautiful-readmemd-in-seconds-12-templates-open-source-1bcj)
+- Sat, 23 May 2026 09:00:58 +0000 — [Simplicity scales — complexity kills side projects](https://dev.to/samareshdas/simplicity-scales-complexity-kills-side-projects-1g76)
+- Sat, 23 May 2026 08:55:54 +0000 — [The Best Form Backend for Static Sites in 2026](https://dev.to/allenarduino/the-best-form-backend-for-static-sites-in-2026-1fae)
 - 2026-05-21T22:01:04+00:00 — [New Project Megathread - Week of 21 May 2026](https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/)
+- 2026-05-23T01:20:15+00:00 — [Self-hosted Google Maps alternative for saving POIs?](https://www.reddit.com/r/selfhosted/comments/1tl23v8/selfhosted_google_maps_alternative_for_saving_pois/)
+- 2026-05-23T05:51:05+00:00 — [Tiered Immich Storage (MergerFS + rsync) on Proxmox N100: Feasible or Trap?](https://www.reddit.com/r/selfhosted/comments/1tl7t8g/tiered_immich_storage_mergerfs_rsync_on_proxmox/)
+- 2026-05-22T21:05:13+00:00 — [My experience and gripes with ZimaOS](https://www.reddit.com/r/selfhosted/comments/1tkvxln/my_experience_and_gripes_with_zimaos/)
+- 2026-05-23T04:22:14+00:00 — [Plex/ LAN access with VPN](https://www.reddit.com/r/selfhosted/comments/1tl627r/plex_lan_access_with_vpn/)
 - 2026-05-22T09:25:54+00:00 — [nginx-poolslip: Fresh NGINX Zero-Day Concern Emerges After Recent Rift Patch](https://www.reddit.com/r/selfhosted/comments/1tkdrnh/nginxpoolslip_fresh_nginx_zeroday_concern_emerges/)
-- 2026-05-21T20:14:37+00:00 — [I just didn't want to push a button to wake my servers](https://www.reddit.com/r/selfhosted/comments/1tjwi5o/i_just_didnt_want_to_push_a_button_to_wake_my/)
-- 2026-05-21T05:16:48+00:00 — [My Spotify Replacement Setup (navidrome + lidarr with tubifarry + slskd + explo + aurral + musicbrainz/listenbrainz)](https://www.reddit.com/r/selfhosted/comments/1tjalq8/my_spotify_replacement_setup_navidrome_lidarr/)
-- 2026-05-21T18:22:45+00:00 — [Dynacat - 2.3.0](https://www.reddit.com/r/selfhosted/comments/1tjt8ey/dynacat_230/)
-- 2026-05-21T23:04:35+00:00 — [If you could restart, what would you do differently?](https://www.reddit.com/r/selfhosted/comments/1tk0znn/if_you_could_restart_what_would_you_do_differently/)
+- 2026-05-23T05:35:10+00:00 — [Five Clusters. Five Lessons. One Production System.](https://www.reddit.com/r/devops/comments/1tl7ihk/five_clusters_five_lessons_one_production_system/)
+- 2026-05-23T01:39:20+00:00 — [How I lost my test database twice because of an unsecured server](https://www.reddit.com/r/devops/comments/1tl2j4h/how_i_lost_my_test_database_twice_because_of_an/)
 - 2026-05-21T07:28:17+00:00 — [Help me develop few intermediate to advanced DevOps projects that simulate real time workflows.](https://www.reddit.com/r/devops/comments/1tjd38z/help_me_develop_few_intermediate_to_advanced/)
 - 2026-05-21T07:39:46+00:00 — [Python dev (Django/FastAPI/Docker/K8s) trying to break into DevOps — what should I prioritize, and what are the real problems no one warns you about?](https://www.reddit.com/r/devops/comments/1tjdatq/python_dev_djangofastapidockerk8s_trying_to_break/)
 - 2026-05-21T06:44:42+00:00 — [Want to switch to Cloud/DevOps engineer role](https://www.reddit.com/r/devops/comments/1tjca3u/want_to_switch_to_clouddevops_engineer_role/)
 - 2026-05-20T14:16:27+00:00 — [Automating container deployment on-premises](https://www.reddit.com/r/devops/comments/1tin1cr/automating_container_deployment_onpremises/)
+- Mon, 18 May 2026 19:33:03 +0000 — [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
+- Fri, 22 May 2026 10:17:48 +0000 — [What’s the best tech stack for AI app development?](https://dev.to/hackmamba/whats-the-best-tech-stack-for-ai-app-development-2gi0)
+- 2026-05-21T20:14:37+00:00 — [I just didn't want to push a button to wake my servers](https://www.reddit.com/r/selfhosted/comments/1tjwi5o/i_just_didnt_want_to_push_a_button_to_wake_my/)
+- 2026-05-21T05:16:48+00:00 — [My Spotify Replacement Setup (navidrome + lidarr with tubifarry + slskd + explo + aurral + musicbrainz/listenbrainz)](https://www.reddit.com/r/selfhosted/comments/1tjalq8/my_spotify_replacement_setup_navidrome_lidarr/)
+- 2026-05-21T18:22:45+00:00 — [Dynacat - 2.3.0](https://www.reddit.com/r/selfhosted/comments/1tjt8ey/dynacat_230/)
+- 2026-05-21T23:04:35+00:00 — [If you could restart, what would you do differently?](https://www.reddit.com/r/selfhosted/comments/1tk0znn/if_you_could_restart_what_would_you_do_differently/)
 - Thu, 21 May 2026 19:33:39 +0000 — [Law enforcement shuts down VPN service used by two dozen ransomware gangs](https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/)
 - Thu, 21 May 2026 10:42:07 +0000 — [PostgreSQL backup tool Databasus released backup verification in real database Docker containers](https://dev.to/declan_letoy/databasus-released-backup-verification-in-real-database-docker-containers-1p3b)
 - 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
@@ -95,16 +107,4 @@ Last update: 2026-05-22 10:39 UTC
 - 2026-05-13T00:21:24+00:00 — [Because we are a self hosting family that's why.](https://www.reddit.com/r/selfhosted/comments/1tbjmet/because_we_are_a_self_hosting_family_thats_why/)
 - 2026-05-13T22:57:08+00:00 — [512MB just to handle logins? I built something better on Rust (and it's free!)](https://www.reddit.com/r/selfhosted/comments/1tcfumz/512mb_just_to_handle_logins_i_built_something/)
 - 2026-05-13T13:16:42+00:00 — [Custom Dashboard Im finally happy with](https://www.reddit.com/r/selfhosted/comments/1tbzdoc/custom_dashboard_im_finally_happy_with/)
-- 2026-05-14T00:48:39+00:00 — [Are there safe ways without a vpn on my router?](https://www.reddit.com/r/selfhosted/comments/1tcihyd/are_there_safe_ways_without_a_vpn_on_my_router/)
-- 2026-05-14T07:10:12+00:00 — [How do you handle secure remote admin (while away from home)?](https://www.reddit.com/r/selfhosted/comments/1tcqibg/how_do_you_handle_secure_remote_admin_while_away/)
-- 2026-05-13T18:40:08+00:00 — [i do not regret building a nas](https://www.reddit.com/r/selfhosted/comments/1tc8ppj/i_do_not_regret_building_a_nas/)
-- 2026-05-13T01:38:10+00:00 — [Best way to block YouTube ads across all devices at home?](https://www.reddit.com/r/selfhosted/comments/1tbld1u/best_way_to_block_youtube_ads_across_all_devices/)
-- 2026-05-13T13:58:27+00:00 — [Deployment advice for early stage startup!](https://www.reddit.com/r/devops/comments/1tc0h4j/deployment_advice_for_early_stage_startup/)
-- 2026-05-12T23:22:44+00:00 — [CI & Release environments automation](https://www.reddit.com/r/devops/comments/1tbi8o2/ci_release_environments_automation/)
-- Wed, 13 May 2026 09:38:01 +0000 — [Every AI coding assistant is shipping the same security bugs.](https://dev.to/a-leks/every-ai-coding-assistant-is-shipping-the-same-security-bugs-25oi)
-- Wed, 13 May 2026 09:28:52 +0000 — [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
-- 2026-05-13T07:06:25+00:00 — [considering moving home NAS to proxmox](https://www.reddit.com/r/selfhosted/comments/1tbs1qp/considering_moving_home_nas_to_proxmox/)
-- 2026-05-13T08:58:13+00:00 — [Coder (VS Code in the browser) + few good extensions is all I need as my server management console](https://www.reddit.com/r/selfhosted/comments/1tbtz7p/coder_vs_code_in_the_browser_few_good_extensions/)
-- 2026-05-13T05:18:58+00:00 — [Which NAS should I get?](https://www.reddit.com/r/selfhosted/comments/1tbq2ja/which_nas_should_i_get/)
-- 2026-05-13T07:17:44+00:00 — [Mac Mini 2012 for a Self Hosted Newbie](https://www.reddit.com/r/selfhosted/comments/1tbs8x1/mac_mini_2012_for_a_self_hosted_newbie/)
 <!-- NEWS END -->
