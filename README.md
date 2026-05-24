@@ -2,26 +2,37 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-23 09:30 UTC
+Last update: 2026-05-24 09:45 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 24 May 2026 09:36:25 +0000 — [Per-Customer LLM Cost Reports (Without Rearchitecting Your Billing Pipeline)](https://dev.to/gabrielanhaia/per-customer-llm-cost-reports-without-rearchitecting-your-billing-pipeline-1h53)
+- 2026-05-21T22:01:04+00:00 — [New Project Megathread - Week of 21 May 2026](https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/)
+- 2026-05-23T19:09:52+00:00 — [VaulTLS just made internal HTTPS painless for my homelab](https://www.reddit.com/r/selfhosted/comments/1tlp9gp/vaultls_just_made_internal_https_painless_for_my/)
+- 2026-05-24T00:45:45+00:00 — [Difficulty with devices bypassing pi-hole](https://www.reddit.com/r/selfhosted/comments/1tlx8tg/difficulty_with_devices_bypassing_pihole/)
+- 2026-05-24T08:58:07+00:00 — [How do you reach your music server from internet?](https://www.reddit.com/r/selfhosted/comments/1tm6vig/how_do_you_reach_your_music_server_from_internet/)
+- 2026-05-24T08:12:16+00:00 — [I built a 100% self-hosted alternative to Datadog. It unifies APM, Logs, and Kubernetes management in a single Docker container.](https://www.reddit.com/r/selfhosted/comments/1tm61uw/i_built_a_100_selfhosted_alternative_to_datadog/)
+- 2026-05-23T16:29:32+00:00 — [What are the best, most practical Coursera courses to learn AWS, Terraform, K8s, and Prometheus?](https://www.reddit.com/r/devops/comments/1tll3vh/what_are_the_best_most_practical_coursera_courses/)
+- 2026-05-24T08:07:43+00:00 — [Interview Advice](https://www.reddit.com/r/devops/comments/1tm5ywd/interview_advice/)
+- 2026-05-24T08:07:35+00:00 — [How should I start learning DevOps as an absolute beginner in 2026? Is it still worth it?](https://www.reddit.com/r/devops/comments/1tm5yta/how_should_i_start_learning_devops_as_an_absolute/)
+- 2026-05-23T05:35:10+00:00 — [Five Clusters. Five Lessons. One Production System.](https://www.reddit.com/r/devops/comments/1tl7ihk/five_clusters_five_lessons_one_production_system/)
+- 2026-05-23T18:42:37+00:00 — [Kubernetes interview gone really bad](https://www.reddit.com/r/devops/comments/1tlokfw/kubernetes_interview_gone_really_bad/)
+- 2026-05-23T15:59:59+00:00 — [Stuck in current role need suggestions to shift to devops](https://www.reddit.com/r/devops/comments/1tlkc03/stuck_in_current_role_need_suggestions_to_shift/)
+- 2026-05-23T15:48:00+00:00 — [DevOps Resume Project](https://www.reddit.com/r/devops/comments/1tlk0zh/devops_resume_project/)
+- 2026-05-23T01:39:20+00:00 — [How I lost my test database twice because of an unsecured server](https://www.reddit.com/r/devops/comments/1tl2j4h/how_i_lost_my_test_database_twice_because_of_an/)
+- 2026-05-21T07:28:17+00:00 — [Help me develop few intermediate to advanced DevOps projects that simulate real time workflows.](https://www.reddit.com/r/devops/comments/1tjd38z/help_me_develop_few_intermediate_to_advanced/)
 - Sat, 23 May 2026 06:54:49 +0000 — [Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/)
 - Sat, 23 May 2026 09:16:28 +0000 — [I Deployed Netflix's Web Server in 30 Seconds (And So Can You) - Docker Project 1](https://dev.to/peter_samuel_052b9056e236/i-deployed-netflixs-web-server-in-30-seconds-and-so-can-you-docker-project-1-ha1)
 - Sat, 23 May 2026 09:04:32 +0000 — [Spot instances as GitHub Actions runners](https://dev.to/lanycrost/spot-instances-as-github-actions-runners-h19)
 - Sat, 23 May 2026 09:03:23 +0000 — [readmegen — Generate beautiful README.md in seconds (12 templates, open source)](https://dev.to/feiwei8889/readmegen-generate-beautiful-readmemd-in-seconds-12-templates-open-source-1bcj)
 - Sat, 23 May 2026 09:00:58 +0000 — [Simplicity scales — complexity kills side projects](https://dev.to/samareshdas/simplicity-scales-complexity-kills-side-projects-1g76)
 - Sat, 23 May 2026 08:55:54 +0000 — [The Best Form Backend for Static Sites in 2026](https://dev.to/allenarduino/the-best-form-backend-for-static-sites-in-2026-1fae)
-- 2026-05-21T22:01:04+00:00 — [New Project Megathread - Week of 21 May 2026](https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/)
 - 2026-05-23T01:20:15+00:00 — [Self-hosted Google Maps alternative for saving POIs?](https://www.reddit.com/r/selfhosted/comments/1tl23v8/selfhosted_google_maps_alternative_for_saving_pois/)
 - 2026-05-23T05:51:05+00:00 — [Tiered Immich Storage (MergerFS + rsync) on Proxmox N100: Feasible or Trap?](https://www.reddit.com/r/selfhosted/comments/1tl7t8g/tiered_immich_storage_mergerfs_rsync_on_proxmox/)
 - 2026-05-22T21:05:13+00:00 — [My experience and gripes with ZimaOS](https://www.reddit.com/r/selfhosted/comments/1tkvxln/my_experience_and_gripes_with_zimaos/)
 - 2026-05-23T04:22:14+00:00 — [Plex/ LAN access with VPN](https://www.reddit.com/r/selfhosted/comments/1tl627r/plex_lan_access_with_vpn/)
 - 2026-05-22T09:25:54+00:00 — [nginx-poolslip: Fresh NGINX Zero-Day Concern Emerges After Recent Rift Patch](https://www.reddit.com/r/selfhosted/comments/1tkdrnh/nginxpoolslip_fresh_nginx_zeroday_concern_emerges/)
-- 2026-05-23T05:35:10+00:00 — [Five Clusters. Five Lessons. One Production System.](https://www.reddit.com/r/devops/comments/1tl7ihk/five_clusters_five_lessons_one_production_system/)
-- 2026-05-23T01:39:20+00:00 — [How I lost my test database twice because of an unsecured server](https://www.reddit.com/r/devops/comments/1tl2j4h/how_i_lost_my_test_database_twice_because_of_an/)
-- 2026-05-21T07:28:17+00:00 — [Help me develop few intermediate to advanced DevOps projects that simulate real time workflows.](https://www.reddit.com/r/devops/comments/1tjd38z/help_me_develop_few_intermediate_to_advanced/)
 - 2026-05-21T07:39:46+00:00 — [Python dev (Django/FastAPI/Docker/K8s) trying to break into DevOps — what should I prioritize, and what are the real problems no one warns you about?](https://www.reddit.com/r/devops/comments/1tjdatq/python_dev_djangofastapidockerk8s_trying_to_break/)
 - 2026-05-21T06:44:42+00:00 — [Want to switch to Cloud/DevOps engineer role](https://www.reddit.com/r/devops/comments/1tjca3u/want_to_switch_to_clouddevops_engineer_role/)
 - 2026-05-20T14:16:27+00:00 — [Automating container deployment on-premises](https://www.reddit.com/r/devops/comments/1tin1cr/automating_container_deployment_onpremises/)
@@ -96,15 +107,4 @@ Last update: 2026-05-23 09:30 UTC
 - 2026-05-14T12:53:34+00:00 — [services with actually generous free tiers for open-source projects. my list, what would you add?](https://www.reddit.com/r/selfhosted/comments/1tcxb1b/services_with_actually_generous_free_tiers_for/)
 - 2026-05-15T06:35:41+00:00 — [[HELP!] Can someone Help me Fix This API Error?](https://www.reddit.com/r/selfhosted/comments/1tdo28x/help_can_someone_help_me_fix_this_api_error/)
 - 2026-05-15T08:12:48+00:00 — [My Selfhosted](https://www.reddit.com/r/selfhosted/comments/1tdpt6m/my_selfhosted/)
-- 2026-05-14T08:33:17+00:00 — [Whats a better centralized way to manage Docker across Proxmox VMs/Containers ?](https://www.reddit.com/r/selfhosted/comments/1tcrzbi/whats_a_better_centralized_way_to_manage_docker/)
-- 2026-05-13T22:30:38+00:00 — [Did my home server just get breached??](https://www.reddit.com/r/selfhosted/comments/1tcf6vv/did_my_home_server_just_get_breached/)
-- 2026-05-14T19:26:10+00:00 — [Is this an ideal secure setup?](https://www.reddit.com/r/selfhosted/comments/1td8ixs/is_this_an_ideal_secure_setup/)
-- 2026-05-14T14:39:33+00:00 — [Built a self-hosted operational alert system for Linux & Docker (looking for feedback)](https://www.reddit.com/r/devops/comments/1td072o/built_a_selfhosted_operational_alert_system_for/)
-- 2026-05-13T01:50:53+00:00 — [New to DevOps – What Should I Learn First & What Does Your Daily Work Look Like?](https://www.reddit.com/r/devops/comments/1tblnnp/new_to_devops_what_should_i_learn_first_what_does/)
-- Thu, 14 May 2026 09:44:33 +0000 — [🚀 Level Up Your Career: GeeksforGeeks Summer SkillUp 2026 is Coming!](https://dev.to/prakhar_doneria/level-up-your-career-geeksforgeeks-summer-skillup-2026-is-coming-4hb1)
-- Thu, 14 May 2026 09:43:02 +0000 — [The Tiny Proxy That Fixed Local Development for Our Multi-Repo Frontend](https://dev.to/subito/the-tiny-proxy-that-fixed-local-development-for-our-multi-repo-frontend-518b)
-- 2026-05-07T22:01:15+00:00 — [New Project Megathread - Week of 07 May 2026](https://www.reddit.com/r/selfhosted/comments/1t6oy0m/new_project_megathread_week_of_07_may_2026/)
-- 2026-05-13T00:21:24+00:00 — [Because we are a self hosting family that's why.](https://www.reddit.com/r/selfhosted/comments/1tbjmet/because_we_are_a_self_hosting_family_thats_why/)
-- 2026-05-13T22:57:08+00:00 — [512MB just to handle logins? I built something better on Rust (and it's free!)](https://www.reddit.com/r/selfhosted/comments/1tcfumz/512mb_just_to_handle_logins_i_built_something/)
-- 2026-05-13T13:16:42+00:00 — [Custom Dashboard Im finally happy with](https://www.reddit.com/r/selfhosted/comments/1tbzdoc/custom_dashboard_im_finally_happy_with/)
 <!-- NEWS END -->
