@@ -2,24 +2,32 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-24 09:45 UTC
+Last update: 2026-05-25 11:39 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sun, 24 May 2026 09:36:25 +0000 — [Per-Customer LLM Cost Reports (Without Rearchitecting Your Billing Pipeline)](https://dev.to/gabrielanhaia/per-customer-llm-cost-reports-without-rearchitecting-your-billing-pipeline-1h53)
+- Mon, 25 May 2026 11:24:56 +0000 — [Which package is bloating your Docker image?](https://dev.to/mk668a/which-package-is-bloating-your-docker-image-21j6)
+- Mon, 25 May 2026 11:20:33 +0000 — [Reviving My Linux Mastery Game from a Merge Conflict — A Finish-Up-A-Thon Comeback](https://dev.to/bharath_nelapatla_711e233/eviving-my-linux-mastery-game-from-a-merge-conflict-a-finish-up-a-thon-comeback-kdo)
+- Mon, 25 May 2026 11:12:20 +0000 — [The AI Triforce of seed4j: Power, Wisdom, and Courage for Your Dev Agent](https://dev.to/avdev4j/the-ai-triforce-of-seed4j-power-wisdom-and-courage-for-your-dev-agent-2mlb)
 - 2026-05-21T22:01:04+00:00 — [New Project Megathread - Week of 21 May 2026](https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/)
+- 2026-05-24T18:27:45+00:00 — [Self hosted ebook2audiobook converter, supports voice cloning and 1158 +languages :) Update!](https://www.reddit.com/r/selfhosted/comments/1tmk44t/self_hosted_ebook2audiobook_converter_supports/)
+- 2026-05-24T17:00:24+00:00 — [Exposing home server using a VPS as a proxy](https://www.reddit.com/r/selfhosted/comments/1tmhpgb/exposing_home_server_using_a_vps_as_a_proxy/)
+- 2026-05-24T10:45:32+00:00 — [My homelab is getting spicy](https://www.reddit.com/r/selfhosted/comments/1tm8s5x/my_homelab_is_getting_spicy/)
+- 2026-05-24T08:58:07+00:00 — [How do you reach your music server from internet?](https://www.reddit.com/r/selfhosted/comments/1tm6vig/how_do_you_reach_your_music_server_from_internet/)
+- 2026-05-24T15:45:38+00:00 — [How do you share a volume between separate docker stacks?](https://www.reddit.com/r/selfhosted/comments/1tmfq3c/how_do_you_share_a_volume_between_separate_docker/)
+- 2026-05-24T08:07:35+00:00 — [How should I start learning DevOps as an absolute beginner in 2026? Is it still worth it?](https://www.reddit.com/r/devops/comments/1tm5yta/how_should_i_start_learning_devops_as_an_absolute/)
+- 2026-05-24T08:07:43+00:00 — [Interview Advice](https://www.reddit.com/r/devops/comments/1tm5ywd/interview_advice/)
+- 2026-05-23T16:29:32+00:00 — [What are the best, most practical Coursera courses to learn AWS, Terraform, K8s, and Prometheus?](https://www.reddit.com/r/devops/comments/1tll3vh/what_are_the_best_most_practical_coursera_courses/)
+- 2026-05-24T17:09:39+00:00 — [Stop telling beginners they need to learn 15 different enterprise tools just to enter DevOps](https://www.reddit.com/r/devops/comments/1tmhyoq/stop_telling_beginners_they_need_to_learn_15/)
+- 2026-05-23T05:35:10+00:00 — [Five Clusters. Five Lessons. One Production System.](https://www.reddit.com/r/devops/comments/1tl7ihk/five_clusters_five_lessons_one_production_system/)
+- 2026-05-23T15:59:59+00:00 — [Stuck in current role need suggestions to shift to devops](https://www.reddit.com/r/devops/comments/1tlkc03/stuck_in_current_role_need_suggestions_to_shift/)
+- 2026-05-23T18:42:37+00:00 — [Kubernetes interview gone really bad](https://www.reddit.com/r/devops/comments/1tlokfw/kubernetes_interview_gone_really_bad/)
+- 2026-05-23T15:48:00+00:00 — [DevOps Resume Project](https://www.reddit.com/r/devops/comments/1tlk0zh/devops_resume_project/)
+- Sun, 24 May 2026 09:36:25 +0000 — [Per-Customer LLM Cost Reports (Without Rearchitecting Your Billing Pipeline)](https://dev.to/gabrielanhaia/per-customer-llm-cost-reports-without-rearchitecting-your-billing-pipeline-1h53)
 - 2026-05-23T19:09:52+00:00 — [VaulTLS just made internal HTTPS painless for my homelab](https://www.reddit.com/r/selfhosted/comments/1tlp9gp/vaultls_just_made_internal_https_painless_for_my/)
 - 2026-05-24T00:45:45+00:00 — [Difficulty with devices bypassing pi-hole](https://www.reddit.com/r/selfhosted/comments/1tlx8tg/difficulty_with_devices_bypassing_pihole/)
-- 2026-05-24T08:58:07+00:00 — [How do you reach your music server from internet?](https://www.reddit.com/r/selfhosted/comments/1tm6vig/how_do_you_reach_your_music_server_from_internet/)
 - 2026-05-24T08:12:16+00:00 — [I built a 100% self-hosted alternative to Datadog. It unifies APM, Logs, and Kubernetes management in a single Docker container.](https://www.reddit.com/r/selfhosted/comments/1tm61uw/i_built_a_100_selfhosted_alternative_to_datadog/)
-- 2026-05-23T16:29:32+00:00 — [What are the best, most practical Coursera courses to learn AWS, Terraform, K8s, and Prometheus?](https://www.reddit.com/r/devops/comments/1tll3vh/what_are_the_best_most_practical_coursera_courses/)
-- 2026-05-24T08:07:43+00:00 — [Interview Advice](https://www.reddit.com/r/devops/comments/1tm5ywd/interview_advice/)
-- 2026-05-24T08:07:35+00:00 — [How should I start learning DevOps as an absolute beginner in 2026? Is it still worth it?](https://www.reddit.com/r/devops/comments/1tm5yta/how_should_i_start_learning_devops_as_an_absolute/)
-- 2026-05-23T05:35:10+00:00 — [Five Clusters. Five Lessons. One Production System.](https://www.reddit.com/r/devops/comments/1tl7ihk/five_clusters_five_lessons_one_production_system/)
-- 2026-05-23T18:42:37+00:00 — [Kubernetes interview gone really bad](https://www.reddit.com/r/devops/comments/1tlokfw/kubernetes_interview_gone_really_bad/)
-- 2026-05-23T15:59:59+00:00 — [Stuck in current role need suggestions to shift to devops](https://www.reddit.com/r/devops/comments/1tlkc03/stuck_in_current_role_need_suggestions_to_shift/)
-- 2026-05-23T15:48:00+00:00 — [DevOps Resume Project](https://www.reddit.com/r/devops/comments/1tlk0zh/devops_resume_project/)
 - 2026-05-23T01:39:20+00:00 — [How I lost my test database twice because of an unsecured server](https://www.reddit.com/r/devops/comments/1tl2j4h/how_i_lost_my_test_database_twice_because_of_an/)
 - 2026-05-21T07:28:17+00:00 — [Help me develop few intermediate to advanced DevOps projects that simulate real time workflows.](https://www.reddit.com/r/devops/comments/1tjd38z/help_me_develop_few_intermediate_to_advanced/)
 - Sat, 23 May 2026 06:54:49 +0000 — [Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/)
@@ -99,12 +107,4 @@ Last update: 2026-05-24 09:45 UTC
 - 2026-05-17T03:50:54+00:00 — [Budget-Friendly Singapore VPS for V2Ray/Xray + Occasional Torrenting (Beginner Friendly)](https://www.reddit.com/r/selfhosted/comments/1tfeenm/budgetfriendly_singapore_vps_for_v2rayxray/)
 - 2026-05-16T19:02:49+00:00 — [Should I stick with n8n as an orchestrator or move to fully coded solutions?](https://www.reddit.com/r/selfhosted/comments/1tf2hhm/should_i_stick_with_n8n_as_an_orchestrator_or/)
 - 2026-05-16T18:36:20+00:00 — [What OS for offset backup for my parent’s place?](https://www.reddit.com/r/selfhosted/comments/1tf1s89/what_os_for_offset_backup_for_my_parents_place/)
-- 2026-05-15T22:59:56+00:00 — [Docker Security Cheatsheet](https://www.reddit.com/r/selfhosted/comments/1tec2hc/docker_security_cheatsheet/)
-- Sat, 16 May 2026 09:02:51 +0000 — [Stop Hiring, Start Orchestrating: Running an AI Agent Company with Paperclip on Railway](https://dev.to/alphasec/stop-hiring-start-orchestrating-running-an-ai-agent-company-with-paperclip-on-railway-41bn)
-- Sat, 16 May 2026 09:00:47 +0000 — [85. Embeddings and Vector Search: Memory for Language Models](https://dev.to/yakhilesh/85-embeddings-and-vector-search-memory-for-language-models-1di5)
-- Sat, 16 May 2026 08:56:10 +0000 — [I built a CLI that builds itself — and it outperformed Gemini Pro using a free model](https://dev.to/mathew_thecoder/i-built-a-cli-that-builds-itself-and-it-outperformed-gemini-pro-using-a-free-model-1g44)
-- Fri, 15 May 2026 09:55:49 +0000 — [Building a Post-Quantum E2EE Library: Introducing Paranoia.ts (searching contributors)](https://dev.to/mateocallec/building-a-post-quantum-e2ee-library-introducing-paranoiats-searching-contributors-1em3)
-- 2026-05-14T12:53:34+00:00 — [services with actually generous free tiers for open-source projects. my list, what would you add?](https://www.reddit.com/r/selfhosted/comments/1tcxb1b/services_with_actually_generous_free_tiers_for/)
-- 2026-05-15T06:35:41+00:00 — [[HELP!] Can someone Help me Fix This API Error?](https://www.reddit.com/r/selfhosted/comments/1tdo28x/help_can_someone_help_me_fix_this_api_error/)
-- 2026-05-15T08:12:48+00:00 — [My Selfhosted](https://www.reddit.com/r/selfhosted/comments/1tdpt6m/my_selfhosted/)
 <!-- NEWS END -->
