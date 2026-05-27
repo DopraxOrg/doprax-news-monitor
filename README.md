@@ -2,21 +2,28 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-25 11:39 UTC
+Last update: 2026-05-27 11:25 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 27 May 2026 11:13:26 +0000 — [Building a Senior-Level DevOps / SRE / Infrastructure Engineer Terminal Setup (macOS)](https://dev.to/saint_vandora/building-a-senior-level-devops-sre-infrastructure-engineer-terminal-setup-macos-3ghp)
+- 2026-05-21T22:01:04+00:00 — [New Project Megathread - Week of 21 May 2026](https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/)
+- 2026-05-27T09:13:37+00:00 — [Colota 1.9: Android GPS tracker that syncs to your own server](https://www.reddit.com/r/selfhosted/comments/1tp05iv/colota_19_android_gps_tracker_that_syncs_to_your/)
+- 2026-05-26T22:29:17+00:00 — [Do you self host mainly for control, privacy, or just because you can?](https://www.reddit.com/r/selfhosted/comments/1tomhyr/do_you_self_host_mainly_for_control_privacy_or/)
+- 2026-05-27T10:20:24+00:00 — [Self-hosted AI tools for my needs?](https://www.reddit.com/r/selfhosted/comments/1tp1dwf/selfhosted_ai_tools_for_my_needs/)
+- 2026-05-26T15:30:21+00:00 — [Journiv + Immich update: People Tracking with Immich face data (DayOne Alternative)](https://www.reddit.com/r/selfhosted/comments/1toaehw/journiv_immich_update_people_tracking_with_immich/)
+- 2026-05-26T20:16:34+00:00 — [Just what am I getting myself into? Old person deciding to start a media server](https://www.reddit.com/r/selfhosted/comments/1toiuin/just_what_am_i_getting_myself_into_old_person/)
+- 2026-05-27T04:33:49+00:00 — [Harness Engineering: The New DevOps Layer for AI Agents](https://www.reddit.com/r/devops/comments/1touxz4/harness_engineering_the_new_devops_layer_for_ai/)
+- 2026-05-24T08:07:35+00:00 — [How should I start learning DevOps as an absolute beginner in 2026? Is it still worth it?](https://www.reddit.com/r/devops/comments/1tm5yta/how_should_i_start_learning_devops_as_an_absolute/)
 - Mon, 25 May 2026 11:24:56 +0000 — [Which package is bloating your Docker image?](https://dev.to/mk668a/which-package-is-bloating-your-docker-image-21j6)
 - Mon, 25 May 2026 11:20:33 +0000 — [Reviving My Linux Mastery Game from a Merge Conflict — A Finish-Up-A-Thon Comeback](https://dev.to/bharath_nelapatla_711e233/eviving-my-linux-mastery-game-from-a-merge-conflict-a-finish-up-a-thon-comeback-kdo)
 - Mon, 25 May 2026 11:12:20 +0000 — [The AI Triforce of seed4j: Power, Wisdom, and Courage for Your Dev Agent](https://dev.to/avdev4j/the-ai-triforce-of-seed4j-power-wisdom-and-courage-for-your-dev-agent-2mlb)
-- 2026-05-21T22:01:04+00:00 — [New Project Megathread - Week of 21 May 2026](https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/)
 - 2026-05-24T18:27:45+00:00 — [Self hosted ebook2audiobook converter, supports voice cloning and 1158 +languages :) Update!](https://www.reddit.com/r/selfhosted/comments/1tmk44t/self_hosted_ebook2audiobook_converter_supports/)
 - 2026-05-24T17:00:24+00:00 — [Exposing home server using a VPS as a proxy](https://www.reddit.com/r/selfhosted/comments/1tmhpgb/exposing_home_server_using_a_vps_as_a_proxy/)
 - 2026-05-24T10:45:32+00:00 — [My homelab is getting spicy](https://www.reddit.com/r/selfhosted/comments/1tm8s5x/my_homelab_is_getting_spicy/)
 - 2026-05-24T08:58:07+00:00 — [How do you reach your music server from internet?](https://www.reddit.com/r/selfhosted/comments/1tm6vig/how_do_you_reach_your_music_server_from_internet/)
 - 2026-05-24T15:45:38+00:00 — [How do you share a volume between separate docker stacks?](https://www.reddit.com/r/selfhosted/comments/1tmfq3c/how_do_you_share_a_volume_between_separate_docker/)
-- 2026-05-24T08:07:35+00:00 — [How should I start learning DevOps as an absolute beginner in 2026? Is it still worth it?](https://www.reddit.com/r/devops/comments/1tm5yta/how_should_i_start_learning_devops_as_an_absolute/)
 - 2026-05-24T08:07:43+00:00 — [Interview Advice](https://www.reddit.com/r/devops/comments/1tm5ywd/interview_advice/)
 - 2026-05-23T16:29:32+00:00 — [What are the best, most practical Coursera courses to learn AWS, Terraform, K8s, and Prometheus?](https://www.reddit.com/r/devops/comments/1tll3vh/what_are_the_best_most_practical_coursera_courses/)
 - 2026-05-24T17:09:39+00:00 — [Stop telling beginners they need to learn 15 different enterprise tools just to enter DevOps](https://www.reddit.com/r/devops/comments/1tmhyoq/stop_telling_beginners_they_need_to_learn_15/)
@@ -100,11 +107,4 @@ Last update: 2026-05-25 11:39 UTC
 - 2026-05-15T07:13:53+00:00 — [Beginner in DevOps, review my Bitbucket pipeline (AWS ECR -> EC2)](https://www.reddit.com/r/devops/comments/1tdork6/beginner_in_devops_review_my_bitbucket_pipeline/)
 - Sun, 17 May 2026 06:17:26 +0000 — [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
 - Sun, 17 May 2026 09:06:04 +0000 — [Production-Ready GPU Inference Autoscaling on EKS with Karpenter, KEDA, and Dragonfly](https://dev.to/tazmainiandevil/production-ready-gpu-inference-autoscaling-on-eks-with-karpenter-keda-and-dragonfly-2f1p)
-- 2026-05-16T22:56:49+00:00 — [Easy to setup NextCloud alternative for an idiot?](https://www.reddit.com/r/selfhosted/comments/1tf85sz/easy_to_setup_nextcloud_alternative_for_an_idiot/)
-- 2026-05-16T09:19:12+00:00 — [Self hosting OpenStreetMaps for offline usage](https://www.reddit.com/r/selfhosted/comments/1teonc1/self_hosting_openstreetmaps_for_offline_usage/)
-- 2026-05-17T02:56:10+00:00 — [Setting up WireGuard on Synology DSM 7 using Docker and Gluetun](https://www.reddit.com/r/selfhosted/comments/1tfdaux/setting_up_wireguard_on_synology_dsm_7_using/)
-- 2026-05-16T08:53:16+00:00 — [Anthias v2026.05.0: biggest release in years, per-asset scheduling, Pi 5 support, and a lot of cleanup](https://www.reddit.com/r/selfhosted/comments/1teo6j1/anthias_v2026050_biggest_release_in_years/)
-- 2026-05-17T03:50:54+00:00 — [Budget-Friendly Singapore VPS for V2Ray/Xray + Occasional Torrenting (Beginner Friendly)](https://www.reddit.com/r/selfhosted/comments/1tfeenm/budgetfriendly_singapore_vps_for_v2rayxray/)
-- 2026-05-16T19:02:49+00:00 — [Should I stick with n8n as an orchestrator or move to fully coded solutions?](https://www.reddit.com/r/selfhosted/comments/1tf2hhm/should_i_stick_with_n8n_as_an_orchestrator_or/)
-- 2026-05-16T18:36:20+00:00 — [What OS for offset backup for my parent’s place?](https://www.reddit.com/r/selfhosted/comments/1tf1s89/what_os_for_offset_backup_for_my_parents_place/)
 <!-- NEWS END -->
