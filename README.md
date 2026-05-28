@@ -2,19 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-27 11:25 UTC
+Last update: 2026-05-28 11:26 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 27 May 2026 11:13:26 +0000 — [Building a Senior-Level DevOps / SRE / Infrastructure Engineer Terminal Setup (macOS)](https://dev.to/saint_vandora/building-a-senior-level-devops-sre-infrastructure-engineer-terminal-setup-macos-3ghp)
+- Thu, 28 May 2026 11:23:15 +0000 — [Kubelet Metrics: How cAdvisor and CRI Collect Kubernetes Stats](https://dev.to/gulcantopcu/kubelet-metrics-how-cadvisor-and-cri-collect-kubernetes-stats-12kj)
+- Thu, 28 May 2026 11:17:35 +0000 — [Kubernetes Is Eating Your Budget: How to Fix EKS Over-Provisioning](https://dev.to/sourabhkapoor/kubernetes-is-eating-your-budget-how-to-fix-eks-over-provisioning-1977)
+- Thu, 28 May 2026 11:06:34 +0000 — [Optimizing Chunking and Data Extraction for Zero-Hallucination RAG](https://dev.to/alterlab/optimizing-chunking-and-data-extraction-for-zero-hallucination-rag-4lic)
+- Thu, 28 May 2026 11:00:01 +0000 — [I Refactored 100 Functions With Claude. CI Was Green. Production Got Slower in 7 Spots.](https://dev.to/kenimo49/i-refactored-100-functions-with-claude-ci-was-green-production-got-slower-in-7-spots-1d6)
 - 2026-05-21T22:01:04+00:00 — [New Project Megathread - Week of 21 May 2026](https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/)
+- 2026-05-28T10:33:46+00:00 — [OpenHabitTracker now has three new habit display modes: Repetitions, Time, and Quantity](https://www.reddit.com/r/selfhosted/comments/1tpzp42/openhabittracker_now_has_three_new_habit_display/)
+- 2026-05-28T10:12:11+00:00 — [Self-hosted iPaaS on Kubernetes, any recommendations?](https://www.reddit.com/r/selfhosted/comments/1tpzag7/selfhosted_ipaas_on_kubernetes_any_recommendations/)
 - 2026-05-27T09:13:37+00:00 — [Colota 1.9: Android GPS tracker that syncs to your own server](https://www.reddit.com/r/selfhosted/comments/1tp05iv/colota_19_android_gps_tracker_that_syncs_to_your/)
+- 2026-05-27T20:50:34+00:00 — [Hosting a routing app on a Raspberry Pi 4/5](https://www.reddit.com/r/selfhosted/comments/1tpi899/hosting_a_routing_app_on_a_raspberry_pi_45/)
+- 2026-05-28T03:42:47+00:00 — [Gaming servers vlan(s)?](https://www.reddit.com/r/selfhosted/comments/1tps20j/gaming_servers_vlans/)
+- 2026-05-27T23:37:20+00:00 — [Traefik not working with CloudFlare Proxy](https://www.reddit.com/r/selfhosted/comments/1tpmicf/traefik_not_working_with_cloudflare_proxy/)
 - 2026-05-26T22:29:17+00:00 — [Do you self host mainly for control, privacy, or just because you can?](https://www.reddit.com/r/selfhosted/comments/1tomhyr/do_you_self_host_mainly_for_control_privacy_or/)
+- 2026-05-28T10:51:21+00:00 — [I don't think I can take DevOps anymore with our current "AI advancements"](https://www.reddit.com/r/devops/comments/1tq017d/i_dont_think_i_can_take_devops_anymore_with_our/)
+- 2026-05-27T15:16:21+00:00 — [Connect docker swarm cluster with k8s](https://www.reddit.com/r/devops/comments/1tp8lyr/connect_docker_swarm_cluster_with_k8s/)
+- 2026-05-27T04:33:49+00:00 — [Harness Engineering: The New DevOps Layer for AI Agents](https://www.reddit.com/r/devops/comments/1touxz4/harness_engineering_the_new_devops_layer_for_ai/)
+- Wed, 27 May 2026 11:13:26 +0000 — [Building a Senior-Level DevOps / SRE / Infrastructure Engineer Terminal Setup (macOS)](https://dev.to/saint_vandora/building-a-senior-level-devops-sre-infrastructure-engineer-terminal-setup-macos-3ghp)
 - 2026-05-27T10:20:24+00:00 — [Self-hosted AI tools for my needs?](https://www.reddit.com/r/selfhosted/comments/1tp1dwf/selfhosted_ai_tools_for_my_needs/)
 - 2026-05-26T15:30:21+00:00 — [Journiv + Immich update: People Tracking with Immich face data (DayOne Alternative)](https://www.reddit.com/r/selfhosted/comments/1toaehw/journiv_immich_update_people_tracking_with_immich/)
 - 2026-05-26T20:16:34+00:00 — [Just what am I getting myself into? Old person deciding to start a media server](https://www.reddit.com/r/selfhosted/comments/1toiuin/just_what_am_i_getting_myself_into_old_person/)
-- 2026-05-27T04:33:49+00:00 — [Harness Engineering: The New DevOps Layer for AI Agents](https://www.reddit.com/r/devops/comments/1touxz4/harness_engineering_the_new_devops_layer_for_ai/)
 - 2026-05-24T08:07:35+00:00 — [How should I start learning DevOps as an absolute beginner in 2026? Is it still worth it?](https://www.reddit.com/r/devops/comments/1tm5yta/how_should_i_start_learning_devops_as_an_absolute/)
 - Mon, 25 May 2026 11:24:56 +0000 — [Which package is bloating your Docker image?](https://dev.to/mk668a/which-package-is-bloating-your-docker-image-21j6)
 - Mon, 25 May 2026 11:20:33 +0000 — [Reviving My Linux Mastery Game from a Merge Conflict — A Finish-Up-A-Thon Comeback](https://dev.to/bharath_nelapatla_711e233/eviving-my-linux-mastery-game-from-a-merge-conflict-a-finish-up-a-thon-comeback-kdo)
@@ -96,15 +107,4 @@ Last update: 2026-05-27 11:25 UTC
 - Mon, 18 May 2026 11:30:00 +0000 — [Sector-aware threat intel API: stop triaging hundreds of CVEs manually](https://dev.to/setounkpe7/sector-aware-threat-intel-api-stop-triaging-hundreds-of-cves-manually-5097)
 - Mon, 18 May 2026 11:27:15 +0000 — [Windows Secretly Ate 83GB of My Disk Space — The Hidden .db-wal File Nobody Talks About](https://dev.to/dhaval_upadhyay_30f8292a8/windows-secretly-ate-83gb-of-my-disk-space-the-hidden-db-wal-file-nobody-talks-about-1blb)
 - 2026-05-17T15:14:38+00:00 — [Q: What to selfhost in a network blackout to the public?](https://www.reddit.com/r/selfhosted/comments/1tfsazu/q_what_to_selfhost_in_a_network_blackout_to_the/)
-- 2026-05-17T16:55:57+00:00 — [My Ultimate Self-Hosted Maps & Location History Setup (Synology NAS, Fedora, Traccar, and Organic Maps)](https://www.reddit.com/r/selfhosted/comments/1tfv16j/my_ultimate_selfhosted_maps_location_history/)
-- 2026-05-18T09:20:08+00:00 — [Authelia Issue - Cannot access Jellyfin after authentication.](https://www.reddit.com/r/selfhosted/comments/1tgh7wb/authelia_issue_cannot_access_jellyfin_after/)
-- 2026-05-18T09:14:20+00:00 — [Kubernetes from Dev to Production: Lessons learned from self-hosting an European alternative to Google Docs](https://www.reddit.com/r/selfhosted/comments/1tgh437/kubernetes_from_dev_to_production_lessons_learned/)
-- 2026-05-17T08:24:19+00:00 — [I built a self-hosted bridge that syncs cheap BLE smart scales to Garmin / Home Assistant / InfluxDB (no vendor cloud)](https://www.reddit.com/r/selfhosted/comments/1tfjjcm/i_built_a_selfhosted_bridge_that_syncs_cheap_ble/)
-- 2026-05-17T01:21:10+00:00 — [MinusPod: self-hosted podcast ad remover now has opt-in crowdsourced patterns, learns from everyone else's corrections](https://www.reddit.com/r/selfhosted/comments/1tfbbvw/minuspod_selfhosted_podcast_ad_remover_now_has/)
-- 2026-05-17T07:09:56+00:00 — [Docker as root, a necessary evil?](https://www.reddit.com/r/selfhosted/comments/1tfi7nv/docker_as_root_a_necessary_evil/)
-- 2026-05-18T01:53:05+00:00 — [Security Recommendations for NAS and Torrenting](https://www.reddit.com/r/selfhosted/comments/1tg8k37/security_recommendations_for_nas_and_torrenting/)
-- 2026-05-14T12:32:50+00:00 — [Should i go for these DevOps courses to start with or youtube only?](https://www.reddit.com/r/devops/comments/1tcwsw1/should_i_go_for_these_devops_courses_to_start/)
-- 2026-05-15T07:13:53+00:00 — [Beginner in DevOps, review my Bitbucket pipeline (AWS ECR -> EC2)](https://www.reddit.com/r/devops/comments/1tdork6/beginner_in_devops_review_my_bitbucket_pipeline/)
-- Sun, 17 May 2026 06:17:26 +0000 — [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
-- Sun, 17 May 2026 09:06:04 +0000 — [Production-Ready GPU Inference Autoscaling on EKS with Karpenter, KEDA, and Dragonfly](https://dev.to/tazmainiandevil/production-ready-gpu-inference-autoscaling-on-eks-with-karpenter-keda-and-dragonfly-2f1p)
 <!-- NEWS END -->
