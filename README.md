@@ -2,11 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-28 11:26 UTC
+Last update: 2026-05-29 11:00 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 29 May 2026 10:13:49 +0000 — [FFmpeg as a Service: Process Video with One API Call](https://dev.to/javidjamae/ffmpeg-as-a-service-process-video-with-one-api-call-3a43)
+- 2026-05-28T22:01:07+00:00 — [New Project Megathread - Week of 28 May 2026](https://www.reddit.com/r/selfhosted/comments/1tqhzoo/new_project_megathread_week_of_28_may_2026/)
+- 2026-05-28T22:12:03+00:00 — [I benchmarked 6 self-hosted book server apps up to 150K books (ingestion time + RAM/CPU)](https://www.reddit.com/r/selfhosted/comments/1tqia6s/i_benchmarked_6_selfhosted_book_server_apps_up_to/)
+- 2026-05-28T23:17:58+00:00 — [Help with starting Self hosting](https://www.reddit.com/r/selfhosted/comments/1tqjwe0/help_with_starting_self_hosting/)
+- 2026-05-28T23:36:05+00:00 — [Automating odometer sync to LubeLogger on engine shutdown (M5Stack Tab5 + BLE OBD2 + WireGuard)](https://www.reddit.com/r/selfhosted/comments/1tqkcjj/automating_odometer_sync_to_lubelogger_on_engine/)
+- 2026-05-29T09:28:36+00:00 — [Best Practise for managing a personal decentalized multi-server infrastructure?](https://www.reddit.com/r/selfhosted/comments/1tqwh3t/best_practise_for_managing_a_personal/)
+- 2026-05-29T07:39:30+00:00 — [How do you manage remote config files?](https://www.reddit.com/r/selfhosted/comments/1tquj2l/how_do_you_manage_remote_config_files/)
+- 2026-05-29T07:22:13+00:00 — [Migration from TrueNAS Core + VM with docker to TrueNAS Scale](https://www.reddit.com/r/selfhosted/comments/1tqu7i9/migration_from_truenas_core_vm_with_docker_to/)
+- 2026-05-29T04:53:08+00:00 — [Problems between VPS and Home Network Connection](https://www.reddit.com/r/selfhosted/comments/1tqre01/problems_between_vps_and_home_network_connection/)
+- 2026-05-28T19:45:26+00:00 — [Question - UGREEN NAS - Ente Install](https://www.reddit.com/r/selfhosted/comments/1tqe6md/question_ugreen_nas_ente_install/)
+- 2026-05-28T10:51:21+00:00 — [I don't think I can take DevOps anymore with our current "AI advancements"](https://www.reddit.com/r/devops/comments/1tq017d/i_dont_think_i_can_take_devops_anymore_with_our/)
+- 2026-05-28T23:17:06+00:00 — [The "Stateful App Storage Trap": We overprovisioned our self-managed Postgres/Kafka volumes for a huge ingestion job, and now we’re stuck paying for empty space.](https://www.reddit.com/r/devops/comments/1tqjvno/the_stateful_app_storage_trap_we_overprovisioned/)
+- 2026-05-28T06:38:19+00:00 — [Question to DevOps team leads, I would like to go back to being a DevOps engineer. Will I have a chance with this career path?](https://www.reddit.com/r/devops/comments/1tpvi05/question_to_devops_team_leads_i_would_like_to_go/)
+- 2026-05-27T15:16:21+00:00 — [Connect docker swarm cluster with k8s](https://www.reddit.com/r/devops/comments/1tp8lyr/connect_docker_swarm_cluster_with_k8s/)
 - Thu, 28 May 2026 11:23:15 +0000 — [Kubelet Metrics: How cAdvisor and CRI Collect Kubernetes Stats](https://dev.to/gulcantopcu/kubelet-metrics-how-cadvisor-and-cri-collect-kubernetes-stats-12kj)
 - Thu, 28 May 2026 11:17:35 +0000 — [Kubernetes Is Eating Your Budget: How to Fix EKS Over-Provisioning](https://dev.to/sourabhkapoor/kubernetes-is-eating-your-budget-how-to-fix-eks-over-provisioning-1977)
 - Thu, 28 May 2026 11:06:34 +0000 — [Optimizing Chunking and Data Extraction for Zero-Hallucination RAG](https://dev.to/alterlab/optimizing-chunking-and-data-extraction-for-zero-hallucination-rag-4lic)
@@ -19,8 +33,6 @@ Last update: 2026-05-28 11:26 UTC
 - 2026-05-28T03:42:47+00:00 — [Gaming servers vlan(s)?](https://www.reddit.com/r/selfhosted/comments/1tps20j/gaming_servers_vlans/)
 - 2026-05-27T23:37:20+00:00 — [Traefik not working with CloudFlare Proxy](https://www.reddit.com/r/selfhosted/comments/1tpmicf/traefik_not_working_with_cloudflare_proxy/)
 - 2026-05-26T22:29:17+00:00 — [Do you self host mainly for control, privacy, or just because you can?](https://www.reddit.com/r/selfhosted/comments/1tomhyr/do_you_self_host_mainly_for_control_privacy_or/)
-- 2026-05-28T10:51:21+00:00 — [I don't think I can take DevOps anymore with our current "AI advancements"](https://www.reddit.com/r/devops/comments/1tq017d/i_dont_think_i_can_take_devops_anymore_with_our/)
-- 2026-05-27T15:16:21+00:00 — [Connect docker swarm cluster with k8s](https://www.reddit.com/r/devops/comments/1tp8lyr/connect_docker_swarm_cluster_with_k8s/)
 - 2026-05-27T04:33:49+00:00 — [Harness Engineering: The New DevOps Layer for AI Agents](https://www.reddit.com/r/devops/comments/1touxz4/harness_engineering_the_new_devops_layer_for_ai/)
 - Wed, 27 May 2026 11:13:26 +0000 — [Building a Senior-Level DevOps / SRE / Infrastructure Engineer Terminal Setup (macOS)](https://dev.to/saint_vandora/building-a-senior-level-devops-sre-infrastructure-engineer-terminal-setup-macos-3ghp)
 - 2026-05-27T10:20:24+00:00 — [Self-hosted AI tools for my needs?](https://www.reddit.com/r/selfhosted/comments/1tp1dwf/selfhosted_ai_tools_for_my_needs/)
@@ -95,16 +107,4 @@ Last update: 2026-05-28 11:26 UTC
 - 2026-05-18T11:14:04+00:00 — [Graduating this year and want to start DevOps/Cloud Engineering — where should I begin?](https://www.reddit.com/r/devops/comments/1tgjfc9/graduating_this_year_and_want_to_start/)
 - 2026-05-18T16:52:42+00:00 — [Ephemeral Environment](https://www.reddit.com/r/devops/comments/1tgsjel/ephemeral_environment/)
 - 2026-05-18T13:41:20+00:00 — [Looking for someone to learn Kubernetes, Terraform, GCP](https://www.reddit.com/r/devops/comments/1tgn0pn/looking_for_someone_to_learn_kubernetes_terraform/)
-- 2026-05-17T22:30:24+00:00 — [Career pivot from bare metal infra to DevOps](https://www.reddit.com/r/devops/comments/1tg3zbd/career_pivot_from_bare_metal_infra_to_devops/)
-- Tue, 19 May 2026 10:33:05 +0000 — [Welcome to the Distributed Systems World — The Challenges Nobody Warned You About](https://dev.to/moh_moh701/welcome-to-the-distributed-systems-world-the-challenges-nobody-warned-you-about-4plb)
-- 2026-05-18T13:33:24+00:00 — [Nylon: I replaced Tailscale with my own mesh VPN](https://www.reddit.com/r/selfhosted/comments/1tgmt17/nylon_i_replaced_tailscale_with_my_own_mesh_vpn/)
-- 2026-05-17T21:03:49+00:00 — [Profilarr v2 is Out!](https://www.reddit.com/r/selfhosted/comments/1tg1sav/profilarr_v2_is_out/)
-- 2026-05-19T05:00:28+00:00 — [Ntfy and iPhone No Push Notifications](https://www.reddit.com/r/selfhosted/comments/1thcpzx/ntfy_and_iphone_no_push_notifications/)
-- 2026-05-18T15:24:29+00:00 — [Re: Mini Shai-Hulud, how are we managing image versions?](https://www.reddit.com/r/selfhosted/comments/1tgpxru/re_mini_shaihulud_how_are_we_managing_image/)
-- 2026-05-16T09:06:07+00:00 — [Transitioning from SWE to SRE/Architect: Looking for books on Architecture and Observability](https://www.reddit.com/r/devops/comments/1teof1x/transitioning_from_swe_to_srearchitect_looking/)
-- 2026-05-14T14:46:59+00:00 — [NGINX CVE-2026-42945 (ngx_http_rewrite_module) — patched boundary is 1.30.1 / 1.31.0](https://www.reddit.com/r/devops/comments/1td0es6/nginx_cve202642945_ngx_http_rewrite_module/)
-- Mon, 18 May 2026 11:32:49 +0000 — [MCP Gateways vs Agent Gateways vs AI Gateways: What's the Difference and Which Do You Need?](https://dev.to/lovestaco/mcp-gateways-vs-agent-gateways-vs-ai-gateways-whats-the-difference-and-which-do-you-need-2gn6)
-- Mon, 18 May 2026 11:30:00 +0000 — [Sector-aware threat intel API: stop triaging hundreds of CVEs manually](https://dev.to/setounkpe7/sector-aware-threat-intel-api-stop-triaging-hundreds-of-cves-manually-5097)
-- Mon, 18 May 2026 11:27:15 +0000 — [Windows Secretly Ate 83GB of My Disk Space — The Hidden .db-wal File Nobody Talks About](https://dev.to/dhaval_upadhyay_30f8292a8/windows-secretly-ate-83gb-of-my-disk-space-the-hidden-db-wal-file-nobody-talks-about-1blb)
-- 2026-05-17T15:14:38+00:00 — [Q: What to selfhost in a network blackout to the public?](https://www.reddit.com/r/selfhosted/comments/1tfsazu/q_what_to_selfhost_in_a_network_blackout_to_the/)
 <!-- NEWS END -->
