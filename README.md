@@ -2,23 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-29 11:00 UTC
+Last update: 2026-05-30 09:48 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Fri, 29 May 2026 10:13:49 +0000 — [FFmpeg as a Service: Process Video with One API Call](https://dev.to/javidjamae/ffmpeg-as-a-service-process-video-with-one-api-call-3a43)
 - 2026-05-28T22:01:07+00:00 — [New Project Megathread - Week of 28 May 2026](https://www.reddit.com/r/selfhosted/comments/1tqhzoo/new_project_megathread_week_of_28_may_2026/)
+- 2026-05-30T08:22:14+00:00 — [What is the best solution to update multiple VM / LXC / Docker in the network?](https://www.reddit.com/r/selfhosted/comments/1tru1fe/what_is_the_best_solution_to_update_multiple_vm/)
+- 2026-05-30T09:34:45+00:00 — [I built a 100% Serverless Temporary Email Service using Cloudflare Workers & Pages. No databases required!](https://www.reddit.com/r/selfhosted/comments/1trvavv/i_built_a_100_serverless_temporary_email_service/)
 - 2026-05-28T22:12:03+00:00 — [I benchmarked 6 self-hosted book server apps up to 150K books (ingestion time + RAM/CPU)](https://www.reddit.com/r/selfhosted/comments/1tqia6s/i_benchmarked_6_selfhosted_book_server_apps_up_to/)
 - 2026-05-28T23:17:58+00:00 — [Help with starting Self hosting](https://www.reddit.com/r/selfhosted/comments/1tqjwe0/help_with_starting_self_hosting/)
-- 2026-05-28T23:36:05+00:00 — [Automating odometer sync to LubeLogger on engine shutdown (M5Stack Tab5 + BLE OBD2 + WireGuard)](https://www.reddit.com/r/selfhosted/comments/1tqkcjj/automating_odometer_sync_to_lubelogger_on_engine/)
 - 2026-05-29T09:28:36+00:00 — [Best Practise for managing a personal decentalized multi-server infrastructure?](https://www.reddit.com/r/selfhosted/comments/1tqwh3t/best_practise_for_managing_a_personal/)
+- 2026-05-28T23:36:05+00:00 — [Automating odometer sync to LubeLogger on engine shutdown (M5Stack Tab5 + BLE OBD2 + WireGuard)](https://www.reddit.com/r/selfhosted/comments/1tqkcjj/automating_odometer_sync_to_lubelogger_on_engine/)
+- 2026-05-30T00:15:16+00:00 — [Help with midday](https://www.reddit.com/r/selfhosted/comments/1trkbyc/help_with_midday/)
+- 2026-05-29T18:05:23+00:00 — [A deep dive into Kubernetes Gateway API](https://www.reddit.com/r/devops/comments/1traa6c/a_deep_dive_into_kubernetes_gateway_api/)
+- 2026-05-30T01:14:25+00:00 — [Looking for experience not pay](https://www.reddit.com/r/devops/comments/1trlmv8/looking_for_experience_not_pay/)
+- 2026-05-29T17:16:04+00:00 — [Open source CLI I built to check AWS against SOC 2 controls](https://www.reddit.com/r/devops/comments/1tr8qwl/open_source_cli_i_built_to_check_aws_against_soc/)
+- 2026-05-29T21:30:07+00:00 — [With the role names changing, what exactly are we doing and are the tasks split?](https://www.reddit.com/r/devops/comments/1trgavp/with_the_role_names_changing_what_exactly_are_we/)
+- 2026-05-28T10:51:21+00:00 — [I don't think I can take DevOps anymore with our current "AI advancements"](https://www.reddit.com/r/devops/comments/1tq017d/i_dont_think_i_can_take_devops_anymore_with_our/)
+- 2026-05-28T23:17:06+00:00 — [The "Stateful App Storage Trap": We overprovisioned our self-managed Postgres/Kafka volumes for a huge ingestion job, and now we’re stuck paying for empty space.](https://www.reddit.com/r/devops/comments/1tqjvno/the_stateful_app_storage_trap_we_overprovisioned/)
+- Fri, 29 May 2026 10:13:49 +0000 — [FFmpeg as a Service: Process Video with One API Call](https://dev.to/javidjamae/ffmpeg-as-a-service-process-video-with-one-api-call-3a43)
 - 2026-05-29T07:39:30+00:00 — [How do you manage remote config files?](https://www.reddit.com/r/selfhosted/comments/1tquj2l/how_do_you_manage_remote_config_files/)
 - 2026-05-29T07:22:13+00:00 — [Migration from TrueNAS Core + VM with docker to TrueNAS Scale](https://www.reddit.com/r/selfhosted/comments/1tqu7i9/migration_from_truenas_core_vm_with_docker_to/)
 - 2026-05-29T04:53:08+00:00 — [Problems between VPS and Home Network Connection](https://www.reddit.com/r/selfhosted/comments/1tqre01/problems_between_vps_and_home_network_connection/)
 - 2026-05-28T19:45:26+00:00 — [Question - UGREEN NAS - Ente Install](https://www.reddit.com/r/selfhosted/comments/1tqe6md/question_ugreen_nas_ente_install/)
-- 2026-05-28T10:51:21+00:00 — [I don't think I can take DevOps anymore with our current "AI advancements"](https://www.reddit.com/r/devops/comments/1tq017d/i_dont_think_i_can_take_devops_anymore_with_our/)
-- 2026-05-28T23:17:06+00:00 — [The "Stateful App Storage Trap": We overprovisioned our self-managed Postgres/Kafka volumes for a huge ingestion job, and now we’re stuck paying for empty space.](https://www.reddit.com/r/devops/comments/1tqjvno/the_stateful_app_storage_trap_we_overprovisioned/)
 - 2026-05-28T06:38:19+00:00 — [Question to DevOps team leads, I would like to go back to being a DevOps engineer. Will I have a chance with this career path?](https://www.reddit.com/r/devops/comments/1tpvi05/question_to_devops_team_leads_i_would_like_to_go/)
 - 2026-05-27T15:16:21+00:00 — [Connect docker swarm cluster with k8s](https://www.reddit.com/r/devops/comments/1tp8lyr/connect_docker_swarm_cluster_with_k8s/)
 - Thu, 28 May 2026 11:23:15 +0000 — [Kubelet Metrics: How cAdvisor and CRI Collect Kubernetes Stats](https://dev.to/gulcantopcu/kubelet-metrics-how-cadvisor-and-cri-collect-kubernetes-stats-12kj)
@@ -100,11 +107,4 @@ Last update: 2026-05-29 11:00 UTC
 - 2026-05-19T11:22:14+00:00 — [[💧 Rejourney v2.4] - The Lightest and most Performant Session Replay for Web & Mobile Apps](https://www.reddit.com/r/selfhosted/comments/1thjwmh/rejourney_v24_the_lightest_and_most_performant/)
 - 2026-05-20T10:12:50+00:00 — [[Help] Where to start with homelab security? Reverse proxy, VPN, firewall, what actually matters?](https://www.reddit.com/r/selfhosted/comments/1tih9t4/help_where_to_start_with_homelab_security_reverse/)
 - 2026-05-19T18:58:08+00:00 — [Privacy-friendly VPS host for self-hosted WireGuard relay? (real-world experiences wanted)](https://www.reddit.com/r/selfhosted/comments/1thwmqp/privacyfriendly_vps_host_for_selfhosted_wireguard/)
-- 2026-05-19T18:27:49+00:00 — [Do you have a plan for if you drop dead or get hit by a bus tomorrow?](https://www.reddit.com/r/selfhosted/comments/1thvq1x/do_you_have_a_plan_for_if_you_drop_dead_or_get/)
-- 2026-05-20T08:40:05+00:00 — [Home server continually getting amdgpu crashes, any ideas?](https://www.reddit.com/r/selfhosted/comments/1tiflkq/home_server_continually_getting_amdgpu_crashes/)
-- 2026-05-18T19:26:26+00:00 — [Things I didn't think of when I decided to start self-hosting: Not relying on a $120 subscription to sync my academic library in grad school!](https://www.reddit.com/r/selfhosted/comments/1tgyb61/things_i_didnt_think_of_when_i_decided_to_start/)
-- 2026-05-18T20:26:19+00:00 — [I built a daily homelab health receipt printer](https://www.reddit.com/r/selfhosted/comments/1th04c7/i_built_a_daily_homelab_health_receipt_printer/)
-- 2026-05-18T11:14:04+00:00 — [Graduating this year and want to start DevOps/Cloud Engineering — where should I begin?](https://www.reddit.com/r/devops/comments/1tgjfc9/graduating_this_year_and_want_to_start/)
-- 2026-05-18T16:52:42+00:00 — [Ephemeral Environment](https://www.reddit.com/r/devops/comments/1tgsjel/ephemeral_environment/)
-- 2026-05-18T13:41:20+00:00 — [Looking for someone to learn Kubernetes, Terraform, GCP](https://www.reddit.com/r/devops/comments/1tgn0pn/looking_for_someone_to_learn_kubernetes_terraform/)
 <!-- NEWS END -->
