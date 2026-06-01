@@ -2,13 +2,28 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-05-31 10:05 UTC
+Last update: 2026-06-01 13:24 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sun, 31 May 2026 09:36:37 +0000 — [App Size: A Battle for Every Kilobyte, or Prioritizing Functionality?](https://dev.to/merbayerp/app-size-a-battle-for-every-kilobyte-or-prioritizing-functionality-3275)
+- Mon, 01 Jun 2026 13:23:46 +0000 — [Running PyTorch fork-safe in Celery on macOS](https://dev.to/sidswirl/running-pytorch-fork-safe-in-celery-on-macos-4h6a)
+- Mon, 01 Jun 2026 13:19:37 +0000 — [Just build your react frontend into your Go Backend !](https://dev.to/joffrey_mischler_ae908ebb/just-build-your-react-frontend-into-your-go-backend--417m)
+- Mon, 01 Jun 2026 13:00:00 +0000 — [Your Job Search Is Not a Lottery](https://dev.to/guilherme_galanti/your-job-search-is-not-a-lottery-2dok)
 - 2026-05-28T22:01:07+00:00 — [New Project Megathread - Week of 28 May 2026](https://www.reddit.com/r/selfhosted/comments/1tqhzoo/new_project_megathread_week_of_28_may_2026/)
+- 2026-06-01T02:56:50+00:00 — [How do I back up docker volumes?](https://www.reddit.com/r/selfhosted/comments/1ttfivd/how_do_i_back_up_docker_volumes/)
+- 2026-06-01T09:16:08+00:00 — [Everything "just work".....](https://www.reddit.com/r/selfhosted/comments/1ttmqe9/everything_just_work/)
+- 2026-06-01T07:05:56+00:00 — [Configuring Debian Unattended Upgrade with External Repos](https://www.reddit.com/r/selfhosted/comments/1ttkg0f/configuring_debian_unattended_upgrade_with/)
+- 2026-06-01T12:43:17+00:00 — [New to Selfhosting - Scared about backups & security. Any help appreciated :)](https://www.reddit.com/r/selfhosted/comments/1ttr1x1/new_to_selfhosting_scared_about_backups_security/)
+- 2026-05-31T21:48:42+00:00 — [Today I started Self Hosting](https://www.reddit.com/r/selfhosted/comments/1tt8ju3/today_i_started_self_hosting/)
+- 2026-05-31T20:21:36+00:00 — [Blindly expanded my self-hosted media/db volume after a data spike. now i’m stuck paying for empty space](https://www.reddit.com/r/selfhosted/comments/1tt6ayl/blindly_expanded_my_selfhosted_mediadb_volume/)
+- 2026-06-01T09:58:06+00:00 — [Projects to practice manifest files](https://www.reddit.com/r/devops/comments/1ttnhl5/projects_to_practice_manifest_files/)
+- 2026-05-31T14:58:42+00:00 — [Feeling Stuck in My DevOps Career After 7 Years – Looking for Advice](https://www.reddit.com/r/devops/comments/1tsxman/feeling_stuck_in_my_devops_career_after_7_years/)
+- 2026-05-30T13:28:42+00:00 — [We moved from Azure to Hetzner and why you should too](https://www.reddit.com/r/devops/comments/1ts004t/we_moved_from_azure_to_hetzner_and_why_you_should/)
+- 2026-05-31T17:23:13+00:00 — [Systems Architect / DevOps MS Student looking for home lab collaborators and architecture feedback (GitHub enclosed)](https://www.reddit.com/r/devops/comments/1tt1ghv/systems_architect_devops_ms_student_looking_for/)
+- 2026-05-30T16:00:59+00:00 — [Do you still manually maintain docker-compose files across projects, or do you have a better workflow now?](https://www.reddit.com/r/devops/comments/1ts3s3q/do_you_still_manually_maintain_dockercompose/)
+- 2026-05-29T18:05:23+00:00 — [A deep dive into Kubernetes Gateway API](https://www.reddit.com/r/devops/comments/1traa6c/a_deep_dive_into_kubernetes_gateway_api/)
+- Sun, 31 May 2026 09:36:37 +0000 — [App Size: A Battle for Every Kilobyte, or Prioritizing Functionality?](https://dev.to/merbayerp/app-size-a-battle-for-every-kilobyte-or-prioritizing-functionality-3275)
 - 2026-05-30T18:54:57+00:00 — [​How do you actually balance work, family, hobbies, and a homelab without it becoming a second, unpaid job?](https://www.reddit.com/r/selfhosted/comments/1ts872m/how_do_you_actually_balance_work_family_hobbies/)
 - 2026-05-30T20:42:14+00:00 — [Planning a phased deployment for a new home server on my old laptop with 16GB RAM and want to sanity-check my roadmap and planned fixes for common pitfalls before spinning up Compose files.](https://www.reddit.com/r/selfhosted/comments/1tsax7p/planning_a_phased_deployment_for_a_new_home/)
 - 2026-05-30T22:28:53+00:00 — [Failing to connect qbittorrent to AirVPN with wg0.conf file](https://www.reddit.com/r/selfhosted/comments/1tsdiow/failing_to_connect_qbittorrent_to_airvpn_with/)
@@ -16,9 +31,6 @@ Last update: 2026-05-31 10:05 UTC
 - 2026-05-31T03:42:22+00:00 — [Anything combining Paperless-ngx indexing witht I-Librarian reader](https://www.reddit.com/r/selfhosted/comments/1tsk7n0/anything_combining_paperlessngx_indexing_witht/)
 - 2026-05-30T21:27:16+00:00 — [Looking for a selfhosted Spam-Filter. With special filter feature.](https://www.reddit.com/r/selfhosted/comments/1tsc1ih/looking_for_a_selfhosted_spamfilter_with_special/)
 - 2026-05-30T11:32:44+00:00 — [Scanopy compose issue: Server (bridge) can't reach Daemon (host network) - Stuck on connecting to daemon](https://www.reddit.com/r/selfhosted/comments/1trxh6b/scanopy_compose_issue_server_bridge_cant_reach/)
-- 2026-05-30T13:28:42+00:00 — [We moved from Azure to Hetzner and why you should too](https://www.reddit.com/r/devops/comments/1ts004t/we_moved_from_azure_to_hetzner_and_why_you_should/)
-- 2026-05-30T16:00:59+00:00 — [Do you still manually maintain docker-compose files across projects, or do you have a better workflow now?](https://www.reddit.com/r/devops/comments/1ts3s3q/do_you_still_manually_maintain_dockercompose/)
-- 2026-05-29T18:05:23+00:00 — [A deep dive into Kubernetes Gateway API](https://www.reddit.com/r/devops/comments/1traa6c/a_deep_dive_into_kubernetes_gateway_api/)
 - 2026-05-30T16:39:12+00:00 — [Why More Teams Should Consider OpenObserve Instead of Grafana + ELK Stack](https://www.reddit.com/r/devops/comments/1ts4qdo/why_more_teams_should_consider_openobserve/)
 - 2026-05-29T17:16:04+00:00 — [Open source CLI I built to check AWS against SOC 2 controls](https://www.reddit.com/r/devops/comments/1tr8qwl/open_source_cli_i_built_to_check_aws_against_soc/)
 - 2026-05-29T21:30:07+00:00 — [With the role names changing, what exactly are we doing and are the tasks split?](https://www.reddit.com/r/devops/comments/1trgavp/with_the_role_names_changing_what_exactly_are_we/)
@@ -95,16 +107,4 @@ Last update: 2026-05-31 10:05 UTC
 - Mon, 18 May 2026 19:33:03 +0000 — [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
 - Fri, 22 May 2026 10:17:48 +0000 — [What’s the best tech stack for AI app development?](https://dev.to/hackmamba/whats-the-best-tech-stack-for-ai-app-development-2gi0)
 - 2026-05-21T20:14:37+00:00 — [I just didn't want to push a button to wake my servers](https://www.reddit.com/r/selfhosted/comments/1tjwi5o/i_just_didnt_want_to_push_a_button_to_wake_my/)
-- 2026-05-21T05:16:48+00:00 — [My Spotify Replacement Setup (navidrome + lidarr with tubifarry + slskd + explo + aurral + musicbrainz/listenbrainz)](https://www.reddit.com/r/selfhosted/comments/1tjalq8/my_spotify_replacement_setup_navidrome_lidarr/)
-- 2026-05-21T18:22:45+00:00 — [Dynacat - 2.3.0](https://www.reddit.com/r/selfhosted/comments/1tjt8ey/dynacat_230/)
-- 2026-05-21T23:04:35+00:00 — [If you could restart, what would you do differently?](https://www.reddit.com/r/selfhosted/comments/1tk0znn/if_you_could_restart_what_would_you_do_differently/)
-- Thu, 21 May 2026 19:33:39 +0000 — [Law enforcement shuts down VPN service used by two dozen ransomware gangs](https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/)
-- Thu, 21 May 2026 10:42:07 +0000 — [PostgreSQL backup tool Databasus released backup verification in real database Docker containers](https://dev.to/declan_letoy/databasus-released-backup-verification-in-real-database-docker-containers-1p3b)
-- 2026-05-14T22:01:05+00:00 — [New Project Megathread - Week of 14 May 2026](https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/)
-- 2026-05-20T20:35:21+00:00 — [(More) self-hosting best practices for devs](https://www.reddit.com/r/selfhosted/comments/1tiy4uk/more_selfhosting_best_practices_for_devs/)
-- 2026-05-21T08:24:56+00:00 — [Lightweight Nextcloud alternative with mobile app + desktop sync?](https://www.reddit.com/r/selfhosted/comments/1tje3hj/lightweight_nextcloud_alternative_with_mobile_app/)
-- 2026-05-20T17:42:32+00:00 — [How do you run your self hosted music setup?](https://www.reddit.com/r/selfhosted/comments/1tit14m/how_do_you_run_your_self_hosted_music_setup/)
-- 2026-05-20T23:36:08+00:00 — [Help me understand the risks associated with containerized and or disposable web browsers](https://www.reddit.com/r/selfhosted/comments/1tj2zzx/help_me_understand_the_risks_associated_with/)
-- 2026-05-20T20:11:24+00:00 — [Suggestions for Non-VPN external access for non-techie family members? WAY more detail inside.](https://www.reddit.com/r/selfhosted/comments/1tixfkq/suggestions_for_nonvpn_external_access_for/)
-- 2026-05-21T06:00:12+00:00 — [Architecture help for arr stack](https://www.reddit.com/r/selfhosted/comments/1tjbfrt/architecture_help_for_arr_stack/)
 <!-- NEWS END -->
