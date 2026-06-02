@@ -2,24 +2,32 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-01 13:24 UTC
+Last update: 2026-06-02 11:55 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 02 Jun 2026 11:36:09 +0000 — [Building AppForge: A Unified Project Scaffolding CLI for Modern Development](https://dev.to/milankj/building-appforge-a-unified-project-scaffolding-cli-for-modern-development-2k3m)
+- 2026-05-28T22:01:07+00:00 — [New Project Megathread - Week of 28 May 2026](https://www.reddit.com/r/selfhosted/comments/1tqhzoo/new_project_megathread_week_of_28_may_2026/)
+- 2026-06-02T11:20:10+00:00 — [Zot : Self-hosted container registry on a Raspberry Pi K3s cluster](https://www.reddit.com/r/selfhosted/comments/1tunwyn/zot_selfhosted_container_registry_on_a_raspberry/)
+- 2026-06-02T07:58:14+00:00 — [Selfhostet organization tool](https://www.reddit.com/r/selfhosted/comments/1tuk5op/selfhostet_organization_tool/)
+- 2026-06-02T11:16:59+00:00 — [Self hosting Immich for me and my family's photos](https://www.reddit.com/r/selfhosted/comments/1tunuon/self_hosting_immich_for_me_and_my_familys_photos/)
+- 2026-06-02T11:35:40+00:00 — [Cordium - a FOSS, self-hosted, general-purpose sandbox platform with built-in secretless remote access that can used as an alternative to GitHub Codespaces, a runtime for AI agents and CI/CD workloads](https://www.reddit.com/r/selfhosted/comments/1tuo8w2/cordium_a_foss_selfhosted_generalpurpose_sandbox/)
+- 2026-06-02T10:16:51+00:00 — [confused about CI/CD stages in real companies + when Terraform becomes necessary](https://www.reddit.com/r/devops/comments/1tumnb0/confused_about_cicd_stages_in_real_companies_when/)
+- 2026-06-01T23:19:44+00:00 — [Associate degree or computer science¿?](https://www.reddit.com/r/devops/comments/1tu9daw/associate_degree_or_computer_science/)
+- 2026-06-01T09:58:06+00:00 — [Projects to practice manifest files](https://www.reddit.com/r/devops/comments/1ttnhl5/projects_to_practice_manifest_files/)
+- 2026-06-01T18:14:44+00:00 — [Are we building a chaotic mess of custom AI scripts, or is "Agentic OS" actually a viable infrastructure layer?](https://www.reddit.com/r/devops/comments/1tu0r10/are_we_building_a_chaotic_mess_of_custom_ai/)
+- 2026-05-31T14:58:42+00:00 — [Feeling Stuck in My DevOps Career After 7 Years – Looking for Advice](https://www.reddit.com/r/devops/comments/1tsxman/feeling_stuck_in_my_devops_career_after_7_years/)
+- 2026-05-30T13:28:42+00:00 — [We moved from Azure to Hetzner and why you should too](https://www.reddit.com/r/devops/comments/1ts004t/we_moved_from_azure_to_hetzner_and_why_you_should/)
 - Mon, 01 Jun 2026 13:23:46 +0000 — [Running PyTorch fork-safe in Celery on macOS](https://dev.to/sidswirl/running-pytorch-fork-safe-in-celery-on-macos-4h6a)
 - Mon, 01 Jun 2026 13:19:37 +0000 — [Just build your react frontend into your Go Backend !](https://dev.to/joffrey_mischler_ae908ebb/just-build-your-react-frontend-into-your-go-backend--417m)
 - Mon, 01 Jun 2026 13:00:00 +0000 — [Your Job Search Is Not a Lottery](https://dev.to/guilherme_galanti/your-job-search-is-not-a-lottery-2dok)
-- 2026-05-28T22:01:07+00:00 — [New Project Megathread - Week of 28 May 2026](https://www.reddit.com/r/selfhosted/comments/1tqhzoo/new_project_megathread_week_of_28_may_2026/)
 - 2026-06-01T02:56:50+00:00 — [How do I back up docker volumes?](https://www.reddit.com/r/selfhosted/comments/1ttfivd/how_do_i_back_up_docker_volumes/)
 - 2026-06-01T09:16:08+00:00 — [Everything "just work".....](https://www.reddit.com/r/selfhosted/comments/1ttmqe9/everything_just_work/)
 - 2026-06-01T07:05:56+00:00 — [Configuring Debian Unattended Upgrade with External Repos](https://www.reddit.com/r/selfhosted/comments/1ttkg0f/configuring_debian_unattended_upgrade_with/)
 - 2026-06-01T12:43:17+00:00 — [New to Selfhosting - Scared about backups & security. Any help appreciated :)](https://www.reddit.com/r/selfhosted/comments/1ttr1x1/new_to_selfhosting_scared_about_backups_security/)
 - 2026-05-31T21:48:42+00:00 — [Today I started Self Hosting](https://www.reddit.com/r/selfhosted/comments/1tt8ju3/today_i_started_self_hosting/)
 - 2026-05-31T20:21:36+00:00 — [Blindly expanded my self-hosted media/db volume after a data spike. now i’m stuck paying for empty space](https://www.reddit.com/r/selfhosted/comments/1tt6ayl/blindly_expanded_my_selfhosted_mediadb_volume/)
-- 2026-06-01T09:58:06+00:00 — [Projects to practice manifest files](https://www.reddit.com/r/devops/comments/1ttnhl5/projects_to_practice_manifest_files/)
-- 2026-05-31T14:58:42+00:00 — [Feeling Stuck in My DevOps Career After 7 Years – Looking for Advice](https://www.reddit.com/r/devops/comments/1tsxman/feeling_stuck_in_my_devops_career_after_7_years/)
-- 2026-05-30T13:28:42+00:00 — [We moved from Azure to Hetzner and why you should too](https://www.reddit.com/r/devops/comments/1ts004t/we_moved_from_azure_to_hetzner_and_why_you_should/)
 - 2026-05-31T17:23:13+00:00 — [Systems Architect / DevOps MS Student looking for home lab collaborators and architecture feedback (GitHub enclosed)](https://www.reddit.com/r/devops/comments/1tt1ghv/systems_architect_devops_ms_student_looking_for/)
 - 2026-05-30T16:00:59+00:00 — [Do you still manually maintain docker-compose files across projects, or do you have a better workflow now?](https://www.reddit.com/r/devops/comments/1ts3s3q/do_you_still_manually_maintain_dockercompose/)
 - 2026-05-29T18:05:23+00:00 — [A deep dive into Kubernetes Gateway API](https://www.reddit.com/r/devops/comments/1traa6c/a_deep_dive_into_kubernetes_gateway_api/)
@@ -99,12 +107,4 @@ Last update: 2026-06-01 13:24 UTC
 - 2026-05-23T01:20:15+00:00 — [Self-hosted Google Maps alternative for saving POIs?](https://www.reddit.com/r/selfhosted/comments/1tl23v8/selfhosted_google_maps_alternative_for_saving_pois/)
 - 2026-05-23T05:51:05+00:00 — [Tiered Immich Storage (MergerFS + rsync) on Proxmox N100: Feasible or Trap?](https://www.reddit.com/r/selfhosted/comments/1tl7t8g/tiered_immich_storage_mergerfs_rsync_on_proxmox/)
 - 2026-05-22T21:05:13+00:00 — [My experience and gripes with ZimaOS](https://www.reddit.com/r/selfhosted/comments/1tkvxln/my_experience_and_gripes_with_zimaos/)
-- 2026-05-23T04:22:14+00:00 — [Plex/ LAN access with VPN](https://www.reddit.com/r/selfhosted/comments/1tl627r/plex_lan_access_with_vpn/)
-- 2026-05-22T09:25:54+00:00 — [nginx-poolslip: Fresh NGINX Zero-Day Concern Emerges After Recent Rift Patch](https://www.reddit.com/r/selfhosted/comments/1tkdrnh/nginxpoolslip_fresh_nginx_zeroday_concern_emerges/)
-- 2026-05-21T07:39:46+00:00 — [Python dev (Django/FastAPI/Docker/K8s) trying to break into DevOps — what should I prioritize, and what are the real problems no one warns you about?](https://www.reddit.com/r/devops/comments/1tjdatq/python_dev_djangofastapidockerk8s_trying_to_break/)
-- 2026-05-21T06:44:42+00:00 — [Want to switch to Cloud/DevOps engineer role](https://www.reddit.com/r/devops/comments/1tjca3u/want_to_switch_to_clouddevops_engineer_role/)
-- 2026-05-20T14:16:27+00:00 — [Automating container deployment on-premises](https://www.reddit.com/r/devops/comments/1tin1cr/automating_container_deployment_onpremises/)
-- Mon, 18 May 2026 19:33:03 +0000 — [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
-- Fri, 22 May 2026 10:17:48 +0000 — [What’s the best tech stack for AI app development?](https://dev.to/hackmamba/whats-the-best-tech-stack-for-ai-app-development-2gi0)
-- 2026-05-21T20:14:37+00:00 — [I just didn't want to push a button to wake my servers](https://www.reddit.com/r/selfhosted/comments/1tjwi5o/i_just_didnt_want_to_push_a_button_to_wake_my/)
 <!-- NEWS END -->
