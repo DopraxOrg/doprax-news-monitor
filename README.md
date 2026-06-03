@@ -2,22 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-02 11:55 UTC
+Last update: 2026-06-03 12:26 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Tue, 02 Jun 2026 11:36:09 +0000 — [Building AppForge: A Unified Project Scaffolding CLI for Modern Development](https://dev.to/milankj/building-appforge-a-unified-project-scaffolding-cli-for-modern-development-2k3m)
+- Wed, 03 Jun 2026 12:18:05 +0000 — [I Built a Claude Code Skill That Diagnoses Windows BSODs Better Than I Can](https://dev.to/sitabanubanu/i-built-a-claude-code-skill-that-diagnoses-windows-bsods-better-than-i-can-3627)
 - 2026-05-28T22:01:07+00:00 — [New Project Megathread - Week of 28 May 2026](https://www.reddit.com/r/selfhosted/comments/1tqhzoo/new_project_megathread_week_of_28_may_2026/)
+- 2026-06-03T10:04:59+00:00 — [PikoCI — self-hosted CI/CD that runs as a single binary, no external dependencies](https://www.reddit.com/r/selfhosted/comments/1tvktaf/pikoci_selfhosted_cicd_that_runs_as_a_single/)
+- 2026-06-02T23:46:33+00:00 — [Accidentally learned Caddy and improved my homelab in the process](https://www.reddit.com/r/selfhosted/comments/1tv8bfa/accidentally_learned_caddy_and_improved_my/)
+- 2026-06-02T20:27:17+00:00 — [OpenResto - Simple Restaurant Table Reservation Management System](https://www.reddit.com/r/selfhosted/comments/1tv34gh/openresto_simple_restaurant_table_reservation/)
+- 2026-06-02T15:53:04+00:00 — [Best option for web based RDP](https://www.reddit.com/r/selfhosted/comments/1tuv2xb/best_option_for_web_based_rdp/)
+- 2026-06-03T07:50:41+00:00 — [puter in a proxmox lxc](https://www.reddit.com/r/selfhosted/comments/1tvig29/puter_in_a_proxmox_lxc/)
+- 2026-06-03T11:25:47+00:00 — [WaSphere — Self-hosted WhatsApp API platform (MIT, Docker, NestJS)](https://www.reddit.com/r/selfhosted/comments/1tvmfwm/wasphere_selfhosted_whatsapp_api_platform_mit/)
+- 2026-06-03T07:23:06+00:00 — [Recommendation for self-hosted Broken Link Checker](https://www.reddit.com/r/selfhosted/comments/1tvhyqy/recommendation_for_selfhosted_broken_link_checker/)
 - 2026-06-02T11:20:10+00:00 — [Zot : Self-hosted container registry on a Raspberry Pi K3s cluster](https://www.reddit.com/r/selfhosted/comments/1tunwyn/zot_selfhosted_container_registry_on_a_raspberry/)
-- 2026-06-02T07:58:14+00:00 — [Selfhostet organization tool](https://www.reddit.com/r/selfhosted/comments/1tuk5op/selfhostet_organization_tool/)
-- 2026-06-02T11:16:59+00:00 — [Self hosting Immich for me and my family's photos](https://www.reddit.com/r/selfhosted/comments/1tunuon/self_hosting_immich_for_me_and_my_familys_photos/)
-- 2026-06-02T11:35:40+00:00 — [Cordium - a FOSS, self-hosted, general-purpose sandbox platform with built-in secretless remote access that can used as an alternative to GitHub Codespaces, a runtime for AI agents and CI/CD workloads](https://www.reddit.com/r/selfhosted/comments/1tuo8w2/cordium_a_foss_selfhosted_generalpurpose_sandbox/)
 - 2026-06-02T10:16:51+00:00 — [confused about CI/CD stages in real companies + when Terraform becomes necessary](https://www.reddit.com/r/devops/comments/1tumnb0/confused_about_cicd_stages_in_real_companies_when/)
 - 2026-06-01T23:19:44+00:00 — [Associate degree or computer science¿?](https://www.reddit.com/r/devops/comments/1tu9daw/associate_degree_or_computer_science/)
 - 2026-06-01T09:58:06+00:00 — [Projects to practice manifest files](https://www.reddit.com/r/devops/comments/1ttnhl5/projects_to_practice_manifest_files/)
 - 2026-06-01T18:14:44+00:00 — [Are we building a chaotic mess of custom AI scripts, or is "Agentic OS" actually a viable infrastructure layer?](https://www.reddit.com/r/devops/comments/1tu0r10/are_we_building_a_chaotic_mess_of_custom_ai/)
 - 2026-05-31T14:58:42+00:00 — [Feeling Stuck in My DevOps Career After 7 Years – Looking for Advice](https://www.reddit.com/r/devops/comments/1tsxman/feeling_stuck_in_my_devops_career_after_7_years/)
+- Tue, 02 Jun 2026 11:36:09 +0000 — [Building AppForge: A Unified Project Scaffolding CLI for Modern Development](https://dev.to/milankj/building-appforge-a-unified-project-scaffolding-cli-for-modern-development-2k3m)
+- 2026-06-02T07:58:14+00:00 — [Selfhostet organization tool](https://www.reddit.com/r/selfhosted/comments/1tuk5op/selfhostet_organization_tool/)
+- 2026-06-02T11:16:59+00:00 — [Self hosting Immich for me and my family's photos](https://www.reddit.com/r/selfhosted/comments/1tunuon/self_hosting_immich_for_me_and_my_familys_photos/)
+- 2026-06-02T11:35:40+00:00 — [Cordium - a FOSS, self-hosted, general-purpose sandbox platform with built-in secretless remote access that can used as an alternative to GitHub Codespaces, a runtime for AI agents and CI/CD workloads](https://www.reddit.com/r/selfhosted/comments/1tuo8w2/cordium_a_foss_selfhosted_generalpurpose_sandbox/)
 - 2026-05-30T13:28:42+00:00 — [We moved from Azure to Hetzner and why you should too](https://www.reddit.com/r/devops/comments/1ts004t/we_moved_from_azure_to_hetzner_and_why_you_should/)
 - Mon, 01 Jun 2026 13:23:46 +0000 — [Running PyTorch fork-safe in Celery on macOS](https://dev.to/sidswirl/running-pytorch-fork-safe-in-celery-on-macos-4h6a)
 - Mon, 01 Jun 2026 13:19:37 +0000 — [Just build your react frontend into your Go Backend !](https://dev.to/joffrey_mischler_ae908ebb/just-build-your-react-frontend-into-your-go-backend--417m)
@@ -99,12 +107,4 @@ Last update: 2026-06-02 11:55 UTC
 - 2026-05-23T01:39:20+00:00 — [How I lost my test database twice because of an unsecured server](https://www.reddit.com/r/devops/comments/1tl2j4h/how_i_lost_my_test_database_twice_because_of_an/)
 - 2026-05-21T07:28:17+00:00 — [Help me develop few intermediate to advanced DevOps projects that simulate real time workflows.](https://www.reddit.com/r/devops/comments/1tjd38z/help_me_develop_few_intermediate_to_advanced/)
 - Sat, 23 May 2026 06:54:49 +0000 — [Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/)
-- Sat, 23 May 2026 09:16:28 +0000 — [I Deployed Netflix's Web Server in 30 Seconds (And So Can You) - Docker Project 1](https://dev.to/peter_samuel_052b9056e236/i-deployed-netflixs-web-server-in-30-seconds-and-so-can-you-docker-project-1-ha1)
-- Sat, 23 May 2026 09:04:32 +0000 — [Spot instances as GitHub Actions runners](https://dev.to/lanycrost/spot-instances-as-github-actions-runners-h19)
-- Sat, 23 May 2026 09:03:23 +0000 — [readmegen — Generate beautiful README.md in seconds (12 templates, open source)](https://dev.to/feiwei8889/readmegen-generate-beautiful-readmemd-in-seconds-12-templates-open-source-1bcj)
-- Sat, 23 May 2026 09:00:58 +0000 — [Simplicity scales — complexity kills side projects](https://dev.to/samareshdas/simplicity-scales-complexity-kills-side-projects-1g76)
-- Sat, 23 May 2026 08:55:54 +0000 — [The Best Form Backend for Static Sites in 2026](https://dev.to/allenarduino/the-best-form-backend-for-static-sites-in-2026-1fae)
-- 2026-05-23T01:20:15+00:00 — [Self-hosted Google Maps alternative for saving POIs?](https://www.reddit.com/r/selfhosted/comments/1tl23v8/selfhosted_google_maps_alternative_for_saving_pois/)
-- 2026-05-23T05:51:05+00:00 — [Tiered Immich Storage (MergerFS + rsync) on Proxmox N100: Feasible or Trap?](https://www.reddit.com/r/selfhosted/comments/1tl7t8g/tiered_immich_storage_mergerfs_rsync_on_proxmox/)
-- 2026-05-22T21:05:13+00:00 — [My experience and gripes with ZimaOS](https://www.reddit.com/r/selfhosted/comments/1tkvxln/my_experience_and_gripes_with_zimaos/)
 <!-- NEWS END -->
