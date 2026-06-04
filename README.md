@@ -2,23 +2,31 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-03 12:26 UTC
+Last update: 2026-06-04 10:52 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 03 Jun 2026 12:18:05 +0000 — [I Built a Claude Code Skill That Diagnoses Windows BSODs Better Than I Can](https://dev.to/sitabanubanu/i-built-a-claude-code-skill-that-diagnoses-windows-bsods-better-than-i-can-3627)
+- Wed, 03 Jun 2026 19:43:37 +0000 — [Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)](https://github.com/tastyeffectco/sandboxes)
+- Thu, 04 Jun 2026 10:39:59 +0000 — [Give your AI memory in one parameter](https://dev.to/backboardio/give-your-ai-memory-in-one-parameter-4n76)
 - 2026-05-28T22:01:07+00:00 — [New Project Megathread - Week of 28 May 2026](https://www.reddit.com/r/selfhosted/comments/1tqhzoo/new_project_megathread_week_of_28_may_2026/)
+- 2026-06-04T04:58:58+00:00 — [My self hosted workout app that I never finished is now 4 months old](https://www.reddit.com/r/selfhosted/comments/1twdor8/my_self_hosted_workout_app_that_i_never_finished/)
+- 2026-06-03T22:33:46+00:00 — [OS Survey Results.](https://www.reddit.com/r/selfhosted/comments/1tw50qo/os_survey_results/)
+- 2026-06-03T20:54:50+00:00 — [Sudden realization that my pdf workflow is the last thing tying me to the cloud](https://www.reddit.com/r/selfhosted/comments/1tw2e0q/sudden_realization_that_my_pdf_workflow_is_the/)
 - 2026-06-03T10:04:59+00:00 — [PikoCI — self-hosted CI/CD that runs as a single binary, no external dependencies](https://www.reddit.com/r/selfhosted/comments/1tvktaf/pikoci_selfhosted_cicd_that_runs_as_a_single/)
+- 2026-06-03T21:16:02+00:00 — [OneSearch v1.0.0: a self-hosted search layer for existing local files](https://www.reddit.com/r/selfhosted/comments/1tw2ywm/onesearch_v100_a_selfhosted_search_layer_for/)
+- 2026-06-03T22:19:18+00:00 — [[Guide] Setting Up DNS over TLS (DoT) for Pi-hole Using Stunnel](https://www.reddit.com/r/selfhosted/comments/1tw4nmp/guide_setting_up_dns_over_tls_dot_for_pihole/)
 - 2026-06-02T23:46:33+00:00 — [Accidentally learned Caddy and improved my homelab in the process](https://www.reddit.com/r/selfhosted/comments/1tv8bfa/accidentally_learned_caddy_and_improved_my/)
+- 2026-06-02T10:16:51+00:00 — [confused about CI/CD stages in real companies + when Terraform becomes necessary](https://www.reddit.com/r/devops/comments/1tumnb0/confused_about_cicd_stages_in_real_companies_when/)
+- 2026-06-03T15:21:40+00:00 — [What should I do to be taken seriously in the job market?](https://www.reddit.com/r/devops/comments/1tvslen/what_should_i_do_to_be_taken_seriously_in_the_job/)
+- 2026-06-01T23:19:44+00:00 — [Associate degree or computer science¿?](https://www.reddit.com/r/devops/comments/1tu9daw/associate_degree_or_computer_science/)
+- Wed, 03 Jun 2026 12:18:05 +0000 — [I Built a Claude Code Skill That Diagnoses Windows BSODs Better Than I Can](https://dev.to/sitabanubanu/i-built-a-claude-code-skill-that-diagnoses-windows-bsods-better-than-i-can-3627)
 - 2026-06-02T20:27:17+00:00 — [OpenResto - Simple Restaurant Table Reservation Management System](https://www.reddit.com/r/selfhosted/comments/1tv34gh/openresto_simple_restaurant_table_reservation/)
 - 2026-06-02T15:53:04+00:00 — [Best option for web based RDP](https://www.reddit.com/r/selfhosted/comments/1tuv2xb/best_option_for_web_based_rdp/)
 - 2026-06-03T07:50:41+00:00 — [puter in a proxmox lxc](https://www.reddit.com/r/selfhosted/comments/1tvig29/puter_in_a_proxmox_lxc/)
 - 2026-06-03T11:25:47+00:00 — [WaSphere — Self-hosted WhatsApp API platform (MIT, Docker, NestJS)](https://www.reddit.com/r/selfhosted/comments/1tvmfwm/wasphere_selfhosted_whatsapp_api_platform_mit/)
 - 2026-06-03T07:23:06+00:00 — [Recommendation for self-hosted Broken Link Checker](https://www.reddit.com/r/selfhosted/comments/1tvhyqy/recommendation_for_selfhosted_broken_link_checker/)
 - 2026-06-02T11:20:10+00:00 — [Zot : Self-hosted container registry on a Raspberry Pi K3s cluster](https://www.reddit.com/r/selfhosted/comments/1tunwyn/zot_selfhosted_container_registry_on_a_raspberry/)
-- 2026-06-02T10:16:51+00:00 — [confused about CI/CD stages in real companies + when Terraform becomes necessary](https://www.reddit.com/r/devops/comments/1tumnb0/confused_about_cicd_stages_in_real_companies_when/)
-- 2026-06-01T23:19:44+00:00 — [Associate degree or computer science¿?](https://www.reddit.com/r/devops/comments/1tu9daw/associate_degree_or_computer_science/)
 - 2026-06-01T09:58:06+00:00 — [Projects to practice manifest files](https://www.reddit.com/r/devops/comments/1ttnhl5/projects_to_practice_manifest_files/)
 - 2026-06-01T18:14:44+00:00 — [Are we building a chaotic mess of custom AI scripts, or is "Agentic OS" actually a viable infrastructure layer?](https://www.reddit.com/r/devops/comments/1tu0r10/are_we_building_a_chaotic_mess_of_custom_ai/)
 - 2026-05-31T14:58:42+00:00 — [Feeling Stuck in My DevOps Career After 7 Years – Looking for Advice](https://www.reddit.com/r/devops/comments/1tsxman/feeling_stuck_in_my_devops_career_after_7_years/)
@@ -99,12 +107,4 @@ Last update: 2026-06-03 12:26 UTC
 - 2026-05-23T05:35:10+00:00 — [Five Clusters. Five Lessons. One Production System.](https://www.reddit.com/r/devops/comments/1tl7ihk/five_clusters_five_lessons_one_production_system/)
 - 2026-05-23T15:59:59+00:00 — [Stuck in current role need suggestions to shift to devops](https://www.reddit.com/r/devops/comments/1tlkc03/stuck_in_current_role_need_suggestions_to_shift/)
 - 2026-05-23T18:42:37+00:00 — [Kubernetes interview gone really bad](https://www.reddit.com/r/devops/comments/1tlokfw/kubernetes_interview_gone_really_bad/)
-- 2026-05-23T15:48:00+00:00 — [DevOps Resume Project](https://www.reddit.com/r/devops/comments/1tlk0zh/devops_resume_project/)
-- Sun, 24 May 2026 09:36:25 +0000 — [Per-Customer LLM Cost Reports (Without Rearchitecting Your Billing Pipeline)](https://dev.to/gabrielanhaia/per-customer-llm-cost-reports-without-rearchitecting-your-billing-pipeline-1h53)
-- 2026-05-23T19:09:52+00:00 — [VaulTLS just made internal HTTPS painless for my homelab](https://www.reddit.com/r/selfhosted/comments/1tlp9gp/vaultls_just_made_internal_https_painless_for_my/)
-- 2026-05-24T00:45:45+00:00 — [Difficulty with devices bypassing pi-hole](https://www.reddit.com/r/selfhosted/comments/1tlx8tg/difficulty_with_devices_bypassing_pihole/)
-- 2026-05-24T08:12:16+00:00 — [I built a 100% self-hosted alternative to Datadog. It unifies APM, Logs, and Kubernetes management in a single Docker container.](https://www.reddit.com/r/selfhosted/comments/1tm61uw/i_built_a_100_selfhosted_alternative_to_datadog/)
-- 2026-05-23T01:39:20+00:00 — [How I lost my test database twice because of an unsecured server](https://www.reddit.com/r/devops/comments/1tl2j4h/how_i_lost_my_test_database_twice_because_of_an/)
-- 2026-05-21T07:28:17+00:00 — [Help me develop few intermediate to advanced DevOps projects that simulate real time workflows.](https://www.reddit.com/r/devops/comments/1tjd38z/help_me_develop_few_intermediate_to_advanced/)
-- Sat, 23 May 2026 06:54:49 +0000 — [Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/)
 <!-- NEWS END -->
