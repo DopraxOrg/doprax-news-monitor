@@ -2,23 +2,38 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-04 10:52 UTC
+Last update: 2026-06-05 11:15 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 05 Jun 2026 11:03:01 +0000 — [LLM-Free Multi-Agent Memory Architecture: How to Build Real Team Memory with Jira + GitHub + Commit Log](https://dev.to/turacthethinker/llm-free-multi-agent-memory-architecture-how-to-build-real-team-memory-with-jira-github-commit-dpa)
+- 2026-06-04T22:01:07+00:00 — [New Project Megathread - Week of 04 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1tx202z/new_project_megathread_week_of_04_jun_2026/)
+- 2026-06-05T09:24:39+00:00 — [End-to-end guide: exposing a K3s cluster with Traefik, cert-manager, CloudFlare and DDNS](https://www.reddit.com/r/selfhosted/comments/1txfvah/endtoend_guide_exposing_a_k3s_cluster_with/)
+- 2026-06-04T23:42:30+00:00 — [Wanted to take a moment to thank everyone who has used imgcompress](https://www.reddit.com/r/selfhosted/comments/1tx4ft3/wanted_to_take_a_moment_to_thank_everyone_who_has/)
+- 2026-06-04T20:01:27+00:00 — [Eneru - whole-stack UPS shutdown orchestrator now has a web dashboard, auth and an API ⚡](https://www.reddit.com/r/selfhosted/comments/1twytdb/eneru_wholestack_ups_shutdown_orchestrator_now/)
+- 2026-06-05T03:18:12+00:00 — [Docker management tools my god the choices](https://www.reddit.com/r/selfhosted/comments/1tx96iw/docker_management_tools_my_god_the_choices/)
+- 2026-06-05T08:24:05+00:00 — [Building a budget host using older enterprise hardware](https://www.reddit.com/r/selfhosted/comments/1txetme/building_a_budget_host_using_older_enterprise/)
+- 2026-06-05T06:06:14+00:00 — [Image Share Online](https://www.reddit.com/r/selfhosted/comments/1txcfx9/image_share_online/)
+- 2026-06-05T03:43:38+00:00 — [Speakr v0.8.21-alpha - UPDATE RECOMMENDED: CSRF bypass + chained SSO account takeover](https://www.reddit.com/r/selfhosted/comments/1tx9p1t/speakr_v0821alpha_update_recommended_csrf_bypass/)
+- 2026-06-05T03:17:20+00:00 — [What should I consider to improve my homelab while I refactor my whole setup?](https://www.reddit.com/r/selfhosted/comments/1tx95vn/what_should_i_consider_to_improve_my_homelab/)
+- 2026-06-05T10:37:10+00:00 — [Help setting up Caddy as reverse proxy + certificates?](https://www.reddit.com/r/selfhosted/comments/1txh72l/help_setting_up_caddy_as_reverse_proxy/)
+- 2026-06-04T04:58:58+00:00 — [My self hosted workout app that I never finished is now 4 months old](https://www.reddit.com/r/selfhosted/comments/1twdor8/my_self_hosted_workout_app_that_i_never_finished/)
+- 2026-06-04T22:25:17+00:00 — [I've been building Flowfile: self-hosted data analytics with a visual ETL core (Docker, Open-Source, code ↔ visual)](https://www.reddit.com/r/selfhosted/comments/1tx2lyo/ive_been_building_flowfile_selfhosted_data/)
+- 2026-06-04T15:52:40+00:00 — [I Built a Retro Terminal Game to Make Kubernetes Less Boring](https://www.reddit.com/r/devops/comments/1twrooa/i_built_a_retro_terminal_game_to_make_kubernetes/)
+- 2026-06-05T11:04:01+00:00 — [Is it a problem if I'm only learning on-prem Kubernetes and never touch AWS/Azure?](https://www.reddit.com/r/devops/comments/1txhq9k/is_it_a_problem_if_im_only_learning_onprem/)
+- 2026-06-05T08:21:38+00:00 — [Case Study: Building a Betting App on Oracle Free Tier](https://www.reddit.com/r/devops/comments/1txes8a/case_study_building_a_betting_app_on_oracle_free/)
+- 2026-06-02T10:16:51+00:00 — [confused about CI/CD stages in real companies + when Terraform becomes necessary](https://www.reddit.com/r/devops/comments/1tumnb0/confused_about_cicd_stages_in_real_companies_when/)
+- 2026-06-03T15:21:40+00:00 — [What should I do to be taken seriously in the job market?](https://www.reddit.com/r/devops/comments/1tvslen/what_should_i_do_to_be_taken_seriously_in_the_job/)
 - Wed, 03 Jun 2026 19:43:37 +0000 — [Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)](https://github.com/tastyeffectco/sandboxes)
 - Thu, 04 Jun 2026 10:39:59 +0000 — [Give your AI memory in one parameter](https://dev.to/backboardio/give-your-ai-memory-in-one-parameter-4n76)
 - 2026-05-28T22:01:07+00:00 — [New Project Megathread - Week of 28 May 2026](https://www.reddit.com/r/selfhosted/comments/1tqhzoo/new_project_megathread_week_of_28_may_2026/)
-- 2026-06-04T04:58:58+00:00 — [My self hosted workout app that I never finished is now 4 months old](https://www.reddit.com/r/selfhosted/comments/1twdor8/my_self_hosted_workout_app_that_i_never_finished/)
 - 2026-06-03T22:33:46+00:00 — [OS Survey Results.](https://www.reddit.com/r/selfhosted/comments/1tw50qo/os_survey_results/)
 - 2026-06-03T20:54:50+00:00 — [Sudden realization that my pdf workflow is the last thing tying me to the cloud](https://www.reddit.com/r/selfhosted/comments/1tw2e0q/sudden_realization_that_my_pdf_workflow_is_the/)
 - 2026-06-03T10:04:59+00:00 — [PikoCI — self-hosted CI/CD that runs as a single binary, no external dependencies](https://www.reddit.com/r/selfhosted/comments/1tvktaf/pikoci_selfhosted_cicd_that_runs_as_a_single/)
 - 2026-06-03T21:16:02+00:00 — [OneSearch v1.0.0: a self-hosted search layer for existing local files](https://www.reddit.com/r/selfhosted/comments/1tw2ywm/onesearch_v100_a_selfhosted_search_layer_for/)
 - 2026-06-03T22:19:18+00:00 — [[Guide] Setting Up DNS over TLS (DoT) for Pi-hole Using Stunnel](https://www.reddit.com/r/selfhosted/comments/1tw4nmp/guide_setting_up_dns_over_tls_dot_for_pihole/)
 - 2026-06-02T23:46:33+00:00 — [Accidentally learned Caddy and improved my homelab in the process](https://www.reddit.com/r/selfhosted/comments/1tv8bfa/accidentally_learned_caddy_and_improved_my/)
-- 2026-06-02T10:16:51+00:00 — [confused about CI/CD stages in real companies + when Terraform becomes necessary](https://www.reddit.com/r/devops/comments/1tumnb0/confused_about_cicd_stages_in_real_companies_when/)
-- 2026-06-03T15:21:40+00:00 — [What should I do to be taken seriously in the job market?](https://www.reddit.com/r/devops/comments/1tvslen/what_should_i_do_to_be_taken_seriously_in_the_job/)
 - 2026-06-01T23:19:44+00:00 — [Associate degree or computer science¿?](https://www.reddit.com/r/devops/comments/1tu9daw/associate_degree_or_computer_science/)
 - Wed, 03 Jun 2026 12:18:05 +0000 — [I Built a Claude Code Skill That Diagnoses Windows BSODs Better Than I Can](https://dev.to/sitabanubanu/i-built-a-claude-code-skill-that-diagnoses-windows-bsods-better-than-i-can-3627)
 - 2026-06-02T20:27:17+00:00 — [OpenResto - Simple Restaurant Table Reservation Management System](https://www.reddit.com/r/selfhosted/comments/1tv34gh/openresto_simple_restaurant_table_reservation/)
@@ -92,19 +107,4 @@ Last update: 2026-06-04 10:52 UTC
 - 2026-05-27T10:20:24+00:00 — [Self-hosted AI tools for my needs?](https://www.reddit.com/r/selfhosted/comments/1tp1dwf/selfhosted_ai_tools_for_my_needs/)
 - 2026-05-26T15:30:21+00:00 — [Journiv + Immich update: People Tracking with Immich face data (DayOne Alternative)](https://www.reddit.com/r/selfhosted/comments/1toaehw/journiv_immich_update_people_tracking_with_immich/)
 - 2026-05-26T20:16:34+00:00 — [Just what am I getting myself into? Old person deciding to start a media server](https://www.reddit.com/r/selfhosted/comments/1toiuin/just_what_am_i_getting_myself_into_old_person/)
-- 2026-05-24T08:07:35+00:00 — [How should I start learning DevOps as an absolute beginner in 2026? Is it still worth it?](https://www.reddit.com/r/devops/comments/1tm5yta/how_should_i_start_learning_devops_as_an_absolute/)
-- Mon, 25 May 2026 11:24:56 +0000 — [Which package is bloating your Docker image?](https://dev.to/mk668a/which-package-is-bloating-your-docker-image-21j6)
-- Mon, 25 May 2026 11:20:33 +0000 — [Reviving My Linux Mastery Game from a Merge Conflict — A Finish-Up-A-Thon Comeback](https://dev.to/bharath_nelapatla_711e233/eviving-my-linux-mastery-game-from-a-merge-conflict-a-finish-up-a-thon-comeback-kdo)
-- Mon, 25 May 2026 11:12:20 +0000 — [The AI Triforce of seed4j: Power, Wisdom, and Courage for Your Dev Agent](https://dev.to/avdev4j/the-ai-triforce-of-seed4j-power-wisdom-and-courage-for-your-dev-agent-2mlb)
-- 2026-05-24T18:27:45+00:00 — [Self hosted ebook2audiobook converter, supports voice cloning and 1158 +languages :) Update!](https://www.reddit.com/r/selfhosted/comments/1tmk44t/self_hosted_ebook2audiobook_converter_supports/)
-- 2026-05-24T17:00:24+00:00 — [Exposing home server using a VPS as a proxy](https://www.reddit.com/r/selfhosted/comments/1tmhpgb/exposing_home_server_using_a_vps_as_a_proxy/)
-- 2026-05-24T10:45:32+00:00 — [My homelab is getting spicy](https://www.reddit.com/r/selfhosted/comments/1tm8s5x/my_homelab_is_getting_spicy/)
-- 2026-05-24T08:58:07+00:00 — [How do you reach your music server from internet?](https://www.reddit.com/r/selfhosted/comments/1tm6vig/how_do_you_reach_your_music_server_from_internet/)
-- 2026-05-24T15:45:38+00:00 — [How do you share a volume between separate docker stacks?](https://www.reddit.com/r/selfhosted/comments/1tmfq3c/how_do_you_share_a_volume_between_separate_docker/)
-- 2026-05-24T08:07:43+00:00 — [Interview Advice](https://www.reddit.com/r/devops/comments/1tm5ywd/interview_advice/)
-- 2026-05-23T16:29:32+00:00 — [What are the best, most practical Coursera courses to learn AWS, Terraform, K8s, and Prometheus?](https://www.reddit.com/r/devops/comments/1tll3vh/what_are_the_best_most_practical_coursera_courses/)
-- 2026-05-24T17:09:39+00:00 — [Stop telling beginners they need to learn 15 different enterprise tools just to enter DevOps](https://www.reddit.com/r/devops/comments/1tmhyoq/stop_telling_beginners_they_need_to_learn_15/)
-- 2026-05-23T05:35:10+00:00 — [Five Clusters. Five Lessons. One Production System.](https://www.reddit.com/r/devops/comments/1tl7ihk/five_clusters_five_lessons_one_production_system/)
-- 2026-05-23T15:59:59+00:00 — [Stuck in current role need suggestions to shift to devops](https://www.reddit.com/r/devops/comments/1tlkc03/stuck_in_current_role_need_suggestions_to_shift/)
-- 2026-05-23T18:42:37+00:00 — [Kubernetes interview gone really bad](https://www.reddit.com/r/devops/comments/1tlokfw/kubernetes_interview_gone_really_bad/)
 <!-- NEWS END -->
