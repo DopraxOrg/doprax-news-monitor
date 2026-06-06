@@ -2,14 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-05 11:15 UTC
+Last update: 2026-06-06 09:51 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Fri, 05 Jun 2026 11:03:01 +0000 — [LLM-Free Multi-Agent Memory Architecture: How to Build Real Team Memory with Jira + GitHub + Commit Log](https://dev.to/turacthethinker/llm-free-multi-agent-memory-architecture-how-to-build-real-team-memory-with-jira-github-commit-dpa)
+- Sat, 06 Jun 2026 09:35:25 +0000 — [6개 프로젝트 보안 감사: 25개 이슈 발견 수정 기록](https://dev.to/justjinoit/6gae-peurojegteu-boan-gamsa-25gae-isyu-balgyeon-sujeong-girog-6e4)
+- Sat, 06 Jun 2026 09:24:57 +0000 — [How to Choose Tech Decisions That Serve You (And the "This Must Be False" Rule)](https://dev.to/brixmavu/how-to-choose-tech-decisions-that-serve-you-and-the-this-must-be-false-rule-c32)
 - 2026-06-04T22:01:07+00:00 — [New Project Megathread - Week of 04 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1tx202z/new_project_megathread_week_of_04_jun_2026/)
+- 2026-06-06T01:33:21+00:00 — [Turned an old laptop and spare TV into a self hosted kitchen dashboard and home server](https://www.reddit.com/r/selfhosted/comments/1ty3q8y/turned_an_old_laptop_and_spare_tv_into_a_self/)
+- 2026-06-06T02:46:49+00:00 — [I am trying to conceptually determine if prices will ever decrease again for anything in self hosting](https://www.reddit.com/r/selfhosted/comments/1ty59cw/i_am_trying_to_conceptually_determine_if_prices/)
+- 2026-06-06T07:04:44+00:00 — [Question on subnets](https://www.reddit.com/r/selfhosted/comments/1tya7dm/question_on_subnets/)
+- 2026-06-05T15:37:37+00:00 — [First 9 days of selfhosting](https://www.reddit.com/r/selfhosted/comments/1txog93/first_9_days_of_selfhosting/)
+- 2026-06-05T15:03:50+00:00 — [OpenReader: Speechify and ElevenLabs alternative for read-along document TTS](https://www.reddit.com/r/selfhosted/comments/1txnir5/openreader_speechify_and_elevenlabs_alternative/)
+- 2026-06-05T12:14:22+00:00 — [I built my own self hosted solution for keeping up with all the news across the internet.](https://www.reddit.com/r/selfhosted/comments/1txj7wy/i_built_my_own_self_hosted_solution_for_keeping/)
+- 2026-06-05T22:59:24+00:00 — [Anyone know of an alternative to rdt-client that’ll work with torbox via docker on unraid that works with the *arrs?](https://www.reddit.com/r/selfhosted/comments/1ty0a79/anyone_know_of_an_alternative_to_rdtclient_thatll/)
 - 2026-06-05T09:24:39+00:00 — [End-to-end guide: exposing a K3s cluster with Traefik, cert-manager, CloudFlare and DDNS](https://www.reddit.com/r/selfhosted/comments/1txfvah/endtoend_guide_exposing_a_k3s_cluster_with/)
+- 2026-06-06T06:32:07+00:00 — [Has relying on AI tools like Claude Code made your Docker, CI/CD, and infrastructure skills weaker?](https://www.reddit.com/r/devops/comments/1ty9mev/has_relying_on_ai_tools_like_claude_code_made/)
+- 2026-06-05T19:44:29+00:00 — [DevSecOps Roadmap](https://www.reddit.com/r/devops/comments/1txvbbk/devsecops_roadmap/)
+- 2026-06-05T11:04:01+00:00 — [Is it a problem if I'm only learning on-prem Kubernetes and never touch AWS/Azure?](https://www.reddit.com/r/devops/comments/1txhq9k/is_it_a_problem_if_im_only_learning_onprem/)
+- 2026-06-05T15:19:58+00:00 — [Checking what are the VPN client people use ?](https://www.reddit.com/r/devops/comments/1txnyz8/checking_what_are_the_vpn_client_people_use/)
+- 2026-06-04T15:52:40+00:00 — [I Built a Retro Terminal Game to Make Kubernetes Less Boring](https://www.reddit.com/r/devops/comments/1twrooa/i_built_a_retro_terminal_game_to_make_kubernetes/)
+- 2026-06-05T19:15:14+00:00 — [What should I learn in order to succeed as a entry level devops engineer?](https://www.reddit.com/r/devops/comments/1txuixd/what_should_i_learn_in_order_to_succeed_as_a/)
+- Fri, 05 Jun 2026 11:03:01 +0000 — [LLM-Free Multi-Agent Memory Architecture: How to Build Real Team Memory with Jira + GitHub + Commit Log](https://dev.to/turacthethinker/llm-free-multi-agent-memory-architecture-how-to-build-real-team-memory-with-jira-github-commit-dpa)
 - 2026-06-04T23:42:30+00:00 — [Wanted to take a moment to thank everyone who has used imgcompress](https://www.reddit.com/r/selfhosted/comments/1tx4ft3/wanted_to_take_a_moment_to_thank_everyone_who_has/)
 - 2026-06-04T20:01:27+00:00 — [Eneru - whole-stack UPS shutdown orchestrator now has a web dashboard, auth and an API ⚡](https://www.reddit.com/r/selfhosted/comments/1twytdb/eneru_wholestack_ups_shutdown_orchestrator_now/)
 - 2026-06-05T03:18:12+00:00 — [Docker management tools my god the choices](https://www.reddit.com/r/selfhosted/comments/1tx96iw/docker_management_tools_my_god_the_choices/)
@@ -20,8 +35,6 @@ Last update: 2026-06-05 11:15 UTC
 - 2026-06-05T10:37:10+00:00 — [Help setting up Caddy as reverse proxy + certificates?](https://www.reddit.com/r/selfhosted/comments/1txh72l/help_setting_up_caddy_as_reverse_proxy/)
 - 2026-06-04T04:58:58+00:00 — [My self hosted workout app that I never finished is now 4 months old](https://www.reddit.com/r/selfhosted/comments/1twdor8/my_self_hosted_workout_app_that_i_never_finished/)
 - 2026-06-04T22:25:17+00:00 — [I've been building Flowfile: self-hosted data analytics with a visual ETL core (Docker, Open-Source, code ↔ visual)](https://www.reddit.com/r/selfhosted/comments/1tx2lyo/ive_been_building_flowfile_selfhosted_data/)
-- 2026-06-04T15:52:40+00:00 — [I Built a Retro Terminal Game to Make Kubernetes Less Boring](https://www.reddit.com/r/devops/comments/1twrooa/i_built_a_retro_terminal_game_to_make_kubernetes/)
-- 2026-06-05T11:04:01+00:00 — [Is it a problem if I'm only learning on-prem Kubernetes and never touch AWS/Azure?](https://www.reddit.com/r/devops/comments/1txhq9k/is_it_a_problem_if_im_only_learning_onprem/)
 - 2026-06-05T08:21:38+00:00 — [Case Study: Building a Betting App on Oracle Free Tier](https://www.reddit.com/r/devops/comments/1txes8a/case_study_building_a_betting_app_on_oracle_free/)
 - 2026-06-02T10:16:51+00:00 — [confused about CI/CD stages in real companies + when Terraform becomes necessary](https://www.reddit.com/r/devops/comments/1tumnb0/confused_about_cicd_stages_in_real_companies_when/)
 - 2026-06-03T15:21:40+00:00 — [What should I do to be taken seriously in the job market?](https://www.reddit.com/r/devops/comments/1tvslen/what_should_i_do_to_be_taken_seriously_in_the_job/)
@@ -94,17 +107,4 @@ Last update: 2026-06-05 11:15 UTC
 - Thu, 28 May 2026 11:17:35 +0000 — [Kubernetes Is Eating Your Budget: How to Fix EKS Over-Provisioning](https://dev.to/sourabhkapoor/kubernetes-is-eating-your-budget-how-to-fix-eks-over-provisioning-1977)
 - Thu, 28 May 2026 11:06:34 +0000 — [Optimizing Chunking and Data Extraction for Zero-Hallucination RAG](https://dev.to/alterlab/optimizing-chunking-and-data-extraction-for-zero-hallucination-rag-4lic)
 - Thu, 28 May 2026 11:00:01 +0000 — [I Refactored 100 Functions With Claude. CI Was Green. Production Got Slower in 7 Spots.](https://dev.to/kenimo49/i-refactored-100-functions-with-claude-ci-was-green-production-got-slower-in-7-spots-1d6)
-- 2026-05-21T22:01:04+00:00 — [New Project Megathread - Week of 21 May 2026](https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/)
-- 2026-05-28T10:33:46+00:00 — [OpenHabitTracker now has three new habit display modes: Repetitions, Time, and Quantity](https://www.reddit.com/r/selfhosted/comments/1tpzp42/openhabittracker_now_has_three_new_habit_display/)
-- 2026-05-28T10:12:11+00:00 — [Self-hosted iPaaS on Kubernetes, any recommendations?](https://www.reddit.com/r/selfhosted/comments/1tpzag7/selfhosted_ipaas_on_kubernetes_any_recommendations/)
-- 2026-05-27T09:13:37+00:00 — [Colota 1.9: Android GPS tracker that syncs to your own server](https://www.reddit.com/r/selfhosted/comments/1tp05iv/colota_19_android_gps_tracker_that_syncs_to_your/)
-- 2026-05-27T20:50:34+00:00 — [Hosting a routing app on a Raspberry Pi 4/5](https://www.reddit.com/r/selfhosted/comments/1tpi899/hosting_a_routing_app_on_a_raspberry_pi_45/)
-- 2026-05-28T03:42:47+00:00 — [Gaming servers vlan(s)?](https://www.reddit.com/r/selfhosted/comments/1tps20j/gaming_servers_vlans/)
-- 2026-05-27T23:37:20+00:00 — [Traefik not working with CloudFlare Proxy](https://www.reddit.com/r/selfhosted/comments/1tpmicf/traefik_not_working_with_cloudflare_proxy/)
-- 2026-05-26T22:29:17+00:00 — [Do you self host mainly for control, privacy, or just because you can?](https://www.reddit.com/r/selfhosted/comments/1tomhyr/do_you_self_host_mainly_for_control_privacy_or/)
-- 2026-05-27T04:33:49+00:00 — [Harness Engineering: The New DevOps Layer for AI Agents](https://www.reddit.com/r/devops/comments/1touxz4/harness_engineering_the_new_devops_layer_for_ai/)
-- Wed, 27 May 2026 11:13:26 +0000 — [Building a Senior-Level DevOps / SRE / Infrastructure Engineer Terminal Setup (macOS)](https://dev.to/saint_vandora/building-a-senior-level-devops-sre-infrastructure-engineer-terminal-setup-macos-3ghp)
-- 2026-05-27T10:20:24+00:00 — [Self-hosted AI tools for my needs?](https://www.reddit.com/r/selfhosted/comments/1tp1dwf/selfhosted_ai_tools_for_my_needs/)
-- 2026-05-26T15:30:21+00:00 — [Journiv + Immich update: People Tracking with Immich face data (DayOne Alternative)](https://www.reddit.com/r/selfhosted/comments/1toaehw/journiv_immich_update_people_tracking_with_immich/)
-- 2026-05-26T20:16:34+00:00 — [Just what am I getting myself into? Old person deciding to start a media server](https://www.reddit.com/r/selfhosted/comments/1toiuin/just_what_am_i_getting_myself_into_old_person/)
 <!-- NEWS END -->
