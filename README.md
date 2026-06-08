@@ -2,29 +2,37 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-07 10:19 UTC
+Last update: 2026-06-08 12:18 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 08 Jun 2026 11:58:05 +0000 — [Trivy's March Supply Chain Attack Shows Where Secret Exposure Hurts Most](https://dev.to/gitguardian/trivys-march-supply-chain-attack-shows-where-secret-exposure-hurts-most-hfg)
+- 2026-06-04T22:01:07+00:00 — [New Project Megathread - Week of 04 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1tx202z/new_project_megathread_week_of_04_jun_2026/)
+- 2026-06-07T20:15:23+00:00 — [I have zero confidence in my ability to actually back up my data.](https://www.reddit.com/r/selfhosted/comments/1tzmrlu/i_have_zero_confidence_in_my_ability_to_actually/)
+- 2026-06-07T16:30:11+00:00 — [A modern Proxmox Docker architecture with disposable VMs, VirtIO-FS, and ZFS state separation](https://www.reddit.com/r/selfhosted/comments/1tzgrpo/a_modern_proxmox_docker_architecture_with/)
+- 2026-06-07T09:56:33+00:00 — [Lifelog platform I use daily and developed for ~4 years now](https://www.reddit.com/r/selfhosted/comments/1tz7z34/lifelog_platform_i_use_daily_and_developed_for_4/)
+- 2026-06-07T22:03:43+00:00 — [Isola: Secure Sandboxing for Kubernetes](https://www.reddit.com/r/selfhosted/comments/1tzph7r/isola_secure_sandboxing_for_kubernetes/)
+- 2026-06-07T15:47:16+00:00 — [Alloy, Loki, and Grafana](https://www.reddit.com/r/selfhosted/comments/1tzfn17/alloy_loki_and_grafana/)
+- 2026-06-07T09:28:05+00:00 — [Alternative to dyndns](https://www.reddit.com/r/selfhosted/comments/1tz7hc3/alternative_to_dyndns/)
+- 2026-06-07T15:32:45+00:00 — [DevOps feels endless — what should I focus on after Git, Docker, and Linux?](https://www.reddit.com/r/devops/comments/1tzf9gc/devops_feels_endless_what_should_i_focus_on_after/)
+- 2026-06-07T10:32:01+00:00 — [4 Years into my career – What should I focus on next?](https://www.reddit.com/r/devops/comments/1tz8lcf/4_years_into_my_career_what_should_i_focus_on_next/)
+- 2026-06-07T17:04:32+00:00 — [How do I specialize?](https://www.reddit.com/r/devops/comments/1tzhnqq/how_do_i_specialize/)
+- 2026-06-06T19:36:24+00:00 — [Beginner in DevOps – Enjoying the Journey but Struggling With Confidence. Is This Normal?](https://www.reddit.com/r/devops/comments/1tyqn5r/beginner_in_devops_enjoying_the_journey_but/)
+- 2026-06-06T19:39:42+00:00 — [Ran a Hosting SaaS for 5 years on Ansible/CloudFormation. Job market wants K8s/Terraform. Am I screwed?](https://www.reddit.com/r/devops/comments/1tyqq96/ran_a_hosting_saas_for_5_years_on/)
+- 2026-06-05T19:44:29+00:00 — [DevSecOps Roadmap](https://www.reddit.com/r/devops/comments/1txvbbk/devsecops_roadmap/)
+- 2026-06-05T11:04:01+00:00 — [Is it a problem if I'm only learning on-prem Kubernetes and never touch AWS/Azure?](https://www.reddit.com/r/devops/comments/1txhq9k/is_it_a_problem_if_im_only_learning_onprem/)
+- 2026-06-05T15:19:58+00:00 — [Checking what are the VPN client people use ?](https://www.reddit.com/r/devops/comments/1txnyz8/checking_what_are_the_vpn_client_people_use/)
+- 2026-06-05T21:04:55+00:00 — [Operational *simple* way to manage small number of Vultr/DO VMS/Pg/etc? NixOS + ?](https://www.reddit.com/r/devops/comments/1txxgi3/operational_simple_way_to_manage_small_number_of/)
+- 2026-06-04T15:52:40+00:00 — [I Built a Retro Terminal Game to Make Kubernetes Less Boring](https://www.reddit.com/r/devops/comments/1twrooa/i_built_a_retro_terminal_game_to_make_kubernetes/)
 - Sun, 07 Jun 2026 10:00:00 +0000 — [Your Test Suite Shouldn't Depend on APIs You Don't Control](https://dev.to/marcel_lehmann_31109127df/your-test-suite-shouldnt-depend-on-apis-you-dont-control-1c9e)
 - Sun, 07 Jun 2026 09:37:28 +0000 — [Student Placement Prediction System](https://dev.to/nakshatra_sharma_8d07f4e0/student-placement-prediction-system-3jck)
-- 2026-06-04T22:01:07+00:00 — [New Project Megathread - Week of 04 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1tx202z/new_project_megathread_week_of_04_jun_2026/)
-- 2026-06-07T09:56:33+00:00 — [Lifelog platform I use daily and developed for ~4 years now](https://www.reddit.com/r/selfhosted/comments/1tz7z34/lifelog_platform_i_use_daily_and_developed_for_4/)
 - 2026-06-06T22:54:32+00:00 — [Advice on Securing Self Hosted Minecraft Server](https://www.reddit.com/r/selfhosted/comments/1tyvcvz/advice_on_securing_self_hosted_minecraft_server/)
-- 2026-06-07T09:28:05+00:00 — [Alternative to dyndns](https://www.reddit.com/r/selfhosted/comments/1tz7hc3/alternative_to_dyndns/)
 - 2026-06-07T04:04:23+00:00 — [SSL certs suddenly flag as out of date (Caddy)...](https://www.reddit.com/r/selfhosted/comments/1tz1soj/ssl_certs_suddenly_flag_as_out_of_date_caddy/)
 - 2026-06-07T00:57:43+00:00 — [What's the best way to manage docker containers (Truenas)](https://www.reddit.com/r/selfhosted/comments/1tyy0in/whats_the_best_way_to_manage_docker_containers/)
 - 2026-06-06T01:33:21+00:00 — [Turned an old laptop and spare TV into a self hosted kitchen dashboard and home server](https://www.reddit.com/r/selfhosted/comments/1ty3q8y/turned_an_old_laptop_and_spare_tv_into_a_self/)
 - 2026-06-06T17:20:34+00:00 — [How to make a CCTV system for my parents on multiple residences?](https://www.reddit.com/r/selfhosted/comments/1tyn4rk/how_to_make_a_cctv_system_for_my_parents_on/)
 - 2026-06-06T02:46:49+00:00 — [I am trying to conceptually determine if prices will ever decrease again for anything in self hosting](https://www.reddit.com/r/selfhosted/comments/1ty59cw/i_am_trying_to_conceptually_determine_if_prices/)
-- 2026-06-06T19:36:24+00:00 — [Beginner in DevOps – Enjoying the Journey but Struggling With Confidence. Is This Normal?](https://www.reddit.com/r/devops/comments/1tyqn5r/beginner_in_devops_enjoying_the_journey_but/)
-- 2026-06-05T19:44:29+00:00 — [DevSecOps Roadmap](https://www.reddit.com/r/devops/comments/1txvbbk/devsecops_roadmap/)
-- 2026-06-06T19:39:42+00:00 — [Ran a Hosting SaaS for 5 years on Ansible/CloudFormation. Job market wants K8s/Terraform. Am I screwed?](https://www.reddit.com/r/devops/comments/1tyqq96/ran_a_hosting_saas_for_5_years_on/)
-- 2026-06-05T11:04:01+00:00 — [Is it a problem if I'm only learning on-prem Kubernetes and never touch AWS/Azure?](https://www.reddit.com/r/devops/comments/1txhq9k/is_it_a_problem_if_im_only_learning_onprem/)
-- 2026-06-05T15:19:58+00:00 — [Checking what are the VPN client people use ?](https://www.reddit.com/r/devops/comments/1txnyz8/checking_what_are_the_vpn_client_people_use/)
-- 2026-06-05T21:04:55+00:00 — [Operational *simple* way to manage small number of Vultr/DO VMS/Pg/etc? NixOS + ?](https://www.reddit.com/r/devops/comments/1txxgi3/operational_simple_way_to_manage_small_number_of/)
-- 2026-06-04T15:52:40+00:00 — [I Built a Retro Terminal Game to Make Kubernetes Less Boring](https://www.reddit.com/r/devops/comments/1twrooa/i_built_a_retro_terminal_game_to_make_kubernetes/)
 - 2026-06-05T19:15:14+00:00 — [What should I learn in order to succeed as a entry level devops engineer?](https://www.reddit.com/r/devops/comments/1txuixd/what_should_i_learn_in_order_to_succeed_as_a/)
 - Sat, 06 Jun 2026 09:35:25 +0000 — [6개 프로젝트 보안 감사: 25개 이슈 발견 수정 기록](https://dev.to/justjinoit/6gae-peurojegteu-boan-gamsa-25gae-isyu-balgyeon-sujeong-girog-6e4)
 - Sat, 06 Jun 2026 09:24:57 +0000 — [How to Choose Tech Decisions That Serve You (And the "This Must Be False" Rule)](https://dev.to/brixmavu/how-to-choose-tech-decisions-that-serve-you-and-the-this-must-be-false-rule-c32)
@@ -99,12 +107,4 @@ Last update: 2026-06-07 10:19 UTC
 - 2026-05-29T21:30:07+00:00 — [With the role names changing, what exactly are we doing and are the tasks split?](https://www.reddit.com/r/devops/comments/1trgavp/with_the_role_names_changing_what_exactly_are_we/)
 - 2026-05-28T10:51:21+00:00 — [I don't think I can take DevOps anymore with our current "AI advancements"](https://www.reddit.com/r/devops/comments/1tq017d/i_dont_think_i_can_take_devops_anymore_with_our/)
 - 2026-05-28T23:17:06+00:00 — [The "Stateful App Storage Trap": We overprovisioned our self-managed Postgres/Kafka volumes for a huge ingestion job, and now we’re stuck paying for empty space.](https://www.reddit.com/r/devops/comments/1tqjvno/the_stateful_app_storage_trap_we_overprovisioned/)
-- 2026-05-30T08:22:14+00:00 — [What is the best solution to update multiple VM / LXC / Docker in the network?](https://www.reddit.com/r/selfhosted/comments/1tru1fe/what_is_the_best_solution_to_update_multiple_vm/)
-- 2026-05-30T09:34:45+00:00 — [I built a 100% Serverless Temporary Email Service using Cloudflare Workers & Pages. No databases required!](https://www.reddit.com/r/selfhosted/comments/1trvavv/i_built_a_100_serverless_temporary_email_service/)
-- 2026-05-28T22:12:03+00:00 — [I benchmarked 6 self-hosted book server apps up to 150K books (ingestion time + RAM/CPU)](https://www.reddit.com/r/selfhosted/comments/1tqia6s/i_benchmarked_6_selfhosted_book_server_apps_up_to/)
-- 2026-05-28T23:17:58+00:00 — [Help with starting Self hosting](https://www.reddit.com/r/selfhosted/comments/1tqjwe0/help_with_starting_self_hosting/)
-- 2026-05-29T09:28:36+00:00 — [Best Practise for managing a personal decentalized multi-server infrastructure?](https://www.reddit.com/r/selfhosted/comments/1tqwh3t/best_practise_for_managing_a_personal/)
-- 2026-05-28T23:36:05+00:00 — [Automating odometer sync to LubeLogger on engine shutdown (M5Stack Tab5 + BLE OBD2 + WireGuard)](https://www.reddit.com/r/selfhosted/comments/1tqkcjj/automating_odometer_sync_to_lubelogger_on_engine/)
-- 2026-05-30T00:15:16+00:00 — [Help with midday](https://www.reddit.com/r/selfhosted/comments/1trkbyc/help_with_midday/)
-- 2026-05-30T01:14:25+00:00 — [Looking for experience not pay](https://www.reddit.com/r/devops/comments/1trlmv8/looking_for_experience_not_pay/)
 <!-- NEWS END -->
