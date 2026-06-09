@@ -2,19 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-08 12:18 UTC
+Last update: 2026-06-09 10:49 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 08 Jun 2026 11:58:05 +0000 — [Trivy's March Supply Chain Attack Shows Where Secret Exposure Hurts Most](https://dev.to/gitguardian/trivys-march-supply-chain-attack-shows-where-secret-exposure-hurts-most-hfg)
+- Tue, 09 Jun 2026 10:30:00 +0000 — [Architecting isolated workspaces with Kasm: hardened, egress-controlled, disposable](https://dev.to/jeremy-burgos/architecting-isolated-workspaces-with-kasm-hardened-egress-controlled-disposable-2nmk)
+- Tue, 09 Jun 2026 10:12:08 +0000 — [Construí tu primera API con Fitz: un acortador de URLs con Postgres y auth en 30 minutos](https://dev.to/martin_palopoli/construi-tu-primera-api-con-fitz-un-acortador-de-urls-con-postgres-y-auth-en-30-minutos-33ed)
+- Tue, 09 Jun 2026 10:11:49 +0000 — [Build a URL shortener with Fitz: HTTP + Postgres + auth in 30 minutes](https://dev.to/martin_palopoli/build-a-url-shortener-with-fitz-http-postgres-auth-in-30-minutes-68k)
+- Tue, 09 Jun 2026 10:10:39 +0000 — [Open Notebook Review: Self-Hosted NotebookLM Alternative](https://dev.to/andrew-ooo/open-notebook-review-self-hosted-notebooklm-alternative-1210)
 - 2026-06-04T22:01:07+00:00 — [New Project Megathread - Week of 04 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1tx202z/new_project_megathread_week_of_04_jun_2026/)
+- 2026-06-08T19:19:43+00:00 — [Anybody else feel like they are doing this self hosted thing wrong?](https://www.reddit.com/r/selfhosted/comments/1u0hv4q/anybody_else_feel_like_they_are_doing_this_self/)
+- 2026-06-09T01:47:55+00:00 — [Self hosting Google Translate for documents/books](https://www.reddit.com/r/selfhosted/comments/1u0ribl/self_hosting_google_translate_for_documentsbooks/)
+- 2026-06-08T16:02:23+00:00 — [Note Mark V1 Release](https://www.reddit.com/r/selfhosted/comments/1u0c5i9/note_mark_v1_release/)
+- 2026-06-08T18:49:38+00:00 — [Looksyk, a lightweight PKMS](https://www.reddit.com/r/selfhosted/comments/1u0gz5b/looksyk_a_lightweight_pkms/)
+- 2026-06-08T16:32:29+00:00 — [Accessing home network remotely](https://www.reddit.com/r/selfhosted/comments/1u0d08g/accessing_home_network_remotely/)
+- 2026-06-09T10:06:03+00:00 — [i spent 3 years building my stack with claude as a co-pilot. here’s what I learned: don’t try to sell your softwares (no one cares), use it for yourself.](https://www.reddit.com/r/selfhosted/comments/1u10pv3/i_spent_3_years_building_my_stack_with_claude_as/)
+- 2026-06-09T07:59:09+00:00 — [[Guide] Full Plex + Usenet automation stack on Proxmox — Sonarr, Radarr, SABnzbd, Prowlarr, Seerr, ZFS hard links, NFS split architecture](https://www.reddit.com/r/selfhosted/comments/1u0yluq/guide_full_plex_usenet_automation_stack_on/)
 - 2026-06-07T20:15:23+00:00 — [I have zero confidence in my ability to actually back up my data.](https://www.reddit.com/r/selfhosted/comments/1tzmrlu/i_have_zero_confidence_in_my_ability_to_actually/)
-- 2026-06-07T16:30:11+00:00 — [A modern Proxmox Docker architecture with disposable VMs, VirtIO-FS, and ZFS state separation](https://www.reddit.com/r/selfhosted/comments/1tzgrpo/a_modern_proxmox_docker_architecture_with/)
-- 2026-06-07T09:56:33+00:00 — [Lifelog platform I use daily and developed for ~4 years now](https://www.reddit.com/r/selfhosted/comments/1tz7z34/lifelog_platform_i_use_daily_and_developed_for_4/)
-- 2026-06-07T22:03:43+00:00 — [Isola: Secure Sandboxing for Kubernetes](https://www.reddit.com/r/selfhosted/comments/1tzph7r/isola_secure_sandboxing_for_kubernetes/)
-- 2026-06-07T15:47:16+00:00 — [Alloy, Loki, and Grafana](https://www.reddit.com/r/selfhosted/comments/1tzfn17/alloy_loki_and_grafana/)
-- 2026-06-07T09:28:05+00:00 — [Alternative to dyndns](https://www.reddit.com/r/selfhosted/comments/1tz7hc3/alternative_to_dyndns/)
+- 2026-06-09T03:14:13+00:00 — [Moving from c5a.2xlarge (x86) to c8g.2xlarge (Graviton) on EKS, any real-world experiences?](https://www.reddit.com/r/devops/comments/1u0tcfe/moving_from_c5a2xlarge_x86_to_c8g2xlarge_graviton/)
 - 2026-06-07T15:32:45+00:00 — [DevOps feels endless — what should I focus on after Git, Docker, and Linux?](https://www.reddit.com/r/devops/comments/1tzf9gc/devops_feels_endless_what_should_i_focus_on_after/)
 - 2026-06-07T10:32:01+00:00 — [4 Years into my career – What should I focus on next?](https://www.reddit.com/r/devops/comments/1tz8lcf/4_years_into_my_career_what_should_i_focus_on_next/)
 - 2026-06-07T17:04:32+00:00 — [How do I specialize?](https://www.reddit.com/r/devops/comments/1tzhnqq/how_do_i_specialize/)
@@ -22,6 +28,12 @@ Last update: 2026-06-08 12:18 UTC
 - 2026-06-06T19:39:42+00:00 — [Ran a Hosting SaaS for 5 years on Ansible/CloudFormation. Job market wants K8s/Terraform. Am I screwed?](https://www.reddit.com/r/devops/comments/1tyqq96/ran_a_hosting_saas_for_5_years_on/)
 - 2026-06-05T19:44:29+00:00 — [DevSecOps Roadmap](https://www.reddit.com/r/devops/comments/1txvbbk/devsecops_roadmap/)
 - 2026-06-05T11:04:01+00:00 — [Is it a problem if I'm only learning on-prem Kubernetes and never touch AWS/Azure?](https://www.reddit.com/r/devops/comments/1txhq9k/is_it_a_problem_if_im_only_learning_onprem/)
+- Mon, 08 Jun 2026 11:58:05 +0000 — [Trivy's March Supply Chain Attack Shows Where Secret Exposure Hurts Most](https://dev.to/gitguardian/trivys-march-supply-chain-attack-shows-where-secret-exposure-hurts-most-hfg)
+- 2026-06-07T16:30:11+00:00 — [A modern Proxmox Docker architecture with disposable VMs, VirtIO-FS, and ZFS state separation](https://www.reddit.com/r/selfhosted/comments/1tzgrpo/a_modern_proxmox_docker_architecture_with/)
+- 2026-06-07T09:56:33+00:00 — [Lifelog platform I use daily and developed for ~4 years now](https://www.reddit.com/r/selfhosted/comments/1tz7z34/lifelog_platform_i_use_daily_and_developed_for_4/)
+- 2026-06-07T22:03:43+00:00 — [Isola: Secure Sandboxing for Kubernetes](https://www.reddit.com/r/selfhosted/comments/1tzph7r/isola_secure_sandboxing_for_kubernetes/)
+- 2026-06-07T15:47:16+00:00 — [Alloy, Loki, and Grafana](https://www.reddit.com/r/selfhosted/comments/1tzfn17/alloy_loki_and_grafana/)
+- 2026-06-07T09:28:05+00:00 — [Alternative to dyndns](https://www.reddit.com/r/selfhosted/comments/1tz7hc3/alternative_to_dyndns/)
 - 2026-06-05T15:19:58+00:00 — [Checking what are the VPN client people use ?](https://www.reddit.com/r/devops/comments/1txnyz8/checking_what_are_the_vpn_client_people_use/)
 - 2026-06-05T21:04:55+00:00 — [Operational *simple* way to manage small number of Vultr/DO VMS/Pg/etc? NixOS + ?](https://www.reddit.com/r/devops/comments/1txxgi3/operational_simple_way_to_manage_small_number_of/)
 - 2026-06-04T15:52:40+00:00 — [I Built a Retro Terminal Game to Make Kubernetes Less Boring](https://www.reddit.com/r/devops/comments/1twrooa/i_built_a_retro_terminal_game_to_make_kubernetes/)
@@ -95,16 +107,4 @@ Last update: 2026-06-08 12:18 UTC
 - 2026-05-30T16:00:59+00:00 — [Do you still manually maintain docker-compose files across projects, or do you have a better workflow now?](https://www.reddit.com/r/devops/comments/1ts3s3q/do_you_still_manually_maintain_dockercompose/)
 - 2026-05-29T18:05:23+00:00 — [A deep dive into Kubernetes Gateway API](https://www.reddit.com/r/devops/comments/1traa6c/a_deep_dive_into_kubernetes_gateway_api/)
 - Sun, 31 May 2026 09:36:37 +0000 — [App Size: A Battle for Every Kilobyte, or Prioritizing Functionality?](https://dev.to/merbayerp/app-size-a-battle-for-every-kilobyte-or-prioritizing-functionality-3275)
-- 2026-05-30T18:54:57+00:00 — [​How do you actually balance work, family, hobbies, and a homelab without it becoming a second, unpaid job?](https://www.reddit.com/r/selfhosted/comments/1ts872m/how_do_you_actually_balance_work_family_hobbies/)
-- 2026-05-30T20:42:14+00:00 — [Planning a phased deployment for a new home server on my old laptop with 16GB RAM and want to sanity-check my roadmap and planned fixes for common pitfalls before spinning up Compose files.](https://www.reddit.com/r/selfhosted/comments/1tsax7p/planning_a_phased_deployment_for_a_new_home/)
-- 2026-05-30T22:28:53+00:00 — [Failing to connect qbittorrent to AirVPN with wg0.conf file](https://www.reddit.com/r/selfhosted/comments/1tsdiow/failing_to_connect_qbittorrent_to_airvpn_with/)
-- 2026-05-31T07:38:49+00:00 — [Need help with VPS media server setup - Sonarr, Radarr, Navidrome and rdt-client not fully working](https://www.reddit.com/r/selfhosted/comments/1tsonsk/need_help_with_vps_media_server_setup_sonarr/)
-- 2026-05-31T03:42:22+00:00 — [Anything combining Paperless-ngx indexing witht I-Librarian reader](https://www.reddit.com/r/selfhosted/comments/1tsk7n0/anything_combining_paperlessngx_indexing_witht/)
-- 2026-05-30T21:27:16+00:00 — [Looking for a selfhosted Spam-Filter. With special filter feature.](https://www.reddit.com/r/selfhosted/comments/1tsc1ih/looking_for_a_selfhosted_spamfilter_with_special/)
-- 2026-05-30T11:32:44+00:00 — [Scanopy compose issue: Server (bridge) can't reach Daemon (host network) - Stuck on connecting to daemon](https://www.reddit.com/r/selfhosted/comments/1trxh6b/scanopy_compose_issue_server_bridge_cant_reach/)
-- 2026-05-30T16:39:12+00:00 — [Why More Teams Should Consider OpenObserve Instead of Grafana + ELK Stack](https://www.reddit.com/r/devops/comments/1ts4qdo/why_more_teams_should_consider_openobserve/)
-- 2026-05-29T17:16:04+00:00 — [Open source CLI I built to check AWS against SOC 2 controls](https://www.reddit.com/r/devops/comments/1tr8qwl/open_source_cli_i_built_to_check_aws_against_soc/)
-- 2026-05-29T21:30:07+00:00 — [With the role names changing, what exactly are we doing and are the tasks split?](https://www.reddit.com/r/devops/comments/1trgavp/with_the_role_names_changing_what_exactly_are_we/)
-- 2026-05-28T10:51:21+00:00 — [I don't think I can take DevOps anymore with our current "AI advancements"](https://www.reddit.com/r/devops/comments/1tq017d/i_dont_think_i_can_take_devops_anymore_with_our/)
-- 2026-05-28T23:17:06+00:00 — [The "Stateful App Storage Trap": We overprovisioned our self-managed Postgres/Kafka volumes for a huge ingestion job, and now we’re stuck paying for empty space.](https://www.reddit.com/r/devops/comments/1tqjvno/the_stateful_app_storage_trap_we_overprovisioned/)
 <!-- NEWS END -->
