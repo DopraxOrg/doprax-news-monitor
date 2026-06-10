@@ -2,16 +2,32 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-09 10:49 UTC
+Last update: 2026-06-10 11:28 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-06-04T22:01:07+00:00 — [New Project Megathread - Week of 04 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1tx202z/new_project_megathread_week_of_04_jun_2026/)
+- 2026-06-09T20:22:42+00:00 — [Just found Ignis: A lightweight web wrapper to self-host Obsidian (No VNC)](https://www.reddit.com/r/selfhosted/comments/1u1gny0/just_found_ignis_a_lightweight_web_wrapper_to/)
+- 2026-06-09T15:21:45+00:00 — [Dispatcharr Release: v0.26.0 - IPTV Stream & EPG Management](https://www.reddit.com/r/selfhosted/comments/1u183ci/dispatcharr_release_v0260_iptv_stream_epg/)
+- 2026-06-09T13:13:32+00:00 — [Home Information v1.2.2: a local-first, spatial hub for your home's docs, devices & cameras](https://www.reddit.com/r/selfhosted/comments/1u14n0w/home_information_v122_a_localfirst_spatial_hub/)
+- 2026-06-10T05:07:49+00:00 — [Using two vpn's at once on server.](https://www.reddit.com/r/selfhosted/comments/1u1snxl/using_two_vpns_at_once_on_server/)
+- 2026-06-10T09:43:25+00:00 — [Speakr v0.9.0-alpha - Multi-platform system audio capture, webhooks, recording stats, and a redesigned UI](https://www.reddit.com/r/selfhosted/comments/1u1xhfr/speakr_v090alpha_multiplatform_system_audio/)
+- 2026-06-10T03:20:40+00:00 — [Any techy restaurant owners in here set up your own IP cam server as a NVR? If so, which software did you settle for hosting? I'm at the end of my rope with GeoVision](https://www.reddit.com/r/selfhosted/comments/1u1qk3e/any_techy_restaurant_owners_in_here_set_up_your/)
+- 2026-06-09T11:21:52+00:00 — [Best practice for multiple docker containers?](https://www.reddit.com/r/selfhosted/comments/1u125kq/best_practice_for_multiple_docker_containers/)
+- 2026-06-10T05:18:52+00:00 — [Pivot to Devops from infra guy](https://www.reddit.com/r/devops/comments/1u1svq6/pivot_to_devops_from_infra_guy/)
+- 2026-06-09T03:14:13+00:00 — [Moving from c5a.2xlarge (x86) to c8g.2xlarge (Graviton) on EKS, any real-world experiences?](https://www.reddit.com/r/devops/comments/1u0tcfe/moving_from_c5a2xlarge_x86_to_c8g2xlarge_graviton/)
+- 2026-06-09T17:58:40+00:00 — [What are some tasks in daily DevOps life that you think agents based on frontier models (like Opus 4.8) can't solve?](https://www.reddit.com/r/devops/comments/1u1cm2c/what_are_some_tasks_in_daily_devops_life_that_you/)
+- 2026-06-09T15:05:05+00:00 — [It's a good idea for improve my cloud knowledge?](https://www.reddit.com/r/devops/comments/1u17ly3/its_a_good_idea_for_improve_my_cloud_knowledge/)
+- 2026-06-09T19:07:59+00:00 — [prompt drift is an operations nightmare. we started using gitops for our agents.](https://www.reddit.com/r/devops/comments/1u1el4c/prompt_drift_is_an_operations_nightmare_we/)
+- 2026-06-07T15:32:45+00:00 — [DevOps feels endless — what should I focus on after Git, Docker, and Linux?](https://www.reddit.com/r/devops/comments/1tzf9gc/devops_feels_endless_what_should_i_focus_on_after/)
+- 2026-06-07T10:32:01+00:00 — [4 Years into my career – What should I focus on next?](https://www.reddit.com/r/devops/comments/1tz8lcf/4_years_into_my_career_what_should_i_focus_on_next/)
+- 2026-06-07T17:04:32+00:00 — [How do I specialize?](https://www.reddit.com/r/devops/comments/1tzhnqq/how_do_i_specialize/)
+- Tue, 09 Jun 2026 17:40:08 +0000 — [CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang](https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/)
 - Tue, 09 Jun 2026 10:30:00 +0000 — [Architecting isolated workspaces with Kasm: hardened, egress-controlled, disposable](https://dev.to/jeremy-burgos/architecting-isolated-workspaces-with-kasm-hardened-egress-controlled-disposable-2nmk)
 - Tue, 09 Jun 2026 10:12:08 +0000 — [Construí tu primera API con Fitz: un acortador de URLs con Postgres y auth en 30 minutos](https://dev.to/martin_palopoli/construi-tu-primera-api-con-fitz-un-acortador-de-urls-con-postgres-y-auth-en-30-minutos-33ed)
 - Tue, 09 Jun 2026 10:11:49 +0000 — [Build a URL shortener with Fitz: HTTP + Postgres + auth in 30 minutes](https://dev.to/martin_palopoli/build-a-url-shortener-with-fitz-http-postgres-auth-in-30-minutes-68k)
 - Tue, 09 Jun 2026 10:10:39 +0000 — [Open Notebook Review: Self-Hosted NotebookLM Alternative](https://dev.to/andrew-ooo/open-notebook-review-self-hosted-notebooklm-alternative-1210)
-- 2026-06-04T22:01:07+00:00 — [New Project Megathread - Week of 04 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1tx202z/new_project_megathread_week_of_04_jun_2026/)
 - 2026-06-08T19:19:43+00:00 — [Anybody else feel like they are doing this self hosted thing wrong?](https://www.reddit.com/r/selfhosted/comments/1u0hv4q/anybody_else_feel_like_they_are_doing_this_self/)
 - 2026-06-09T01:47:55+00:00 — [Self hosting Google Translate for documents/books](https://www.reddit.com/r/selfhosted/comments/1u0ribl/self_hosting_google_translate_for_documentsbooks/)
 - 2026-06-08T16:02:23+00:00 — [Note Mark V1 Release](https://www.reddit.com/r/selfhosted/comments/1u0c5i9/note_mark_v1_release/)
@@ -20,10 +36,6 @@ Last update: 2026-06-09 10:49 UTC
 - 2026-06-09T10:06:03+00:00 — [i spent 3 years building my stack with claude as a co-pilot. here’s what I learned: don’t try to sell your softwares (no one cares), use it for yourself.](https://www.reddit.com/r/selfhosted/comments/1u10pv3/i_spent_3_years_building_my_stack_with_claude_as/)
 - 2026-06-09T07:59:09+00:00 — [[Guide] Full Plex + Usenet automation stack on Proxmox — Sonarr, Radarr, SABnzbd, Prowlarr, Seerr, ZFS hard links, NFS split architecture](https://www.reddit.com/r/selfhosted/comments/1u0yluq/guide_full_plex_usenet_automation_stack_on/)
 - 2026-06-07T20:15:23+00:00 — [I have zero confidence in my ability to actually back up my data.](https://www.reddit.com/r/selfhosted/comments/1tzmrlu/i_have_zero_confidence_in_my_ability_to_actually/)
-- 2026-06-09T03:14:13+00:00 — [Moving from c5a.2xlarge (x86) to c8g.2xlarge (Graviton) on EKS, any real-world experiences?](https://www.reddit.com/r/devops/comments/1u0tcfe/moving_from_c5a2xlarge_x86_to_c8g2xlarge_graviton/)
-- 2026-06-07T15:32:45+00:00 — [DevOps feels endless — what should I focus on after Git, Docker, and Linux?](https://www.reddit.com/r/devops/comments/1tzf9gc/devops_feels_endless_what_should_i_focus_on_after/)
-- 2026-06-07T10:32:01+00:00 — [4 Years into my career – What should I focus on next?](https://www.reddit.com/r/devops/comments/1tz8lcf/4_years_into_my_career_what_should_i_focus_on_next/)
-- 2026-06-07T17:04:32+00:00 — [How do I specialize?](https://www.reddit.com/r/devops/comments/1tzhnqq/how_do_i_specialize/)
 - 2026-06-06T19:36:24+00:00 — [Beginner in DevOps – Enjoying the Journey but Struggling With Confidence. Is This Normal?](https://www.reddit.com/r/devops/comments/1tyqn5r/beginner_in_devops_enjoying_the_journey_but/)
 - 2026-06-06T19:39:42+00:00 — [Ran a Hosting SaaS for 5 years on Ansible/CloudFormation. Job market wants K8s/Terraform. Am I screwed?](https://www.reddit.com/r/devops/comments/1tyqq96/ran_a_hosting_saas_for_5_years_on/)
 - 2026-06-05T19:44:29+00:00 — [DevSecOps Roadmap](https://www.reddit.com/r/devops/comments/1txvbbk/devsecops_roadmap/)
@@ -95,16 +107,4 @@ Last update: 2026-06-09 10:49 UTC
 - 2026-06-02T11:35:40+00:00 — [Cordium - a FOSS, self-hosted, general-purpose sandbox platform with built-in secretless remote access that can used as an alternative to GitHub Codespaces, a runtime for AI agents and CI/CD workloads](https://www.reddit.com/r/selfhosted/comments/1tuo8w2/cordium_a_foss_selfhosted_generalpurpose_sandbox/)
 - 2026-05-30T13:28:42+00:00 — [We moved from Azure to Hetzner and why you should too](https://www.reddit.com/r/devops/comments/1ts004t/we_moved_from_azure_to_hetzner_and_why_you_should/)
 - Mon, 01 Jun 2026 13:23:46 +0000 — [Running PyTorch fork-safe in Celery on macOS](https://dev.to/sidswirl/running-pytorch-fork-safe-in-celery-on-macos-4h6a)
-- Mon, 01 Jun 2026 13:19:37 +0000 — [Just build your react frontend into your Go Backend !](https://dev.to/joffrey_mischler_ae908ebb/just-build-your-react-frontend-into-your-go-backend--417m)
-- Mon, 01 Jun 2026 13:00:00 +0000 — [Your Job Search Is Not a Lottery](https://dev.to/guilherme_galanti/your-job-search-is-not-a-lottery-2dok)
-- 2026-06-01T02:56:50+00:00 — [How do I back up docker volumes?](https://www.reddit.com/r/selfhosted/comments/1ttfivd/how_do_i_back_up_docker_volumes/)
-- 2026-06-01T09:16:08+00:00 — [Everything "just work".....](https://www.reddit.com/r/selfhosted/comments/1ttmqe9/everything_just_work/)
-- 2026-06-01T07:05:56+00:00 — [Configuring Debian Unattended Upgrade with External Repos](https://www.reddit.com/r/selfhosted/comments/1ttkg0f/configuring_debian_unattended_upgrade_with/)
-- 2026-06-01T12:43:17+00:00 — [New to Selfhosting - Scared about backups & security. Any help appreciated :)](https://www.reddit.com/r/selfhosted/comments/1ttr1x1/new_to_selfhosting_scared_about_backups_security/)
-- 2026-05-31T21:48:42+00:00 — [Today I started Self Hosting](https://www.reddit.com/r/selfhosted/comments/1tt8ju3/today_i_started_self_hosting/)
-- 2026-05-31T20:21:36+00:00 — [Blindly expanded my self-hosted media/db volume after a data spike. now i’m stuck paying for empty space](https://www.reddit.com/r/selfhosted/comments/1tt6ayl/blindly_expanded_my_selfhosted_mediadb_volume/)
-- 2026-05-31T17:23:13+00:00 — [Systems Architect / DevOps MS Student looking for home lab collaborators and architecture feedback (GitHub enclosed)](https://www.reddit.com/r/devops/comments/1tt1ghv/systems_architect_devops_ms_student_looking_for/)
-- 2026-05-30T16:00:59+00:00 — [Do you still manually maintain docker-compose files across projects, or do you have a better workflow now?](https://www.reddit.com/r/devops/comments/1ts3s3q/do_you_still_manually_maintain_dockercompose/)
-- 2026-05-29T18:05:23+00:00 — [A deep dive into Kubernetes Gateway API](https://www.reddit.com/r/devops/comments/1traa6c/a_deep_dive_into_kubernetes_gateway_api/)
-- Sun, 31 May 2026 09:36:37 +0000 — [App Size: A Battle for Every Kilobyte, or Prioritizing Functionality?](https://dev.to/merbayerp/app-size-a-battle-for-every-kilobyte-or-prioritizing-functionality-3275)
 <!-- NEWS END -->
