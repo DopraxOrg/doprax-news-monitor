@@ -2,21 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-10 11:28 UTC
+Last update: 2026-06-11 12:00 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 11 Jun 2026 11:49:12 +0000 — [GitHub Organization Security Hardening: Exact Controls and Step-by-Step Setup Guide](https://dev.to/mike_anderson_d01f52129fb/github-organization-security-hardening-exact-controls-and-step-by-step-setup-guide-1cpa)
+- Thu, 11 Jun 2026 11:42:26 +0000 — [Production-Grade RAG: Why Vector Search Isn't Enough (and How Hybrid Search Fills the Gaps)](https://dev.to/alejandro_du/production-grade-rag-why-vector-search-isnt-enough-and-how-hybrid-search-fills-the-gaps-19bh)
 - 2026-06-04T22:01:07+00:00 — [New Project Megathread - Week of 04 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1tx202z/new_project_megathread_week_of_04_jun_2026/)
+- 2026-06-10T22:30:06+00:00 — [Postgres observability when self-hosting](https://www.reddit.com/r/selfhosted/comments/1u2h34t/postgres_observability_when_selfhosting/)
+- 2026-06-10T09:43:25+00:00 — [Speakr v0.9.0-alpha - Multi-platform system audio capture, webhooks, recording stats, and a redesigned UI](https://www.reddit.com/r/selfhosted/comments/1u1xhfr/speakr_v090alpha_multiplatform_system_audio/)
+- 2026-06-11T01:13:57+00:00 — [Termux + Tailscale for WoL, help needed](https://www.reddit.com/r/selfhosted/comments/1u2kt8q/termux_tailscale_for_wol_help_needed/)
+- 2026-06-10T23:50:10+00:00 — [Hardware questions - LGA 2011](https://www.reddit.com/r/selfhosted/comments/1u2iyq5/hardware_questions_lga_2011/)
+- 2026-06-10T20:56:29+00:00 — [useful tools for cleaning up messy infra / cloud costs](https://www.reddit.com/r/devops/comments/1u2enyv/useful_tools_for_cleaning_up_messy_infra_cloud/)
+- 2026-06-10T19:23:42+00:00 — [Self-hosted GitHub Actions runners on EKS: the failures that taught me the most](https://www.reddit.com/r/devops/comments/1u2c4tm/selfhosted_github_actions_runners_on_eks_the/)
+- 2026-06-10T05:18:52+00:00 — [Pivot to Devops from infra guy](https://www.reddit.com/r/devops/comments/1u1svq6/pivot_to_devops_from_infra_guy/)
+- 2026-06-11T03:41:38+00:00 — [Open source tools are the DIY of the software world](https://www.reddit.com/r/devops/comments/1u2nykw/open_source_tools_are_the_diy_of_the_software/)
+- 2026-06-09T03:14:13+00:00 — [Moving from c5a.2xlarge (x86) to c8g.2xlarge (Graviton) on EKS, any real-world experiences?](https://www.reddit.com/r/devops/comments/1u0tcfe/moving_from_c5a2xlarge_x86_to_c8g2xlarge_graviton/)
 - 2026-06-09T20:22:42+00:00 — [Just found Ignis: A lightweight web wrapper to self-host Obsidian (No VNC)](https://www.reddit.com/r/selfhosted/comments/1u1gny0/just_found_ignis_a_lightweight_web_wrapper_to/)
 - 2026-06-09T15:21:45+00:00 — [Dispatcharr Release: v0.26.0 - IPTV Stream & EPG Management](https://www.reddit.com/r/selfhosted/comments/1u183ci/dispatcharr_release_v0260_iptv_stream_epg/)
 - 2026-06-09T13:13:32+00:00 — [Home Information v1.2.2: a local-first, spatial hub for your home's docs, devices & cameras](https://www.reddit.com/r/selfhosted/comments/1u14n0w/home_information_v122_a_localfirst_spatial_hub/)
 - 2026-06-10T05:07:49+00:00 — [Using two vpn's at once on server.](https://www.reddit.com/r/selfhosted/comments/1u1snxl/using_two_vpns_at_once_on_server/)
-- 2026-06-10T09:43:25+00:00 — [Speakr v0.9.0-alpha - Multi-platform system audio capture, webhooks, recording stats, and a redesigned UI](https://www.reddit.com/r/selfhosted/comments/1u1xhfr/speakr_v090alpha_multiplatform_system_audio/)
 - 2026-06-10T03:20:40+00:00 — [Any techy restaurant owners in here set up your own IP cam server as a NVR? If so, which software did you settle for hosting? I'm at the end of my rope with GeoVision](https://www.reddit.com/r/selfhosted/comments/1u1qk3e/any_techy_restaurant_owners_in_here_set_up_your/)
 - 2026-06-09T11:21:52+00:00 — [Best practice for multiple docker containers?](https://www.reddit.com/r/selfhosted/comments/1u125kq/best_practice_for_multiple_docker_containers/)
-- 2026-06-10T05:18:52+00:00 — [Pivot to Devops from infra guy](https://www.reddit.com/r/devops/comments/1u1svq6/pivot_to_devops_from_infra_guy/)
-- 2026-06-09T03:14:13+00:00 — [Moving from c5a.2xlarge (x86) to c8g.2xlarge (Graviton) on EKS, any real-world experiences?](https://www.reddit.com/r/devops/comments/1u0tcfe/moving_from_c5a2xlarge_x86_to_c8g2xlarge_graviton/)
 - 2026-06-09T17:58:40+00:00 — [What are some tasks in daily DevOps life that you think agents based on frontier models (like Opus 4.8) can't solve?](https://www.reddit.com/r/devops/comments/1u1cm2c/what_are_some_tasks_in_daily_devops_life_that_you/)
 - 2026-06-09T15:05:05+00:00 — [It's a good idea for improve my cloud knowledge?](https://www.reddit.com/r/devops/comments/1u17ly3/its_a_good_idea_for_improve_my_cloud_knowledge/)
 - 2026-06-09T19:07:59+00:00 — [prompt drift is an operations nightmare. we started using gitops for our agents.](https://www.reddit.com/r/devops/comments/1u1el4c/prompt_drift_is_an_operations_nightmare_we/)
@@ -99,12 +107,4 @@ Last update: 2026-06-10 11:28 UTC
 - 2026-06-03T07:23:06+00:00 — [Recommendation for self-hosted Broken Link Checker](https://www.reddit.com/r/selfhosted/comments/1tvhyqy/recommendation_for_selfhosted_broken_link_checker/)
 - 2026-06-02T11:20:10+00:00 — [Zot : Self-hosted container registry on a Raspberry Pi K3s cluster](https://www.reddit.com/r/selfhosted/comments/1tunwyn/zot_selfhosted_container_registry_on_a_raspberry/)
 - 2026-06-01T09:58:06+00:00 — [Projects to practice manifest files](https://www.reddit.com/r/devops/comments/1ttnhl5/projects_to_practice_manifest_files/)
-- 2026-06-01T18:14:44+00:00 — [Are we building a chaotic mess of custom AI scripts, or is "Agentic OS" actually a viable infrastructure layer?](https://www.reddit.com/r/devops/comments/1tu0r10/are_we_building_a_chaotic_mess_of_custom_ai/)
-- 2026-05-31T14:58:42+00:00 — [Feeling Stuck in My DevOps Career After 7 Years – Looking for Advice](https://www.reddit.com/r/devops/comments/1tsxman/feeling_stuck_in_my_devops_career_after_7_years/)
-- Tue, 02 Jun 2026 11:36:09 +0000 — [Building AppForge: A Unified Project Scaffolding CLI for Modern Development](https://dev.to/milankj/building-appforge-a-unified-project-scaffolding-cli-for-modern-development-2k3m)
-- 2026-06-02T07:58:14+00:00 — [Selfhostet organization tool](https://www.reddit.com/r/selfhosted/comments/1tuk5op/selfhostet_organization_tool/)
-- 2026-06-02T11:16:59+00:00 — [Self hosting Immich for me and my family's photos](https://www.reddit.com/r/selfhosted/comments/1tunuon/self_hosting_immich_for_me_and_my_familys_photos/)
-- 2026-06-02T11:35:40+00:00 — [Cordium - a FOSS, self-hosted, general-purpose sandbox platform with built-in secretless remote access that can used as an alternative to GitHub Codespaces, a runtime for AI agents and CI/CD workloads](https://www.reddit.com/r/selfhosted/comments/1tuo8w2/cordium_a_foss_selfhosted_generalpurpose_sandbox/)
-- 2026-05-30T13:28:42+00:00 — [We moved from Azure to Hetzner and why you should too](https://www.reddit.com/r/devops/comments/1ts004t/we_moved_from_azure_to_hetzner_and_why_you_should/)
-- Mon, 01 Jun 2026 13:23:46 +0000 — [Running PyTorch fork-safe in Celery on macOS](https://dev.to/sidswirl/running-pytorch-fork-safe-in-celery-on-macos-4h6a)
 <!-- NEWS END -->
