@@ -2,11 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-11 12:00 UTC
+Last update: 2026-06-12 11:32 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 12 Jun 2026 10:51:36 +0000 — [Your TLS certificates will only last 47 days soon. Most teams have not done the math](https://dev.to/lukethomas_tw/your-tls-certificates-will-only-last-47-days-soon-most-teams-have-not-done-the-math-20ko)
+- 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
+- 2026-06-12T05:16:32+00:00 — [Newbie here, what's a good method to remote desktop into my home server?](https://www.reddit.com/r/selfhosted/comments/1u3m3g6/newbie_here_whats_a_good_method_to_remote_desktop/)
+- 2026-06-11T17:39:42+00:00 — [If you're putting production on a Hostinger VPS, read how their CPU throttling actually works first](https://www.reddit.com/r/selfhosted/comments/1u35vi8/if_youre_putting_production_on_a_hostinger_vps/)
+- 2026-06-11T17:41:46+00:00 — [Meta: proposal to add karma and account age requirement for posts with penalties](https://www.reddit.com/r/selfhosted/comments/1u35xid/meta_proposal_to_add_karma_and_account_age/)
+- 2026-06-12T03:13:50+00:00 — [am I going to make my computer explode?](https://www.reddit.com/r/selfhosted/comments/1u3jqbj/am_i_going_to_make_my_computer_explode/)
+- 2026-06-12T08:20:57+00:00 — [Task management/todo software - but simple](https://www.reddit.com/r/selfhosted/comments/1u3pb7c/task_managementtodo_software_but_simple/)
+- 2026-06-12T01:48:17+00:00 — [How to route tailscale exit node traffic via VPN?](https://www.reddit.com/r/selfhosted/comments/1u3hygo/how_to_route_tailscale_exit_node_traffic_via_vpn/)
+- 2026-06-11T20:43:18+00:00 — [Need help with the networking part of my HomeLab](https://www.reddit.com/r/selfhosted/comments/1u3avoe/need_help_with_the_networking_part_of_my_homelab/)
+- 2026-06-11T14:08:30+00:00 — [Hosting LLM on a budget 12 GB vram](https://www.reddit.com/r/selfhosted/comments/1u3042i/hosting_llm_on_a_budget_12_gb_vram/)
+- 2026-06-11T19:03:21+00:00 — [Best Practice updating? The joys of selfhosting.](https://www.reddit.com/r/selfhosted/comments/1u387ff/best_practice_updating_the_joys_of_selfhosting/)
+- 2026-06-12T08:06:01+00:00 — [Rebuilding my Selfhosted setup with AI - best practices?](https://www.reddit.com/r/selfhosted/comments/1u3p1zs/rebuilding_my_selfhosted_setup_with_ai_best/)
+- 2026-06-11T13:54:48+00:00 — [Immich with IPv6 Host Exposure intermittent unreachable](https://www.reddit.com/r/selfhosted/comments/1u2zraw/immich_with_ipv6_host_exposure_intermittent/)
 - Thu, 11 Jun 2026 11:49:12 +0000 — [GitHub Organization Security Hardening: Exact Controls and Step-by-Step Setup Guide](https://dev.to/mike_anderson_d01f52129fb/github-organization-security-hardening-exact-controls-and-step-by-step-setup-guide-1cpa)
 - Thu, 11 Jun 2026 11:42:26 +0000 — [Production-Grade RAG: Why Vector Search Isn't Enough (and How Hybrid Search Fills the Gaps)](https://dev.to/alejandro_du/production-grade-rag-why-vector-search-isnt-enough-and-how-hybrid-search-fills-the-gaps-19bh)
 - 2026-06-04T22:01:07+00:00 — [New Project Megathread - Week of 04 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1tx202z/new_project_megathread_week_of_04_jun_2026/)
@@ -94,17 +107,4 @@ Last update: 2026-06-11 12:00 UTC
 - 2026-05-28T22:01:07+00:00 — [New Project Megathread - Week of 28 May 2026](https://www.reddit.com/r/selfhosted/comments/1tqhzoo/new_project_megathread_week_of_28_may_2026/)
 - 2026-06-03T22:33:46+00:00 — [OS Survey Results.](https://www.reddit.com/r/selfhosted/comments/1tw50qo/os_survey_results/)
 - 2026-06-03T20:54:50+00:00 — [Sudden realization that my pdf workflow is the last thing tying me to the cloud](https://www.reddit.com/r/selfhosted/comments/1tw2e0q/sudden_realization_that_my_pdf_workflow_is_the/)
-- 2026-06-03T10:04:59+00:00 — [PikoCI — self-hosted CI/CD that runs as a single binary, no external dependencies](https://www.reddit.com/r/selfhosted/comments/1tvktaf/pikoci_selfhosted_cicd_that_runs_as_a_single/)
-- 2026-06-03T21:16:02+00:00 — [OneSearch v1.0.0: a self-hosted search layer for existing local files](https://www.reddit.com/r/selfhosted/comments/1tw2ywm/onesearch_v100_a_selfhosted_search_layer_for/)
-- 2026-06-03T22:19:18+00:00 — [[Guide] Setting Up DNS over TLS (DoT) for Pi-hole Using Stunnel](https://www.reddit.com/r/selfhosted/comments/1tw4nmp/guide_setting_up_dns_over_tls_dot_for_pihole/)
-- 2026-06-02T23:46:33+00:00 — [Accidentally learned Caddy and improved my homelab in the process](https://www.reddit.com/r/selfhosted/comments/1tv8bfa/accidentally_learned_caddy_and_improved_my/)
-- 2026-06-01T23:19:44+00:00 — [Associate degree or computer science¿?](https://www.reddit.com/r/devops/comments/1tu9daw/associate_degree_or_computer_science/)
-- Wed, 03 Jun 2026 12:18:05 +0000 — [I Built a Claude Code Skill That Diagnoses Windows BSODs Better Than I Can](https://dev.to/sitabanubanu/i-built-a-claude-code-skill-that-diagnoses-windows-bsods-better-than-i-can-3627)
-- 2026-06-02T20:27:17+00:00 — [OpenResto - Simple Restaurant Table Reservation Management System](https://www.reddit.com/r/selfhosted/comments/1tv34gh/openresto_simple_restaurant_table_reservation/)
-- 2026-06-02T15:53:04+00:00 — [Best option for web based RDP](https://www.reddit.com/r/selfhosted/comments/1tuv2xb/best_option_for_web_based_rdp/)
-- 2026-06-03T07:50:41+00:00 — [puter in a proxmox lxc](https://www.reddit.com/r/selfhosted/comments/1tvig29/puter_in_a_proxmox_lxc/)
-- 2026-06-03T11:25:47+00:00 — [WaSphere — Self-hosted WhatsApp API platform (MIT, Docker, NestJS)](https://www.reddit.com/r/selfhosted/comments/1tvmfwm/wasphere_selfhosted_whatsapp_api_platform_mit/)
-- 2026-06-03T07:23:06+00:00 — [Recommendation for self-hosted Broken Link Checker](https://www.reddit.com/r/selfhosted/comments/1tvhyqy/recommendation_for_selfhosted_broken_link_checker/)
-- 2026-06-02T11:20:10+00:00 — [Zot : Self-hosted container registry on a Raspberry Pi K3s cluster](https://www.reddit.com/r/selfhosted/comments/1tunwyn/zot_selfhosted_container_registry_on_a_raspberry/)
-- 2026-06-01T09:58:06+00:00 — [Projects to practice manifest files](https://www.reddit.com/r/devops/comments/1ttnhl5/projects_to_practice_manifest_files/)
 <!-- NEWS END -->
