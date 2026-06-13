@@ -2,14 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-12 11:32 UTC
+Last update: 2026-06-13 10:18 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Fri, 12 Jun 2026 10:51:36 +0000 — [Your TLS certificates will only last 47 days soon. Most teams have not done the math](https://dev.to/lukethomas_tw/your-tls-certificates-will-only-last-47-days-soon-most-teams-have-not-done-the-math-20ko)
+- Sat, 13 Jun 2026 10:00:44 +0000 — [I almost gave up on my AI assistant — here’s how I fixed context handling](https://dev.to/__c1b9e06dc90a7e0a676b/i-almost-gave-up-on-my-ai-assistant-heres-how-i-fixed-context-handling-40gl)
 - 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
+- 2026-06-13T01:41:45+00:00 — [20 apps i actually run on my home server and which ones are worth it](https://www.reddit.com/r/selfhosted/comments/1u4dwms/20_apps_i_actually_run_on_my_home_server_and/)
+- 2026-06-12T18:41:32+00:00 — [Pangolin 1.19: SSH, RDP, and VNC in the browser, simpler SSH setup, automatic site updates, and more](https://www.reddit.com/r/selfhosted/comments/1u43vz6/pangolin_119_ssh_rdp_and_vnc_in_the_browser/)
+- 2026-06-12T16:39:44+00:00 — [Libre Closet v0.3 - 2x’d Performance](https://www.reddit.com/r/selfhosted/comments/1u40ith/libre_closet_v03_2xd_performance/)
+- 2026-06-12T15:58:27+00:00 — [Any monitoring solutions for tracking literally everything?](https://www.reddit.com/r/selfhosted/comments/1u3zc6m/any_monitoring_solutions_for_tracking_literally/)
+- 2026-06-12T13:44:35+00:00 — [Easy ways to sync ROM games and saves states across devices?](https://www.reddit.com/r/selfhosted/comments/1u3vp4m/easy_ways_to_sync_rom_games_and_saves_states/)
+- 2026-06-13T06:11:44+00:00 — [Developers: Gitea's Workers (CI/CD pipeline) is magic](https://www.reddit.com/r/selfhosted/comments/1u4j4rp/developers_giteas_workers_cicd_pipeline_is_magic/)
 - 2026-06-12T05:16:32+00:00 — [Newbie here, what's a good method to remote desktop into my home server?](https://www.reddit.com/r/selfhosted/comments/1u3m3g6/newbie_here_whats_a_good_method_to_remote_desktop/)
+- 2026-06-12T16:14:42+00:00 — [My beginner Proxmox homelab built on recycled hardware](https://www.reddit.com/r/selfhosted/comments/1u3ztcx/my_beginner_proxmox_homelab_built_on_recycled/)
+- 2026-06-13T09:42:12+00:00 — [Sambee - browser-based file manager for SMB shares & local drives](https://www.reddit.com/r/selfhosted/comments/1u4mnsd/sambee_browserbased_file_manager_for_smb_shares/)
+- 2026-06-13T00:04:16+00:00 — [Wanting to share my Domains and have them SSL-certified as a EU-Union Citizen.](https://www.reddit.com/r/selfhosted/comments/1u4bvot/wanting_to_share_my_domains_and_have_them/)
+- Fri, 12 Jun 2026 10:51:36 +0000 — [Your TLS certificates will only last 47 days soon. Most teams have not done the math](https://dev.to/lukethomas_tw/your-tls-certificates-will-only-last-47-days-soon-most-teams-have-not-done-the-math-20ko)
 - 2026-06-11T17:39:42+00:00 — [If you're putting production on a Hostinger VPS, read how their CPU throttling actually works first](https://www.reddit.com/r/selfhosted/comments/1u35vi8/if_youre_putting_production_on_a_hostinger_vps/)
 - 2026-06-11T17:41:46+00:00 — [Meta: proposal to add karma and account age requirement for posts with penalties](https://www.reddit.com/r/selfhosted/comments/1u35xid/meta_proposal_to_add_karma_and_account_age/)
 - 2026-06-12T03:13:50+00:00 — [am I going to make my computer explode?](https://www.reddit.com/r/selfhosted/comments/1u3jqbj/am_i_going_to_make_my_computer_explode/)
@@ -97,14 +107,4 @@ Last update: 2026-06-12 11:32 UTC
 - 2026-06-05T03:43:38+00:00 — [Speakr v0.8.21-alpha - UPDATE RECOMMENDED: CSRF bypass + chained SSO account takeover](https://www.reddit.com/r/selfhosted/comments/1tx9p1t/speakr_v0821alpha_update_recommended_csrf_bypass/)
 - 2026-06-05T03:17:20+00:00 — [What should I consider to improve my homelab while I refactor my whole setup?](https://www.reddit.com/r/selfhosted/comments/1tx95vn/what_should_i_consider_to_improve_my_homelab/)
 - 2026-06-05T10:37:10+00:00 — [Help setting up Caddy as reverse proxy + certificates?](https://www.reddit.com/r/selfhosted/comments/1txh72l/help_setting_up_caddy_as_reverse_proxy/)
-- 2026-06-04T04:58:58+00:00 — [My self hosted workout app that I never finished is now 4 months old](https://www.reddit.com/r/selfhosted/comments/1twdor8/my_self_hosted_workout_app_that_i_never_finished/)
-- 2026-06-04T22:25:17+00:00 — [I've been building Flowfile: self-hosted data analytics with a visual ETL core (Docker, Open-Source, code ↔ visual)](https://www.reddit.com/r/selfhosted/comments/1tx2lyo/ive_been_building_flowfile_selfhosted_data/)
-- 2026-06-05T08:21:38+00:00 — [Case Study: Building a Betting App on Oracle Free Tier](https://www.reddit.com/r/devops/comments/1txes8a/case_study_building_a_betting_app_on_oracle_free/)
-- 2026-06-02T10:16:51+00:00 — [confused about CI/CD stages in real companies + when Terraform becomes necessary](https://www.reddit.com/r/devops/comments/1tumnb0/confused_about_cicd_stages_in_real_companies_when/)
-- 2026-06-03T15:21:40+00:00 — [What should I do to be taken seriously in the job market?](https://www.reddit.com/r/devops/comments/1tvslen/what_should_i_do_to_be_taken_seriously_in_the_job/)
-- Wed, 03 Jun 2026 19:43:37 +0000 — [Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)](https://github.com/tastyeffectco/sandboxes)
-- Thu, 04 Jun 2026 10:39:59 +0000 — [Give your AI memory in one parameter](https://dev.to/backboardio/give-your-ai-memory-in-one-parameter-4n76)
-- 2026-05-28T22:01:07+00:00 — [New Project Megathread - Week of 28 May 2026](https://www.reddit.com/r/selfhosted/comments/1tqhzoo/new_project_megathread_week_of_28_may_2026/)
-- 2026-06-03T22:33:46+00:00 — [OS Survey Results.](https://www.reddit.com/r/selfhosted/comments/1tw50qo/os_survey_results/)
-- 2026-06-03T20:54:50+00:00 — [Sudden realization that my pdf workflow is the last thing tying me to the cloud](https://www.reddit.com/r/selfhosted/comments/1tw2e0q/sudden_realization_that_my_pdf_workflow_is_the/)
 <!-- NEWS END -->
