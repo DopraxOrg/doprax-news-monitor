@@ -2,15 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-13 10:18 UTC
+Last update: 2026-06-14 10:41 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sat, 13 Jun 2026 10:00:44 +0000 — [I almost gave up on my AI assistant — here’s how I fixed context handling](https://dev.to/__c1b9e06dc90a7e0a676b/i-almost-gave-up-on-my-ai-assistant-heres-how-i-fixed-context-handling-40gl)
+- Sun, 14 Jun 2026 10:22:52 +0000 — [I Built an AI System Design Coach — Clone It, Try It, Break It](https://dev.to/nithiin7/i-built-an-ai-system-design-coach-clone-it-try-it-break-it-1j4b)
+- Sun, 14 Jun 2026 10:19:39 +0000 — [A Docker Build Failure That Had Nothing to Do With Docker](https://dev.to/urmajesty516/a-docker-build-failure-that-had-nothing-to-do-with-docker-4o24)
+- Sun, 14 Jun 2026 10:18:26 +0000 — [Rebuilding Instagram in 2026](https://dev.to/codingjoe_dev/rebuilding-instagram-in-2026-3m00)
 - 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
+- 2026-06-13T19:11:17+00:00 — [Koito v0.3.2 released! Refreshed UI and SQLite support](https://www.reddit.com/r/selfhosted/comments/1u4zf2x/koito_v032_released_refreshed_ui_and_sqlite/)
 - 2026-06-13T01:41:45+00:00 — [20 apps i actually run on my home server and which ones are worth it](https://www.reddit.com/r/selfhosted/comments/1u4dwms/20_apps_i_actually_run_on_my_home_server_and/)
+- 2026-06-14T06:16:19+00:00 — [I’m looking for opinions from people who run their stack on a laptop daily driver](https://www.reddit.com/r/selfhosted/comments/1u5de9a/im_looking_for_opinions_from_people_who_run_their/)
+- 2026-06-14T08:13:25+00:00 — [Gonna start self hosting soon asking for tips.](https://www.reddit.com/r/selfhosted/comments/1u5fe9t/gonna_start_self_hosting_soon_asking_for_tips/)
+- 2026-06-14T10:30:51+00:00 — [I built Cura - a phone dashboard + SSH client to watch my homelab and VPS boxes (Android + iOS)](https://www.reddit.com/r/selfhosted/comments/1u5hn8k/i_built_cura_a_phone_dashboard_ssh_client_to/)
 - 2026-06-12T18:41:32+00:00 — [Pangolin 1.19: SSH, RDP, and VNC in the browser, simpler SSH setup, automatic site updates, and more](https://www.reddit.com/r/selfhosted/comments/1u43vz6/pangolin_119_ssh_rdp_and_vnc_in_the_browser/)
+- 2026-06-14T05:37:39+00:00 — [Suggestions what to self-host on my Intel NUC 5i5MYBE](https://www.reddit.com/r/selfhosted/comments/1u5cow8/suggestions_what_to_selfhost_on_my_intel_nuc/)
+- Sat, 13 Jun 2026 10:00:44 +0000 — [I almost gave up on my AI assistant — here’s how I fixed context handling](https://dev.to/__c1b9e06dc90a7e0a676b/i-almost-gave-up-on-my-ai-assistant-heres-how-i-fixed-context-handling-40gl)
 - 2026-06-12T16:39:44+00:00 — [Libre Closet v0.3 - 2x’d Performance](https://www.reddit.com/r/selfhosted/comments/1u40ith/libre_closet_v03_2xd_performance/)
 - 2026-06-12T15:58:27+00:00 — [Any monitoring solutions for tracking literally everything?](https://www.reddit.com/r/selfhosted/comments/1u3zc6m/any_monitoring_solutions_for_tracking_literally/)
 - 2026-06-12T13:44:35+00:00 — [Easy ways to sync ROM games and saves states across devices?](https://www.reddit.com/r/selfhosted/comments/1u3vp4m/easy_ways_to_sync_rom_games_and_saves_states/)
@@ -99,12 +107,4 @@ Last update: 2026-06-13 10:18 UTC
 - 2026-06-05T09:24:39+00:00 — [End-to-end guide: exposing a K3s cluster with Traefik, cert-manager, CloudFlare and DDNS](https://www.reddit.com/r/selfhosted/comments/1txfvah/endtoend_guide_exposing_a_k3s_cluster_with/)
 - 2026-06-06T06:32:07+00:00 — [Has relying on AI tools like Claude Code made your Docker, CI/CD, and infrastructure skills weaker?](https://www.reddit.com/r/devops/comments/1ty9mev/has_relying_on_ai_tools_like_claude_code_made/)
 - Fri, 05 Jun 2026 11:03:01 +0000 — [LLM-Free Multi-Agent Memory Architecture: How to Build Real Team Memory with Jira + GitHub + Commit Log](https://dev.to/turacthethinker/llm-free-multi-agent-memory-architecture-how-to-build-real-team-memory-with-jira-github-commit-dpa)
-- 2026-06-04T23:42:30+00:00 — [Wanted to take a moment to thank everyone who has used imgcompress](https://www.reddit.com/r/selfhosted/comments/1tx4ft3/wanted_to_take_a_moment_to_thank_everyone_who_has/)
-- 2026-06-04T20:01:27+00:00 — [Eneru - whole-stack UPS shutdown orchestrator now has a web dashboard, auth and an API ⚡](https://www.reddit.com/r/selfhosted/comments/1twytdb/eneru_wholestack_ups_shutdown_orchestrator_now/)
-- 2026-06-05T03:18:12+00:00 — [Docker management tools my god the choices](https://www.reddit.com/r/selfhosted/comments/1tx96iw/docker_management_tools_my_god_the_choices/)
-- 2026-06-05T08:24:05+00:00 — [Building a budget host using older enterprise hardware](https://www.reddit.com/r/selfhosted/comments/1txetme/building_a_budget_host_using_older_enterprise/)
-- 2026-06-05T06:06:14+00:00 — [Image Share Online](https://www.reddit.com/r/selfhosted/comments/1txcfx9/image_share_online/)
-- 2026-06-05T03:43:38+00:00 — [Speakr v0.8.21-alpha - UPDATE RECOMMENDED: CSRF bypass + chained SSO account takeover](https://www.reddit.com/r/selfhosted/comments/1tx9p1t/speakr_v0821alpha_update_recommended_csrf_bypass/)
-- 2026-06-05T03:17:20+00:00 — [What should I consider to improve my homelab while I refactor my whole setup?](https://www.reddit.com/r/selfhosted/comments/1tx95vn/what_should_i_consider_to_improve_my_homelab/)
-- 2026-06-05T10:37:10+00:00 — [Help setting up Caddy as reverse proxy + certificates?](https://www.reddit.com/r/selfhosted/comments/1txh72l/help_setting_up_caddy_as_reverse_proxy/)
 <!-- NEWS END -->
