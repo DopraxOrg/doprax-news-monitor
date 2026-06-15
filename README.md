@@ -2,16 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-14 10:41 UTC
+Last update: 2026-06-15 13:43 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 15 Jun 2026 13:30:00 +0000 — [Top AI Agent Standards to Know in 2026](https://dev.to/ialijr/top-ai-agent-standards-to-know-in-2026-31gm)
+- Mon, 15 Jun 2026 13:14:44 +0000 — [The Production-Ready AI Agent Checklist (Updated For 2026)](https://dev.to/mrclaw207/the-production-ready-ai-agent-checklist-updated-for-2026-33cg)
+- 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
+- 2026-06-15T07:20:19+00:00 — [Am I overcomplicating this? Single mini-PC Proxmox setup — what am I missing?](https://www.reddit.com/r/selfhosted/comments/1u69htl/am_i_overcomplicating_this_single_minipc_proxmox/)
+- 2026-06-15T11:47:43+00:00 — [PrintGuard 2.0 — a fully on-device 3D-print failure detector, with a browser-only mode and a Docker hub mode](https://www.reddit.com/r/selfhosted/comments/1u6e9vq/printguard_20_a_fully_ondevice_3dprint_failure/)
+- 2026-06-14T23:55:09+00:00 — [Windows to Linux Help](https://www.reddit.com/r/selfhosted/comments/1u60ou4/windows_to_linux_help/)
+- 2026-06-15T07:57:28+00:00 — [Help for choosing right decision](https://www.reddit.com/r/selfhosted/comments/1u6a4kp/help_for_choosing_right_decision/)
+- 2026-06-14T23:13:44+00:00 — [Looking for light weight self hosted library manager with phone app for browsing and downloading the books while on my home network](https://www.reddit.com/r/selfhosted/comments/1u5zrv1/looking_for_light_weight_self_hosted_library/)
+- 2026-06-14T11:27:07+00:00 — [What next?](https://www.reddit.com/r/selfhosted/comments/1u5ing7/what_next/)
+- 2026-06-13T19:11:17+00:00 — [Koito v0.3.2 released! Refreshed UI and SQLite support](https://www.reddit.com/r/selfhosted/comments/1u4zf2x/koito_v032_released_refreshed_ui_and_sqlite/)
+- 2026-06-14T11:27:08+00:00 — [Dependency gluetun failed to start](https://www.reddit.com/r/selfhosted/comments/1u5ingf/dependency_gluetun_failed_to_start/)
 - Sun, 14 Jun 2026 10:22:52 +0000 — [I Built an AI System Design Coach — Clone It, Try It, Break It](https://dev.to/nithiin7/i-built-an-ai-system-design-coach-clone-it-try-it-break-it-1j4b)
 - Sun, 14 Jun 2026 10:19:39 +0000 — [A Docker Build Failure That Had Nothing to Do With Docker](https://dev.to/urmajesty516/a-docker-build-failure-that-had-nothing-to-do-with-docker-4o24)
 - Sun, 14 Jun 2026 10:18:26 +0000 — [Rebuilding Instagram in 2026](https://dev.to/codingjoe_dev/rebuilding-instagram-in-2026-3m00)
-- 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
-- 2026-06-13T19:11:17+00:00 — [Koito v0.3.2 released! Refreshed UI and SQLite support](https://www.reddit.com/r/selfhosted/comments/1u4zf2x/koito_v032_released_refreshed_ui_and_sqlite/)
 - 2026-06-13T01:41:45+00:00 — [20 apps i actually run on my home server and which ones are worth it](https://www.reddit.com/r/selfhosted/comments/1u4dwms/20_apps_i_actually_run_on_my_home_server_and/)
 - 2026-06-14T06:16:19+00:00 — [I’m looking for opinions from people who run their stack on a laptop daily driver](https://www.reddit.com/r/selfhosted/comments/1u5de9a/im_looking_for_opinions_from_people_who_run_their/)
 - 2026-06-14T08:13:25+00:00 — [Gonna start self hosting soon asking for tips.](https://www.reddit.com/r/selfhosted/comments/1u5fe9t/gonna_start_self_hosting_soon_asking_for_tips/)
@@ -98,13 +107,4 @@ Last update: 2026-06-14 10:41 UTC
 - 2026-06-06T02:46:49+00:00 — [I am trying to conceptually determine if prices will ever decrease again for anything in self hosting](https://www.reddit.com/r/selfhosted/comments/1ty59cw/i_am_trying_to_conceptually_determine_if_prices/)
 - 2026-06-05T19:15:14+00:00 — [What should I learn in order to succeed as a entry level devops engineer?](https://www.reddit.com/r/devops/comments/1txuixd/what_should_i_learn_in_order_to_succeed_as_a/)
 - Sat, 06 Jun 2026 09:35:25 +0000 — [6개 프로젝트 보안 감사: 25개 이슈 발견 수정 기록](https://dev.to/justjinoit/6gae-peurojegteu-boan-gamsa-25gae-isyu-balgyeon-sujeong-girog-6e4)
-- Sat, 06 Jun 2026 09:24:57 +0000 — [How to Choose Tech Decisions That Serve You (And the "This Must Be False" Rule)](https://dev.to/brixmavu/how-to-choose-tech-decisions-that-serve-you-and-the-this-must-be-false-rule-c32)
-- 2026-06-06T07:04:44+00:00 — [Question on subnets](https://www.reddit.com/r/selfhosted/comments/1tya7dm/question_on_subnets/)
-- 2026-06-05T15:37:37+00:00 — [First 9 days of selfhosting](https://www.reddit.com/r/selfhosted/comments/1txog93/first_9_days_of_selfhosting/)
-- 2026-06-05T15:03:50+00:00 — [OpenReader: Speechify and ElevenLabs alternative for read-along document TTS](https://www.reddit.com/r/selfhosted/comments/1txnir5/openreader_speechify_and_elevenlabs_alternative/)
-- 2026-06-05T12:14:22+00:00 — [I built my own self hosted solution for keeping up with all the news across the internet.](https://www.reddit.com/r/selfhosted/comments/1txj7wy/i_built_my_own_self_hosted_solution_for_keeping/)
-- 2026-06-05T22:59:24+00:00 — [Anyone know of an alternative to rdt-client that’ll work with torbox via docker on unraid that works with the *arrs?](https://www.reddit.com/r/selfhosted/comments/1ty0a79/anyone_know_of_an_alternative_to_rdtclient_thatll/)
-- 2026-06-05T09:24:39+00:00 — [End-to-end guide: exposing a K3s cluster with Traefik, cert-manager, CloudFlare and DDNS](https://www.reddit.com/r/selfhosted/comments/1txfvah/endtoend_guide_exposing_a_k3s_cluster_with/)
-- 2026-06-06T06:32:07+00:00 — [Has relying on AI tools like Claude Code made your Docker, CI/CD, and infrastructure skills weaker?](https://www.reddit.com/r/devops/comments/1ty9mev/has_relying_on_ai_tools_like_claude_code_made/)
-- Fri, 05 Jun 2026 11:03:01 +0000 — [LLM-Free Multi-Agent Memory Architecture: How to Build Real Team Memory with Jira + GitHub + Commit Log](https://dev.to/turacthethinker/llm-free-multi-agent-memory-architecture-how-to-build-real-team-memory-with-jira-github-commit-dpa)
 <!-- NEWS END -->
