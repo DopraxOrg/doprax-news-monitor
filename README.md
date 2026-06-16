@@ -2,16 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-15 13:43 UTC
+Last update: 2026-06-16 12:43 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 15 Jun 2026 13:30:00 +0000 — [Top AI Agent Standards to Know in 2026](https://dev.to/ialijr/top-ai-agent-standards-to-know-in-2026-31gm)
-- Mon, 15 Jun 2026 13:14:44 +0000 — [The Production-Ready AI Agent Checklist (Updated For 2026)](https://dev.to/mrclaw207/the-production-ready-ai-agent-checklist-updated-for-2026-33cg)
+- Mon, 15 Jun 2026 20:12:37 +0000 — [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
+- Tue, 16 Jun 2026 12:20:21 +0000 — [AI Assistant Architecture: LLM, Memory, Tools, Routing, Observability](https://dev.to/rosgluk/ai-assistant-architecture-llm-memory-tools-routing-observability-4jdi)
+- Tue, 16 Jun 2026 12:20:17 +0000 — [Memory Systems in AI Assistants](https://dev.to/rosgluk/memory-systems-in-ai-assistants-3gf0)
 - 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
+- 2026-06-16T05:28:12+00:00 — [Fluxer Selfhosting & Mobile Clients!](https://www.reddit.com/r/selfhosted/comments/1u74k1t/fluxer_selfhosting_mobile_clients/)
+- 2026-06-16T06:07:34+00:00 — [Is preservation of liked music a good reason to self host??](https://www.reddit.com/r/selfhosted/comments/1u75959/is_preservation_of_liked_music_a_good_reason_to/)
+- 2026-06-15T22:37:56+00:00 — [Cheap VPS for backup services](https://www.reddit.com/r/selfhosted/comments/1u6vrul/cheap_vps_for_backup_services/)
+- 2026-06-15T23:39:25+00:00 — [Self hosting musicians](https://www.reddit.com/r/selfhosted/comments/1u6x8m3/self_hosting_musicians/)
+- 2026-06-16T11:52:05+00:00 — [NZB failed: Access to the path '/data' is denied.](https://www.reddit.com/r/selfhosted/comments/1u7bbp9/nzb_failed_access_to_the_path_data_is_denied/)
 - 2026-06-15T07:20:19+00:00 — [Am I overcomplicating this? Single mini-PC Proxmox setup — what am I missing?](https://www.reddit.com/r/selfhosted/comments/1u69htl/am_i_overcomplicating_this_single_minipc_proxmox/)
 - 2026-06-15T11:47:43+00:00 — [PrintGuard 2.0 — a fully on-device 3D-print failure detector, with a browser-only mode and a Docker hub mode](https://www.reddit.com/r/selfhosted/comments/1u6e9vq/printguard_20_a_fully_ondevice_3dprint_failure/)
+- Mon, 15 Jun 2026 13:30:00 +0000 — [Top AI Agent Standards to Know in 2026](https://dev.to/ialijr/top-ai-agent-standards-to-know-in-2026-31gm)
+- Mon, 15 Jun 2026 13:14:44 +0000 — [The Production-Ready AI Agent Checklist (Updated For 2026)](https://dev.to/mrclaw207/the-production-ready-ai-agent-checklist-updated-for-2026-33cg)
 - 2026-06-14T23:55:09+00:00 — [Windows to Linux Help](https://www.reddit.com/r/selfhosted/comments/1u60ou4/windows_to_linux_help/)
 - 2026-06-15T07:57:28+00:00 — [Help for choosing right decision](https://www.reddit.com/r/selfhosted/comments/1u6a4kp/help_for_choosing_right_decision/)
 - 2026-06-14T23:13:44+00:00 — [Looking for light weight self hosted library manager with phone app for browsing and downloading the books while on my home network](https://www.reddit.com/r/selfhosted/comments/1u5zrv1/looking_for_light_weight_self_hosted_library/)
@@ -99,12 +107,4 @@ Last update: 2026-06-15 13:43 UTC
 - 2026-06-04T15:52:40+00:00 — [I Built a Retro Terminal Game to Make Kubernetes Less Boring](https://www.reddit.com/r/devops/comments/1twrooa/i_built_a_retro_terminal_game_to_make_kubernetes/)
 - Sun, 07 Jun 2026 10:00:00 +0000 — [Your Test Suite Shouldn't Depend on APIs You Don't Control](https://dev.to/marcel_lehmann_31109127df/your-test-suite-shouldnt-depend-on-apis-you-dont-control-1c9e)
 - Sun, 07 Jun 2026 09:37:28 +0000 — [Student Placement Prediction System](https://dev.to/nakshatra_sharma_8d07f4e0/student-placement-prediction-system-3jck)
-- 2026-06-06T22:54:32+00:00 — [Advice on Securing Self Hosted Minecraft Server](https://www.reddit.com/r/selfhosted/comments/1tyvcvz/advice_on_securing_self_hosted_minecraft_server/)
-- 2026-06-07T04:04:23+00:00 — [SSL certs suddenly flag as out of date (Caddy)...](https://www.reddit.com/r/selfhosted/comments/1tz1soj/ssl_certs_suddenly_flag_as_out_of_date_caddy/)
-- 2026-06-07T00:57:43+00:00 — [What's the best way to manage docker containers (Truenas)](https://www.reddit.com/r/selfhosted/comments/1tyy0in/whats_the_best_way_to_manage_docker_containers/)
-- 2026-06-06T01:33:21+00:00 — [Turned an old laptop and spare TV into a self hosted kitchen dashboard and home server](https://www.reddit.com/r/selfhosted/comments/1ty3q8y/turned_an_old_laptop_and_spare_tv_into_a_self/)
-- 2026-06-06T17:20:34+00:00 — [How to make a CCTV system for my parents on multiple residences?](https://www.reddit.com/r/selfhosted/comments/1tyn4rk/how_to_make_a_cctv_system_for_my_parents_on/)
-- 2026-06-06T02:46:49+00:00 — [I am trying to conceptually determine if prices will ever decrease again for anything in self hosting](https://www.reddit.com/r/selfhosted/comments/1ty59cw/i_am_trying_to_conceptually_determine_if_prices/)
-- 2026-06-05T19:15:14+00:00 — [What should I learn in order to succeed as a entry level devops engineer?](https://www.reddit.com/r/devops/comments/1txuixd/what_should_i_learn_in_order_to_succeed_as_a/)
-- Sat, 06 Jun 2026 09:35:25 +0000 — [6개 프로젝트 보안 감사: 25개 이슈 발견 수정 기록](https://dev.to/justjinoit/6gae-peurojegteu-boan-gamsa-25gae-isyu-balgyeon-sujeong-girog-6e4)
 <!-- NEWS END -->
