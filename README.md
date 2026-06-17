@@ -2,17 +2,28 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-16 12:43 UTC
+Last update: 2026-06-17 12:07 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 17 Jun 2026 12:00:40 +0000 — [OpenTelemetry in Next.js: traces that survive the edge/server boundary without losing context](https://dev.to/jtorchia/opentelemetry-in-nextjs-traces-that-survive-the-edgeserver-boundary-without-losing-context-3d09)
+- Wed, 17 Jun 2026 12:00:35 +0000 — [OpenTelemetry en Next.js: traces que sobreviven el edge y el servidor sin perder el contexto](https://dev.to/jtorchia/opentelemetry-en-nextjs-traces-que-sobreviven-el-edge-y-el-servidor-sin-perder-el-contexto-4fkj)
+- 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
+- 2026-06-17T01:15:59+00:00 — [Best services for self hosted stack.](https://www.reddit.com/r/selfhosted/comments/1u7w4r4/best_services_for_self_hosted_stack/)
+- 2026-06-17T05:41:39+00:00 — [How do you secure/connect to Prometheus endpoints, including remote ones?](https://www.reddit.com/r/selfhosted/comments/1u81i2x/how_do_you_secureconnect_to_prometheus_endpoints/)
+- 2026-06-17T08:32:48+00:00 — [I built a self-hosted update server for desktop apps and server binaries (Electron/Tauri/Squirrel or any custom updater) - plus an edge cache so update checks don't hammer the API](https://www.reddit.com/r/selfhosted/comments/1u84fs1/i_built_a_selfhosted_update_server_for_desktop/)
+- 2026-06-17T11:57:08+00:00 — [Standard Swappiness (60) vs 10 on a low-RAM (8GB) Home Server?](https://www.reddit.com/r/selfhosted/comments/1u884jn/standard_swappiness_60_vs_10_on_a_lowram_8gb_home/)
+- 2026-06-16T23:16:35+00:00 — [Looking for advice on reverse proxy and VLAN isolation](https://www.reddit.com/r/selfhosted/comments/1u7tg5w/looking_for_advice_on_reverse_proxy_and_vlan/)
+- 2026-06-16T05:28:12+00:00 — [Fluxer Selfhosting & Mobile Clients!](https://www.reddit.com/r/selfhosted/comments/1u74k1t/fluxer_selfhosting_mobile_clients/)
+- 2026-06-17T08:11:01+00:00 — [Questions from a noob, who wants to selfhost](https://www.reddit.com/r/selfhosted/comments/1u842nl/questions_from_a_noob_who_wants_to_selfhost/)
+- 2026-06-17T09:05:42+00:00 — [n8n vs Activepieces vs Kestra: I tested the top 3 open-source automation platforms](https://www.reddit.com/r/selfhosted/comments/1u84z46/n8n_vs_activepieces_vs_kestra_i_tested_the_top_3/)
+- 2026-06-16T06:07:34+00:00 — [Is preservation of liked music a good reason to self host??](https://www.reddit.com/r/selfhosted/comments/1u75959/is_preservation_of_liked_music_a_good_reason_to/)
+- 2026-06-17T07:20:45+00:00 — [Shared Webhost pannel](https://www.reddit.com/r/selfhosted/comments/1u838hk/shared_webhost_pannel/)
+- 2026-06-16T19:07:16+00:00 — [Traefik and WebDav - CPU Connection Problems](https://www.reddit.com/r/selfhosted/comments/1u7mxii/traefik_and_webdav_cpu_connection_problems/)
 - Mon, 15 Jun 2026 20:12:37 +0000 — [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
 - Tue, 16 Jun 2026 12:20:21 +0000 — [AI Assistant Architecture: LLM, Memory, Tools, Routing, Observability](https://dev.to/rosgluk/ai-assistant-architecture-llm-memory-tools-routing-observability-4jdi)
 - Tue, 16 Jun 2026 12:20:17 +0000 — [Memory Systems in AI Assistants](https://dev.to/rosgluk/memory-systems-in-ai-assistants-3gf0)
-- 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
-- 2026-06-16T05:28:12+00:00 — [Fluxer Selfhosting & Mobile Clients!](https://www.reddit.com/r/selfhosted/comments/1u74k1t/fluxer_selfhosting_mobile_clients/)
-- 2026-06-16T06:07:34+00:00 — [Is preservation of liked music a good reason to self host??](https://www.reddit.com/r/selfhosted/comments/1u75959/is_preservation_of_liked_music_a_good_reason_to/)
 - 2026-06-15T22:37:56+00:00 — [Cheap VPS for backup services](https://www.reddit.com/r/selfhosted/comments/1u6vrul/cheap_vps_for_backup_services/)
 - 2026-06-15T23:39:25+00:00 — [Self hosting musicians](https://www.reddit.com/r/selfhosted/comments/1u6x8m3/self_hosting_musicians/)
 - 2026-06-16T11:52:05+00:00 — [NZB failed: Access to the path '/data' is denied.](https://www.reddit.com/r/selfhosted/comments/1u7bbp9/nzb_failed_access_to_the_path_data_is_denied/)
@@ -96,15 +107,4 @@ Last update: 2026-06-16 12:43 UTC
 - 2026-06-06T19:39:42+00:00 — [Ran a Hosting SaaS for 5 years on Ansible/CloudFormation. Job market wants K8s/Terraform. Am I screwed?](https://www.reddit.com/r/devops/comments/1tyqq96/ran_a_hosting_saas_for_5_years_on/)
 - 2026-06-05T19:44:29+00:00 — [DevSecOps Roadmap](https://www.reddit.com/r/devops/comments/1txvbbk/devsecops_roadmap/)
 - 2026-06-05T11:04:01+00:00 — [Is it a problem if I'm only learning on-prem Kubernetes and never touch AWS/Azure?](https://www.reddit.com/r/devops/comments/1txhq9k/is_it_a_problem_if_im_only_learning_onprem/)
-- Mon, 08 Jun 2026 11:58:05 +0000 — [Trivy's March Supply Chain Attack Shows Where Secret Exposure Hurts Most](https://dev.to/gitguardian/trivys-march-supply-chain-attack-shows-where-secret-exposure-hurts-most-hfg)
-- 2026-06-07T16:30:11+00:00 — [A modern Proxmox Docker architecture with disposable VMs, VirtIO-FS, and ZFS state separation](https://www.reddit.com/r/selfhosted/comments/1tzgrpo/a_modern_proxmox_docker_architecture_with/)
-- 2026-06-07T09:56:33+00:00 — [Lifelog platform I use daily and developed for ~4 years now](https://www.reddit.com/r/selfhosted/comments/1tz7z34/lifelog_platform_i_use_daily_and_developed_for_4/)
-- 2026-06-07T22:03:43+00:00 — [Isola: Secure Sandboxing for Kubernetes](https://www.reddit.com/r/selfhosted/comments/1tzph7r/isola_secure_sandboxing_for_kubernetes/)
-- 2026-06-07T15:47:16+00:00 — [Alloy, Loki, and Grafana](https://www.reddit.com/r/selfhosted/comments/1tzfn17/alloy_loki_and_grafana/)
-- 2026-06-07T09:28:05+00:00 — [Alternative to dyndns](https://www.reddit.com/r/selfhosted/comments/1tz7hc3/alternative_to_dyndns/)
-- 2026-06-05T15:19:58+00:00 — [Checking what are the VPN client people use ?](https://www.reddit.com/r/devops/comments/1txnyz8/checking_what_are_the_vpn_client_people_use/)
-- 2026-06-05T21:04:55+00:00 — [Operational *simple* way to manage small number of Vultr/DO VMS/Pg/etc? NixOS + ?](https://www.reddit.com/r/devops/comments/1txxgi3/operational_simple_way_to_manage_small_number_of/)
-- 2026-06-04T15:52:40+00:00 — [I Built a Retro Terminal Game to Make Kubernetes Less Boring](https://www.reddit.com/r/devops/comments/1twrooa/i_built_a_retro_terminal_game_to_make_kubernetes/)
-- Sun, 07 Jun 2026 10:00:00 +0000 — [Your Test Suite Shouldn't Depend on APIs You Don't Control](https://dev.to/marcel_lehmann_31109127df/your-test-suite-shouldnt-depend-on-apis-you-dont-control-1c9e)
-- Sun, 07 Jun 2026 09:37:28 +0000 — [Student Placement Prediction System](https://dev.to/nakshatra_sharma_8d07f4e0/student-placement-prediction-system-3jck)
 <!-- NEWS END -->
