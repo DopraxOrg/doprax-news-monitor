@@ -2,15 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-17 12:07 UTC
+Last update: 2026-06-18 11:41 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 18 Jun 2026 11:29:21 +0000 — [Unlock Kafka Schemas with Karapace: A Hands-On Guide](https://dev.to/zeliotofficial/unlock-kafka-schemas-with-karapace-a-hands-on-guide-4kp6)
+- 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
+- 2026-06-18T09:48:55+00:00 — [YAMLResume v0.13 update: new docx engine! Write resumes in yaml and generate to markdown/html/pdf/docx in one shot!](https://www.reddit.com/r/selfhosted/comments/1u91x14/yamlresume_v013_update_new_docx_engine_write/)
+- 2026-06-17T21:06:11+00:00 — [Self hosting a personal website](https://www.reddit.com/r/selfhosted/comments/1u8mmtf/self_hosting_a_personal_website/)
+- 2026-06-18T05:21:02+00:00 — [Looking for CasaOS alternatives](https://www.reddit.com/r/selfhosted/comments/1u8xfa2/looking_for_casaos_alternatives/)
+- 2026-06-17T21:31:06+00:00 — [OOTT - Rust based network scanner and notification service](https://www.reddit.com/r/selfhosted/comments/1u8nad5/oott_rust_based_network_scanner_and_notification/)
+- 2026-06-18T06:59:26+00:00 — [Running a public Redlib instance: Cloudflare Tunnel, Traefik, Anubis, HLS cache pitfalls, and status/maintenance setup](https://www.reddit.com/r/selfhosted/comments/1u8z4k7/running_a_public_redlib_instance_cloudflare/)
+- 2026-06-17T16:46:19+00:00 — [Memtly v1.0.4 (Formerly WeddingShare)](https://www.reddit.com/r/selfhosted/comments/1u8fjhv/memtly_v104_formerly_weddingshare/)
+- 2026-06-17T17:50:21+00:00 — [Offline chat server recommendations](https://www.reddit.com/r/selfhosted/comments/1u8ha83/offline_chat_server_recommendations/)
+- 2026-06-17T21:38:25+00:00 — [What are some good practices for protecting from supply chain attacks or other hardening strategies?](https://www.reddit.com/r/selfhosted/comments/1u8nh97/what_are_some_good_practices_for_protecting_from/)
+- 2026-06-17T01:15:59+00:00 — [Best services for self hosted stack.](https://www.reddit.com/r/selfhosted/comments/1u7w4r4/best_services_for_self_hosted_stack/)
+- 2026-06-18T08:34:53+00:00 — [Autentico: a single-binary OAuth2/OIDC Identity Provider backed by SQLite](https://www.reddit.com/r/selfhosted/comments/1u90p7u/autentico_a_singlebinary_oauth2oidc_identity/)
+- Wed, 17 Jun 2026 18:20:06 +0000 — [Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world](https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/)
 - Wed, 17 Jun 2026 12:00:40 +0000 — [OpenTelemetry in Next.js: traces that survive the edge/server boundary without losing context](https://dev.to/jtorchia/opentelemetry-in-nextjs-traces-that-survive-the-edgeserver-boundary-without-losing-context-3d09)
 - Wed, 17 Jun 2026 12:00:35 +0000 — [OpenTelemetry en Next.js: traces que sobreviven el edge y el servidor sin perder el contexto](https://dev.to/jtorchia/opentelemetry-en-nextjs-traces-que-sobreviven-el-edge-y-el-servidor-sin-perder-el-contexto-4fkj)
-- 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
-- 2026-06-17T01:15:59+00:00 — [Best services for self hosted stack.](https://www.reddit.com/r/selfhosted/comments/1u7w4r4/best_services_for_self_hosted_stack/)
 - 2026-06-17T05:41:39+00:00 — [How do you secure/connect to Prometheus endpoints, including remote ones?](https://www.reddit.com/r/selfhosted/comments/1u81i2x/how_do_you_secureconnect_to_prometheus_endpoints/)
 - 2026-06-17T08:32:48+00:00 — [I built a self-hosted update server for desktop apps and server binaries (Electron/Tauri/Squirrel or any custom updater) - plus an edge cache so update checks don't hammer the API](https://www.reddit.com/r/selfhosted/comments/1u84fs1/i_built_a_selfhosted_update_server_for_desktop/)
 - 2026-06-17T11:57:08+00:00 — [Standard Swappiness (60) vs 10 on a low-RAM (8GB) Home Server?](https://www.reddit.com/r/selfhosted/comments/1u884jn/standard_swappiness_60_vs_10_on_a_lowram_8gb_home/)
@@ -96,15 +107,4 @@ Last update: 2026-06-17 12:07 UTC
 - Tue, 09 Jun 2026 10:11:49 +0000 — [Build a URL shortener with Fitz: HTTP + Postgres + auth in 30 minutes](https://dev.to/martin_palopoli/build-a-url-shortener-with-fitz-http-postgres-auth-in-30-minutes-68k)
 - Tue, 09 Jun 2026 10:10:39 +0000 — [Open Notebook Review: Self-Hosted NotebookLM Alternative](https://dev.to/andrew-ooo/open-notebook-review-self-hosted-notebooklm-alternative-1210)
 - 2026-06-08T19:19:43+00:00 — [Anybody else feel like they are doing this self hosted thing wrong?](https://www.reddit.com/r/selfhosted/comments/1u0hv4q/anybody_else_feel_like_they_are_doing_this_self/)
-- 2026-06-09T01:47:55+00:00 — [Self hosting Google Translate for documents/books](https://www.reddit.com/r/selfhosted/comments/1u0ribl/self_hosting_google_translate_for_documentsbooks/)
-- 2026-06-08T16:02:23+00:00 — [Note Mark V1 Release](https://www.reddit.com/r/selfhosted/comments/1u0c5i9/note_mark_v1_release/)
-- 2026-06-08T18:49:38+00:00 — [Looksyk, a lightweight PKMS](https://www.reddit.com/r/selfhosted/comments/1u0gz5b/looksyk_a_lightweight_pkms/)
-- 2026-06-08T16:32:29+00:00 — [Accessing home network remotely](https://www.reddit.com/r/selfhosted/comments/1u0d08g/accessing_home_network_remotely/)
-- 2026-06-09T10:06:03+00:00 — [i spent 3 years building my stack with claude as a co-pilot. here’s what I learned: don’t try to sell your softwares (no one cares), use it for yourself.](https://www.reddit.com/r/selfhosted/comments/1u10pv3/i_spent_3_years_building_my_stack_with_claude_as/)
-- 2026-06-09T07:59:09+00:00 — [[Guide] Full Plex + Usenet automation stack on Proxmox — Sonarr, Radarr, SABnzbd, Prowlarr, Seerr, ZFS hard links, NFS split architecture](https://www.reddit.com/r/selfhosted/comments/1u0yluq/guide_full_plex_usenet_automation_stack_on/)
-- 2026-06-07T20:15:23+00:00 — [I have zero confidence in my ability to actually back up my data.](https://www.reddit.com/r/selfhosted/comments/1tzmrlu/i_have_zero_confidence_in_my_ability_to_actually/)
-- 2026-06-06T19:36:24+00:00 — [Beginner in DevOps – Enjoying the Journey but Struggling With Confidence. Is This Normal?](https://www.reddit.com/r/devops/comments/1tyqn5r/beginner_in_devops_enjoying_the_journey_but/)
-- 2026-06-06T19:39:42+00:00 — [Ran a Hosting SaaS for 5 years on Ansible/CloudFormation. Job market wants K8s/Terraform. Am I screwed?](https://www.reddit.com/r/devops/comments/1tyqq96/ran_a_hosting_saas_for_5_years_on/)
-- 2026-06-05T19:44:29+00:00 — [DevSecOps Roadmap](https://www.reddit.com/r/devops/comments/1txvbbk/devsecops_roadmap/)
-- 2026-06-05T11:04:01+00:00 — [Is it a problem if I'm only learning on-prem Kubernetes and never touch AWS/Azure?](https://www.reddit.com/r/devops/comments/1txhq9k/is_it_a_problem_if_im_only_learning_onprem/)
 <!-- NEWS END -->
