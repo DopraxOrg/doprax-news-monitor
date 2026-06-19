@@ -2,14 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-18 11:41 UTC
+Last update: 2026-06-19 11:56 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
+- 2026-06-18T19:12:31+00:00 — [Running a Mac as home server and couldn't be happier. Power efficient, fast, small. Roast me!](https://www.reddit.com/r/selfhosted/comments/1u9fgo1/running_a_mac_as_home_server_and_couldnt_be/)
+- 2026-06-19T07:01:49+00:00 — [I'm disappointed with the Spotify music discovery alternatives I've tried so far.](https://www.reddit.com/r/selfhosted/comments/1u9uvn5/im_disappointed_with_the_spotify_music_discovery/)
+- 2026-06-18T20:43:45+00:00 — [How do you all deal with IPv6 at home?](https://www.reddit.com/r/selfhosted/comments/1u9hv00/how_do_you_all_deal_with_ipv6_at_home/)
+- 2026-06-18T19:28:15+00:00 — [Is there a good docker Weather-app to be found out in the wild?](https://www.reddit.com/r/selfhosted/comments/1u9fvs8/is_there_a_good_docker_weatherapp_to_be_found_out/)
+- 2026-06-18T09:48:55+00:00 — [YAMLResume v0.13 update: new docx engine! Write resumes in yaml and generate to markdown/html/pdf/docx in one shot!](https://www.reddit.com/r/selfhosted/comments/1u91x14/yamlresume_v013_update_new_docx_engine_write/)
+- 2026-06-19T06:57:41+00:00 — [Bazarr-sync 0.7 is here](https://www.reddit.com/r/selfhosted/comments/1u9usu3/bazarrsync_07_is_here/)
+- 2026-06-18T07:28:43+00:00 — [Sometimes docker system prune surprises me](https://www.reddit.com/r/selfhosted/comments/1u8zmej/sometimes_docker_system_prune_surprises_me/)
+- 2026-06-19T08:35:13+00:00 — [[Release] SuggestArr Now Supports Trakt integration!](https://www.reddit.com/r/selfhosted/comments/1u9wf71/release_suggestarr_now_supports_trakt_integration/)
+- 2026-06-19T03:32:10+00:00 — [Considering Proxmox (Noob)](https://www.reddit.com/r/selfhosted/comments/1u9qz8s/considering_proxmox_noob/)
+- 2026-06-19T01:44:28+00:00 — [Alloy/Loki/Minio S3 issue](https://www.reddit.com/r/selfhosted/comments/1u9orvm/alloylokiminio_s3_issue/)
+- Fri, 19 Jun 2026 01:01:00 +0000 — [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
 - Thu, 18 Jun 2026 11:29:21 +0000 — [Unlock Kafka Schemas with Karapace: A Hands-On Guide](https://dev.to/zeliotofficial/unlock-kafka-schemas-with-karapace-a-hands-on-guide-4kp6)
 - 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
-- 2026-06-18T09:48:55+00:00 — [YAMLResume v0.13 update: new docx engine! Write resumes in yaml and generate to markdown/html/pdf/docx in one shot!](https://www.reddit.com/r/selfhosted/comments/1u91x14/yamlresume_v013_update_new_docx_engine_write/)
 - 2026-06-17T21:06:11+00:00 — [Self hosting a personal website](https://www.reddit.com/r/selfhosted/comments/1u8mmtf/self_hosting_a_personal_website/)
 - 2026-06-18T05:21:02+00:00 — [Looking for CasaOS alternatives](https://www.reddit.com/r/selfhosted/comments/1u8xfa2/looking_for_casaos_alternatives/)
 - 2026-06-17T21:31:06+00:00 — [OOTT - Rust based network scanner and notification service](https://www.reddit.com/r/selfhosted/comments/1u8nad5/oott_rust_based_network_scanner_and_notification/)
@@ -96,15 +107,4 @@ Last update: 2026-06-18 11:41 UTC
 - 2026-06-10T03:20:40+00:00 — [Any techy restaurant owners in here set up your own IP cam server as a NVR? If so, which software did you settle for hosting? I'm at the end of my rope with GeoVision](https://www.reddit.com/r/selfhosted/comments/1u1qk3e/any_techy_restaurant_owners_in_here_set_up_your/)
 - 2026-06-09T11:21:52+00:00 — [Best practice for multiple docker containers?](https://www.reddit.com/r/selfhosted/comments/1u125kq/best_practice_for_multiple_docker_containers/)
 - 2026-06-09T17:58:40+00:00 — [What are some tasks in daily DevOps life that you think agents based on frontier models (like Opus 4.8) can't solve?](https://www.reddit.com/r/devops/comments/1u1cm2c/what_are_some_tasks_in_daily_devops_life_that_you/)
-- 2026-06-09T15:05:05+00:00 — [It's a good idea for improve my cloud knowledge?](https://www.reddit.com/r/devops/comments/1u17ly3/its_a_good_idea_for_improve_my_cloud_knowledge/)
-- 2026-06-09T19:07:59+00:00 — [prompt drift is an operations nightmare. we started using gitops for our agents.](https://www.reddit.com/r/devops/comments/1u1el4c/prompt_drift_is_an_operations_nightmare_we/)
-- 2026-06-07T15:32:45+00:00 — [DevOps feels endless — what should I focus on after Git, Docker, and Linux?](https://www.reddit.com/r/devops/comments/1tzf9gc/devops_feels_endless_what_should_i_focus_on_after/)
-- 2026-06-07T10:32:01+00:00 — [4 Years into my career – What should I focus on next?](https://www.reddit.com/r/devops/comments/1tz8lcf/4_years_into_my_career_what_should_i_focus_on_next/)
-- 2026-06-07T17:04:32+00:00 — [How do I specialize?](https://www.reddit.com/r/devops/comments/1tzhnqq/how_do_i_specialize/)
-- Tue, 09 Jun 2026 17:40:08 +0000 — [CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang](https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/)
-- Tue, 09 Jun 2026 10:30:00 +0000 — [Architecting isolated workspaces with Kasm: hardened, egress-controlled, disposable](https://dev.to/jeremy-burgos/architecting-isolated-workspaces-with-kasm-hardened-egress-controlled-disposable-2nmk)
-- Tue, 09 Jun 2026 10:12:08 +0000 — [Construí tu primera API con Fitz: un acortador de URLs con Postgres y auth en 30 minutos](https://dev.to/martin_palopoli/construi-tu-primera-api-con-fitz-un-acortador-de-urls-con-postgres-y-auth-en-30-minutos-33ed)
-- Tue, 09 Jun 2026 10:11:49 +0000 — [Build a URL shortener with Fitz: HTTP + Postgres + auth in 30 minutes](https://dev.to/martin_palopoli/build-a-url-shortener-with-fitz-http-postgres-auth-in-30-minutes-68k)
-- Tue, 09 Jun 2026 10:10:39 +0000 — [Open Notebook Review: Self-Hosted NotebookLM Alternative](https://dev.to/andrew-ooo/open-notebook-review-self-hosted-notebooklm-alternative-1210)
-- 2026-06-08T19:19:43+00:00 — [Anybody else feel like they are doing this self hosted thing wrong?](https://www.reddit.com/r/selfhosted/comments/1u0hv4q/anybody_else_feel_like_they_are_doing_this_self/)
 <!-- NEWS END -->
