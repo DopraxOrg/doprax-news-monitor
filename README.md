@@ -2,23 +2,27 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-19 11:56 UTC
+Last update: 2026-06-20 10:23 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
 - 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
+- 2026-06-19T23:17:18+00:00 — [Sencho v0.92.0: Security Upgrades, Mobile Improvements and Fleet Enhancements Released.](https://www.reddit.com/r/selfhosted/comments/1uagtj5/sencho_v0920_security_upgrades_mobile/)
 - 2026-06-18T19:12:31+00:00 — [Running a Mac as home server and couldn't be happier. Power efficient, fast, small. Roast me!](https://www.reddit.com/r/selfhosted/comments/1u9fgo1/running_a_mac_as_home_server_and_couldnt_be/)
 - 2026-06-19T07:01:49+00:00 — [I'm disappointed with the Spotify music discovery alternatives I've tried so far.](https://www.reddit.com/r/selfhosted/comments/1u9uvn5/im_disappointed_with_the_spotify_music_discovery/)
+- 2026-06-19T16:02:36+00:00 — [[Update] DashCord v1.4.0 - Headless Discord UI bridge (Dropdowns, Embeds, and Modals)](https://www.reddit.com/r/selfhosted/comments/1ua5xjs/update_dashcord_v140_headless_discord_ui_bridge/)
+- 2026-06-19T15:23:03+00:00 — [Full Rustdesk seft hosting?](https://www.reddit.com/r/selfhosted/comments/1ua4wdq/full_rustdesk_seft_hosting/)
+- 2026-06-19T18:46:04+00:00 — [PlikShare v1.2.0 - back from a long break with SSO, quick shares, galleries and an MCP server](https://www.reddit.com/r/selfhosted/comments/1uaa8tx/plikshare_v120_back_from_a_long_break_with_sso/)
 - 2026-06-18T20:43:45+00:00 — [How do you all deal with IPv6 at home?](https://www.reddit.com/r/selfhosted/comments/1u9hv00/how_do_you_all_deal_with_ipv6_at_home/)
+- 2026-06-19T06:57:41+00:00 — [Bazarr-sync 0.7 is here](https://www.reddit.com/r/selfhosted/comments/1u9usu3/bazarrsync_07_is_here/)
+- Fri, 19 Jun 2026 01:01:00 +0000 — [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
 - 2026-06-18T19:28:15+00:00 — [Is there a good docker Weather-app to be found out in the wild?](https://www.reddit.com/r/selfhosted/comments/1u9fvs8/is_there_a_good_docker_weatherapp_to_be_found_out/)
 - 2026-06-18T09:48:55+00:00 — [YAMLResume v0.13 update: new docx engine! Write resumes in yaml and generate to markdown/html/pdf/docx in one shot!](https://www.reddit.com/r/selfhosted/comments/1u91x14/yamlresume_v013_update_new_docx_engine_write/)
-- 2026-06-19T06:57:41+00:00 — [Bazarr-sync 0.7 is here](https://www.reddit.com/r/selfhosted/comments/1u9usu3/bazarrsync_07_is_here/)
 - 2026-06-18T07:28:43+00:00 — [Sometimes docker system prune surprises me](https://www.reddit.com/r/selfhosted/comments/1u8zmej/sometimes_docker_system_prune_surprises_me/)
 - 2026-06-19T08:35:13+00:00 — [[Release] SuggestArr Now Supports Trakt integration!](https://www.reddit.com/r/selfhosted/comments/1u9wf71/release_suggestarr_now_supports_trakt_integration/)
 - 2026-06-19T03:32:10+00:00 — [Considering Proxmox (Noob)](https://www.reddit.com/r/selfhosted/comments/1u9qz8s/considering_proxmox_noob/)
 - 2026-06-19T01:44:28+00:00 — [Alloy/Loki/Minio S3 issue](https://www.reddit.com/r/selfhosted/comments/1u9orvm/alloylokiminio_s3_issue/)
-- Fri, 19 Jun 2026 01:01:00 +0000 — [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
 - Thu, 18 Jun 2026 11:29:21 +0000 — [Unlock Kafka Schemas with Karapace: A Hands-On Guide](https://dev.to/zeliotofficial/unlock-kafka-schemas-with-karapace-a-hands-on-guide-4kp6)
 - 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
 - 2026-06-17T21:06:11+00:00 — [Self hosting a personal website](https://www.reddit.com/r/selfhosted/comments/1u8mmtf/self_hosting_a_personal_website/)
@@ -103,8 +107,4 @@ Last update: 2026-06-19 11:56 UTC
 - 2026-06-09T20:22:42+00:00 — [Just found Ignis: A lightweight web wrapper to self-host Obsidian (No VNC)](https://www.reddit.com/r/selfhosted/comments/1u1gny0/just_found_ignis_a_lightweight_web_wrapper_to/)
 - 2026-06-09T15:21:45+00:00 — [Dispatcharr Release: v0.26.0 - IPTV Stream & EPG Management](https://www.reddit.com/r/selfhosted/comments/1u183ci/dispatcharr_release_v0260_iptv_stream_epg/)
 - 2026-06-09T13:13:32+00:00 — [Home Information v1.2.2: a local-first, spatial hub for your home's docs, devices & cameras](https://www.reddit.com/r/selfhosted/comments/1u14n0w/home_information_v122_a_localfirst_spatial_hub/)
-- 2026-06-10T05:07:49+00:00 — [Using two vpn's at once on server.](https://www.reddit.com/r/selfhosted/comments/1u1snxl/using_two_vpns_at_once_on_server/)
-- 2026-06-10T03:20:40+00:00 — [Any techy restaurant owners in here set up your own IP cam server as a NVR? If so, which software did you settle for hosting? I'm at the end of my rope with GeoVision](https://www.reddit.com/r/selfhosted/comments/1u1qk3e/any_techy_restaurant_owners_in_here_set_up_your/)
-- 2026-06-09T11:21:52+00:00 — [Best practice for multiple docker containers?](https://www.reddit.com/r/selfhosted/comments/1u125kq/best_practice_for_multiple_docker_containers/)
-- 2026-06-09T17:58:40+00:00 — [What are some tasks in daily DevOps life that you think agents based on frontier models (like Opus 4.8) can't solve?](https://www.reddit.com/r/devops/comments/1u1cm2c/what_are_some_tasks_in_daily_devops_life_that_you/)
 <!-- NEWS END -->
