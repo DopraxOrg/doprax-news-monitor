@@ -2,16 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-21 10:57 UTC
+Last update: 2026-06-22 13:23 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 22 Jun 2026 13:14:00 +0000 — [6 Months of Running a Production Voice AI — What Changed, What Broke, What We'd Rebuild](https://dev.to/autor_tech/6-months-of-running-a-production-voice-ai-what-changed-what-broke-what-wed-rebuild-5621)
+- Mon, 22 Jun 2026 13:12:58 +0000 — [Building a Secure, Self-Hosted Trading Infrastructure from Scratch](https://dev.to/patexone_richarde/building-a-secure-self-hosted-trading-infrastructure-from-scratch-3gad)
+- 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
+- 2026-06-21T19:33:10+00:00 — [TapMap 1.8.0 released](https://www.reddit.com/r/selfhosted/comments/1ubyzs1/tapmap_180_released/)
+- 2026-06-22T05:01:27+00:00 — [Need Advice before I Build](https://www.reddit.com/r/selfhosted/comments/1ucbaxx/need_advice_before_i_build/)
+- 2026-06-22T05:15:52+00:00 — [Dockhand for Quadlets?](https://www.reddit.com/r/selfhosted/comments/1ucbkjt/dockhand_for_quadlets/)
+- 2026-06-21T23:05:19+00:00 — [Switching/switching from Tailscale to Headscale or Wireguard on Synology NAS?](https://www.reddit.com/r/selfhosted/comments/1uc3zp0/switchingswitching_from_tailscale_to_headscale_or/)
+- 2026-06-22T11:50:52+00:00 — [SparkyFitness Google Health Integration issues](https://www.reddit.com/r/selfhosted/comments/1ucifbo/sparkyfitness_google_health_integration_issues/)
+- 2026-06-21T17:36:23+00:00 — [How to learn/try out Kubernetes on a homelab?](https://www.reddit.com/r/selfhosted/comments/1ubw2q2/how_to_learntry_out_kubernetes_on_a_homelab/)
+- 2026-06-22T04:33:01+00:00 — [Is it possible for anyone to help me troubleshoot soulsync?](https://www.reddit.com/r/selfhosted/comments/1ucas73/is_it_possible_for_anyone_to_help_me_troubleshoot/)
+- 2026-06-21T14:08:49+00:00 — [Automatizing my server setup](https://www.reddit.com/r/selfhosted/comments/1ubr0cw/automatizing_my_server_setup/)
 - Sun, 21 Jun 2026 10:35:18 +0000 — [Mastering the Art of LLM Prompting: A Developer's Guide to Getting Better Answers from AI](https://dev.to/samchenreviews/mastering-the-art-of-llm-prompting-a-developers-guide-to-getting-better-answers-from-ai-36k5)
 - Sun, 21 Jun 2026 10:23:46 +0000 — [Generate Invoice PDFs from HTML in 10 Lines of Code](https://dev.to/mahiuddinalkamal/generate-invoice-pdfs-from-html-in-10-lines-of-code-57o2)
 - Sun, 21 Jun 2026 10:17:25 +0000 — [API Design for AI: Streaming, Structured Output, and Rate Limits](https://dev.to/uaslimcreate/api-design-for-ai-streaming-structured-output-and-rate-limits-16pa)
 - Sun, 21 Jun 2026 10:15:26 +0000 — [OpenTofu State in MinIO: An S3-Compatible Backend for IaC](https://dev.to/futhgar/opentofu-state-in-minio-an-s3-compatible-backend-for-iac-155l)
-- 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
 - 2026-06-21T05:39:09+00:00 — [How do you expose your Proxmox VE (via a reverse proxy, etc.)?](https://www.reddit.com/r/selfhosted/comments/1ubhu4m/how_do_you_expose_your_proxmox_ve_via_a_reverse/)
 - 2026-06-20T19:07:21+00:00 — [Tandoor vs mealie?](https://www.reddit.com/r/selfhosted/comments/1ub4psz/tandoor_vs_mealie/)
 - 2026-06-20T11:36:37+00:00 — [Looking for Spotify alternatives that work on mobile, Linux, and preferably also web](https://www.reddit.com/r/selfhosted/comments/1uauegd/looking_for_spotify_alternatives_that_work_on/)
@@ -97,14 +107,4 @@ Last update: 2026-06-21 10:57 UTC
 - 2026-06-11T17:41:46+00:00 — [Meta: proposal to add karma and account age requirement for posts with penalties](https://www.reddit.com/r/selfhosted/comments/1u35xid/meta_proposal_to_add_karma_and_account_age/)
 - 2026-06-12T03:13:50+00:00 — [am I going to make my computer explode?](https://www.reddit.com/r/selfhosted/comments/1u3jqbj/am_i_going_to_make_my_computer_explode/)
 - 2026-06-12T08:20:57+00:00 — [Task management/todo software - but simple](https://www.reddit.com/r/selfhosted/comments/1u3pb7c/task_managementtodo_software_but_simple/)
-- 2026-06-12T01:48:17+00:00 — [How to route tailscale exit node traffic via VPN?](https://www.reddit.com/r/selfhosted/comments/1u3hygo/how_to_route_tailscale_exit_node_traffic_via_vpn/)
-- 2026-06-11T20:43:18+00:00 — [Need help with the networking part of my HomeLab](https://www.reddit.com/r/selfhosted/comments/1u3avoe/need_help_with_the_networking_part_of_my_homelab/)
-- 2026-06-11T14:08:30+00:00 — [Hosting LLM on a budget 12 GB vram](https://www.reddit.com/r/selfhosted/comments/1u3042i/hosting_llm_on_a_budget_12_gb_vram/)
-- 2026-06-11T19:03:21+00:00 — [Best Practice updating? The joys of selfhosting.](https://www.reddit.com/r/selfhosted/comments/1u387ff/best_practice_updating_the_joys_of_selfhosting/)
-- 2026-06-12T08:06:01+00:00 — [Rebuilding my Selfhosted setup with AI - best practices?](https://www.reddit.com/r/selfhosted/comments/1u3p1zs/rebuilding_my_selfhosted_setup_with_ai_best/)
-- 2026-06-11T13:54:48+00:00 — [Immich with IPv6 Host Exposure intermittent unreachable](https://www.reddit.com/r/selfhosted/comments/1u2zraw/immich_with_ipv6_host_exposure_intermittent/)
-- Thu, 11 Jun 2026 11:49:12 +0000 — [GitHub Organization Security Hardening: Exact Controls and Step-by-Step Setup Guide](https://dev.to/mike_anderson_d01f52129fb/github-organization-security-hardening-exact-controls-and-step-by-step-setup-guide-1cpa)
-- Thu, 11 Jun 2026 11:42:26 +0000 — [Production-Grade RAG: Why Vector Search Isn't Enough (and How Hybrid Search Fills the Gaps)](https://dev.to/alejandro_du/production-grade-rag-why-vector-search-isnt-enough-and-how-hybrid-search-fills-the-gaps-19bh)
-- 2026-06-04T22:01:07+00:00 — [New Project Megathread - Week of 04 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1tx202z/new_project_megathread_week_of_04_jun_2026/)
-- 2026-06-10T22:30:06+00:00 — [Postgres observability when self-hosting](https://www.reddit.com/r/selfhosted/comments/1u2h34t/postgres_observability_when_selfhosting/)
 <!-- NEWS END -->
