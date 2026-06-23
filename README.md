@@ -2,14 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-22 13:23 UTC
+Last update: 2026-06-23 10:51 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 23 Jun 2026 10:40:54 +0000 — [Building Real-Time Voice AI Applications with LiveKit and FastAPI](https://dev.to/joshua-fields-dev/building-real-time-voice-ai-applications-with-livekit-and-fastapi-pae)
+- Tue, 23 Jun 2026 10:31:26 +0000 — [NexFlow: a common language for AI developer teams](https://dev.to/alexander_iwizard/nexflow-a-common-language-for-ai-developer-teams-3bjo)
+- 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
+- 2026-06-22T14:24:00+00:00 — [Docker Alternative: Podman on Linux](https://www.reddit.com/r/selfhosted/comments/1uclzo6/docker_alternative_podman_on_linux/)
+- 2026-06-23T02:29:07+00:00 — [Simple in-home camera stream?](https://www.reddit.com/r/selfhosted/comments/1ud4nl3/simple_inhome_camera_stream/)
+- 2026-06-23T03:05:58+00:00 — [Arcane docker management project detection issue](https://www.reddit.com/r/selfhosted/comments/1ud5fma/arcane_docker_management_project_detection_issue/)
+- 2026-06-22T23:26:45+00:00 — [Best way to back up Unraid services to Raspberry Pis](https://www.reddit.com/r/selfhosted/comments/1ud0krc/best_way_to_back_up_unraid_services_to_raspberry/)
+- 2026-06-23T00:47:18+00:00 — [Need help: stable VPS in the US for self-hosted Docker stack (Postgres + API)?](https://www.reddit.com/r/selfhosted/comments/1ud2f36/need_help_stable_vps_in_the_us_for_selfhosted/)
 - Mon, 22 Jun 2026 13:14:00 +0000 — [6 Months of Running a Production Voice AI — What Changed, What Broke, What We'd Rebuild](https://dev.to/autor_tech/6-months-of-running-a-production-voice-ai-what-changed-what-broke-what-wed-rebuild-5621)
 - Mon, 22 Jun 2026 13:12:58 +0000 — [Building a Secure, Self-Hosted Trading Infrastructure from Scratch](https://dev.to/patexone_richarde/building-a-secure-self-hosted-trading-infrastructure-from-scratch-3gad)
-- 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
 - 2026-06-21T19:33:10+00:00 — [TapMap 1.8.0 released](https://www.reddit.com/r/selfhosted/comments/1ubyzs1/tapmap_180_released/)
 - 2026-06-22T05:01:27+00:00 — [Need Advice before I Build](https://www.reddit.com/r/selfhosted/comments/1ucbaxx/need_advice_before_i_build/)
 - 2026-06-22T05:15:52+00:00 — [Dockhand for Quadlets?](https://www.reddit.com/r/selfhosted/comments/1ucbkjt/dockhand_for_quadlets/)
@@ -100,11 +107,4 @@ Last update: 2026-06-22 13:23 UTC
 - 2026-06-13T06:11:44+00:00 — [Developers: Gitea's Workers (CI/CD pipeline) is magic](https://www.reddit.com/r/selfhosted/comments/1u4j4rp/developers_giteas_workers_cicd_pipeline_is_magic/)
 - 2026-06-12T05:16:32+00:00 — [Newbie here, what's a good method to remote desktop into my home server?](https://www.reddit.com/r/selfhosted/comments/1u3m3g6/newbie_here_whats_a_good_method_to_remote_desktop/)
 - 2026-06-12T16:14:42+00:00 — [My beginner Proxmox homelab built on recycled hardware](https://www.reddit.com/r/selfhosted/comments/1u3ztcx/my_beginner_proxmox_homelab_built_on_recycled/)
-- 2026-06-13T09:42:12+00:00 — [Sambee - browser-based file manager for SMB shares & local drives](https://www.reddit.com/r/selfhosted/comments/1u4mnsd/sambee_browserbased_file_manager_for_smb_shares/)
-- 2026-06-13T00:04:16+00:00 — [Wanting to share my Domains and have them SSL-certified as a EU-Union Citizen.](https://www.reddit.com/r/selfhosted/comments/1u4bvot/wanting_to_share_my_domains_and_have_them/)
-- Fri, 12 Jun 2026 10:51:36 +0000 — [Your TLS certificates will only last 47 days soon. Most teams have not done the math](https://dev.to/lukethomas_tw/your-tls-certificates-will-only-last-47-days-soon-most-teams-have-not-done-the-math-20ko)
-- 2026-06-11T17:39:42+00:00 — [If you're putting production on a Hostinger VPS, read how their CPU throttling actually works first](https://www.reddit.com/r/selfhosted/comments/1u35vi8/if_youre_putting_production_on_a_hostinger_vps/)
-- 2026-06-11T17:41:46+00:00 — [Meta: proposal to add karma and account age requirement for posts with penalties](https://www.reddit.com/r/selfhosted/comments/1u35xid/meta_proposal_to_add_karma_and_account_age/)
-- 2026-06-12T03:13:50+00:00 — [am I going to make my computer explode?](https://www.reddit.com/r/selfhosted/comments/1u3jqbj/am_i_going_to_make_my_computer_explode/)
-- 2026-06-12T08:20:57+00:00 — [Task management/todo software - but simple](https://www.reddit.com/r/selfhosted/comments/1u3pb7c/task_managementtodo_software_but_simple/)
 <!-- NEWS END -->
