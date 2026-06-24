@@ -2,14 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-23 10:51 UTC
+Last update: 2026-06-24 10:37 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 24 Jun 2026 10:06:20 +0000 — [12 Best Frameworks for Building AI Agents in 2026](https://dev.to/deepikarajawat/12-best-frameworks-for-building-ai-agents-in-2026-4g3e)
+- Wed, 24 Jun 2026 10:05:59 +0000 — [Docker Rootless Mode Security Hardening Checklist](https://dev.to/oleksandr_kuryzhev_42873f/docker-rootless-mode-security-hardening-checklist-197m)
+- Wed, 24 Jun 2026 10:03:34 +0000 — [How I Automated DigitalOcean Infrastructure with SuperPlane](https://dev.to/harsh2644/how-i-automated-digitalocean-infrastructure-with-superplane-2po)
+- 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
+- 2026-06-23T20:09:50+00:00 — [TREK: the self-hosted realtime trip planner I posted here 3 months ago, rewritten and a lot bigger now](https://www.reddit.com/r/selfhosted/comments/1uds1tp/trek_the_selfhosted_realtime_trip_planner_i/)
+- 2026-06-24T07:20:00+00:00 — [DuckDNS propagation time](https://www.reddit.com/r/selfhosted/comments/1ue6jxf/duckdns_propagation_time/)
+- 2026-06-23T21:54:35+00:00 — [How are you using Komodo?](https://www.reddit.com/r/selfhosted/comments/1udurmb/how_are_you_using_komodo/)
+- 2026-06-24T08:59:31+00:00 — [Audio Volume Normalization for Music Library with Jellyfin?](https://www.reddit.com/r/selfhosted/comments/1ue87cy/audio_volume_normalization_for_music_library_with/)
+- 2026-06-24T03:38:26+00:00 — [NISB – a self-hosted AI workspace where Rooms can become MCP capabilities [GitHub]](https://www.reddit.com/r/selfhosted/comments/1ue2hes/nisb_a_selfhosted_ai_workspace_where_rooms_can/)
 - Tue, 23 Jun 2026 10:40:54 +0000 — [Building Real-Time Voice AI Applications with LiveKit and FastAPI](https://dev.to/joshua-fields-dev/building-real-time-voice-ai-applications-with-livekit-and-fastapi-pae)
 - Tue, 23 Jun 2026 10:31:26 +0000 — [NexFlow: a common language for AI developer teams](https://dev.to/alexander_iwizard/nexflow-a-common-language-for-ai-developer-teams-3bjo)
-- 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
 - 2026-06-22T14:24:00+00:00 — [Docker Alternative: Podman on Linux](https://www.reddit.com/r/selfhosted/comments/1uclzo6/docker_alternative_podman_on_linux/)
 - 2026-06-23T02:29:07+00:00 — [Simple in-home camera stream?](https://www.reddit.com/r/selfhosted/comments/1ud4nl3/simple_inhome_camera_stream/)
 - 2026-06-23T03:05:58+00:00 — [Arcane docker management project detection issue](https://www.reddit.com/r/selfhosted/comments/1ud5fma/arcane_docker_management_project_detection_issue/)
@@ -99,12 +107,4 @@ Last update: 2026-06-23 10:51 UTC
 - 2026-06-14T08:13:25+00:00 — [Gonna start self hosting soon asking for tips.](https://www.reddit.com/r/selfhosted/comments/1u5fe9t/gonna_start_self_hosting_soon_asking_for_tips/)
 - 2026-06-14T10:30:51+00:00 — [I built Cura - a phone dashboard + SSH client to watch my homelab and VPS boxes (Android + iOS)](https://www.reddit.com/r/selfhosted/comments/1u5hn8k/i_built_cura_a_phone_dashboard_ssh_client_to/)
 - 2026-06-12T18:41:32+00:00 — [Pangolin 1.19: SSH, RDP, and VNC in the browser, simpler SSH setup, automatic site updates, and more](https://www.reddit.com/r/selfhosted/comments/1u43vz6/pangolin_119_ssh_rdp_and_vnc_in_the_browser/)
-- 2026-06-14T05:37:39+00:00 — [Suggestions what to self-host on my Intel NUC 5i5MYBE](https://www.reddit.com/r/selfhosted/comments/1u5cow8/suggestions_what_to_selfhost_on_my_intel_nuc/)
-- Sat, 13 Jun 2026 10:00:44 +0000 — [I almost gave up on my AI assistant — here’s how I fixed context handling](https://dev.to/__c1b9e06dc90a7e0a676b/i-almost-gave-up-on-my-ai-assistant-heres-how-i-fixed-context-handling-40gl)
-- 2026-06-12T16:39:44+00:00 — [Libre Closet v0.3 - 2x’d Performance](https://www.reddit.com/r/selfhosted/comments/1u40ith/libre_closet_v03_2xd_performance/)
-- 2026-06-12T15:58:27+00:00 — [Any monitoring solutions for tracking literally everything?](https://www.reddit.com/r/selfhosted/comments/1u3zc6m/any_monitoring_solutions_for_tracking_literally/)
-- 2026-06-12T13:44:35+00:00 — [Easy ways to sync ROM games and saves states across devices?](https://www.reddit.com/r/selfhosted/comments/1u3vp4m/easy_ways_to_sync_rom_games_and_saves_states/)
-- 2026-06-13T06:11:44+00:00 — [Developers: Gitea's Workers (CI/CD pipeline) is magic](https://www.reddit.com/r/selfhosted/comments/1u4j4rp/developers_giteas_workers_cicd_pipeline_is_magic/)
-- 2026-06-12T05:16:32+00:00 — [Newbie here, what's a good method to remote desktop into my home server?](https://www.reddit.com/r/selfhosted/comments/1u3m3g6/newbie_here_whats_a_good_method_to_remote_desktop/)
-- 2026-06-12T16:14:42+00:00 — [My beginner Proxmox homelab built on recycled hardware](https://www.reddit.com/r/selfhosted/comments/1u3ztcx/my_beginner_proxmox_homelab_built_on_recycled/)
 <!-- NEWS END -->
