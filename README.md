@@ -2,16 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-24 10:37 UTC
+Last update: 2026-06-25 10:31 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 25 Jun 2026 09:57:17 +0000 — [The AI Engineering Tools Landscape — Mid-2026](https://dev.to/agrawal_83a0b8e9e8b/every-ai-agent-tool-watches-none-of-them-act-harnessforge-changes-that-3190)
+- Thu, 25 Jun 2026 09:52:08 +0000 — [Introducing kreuzcrawl v0.3.0](https://dev.to/kreuzberg/introducing-kreuzcrawl-v030-8di)
+- 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
+- 2026-06-24T16:55:52+00:00 — [JobOps: a self-hosted job search cockpit for searching, tracking, and tailoring applications without auto-applying](https://www.reddit.com/r/selfhosted/comments/1uej3ql/jobops_a_selfhosted_job_search_cockpit_for/)
+- 2026-06-24T22:51:01+00:00 — [Cheap vps](https://www.reddit.com/r/selfhosted/comments/1uesndt/cheap_vps/)
+- 2026-06-25T08:07:48+00:00 — [How overkill is my personal network security-privacy focus?](https://www.reddit.com/r/selfhosted/comments/1uf3v8e/how_overkill_is_my_personal_network/)
+- 2026-06-23T20:09:50+00:00 — [TREK: the self-hosted realtime trip planner I posted here 3 months ago, rewritten and a lot bigger now](https://www.reddit.com/r/selfhosted/comments/1uds1tp/trek_the_selfhosted_realtime_trip_planner_i/)
+- 2026-06-24T16:49:47+00:00 — [PostgreSQL backup tool Databasus moved to PG 17 native incremental backups](https://www.reddit.com/r/selfhosted/comments/1ueixrq/postgresql_backup_tool_databasus_moved_to_pg_17/)
+- 2026-06-24T15:24:03+00:00 — [Looking to switch From Raspberry Pi 4 to Dedicated NAS Hardware](https://www.reddit.com/r/selfhosted/comments/1uegl40/looking_to_switch_from_raspberry_pi_4_to/)
+- 2026-06-24T11:34:00+00:00 — [Downloaders with yt-dlp AND gallery-dl support?](https://www.reddit.com/r/selfhosted/comments/1ueazjo/downloaders_with_ytdlp_and_gallerydl_support/)
 - Wed, 24 Jun 2026 10:06:20 +0000 — [12 Best Frameworks for Building AI Agents in 2026](https://dev.to/deepikarajawat/12-best-frameworks-for-building-ai-agents-in-2026-4g3e)
 - Wed, 24 Jun 2026 10:05:59 +0000 — [Docker Rootless Mode Security Hardening Checklist](https://dev.to/oleksandr_kuryzhev_42873f/docker-rootless-mode-security-hardening-checklist-197m)
 - Wed, 24 Jun 2026 10:03:34 +0000 — [How I Automated DigitalOcean Infrastructure with SuperPlane](https://dev.to/harsh2644/how-i-automated-digitalocean-infrastructure-with-superplane-2po)
-- 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
-- 2026-06-23T20:09:50+00:00 — [TREK: the self-hosted realtime trip planner I posted here 3 months ago, rewritten and a lot bigger now](https://www.reddit.com/r/selfhosted/comments/1uds1tp/trek_the_selfhosted_realtime_trip_planner_i/)
 - 2026-06-24T07:20:00+00:00 — [DuckDNS propagation time](https://www.reddit.com/r/selfhosted/comments/1ue6jxf/duckdns_propagation_time/)
 - 2026-06-23T21:54:35+00:00 — [How are you using Komodo?](https://www.reddit.com/r/selfhosted/comments/1udurmb/how_are_you_using_komodo/)
 - 2026-06-24T08:59:31+00:00 — [Audio Volume Normalization for Music Library with Jellyfin?](https://www.reddit.com/r/selfhosted/comments/1ue87cy/audio_volume_normalization_for_music_library_with/)
@@ -99,12 +107,4 @@ Last update: 2026-06-24 10:37 UTC
 - 2026-06-14T11:27:07+00:00 — [What next?](https://www.reddit.com/r/selfhosted/comments/1u5ing7/what_next/)
 - 2026-06-13T19:11:17+00:00 — [Koito v0.3.2 released! Refreshed UI and SQLite support](https://www.reddit.com/r/selfhosted/comments/1u4zf2x/koito_v032_released_refreshed_ui_and_sqlite/)
 - 2026-06-14T11:27:08+00:00 — [Dependency gluetun failed to start](https://www.reddit.com/r/selfhosted/comments/1u5ingf/dependency_gluetun_failed_to_start/)
-- Sun, 14 Jun 2026 10:22:52 +0000 — [I Built an AI System Design Coach — Clone It, Try It, Break It](https://dev.to/nithiin7/i-built-an-ai-system-design-coach-clone-it-try-it-break-it-1j4b)
-- Sun, 14 Jun 2026 10:19:39 +0000 — [A Docker Build Failure That Had Nothing to Do With Docker](https://dev.to/urmajesty516/a-docker-build-failure-that-had-nothing-to-do-with-docker-4o24)
-- Sun, 14 Jun 2026 10:18:26 +0000 — [Rebuilding Instagram in 2026](https://dev.to/codingjoe_dev/rebuilding-instagram-in-2026-3m00)
-- 2026-06-13T01:41:45+00:00 — [20 apps i actually run on my home server and which ones are worth it](https://www.reddit.com/r/selfhosted/comments/1u4dwms/20_apps_i_actually_run_on_my_home_server_and/)
-- 2026-06-14T06:16:19+00:00 — [I’m looking for opinions from people who run their stack on a laptop daily driver](https://www.reddit.com/r/selfhosted/comments/1u5de9a/im_looking_for_opinions_from_people_who_run_their/)
-- 2026-06-14T08:13:25+00:00 — [Gonna start self hosting soon asking for tips.](https://www.reddit.com/r/selfhosted/comments/1u5fe9t/gonna_start_self_hosting_soon_asking_for_tips/)
-- 2026-06-14T10:30:51+00:00 — [I built Cura - a phone dashboard + SSH client to watch my homelab and VPS boxes (Android + iOS)](https://www.reddit.com/r/selfhosted/comments/1u5hn8k/i_built_cura_a_phone_dashboard_ssh_client_to/)
-- 2026-06-12T18:41:32+00:00 — [Pangolin 1.19: SSH, RDP, and VNC in the browser, simpler SSH setup, automatic site updates, and more](https://www.reddit.com/r/selfhosted/comments/1u43vz6/pangolin_119_ssh_rdp_and_vnc_in_the_browser/)
 <!-- NEWS END -->
