@@ -2,15 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-25 10:31 UTC
+Last update: 2026-06-26 10:40 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 26 Jun 2026 10:19:35 +0000 — [Auth con JWT, RBAC y token blacklist sin pegar 5 librerías: Fitz vs FastAPI + python-jose + passlib + Redis + RBAC casero](https://dev.to/martin_palopoli/auth-con-jwt-rbac-y-token-blacklist-sin-pegar-5-librerias-fitz-vs-fastapi-python-jose-passlib-3e65)
+- Fri, 26 Jun 2026 10:19:17 +0000 — [JWT auth, RBAC, and token blacklist without gluing 5 libraries: Fitz vs FastAPI + python-jose + passlib + Redis + home-grown RBAC](https://dev.to/martin_palopoli/jwt-auth-rbac-and-token-blacklist-without-gluing-5-libraries-fitz-vs-fastapi-python-jose--32f9)
+- 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
+- 2026-06-26T09:33:39+00:00 — [Setting up ShLink with multiple domains.](https://www.reddit.com/r/selfhosted/comments/1ug20n8/setting_up_shlink_with_multiple_domains/)
+- 2026-06-25T18:18:15+00:00 — [My homelab projects and what it runs on](https://www.reddit.com/r/selfhosted/comments/1ufi0xb/my_homelab_projects_and_what_it_runs_on/)
+- 2026-06-26T04:51:20+00:00 — [Selfhosted VPN on my private network strictly for family and friends](https://www.reddit.com/r/selfhosted/comments/1ufx062/selfhosted_vpn_on_my_private_network_strictly_for/)
+- 2026-06-26T08:10:15+00:00 — [Can my Intel N95 mini PC handle this self-hosted stack?](https://www.reddit.com/r/selfhosted/comments/1ug0lp0/can_my_intel_n95_mini_pc_handle_this_selfhosted/)
+- 2026-06-25T19:23:26+00:00 — [Secret Storage Best Practices](https://www.reddit.com/r/selfhosted/comments/1ufju73/secret_storage_best_practices/)
+- 2026-06-24T16:55:52+00:00 — [JobOps: a self-hosted job search cockpit for searching, tracking, and tailoring applications without auto-applying](https://www.reddit.com/r/selfhosted/comments/1uej3ql/jobops_a_selfhosted_job_search_cockpit_for/)
 - Thu, 25 Jun 2026 09:57:17 +0000 — [The AI Engineering Tools Landscape — Mid-2026](https://dev.to/agrawal_83a0b8e9e8b/every-ai-agent-tool-watches-none-of-them-act-harnessforge-changes-that-3190)
 - Thu, 25 Jun 2026 09:52:08 +0000 — [Introducing kreuzcrawl v0.3.0](https://dev.to/kreuzberg/introducing-kreuzcrawl-v030-8di)
 - 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
-- 2026-06-24T16:55:52+00:00 — [JobOps: a self-hosted job search cockpit for searching, tracking, and tailoring applications without auto-applying](https://www.reddit.com/r/selfhosted/comments/1uej3ql/jobops_a_selfhosted_job_search_cockpit_for/)
 - 2026-06-24T22:51:01+00:00 — [Cheap vps](https://www.reddit.com/r/selfhosted/comments/1uesndt/cheap_vps/)
 - 2026-06-25T08:07:48+00:00 — [How overkill is my personal network security-privacy focus?](https://www.reddit.com/r/selfhosted/comments/1uf3v8e/how_overkill_is_my_personal_network/)
 - 2026-06-23T20:09:50+00:00 — [TREK: the self-hosted realtime trip planner I posted here 3 months ago, rewritten and a lot bigger now](https://www.reddit.com/r/selfhosted/comments/1uds1tp/trek_the_selfhosted_realtime_trip_planner_i/)
@@ -99,12 +107,4 @@ Last update: 2026-06-25 10:31 UTC
 - 2026-06-16T11:52:05+00:00 — [NZB failed: Access to the path '/data' is denied.](https://www.reddit.com/r/selfhosted/comments/1u7bbp9/nzb_failed_access_to_the_path_data_is_denied/)
 - 2026-06-15T07:20:19+00:00 — [Am I overcomplicating this? Single mini-PC Proxmox setup — what am I missing?](https://www.reddit.com/r/selfhosted/comments/1u69htl/am_i_overcomplicating_this_single_minipc_proxmox/)
 - 2026-06-15T11:47:43+00:00 — [PrintGuard 2.0 — a fully on-device 3D-print failure detector, with a browser-only mode and a Docker hub mode](https://www.reddit.com/r/selfhosted/comments/1u6e9vq/printguard_20_a_fully_ondevice_3dprint_failure/)
-- Mon, 15 Jun 2026 13:30:00 +0000 — [Top AI Agent Standards to Know in 2026](https://dev.to/ialijr/top-ai-agent-standards-to-know-in-2026-31gm)
-- Mon, 15 Jun 2026 13:14:44 +0000 — [The Production-Ready AI Agent Checklist (Updated For 2026)](https://dev.to/mrclaw207/the-production-ready-ai-agent-checklist-updated-for-2026-33cg)
-- 2026-06-14T23:55:09+00:00 — [Windows to Linux Help](https://www.reddit.com/r/selfhosted/comments/1u60ou4/windows_to_linux_help/)
-- 2026-06-15T07:57:28+00:00 — [Help for choosing right decision](https://www.reddit.com/r/selfhosted/comments/1u6a4kp/help_for_choosing_right_decision/)
-- 2026-06-14T23:13:44+00:00 — [Looking for light weight self hosted library manager with phone app for browsing and downloading the books while on my home network](https://www.reddit.com/r/selfhosted/comments/1u5zrv1/looking_for_light_weight_self_hosted_library/)
-- 2026-06-14T11:27:07+00:00 — [What next?](https://www.reddit.com/r/selfhosted/comments/1u5ing7/what_next/)
-- 2026-06-13T19:11:17+00:00 — [Koito v0.3.2 released! Refreshed UI and SQLite support](https://www.reddit.com/r/selfhosted/comments/1u4zf2x/koito_v032_released_refreshed_ui_and_sqlite/)
-- 2026-06-14T11:27:08+00:00 — [Dependency gluetun failed to start](https://www.reddit.com/r/selfhosted/comments/1u5ingf/dependency_gluetun_failed_to_start/)
 <!-- NEWS END -->
