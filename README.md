@@ -2,16 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-27 09:53 UTC
+Last update: 2026-06-28 10:18 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sat, 27 Jun 2026 09:42:47 +0000 — [VERCEL_EXPERIMENTAL_DEV_SKIP_LINK: Stop Dev Link Hangs](https://dev.to/mahdi_benrhouma_fe1c6005/vercelexperimentaldevskiplink-stop-dev-link-hangs-2lak)
+- Sun, 28 Jun 2026 10:13:44 +0000 — [V.E.L.O.C.I.T.Y.-OS: NDA – The Birth of an AI-Native Language (Part 2)](https://dev.to/unitbuilds_cc/velocity-os-nda-the-birth-of-an-ai-native-language-part-2-4o98)
+- Sun, 28 Jun 2026 09:57:22 +0000 — ["Building an HSK Speaking Test AI: Real-time Tone Grading with Gemini](https://dev.to/64johnlee/building-an-hsk-speaking-test-ai-real-time-tone-grading-with-gemini-5bca)
 - 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
+- 2026-06-28T05:54:03+00:00 — [postlab: a bare-metal server TUI | manage my server without leaving the terminal.](https://www.reddit.com/r/selfhosted/comments/1uhp3qq/postlab_a_baremetal_server_tui_manage_my_server/)
 - 2026-06-27T02:46:43+00:00 — [spent 2 hours troubleshooting my homelab to find that its because pangolin potentially paywalled a feature](https://www.reddit.com/r/selfhosted/comments/1ugquu8/spent_2_hours_troubleshooting_my_homelab_to_find/)
-- 2026-06-27T08:14:13+00:00 — [*TourGaze* – a self-hosted ride viewer that replays your GPS tracks with a drone/helicopter cam (and lets you race your past self)](https://www.reddit.com/r/selfhosted/comments/1ugwzby/tourgaze_a_selfhosted_ride_viewer_that_replays/)
 - 2026-06-27T08:26:08+00:00 — [FileFlows Version 26.06 (Stable) Released](https://www.reddit.com/r/selfhosted/comments/1ugx6bt/fileflows_version_2606_stable_released/)
+- 2026-06-27T08:14:13+00:00 — [*TourGaze* – a self-hosted ride viewer that replays your GPS tracks with a drone/helicopter cam (and lets you race your past self)](https://www.reddit.com/r/selfhosted/comments/1ugwzby/tourgaze_a_selfhosted_ride_viewer_that_replays/)
+- Sat, 27 Jun 2026 09:42:47 +0000 — [VERCEL_EXPERIMENTAL_DEV_SKIP_LINK: Stop Dev Link Hangs](https://dev.to/mahdi_benrhouma_fe1c6005/vercelexperimentaldevskiplink-stop-dev-link-hangs-2lak)
 - 2026-06-27T08:00:45+00:00 — [Recent graduate trying to self-host a portfolio site](https://www.reddit.com/r/selfhosted/comments/1ugwr4s/recent_graduate_trying_to_selfhost_a_portfolio/)
 - 2026-06-26T17:26:55+00:00 — [How do you deploy your apps? Any tools or plain docker or compose](https://www.reddit.com/r/selfhosted/comments/1ugd8h8/how_do_you_deploy_your_apps_any_tools_or_plain/)
 - 2026-06-27T09:26:40+00:00 — [Containers not picking up drives after power outage.](https://www.reddit.com/r/selfhosted/comments/1ugy6dx/containers_not_picking_up_drives_after_power/)
@@ -104,7 +107,4 @@ Last update: 2026-06-27 09:53 UTC
 - 2026-06-16T23:16:35+00:00 — [Looking for advice on reverse proxy and VLAN isolation](https://www.reddit.com/r/selfhosted/comments/1u7tg5w/looking_for_advice_on_reverse_proxy_and_vlan/)
 - 2026-06-16T05:28:12+00:00 — [Fluxer Selfhosting & Mobile Clients!](https://www.reddit.com/r/selfhosted/comments/1u74k1t/fluxer_selfhosting_mobile_clients/)
 - 2026-06-17T08:11:01+00:00 — [Questions from a noob, who wants to selfhost](https://www.reddit.com/r/selfhosted/comments/1u842nl/questions_from_a_noob_who_wants_to_selfhost/)
-- 2026-06-17T09:05:42+00:00 — [n8n vs Activepieces vs Kestra: I tested the top 3 open-source automation platforms](https://www.reddit.com/r/selfhosted/comments/1u84z46/n8n_vs_activepieces_vs_kestra_i_tested_the_top_3/)
-- 2026-06-16T06:07:34+00:00 — [Is preservation of liked music a good reason to self host??](https://www.reddit.com/r/selfhosted/comments/1u75959/is_preservation_of_liked_music_a_good_reason_to/)
-- 2026-06-17T07:20:45+00:00 — [Shared Webhost pannel](https://www.reddit.com/r/selfhosted/comments/1u838hk/shared_webhost_pannel/)
 <!-- NEWS END -->
