@@ -2,14 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-28 10:18 UTC
+Last update: 2026-06-29 12:20 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 25 Jun 2026 13:37:52 +0000 — [Federating Clusters for Zero-Downtime Kubernetes](https://linkerd.io/2026/06/24/federating-clusters-for-zero-downtime-kubernetes/index.html)
+- Mon, 29 Jun 2026 12:12:27 +0000 — [CAPE - Collaborative Agents Prompt Engineering](https://dev.to/watilde/cape-collaborative-agents-prompt-engineering-8hi)
+- Mon, 29 Jun 2026 12:12:15 +0000 — [My drift detector knew a security group changed — not that it was dangerous, or who opened it](https://dev.to/hitoshi1964/my-drift-detector-knew-a-security-group-changed-not-that-it-was-dangerous-or-who-opened-it-3phi)
+- Mon, 29 Jun 2026 12:08:46 +0000 — [The State of Infrastructure Dependency Tooling in 2026](https://dev.to/danielwe/the-state-of-infrastructure-dependency-tooling-in-2026-1fib)
+- 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
+- 2026-06-28T19:50:13+00:00 — [Finally built my own self-hosted media ecosystem after less than a year of learning.](https://www.reddit.com/r/selfhosted/comments/1ui6vqk/finally_built_my_own_selfhosted_media_ecosystem/)
+- 2026-06-29T07:58:38+00:00 — [Tribute to a careful use of AI](https://www.reddit.com/r/selfhosted/comments/1uim44v/tribute_to_a_careful_use_of_ai/)
+- 2026-06-28T22:50:06+00:00 — [My self-hosted setup: 10" rack at home + Hetzner AX-102, site-to-site, WireGuard-only, and ~930 firewall rules](https://www.reddit.com/r/selfhosted/comments/1uib9u0/my_selfhosted_setup_10_rack_at_home_hetzner_ax102/)
+- 2026-06-29T09:52:26+00:00 — [Adding a self-hosted option to my local-first Android/Desktop app. Which path should I take?](https://www.reddit.com/r/selfhosted/comments/1uio14x/adding_a_selfhosted_option_to_my_localfirst/)
+- 2026-06-29T08:06:24+00:00 — [I did a comparison of EasyRunner vs Dokku vs Dokploy vs Coolify](https://www.reddit.com/r/selfhosted/comments/1uim8w5/i_did_a_comparison_of_easyrunner_vs_dokku_vs/)
+- 2026-06-29T09:23:27+00:00 — [How are you handling YouTube audio extraction](https://www.reddit.com/r/selfhosted/comments/1uinjdu/how_are_you_handling_youtube_audio_extraction/)
+- 2026-06-29T08:44:53+00:00 — [Self-hosting my deployment platform for 6 months — what do you actually miss from managed PaaS?](https://www.reddit.com/r/selfhosted/comments/1uimw47/selfhosting_my_deployment_platform_for_6_months/)
 - Sun, 28 Jun 2026 10:13:44 +0000 — [V.E.L.O.C.I.T.Y.-OS: NDA – The Birth of an AI-Native Language (Part 2)](https://dev.to/unitbuilds_cc/velocity-os-nda-the-birth-of-an-ai-native-language-part-2-4o98)
 - Sun, 28 Jun 2026 09:57:22 +0000 — ["Building an HSK Speaking Test AI: Real-time Tone Grading with Gemini](https://dev.to/64johnlee/building-an-hsk-speaking-test-ai-real-time-tone-grading-with-gemini-5bca)
-- 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
 - 2026-06-28T05:54:03+00:00 — [postlab: a bare-metal server TUI | manage my server without leaving the terminal.](https://www.reddit.com/r/selfhosted/comments/1uhp3qq/postlab_a_baremetal_server_tui_manage_my_server/)
 - 2026-06-27T02:46:43+00:00 — [spent 2 hours troubleshooting my homelab to find that its because pangolin potentially paywalled a feature](https://www.reddit.com/r/selfhosted/comments/1ugquu8/spent_2_hours_troubleshooting_my_homelab_to_find/)
 - 2026-06-27T08:26:08+00:00 — [FileFlows Version 26.06 (Stable) Released](https://www.reddit.com/r/selfhosted/comments/1ugx6bt/fileflows_version_2606_stable_released/)
@@ -96,15 +107,4 @@ Last update: 2026-06-28 10:18 UTC
 - 2026-06-17T16:46:19+00:00 — [Memtly v1.0.4 (Formerly WeddingShare)](https://www.reddit.com/r/selfhosted/comments/1u8fjhv/memtly_v104_formerly_weddingshare/)
 - 2026-06-17T17:50:21+00:00 — [Offline chat server recommendations](https://www.reddit.com/r/selfhosted/comments/1u8ha83/offline_chat_server_recommendations/)
 - 2026-06-17T21:38:25+00:00 — [What are some good practices for protecting from supply chain attacks or other hardening strategies?](https://www.reddit.com/r/selfhosted/comments/1u8nh97/what_are_some_good_practices_for_protecting_from/)
-- 2026-06-17T01:15:59+00:00 — [Best services for self hosted stack.](https://www.reddit.com/r/selfhosted/comments/1u7w4r4/best_services_for_self_hosted_stack/)
-- 2026-06-18T08:34:53+00:00 — [Autentico: a single-binary OAuth2/OIDC Identity Provider backed by SQLite](https://www.reddit.com/r/selfhosted/comments/1u90p7u/autentico_a_singlebinary_oauth2oidc_identity/)
-- Wed, 17 Jun 2026 18:20:06 +0000 — [Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world](https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/)
-- Wed, 17 Jun 2026 12:00:40 +0000 — [OpenTelemetry in Next.js: traces that survive the edge/server boundary without losing context](https://dev.to/jtorchia/opentelemetry-in-nextjs-traces-that-survive-the-edgeserver-boundary-without-losing-context-3d09)
-- Wed, 17 Jun 2026 12:00:35 +0000 — [OpenTelemetry en Next.js: traces que sobreviven el edge y el servidor sin perder el contexto](https://dev.to/jtorchia/opentelemetry-en-nextjs-traces-que-sobreviven-el-edge-y-el-servidor-sin-perder-el-contexto-4fkj)
-- 2026-06-17T05:41:39+00:00 — [How do you secure/connect to Prometheus endpoints, including remote ones?](https://www.reddit.com/r/selfhosted/comments/1u81i2x/how_do_you_secureconnect_to_prometheus_endpoints/)
-- 2026-06-17T08:32:48+00:00 — [I built a self-hosted update server for desktop apps and server binaries (Electron/Tauri/Squirrel or any custom updater) - plus an edge cache so update checks don't hammer the API](https://www.reddit.com/r/selfhosted/comments/1u84fs1/i_built_a_selfhosted_update_server_for_desktop/)
-- 2026-06-17T11:57:08+00:00 — [Standard Swappiness (60) vs 10 on a low-RAM (8GB) Home Server?](https://www.reddit.com/r/selfhosted/comments/1u884jn/standard_swappiness_60_vs_10_on_a_lowram_8gb_home/)
-- 2026-06-16T23:16:35+00:00 — [Looking for advice on reverse proxy and VLAN isolation](https://www.reddit.com/r/selfhosted/comments/1u7tg5w/looking_for_advice_on_reverse_proxy_and_vlan/)
-- 2026-06-16T05:28:12+00:00 — [Fluxer Selfhosting & Mobile Clients!](https://www.reddit.com/r/selfhosted/comments/1u74k1t/fluxer_selfhosting_mobile_clients/)
-- 2026-06-17T08:11:01+00:00 — [Questions from a noob, who wants to selfhost](https://www.reddit.com/r/selfhosted/comments/1u842nl/questions_from_a_noob_who_wants_to_selfhost/)
 <!-- NEWS END -->
