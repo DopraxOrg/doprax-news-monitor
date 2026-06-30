@@ -2,18 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-29 12:20 UTC
+Last update: 2026-06-30 10:46 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 30 Jun 2026 10:28:54 +0000 — [Tracing, métricas Prometheus y logs estructurados con dos decoradores: Fitz vs el setup de OpenTelemetry en FastAPI](https://dev.to/martin_palopoli/tracing-metricas-prometheus-y-logs-estructurados-con-dos-decoradores-fitz-vs-el-setup-de-4143)
+- Tue, 30 Jun 2026 10:28:39 +0000 — [Tracing, Prometheus metrics, and structured logs with two decorators: Fitz vs the OpenTelemetry setup in FastAPI](https://dev.to/martin_palopoli/tracing-prometheus-metrics-and-structured-logs-with-two-decorators-fitz-vs-the-opentelemetry-3ldk)
+- Tue, 30 Jun 2026 10:25:28 +0000 — [The Hidden Architecture of the Agentic Enterprise: Model Stack, Tokenomics, and Harness](https://dev.to/sarony11/the-hidden-architecture-of-the-agentic-enterprise-model-stack-tokenomics-and-harness-384k)
+- Tue, 30 Jun 2026 10:23:47 +0000 — [Check your IP, ASN, and VPN/proxy leaks from the terminal with curl (no signup, no key)](https://dev.to/codelong888/check-your-ip-asn-and-vpnproxy-leaks-from-the-terminal-with-curl-no-signup-no-key-53lb)
+- Tue, 30 Jun 2026 10:19:47 +0000 — [I Tested 7 Self-Hosted AI Project Tracking Tools - Here's What Actually Works](https://dev.to/danielbrooks1980/i-tested-7-self-hosted-ai-project-tracking-tools-heres-what-actually-works-2ei8)
+- 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
+- 2026-06-29T17:00:28+00:00 — [Public reminder: Protect your apps. My unprotected qBittorrent instance ended up running a cryptominer.](https://www.reddit.com/r/selfhosted/comments/1uiy979/public_reminder_protect_your_apps_my_unprotected/)
+- 2026-06-30T10:06:43+00:00 — [qBittorrent UnionFS with local storage and remote storage via SFTP](https://www.reddit.com/r/selfhosted/comments/1ujl11x/qbittorrent_unionfs_with_local_storage_and_remote/)
+- 2026-06-30T00:55:09+00:00 — [How to setup bridge between host and wg-easy container so that host server can reach peers?](https://www.reddit.com/r/selfhosted/comments/1ujajsu/how_to_setup_bridge_between_host_and_wgeasy/)
+- 2026-06-30T08:08:10+00:00 — [Raspberry pi 5 Usenet streaming](https://www.reddit.com/r/selfhosted/comments/1ujj1e9/raspberry_pi_5_usenet_streaming/)
+- 2026-06-29T15:29:38+00:00 — [Plex Lifetime or setup Jellyfin with reverse proxy](https://www.reddit.com/r/selfhosted/comments/1uivq7z/plex_lifetime_or_setup_jellyfin_with_reverse_proxy/)
+- 2026-06-30T07:06:42+00:00 — [Learning service in Docker](https://www.reddit.com/r/selfhosted/comments/1ujhzbv/learning_service_in_docker/)
+- 2026-06-29T07:58:38+00:00 — [Tribute to a careful use of AI](https://www.reddit.com/r/selfhosted/comments/1uim44v/tribute_to_a_careful_use_of_ai/)
+- 2026-06-29T13:08:22+00:00 — [Sencho v0.93.0 Update: Exploit intelligence (KEV + EPSS), UI/UX Improvements...](https://www.reddit.com/r/selfhosted/comments/1uis1oj/sencho_v0930_update_exploit_intelligence_kev_epss/)
+- 2026-06-28T19:50:13+00:00 — [Finally built my own self-hosted media ecosystem after less than a year of learning.](https://www.reddit.com/r/selfhosted/comments/1ui6vqk/finally_built_my_own_selfhosted_media_ecosystem/)
 - Thu, 25 Jun 2026 13:37:52 +0000 — [Federating Clusters for Zero-Downtime Kubernetes](https://linkerd.io/2026/06/24/federating-clusters-for-zero-downtime-kubernetes/index.html)
 - Mon, 29 Jun 2026 12:12:27 +0000 — [CAPE - Collaborative Agents Prompt Engineering](https://dev.to/watilde/cape-collaborative-agents-prompt-engineering-8hi)
 - Mon, 29 Jun 2026 12:12:15 +0000 — [My drift detector knew a security group changed — not that it was dangerous, or who opened it](https://dev.to/hitoshi1964/my-drift-detector-knew-a-security-group-changed-not-that-it-was-dangerous-or-who-opened-it-3phi)
 - Mon, 29 Jun 2026 12:08:46 +0000 — [The State of Infrastructure Dependency Tooling in 2026](https://dev.to/danielwe/the-state-of-infrastructure-dependency-tooling-in-2026-1fib)
-- 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
-- 2026-06-28T19:50:13+00:00 — [Finally built my own self-hosted media ecosystem after less than a year of learning.](https://www.reddit.com/r/selfhosted/comments/1ui6vqk/finally_built_my_own_selfhosted_media_ecosystem/)
-- 2026-06-29T07:58:38+00:00 — [Tribute to a careful use of AI](https://www.reddit.com/r/selfhosted/comments/1uim44v/tribute_to_a_careful_use_of_ai/)
 - 2026-06-28T22:50:06+00:00 — [My self-hosted setup: 10" rack at home + Hetzner AX-102, site-to-site, WireGuard-only, and ~930 firewall rules](https://www.reddit.com/r/selfhosted/comments/1uib9u0/my_selfhosted_setup_10_rack_at_home_hetzner_ax102/)
 - 2026-06-29T09:52:26+00:00 — [Adding a self-hosted option to my local-first Android/Desktop app. Which path should I take?](https://www.reddit.com/r/selfhosted/comments/1uio14x/adding_a_selfhosted_option_to_my_localfirst/)
 - 2026-06-29T08:06:24+00:00 — [I did a comparison of EasyRunner vs Dokku vs Dokploy vs Coolify](https://www.reddit.com/r/selfhosted/comments/1uim8w5/i_did_a_comparison_of_easyrunner_vs_dokku_vs/)
@@ -95,16 +107,4 @@ Last update: 2026-06-29 12:20 UTC
 - 2026-06-18T19:28:15+00:00 — [Is there a good docker Weather-app to be found out in the wild?](https://www.reddit.com/r/selfhosted/comments/1u9fvs8/is_there_a_good_docker_weatherapp_to_be_found_out/)
 - 2026-06-18T09:48:55+00:00 — [YAMLResume v0.13 update: new docx engine! Write resumes in yaml and generate to markdown/html/pdf/docx in one shot!](https://www.reddit.com/r/selfhosted/comments/1u91x14/yamlresume_v013_update_new_docx_engine_write/)
 - 2026-06-18T07:28:43+00:00 — [Sometimes docker system prune surprises me](https://www.reddit.com/r/selfhosted/comments/1u8zmej/sometimes_docker_system_prune_surprises_me/)
-- 2026-06-19T08:35:13+00:00 — [[Release] SuggestArr Now Supports Trakt integration!](https://www.reddit.com/r/selfhosted/comments/1u9wf71/release_suggestarr_now_supports_trakt_integration/)
-- 2026-06-19T03:32:10+00:00 — [Considering Proxmox (Noob)](https://www.reddit.com/r/selfhosted/comments/1u9qz8s/considering_proxmox_noob/)
-- 2026-06-19T01:44:28+00:00 — [Alloy/Loki/Minio S3 issue](https://www.reddit.com/r/selfhosted/comments/1u9orvm/alloylokiminio_s3_issue/)
-- Thu, 18 Jun 2026 11:29:21 +0000 — [Unlock Kafka Schemas with Karapace: A Hands-On Guide](https://dev.to/zeliotofficial/unlock-kafka-schemas-with-karapace-a-hands-on-guide-4kp6)
-- 2026-06-11T22:01:07+00:00 — [New Project Megathread - Week of 11 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u3cvwq/new_project_megathread_week_of_11_jun_2026/)
-- 2026-06-17T21:06:11+00:00 — [Self hosting a personal website](https://www.reddit.com/r/selfhosted/comments/1u8mmtf/self_hosting_a_personal_website/)
-- 2026-06-18T05:21:02+00:00 — [Looking for CasaOS alternatives](https://www.reddit.com/r/selfhosted/comments/1u8xfa2/looking_for_casaos_alternatives/)
-- 2026-06-17T21:31:06+00:00 — [OOTT - Rust based network scanner and notification service](https://www.reddit.com/r/selfhosted/comments/1u8nad5/oott_rust_based_network_scanner_and_notification/)
-- 2026-06-18T06:59:26+00:00 — [Running a public Redlib instance: Cloudflare Tunnel, Traefik, Anubis, HLS cache pitfalls, and status/maintenance setup](https://www.reddit.com/r/selfhosted/comments/1u8z4k7/running_a_public_redlib_instance_cloudflare/)
-- 2026-06-17T16:46:19+00:00 — [Memtly v1.0.4 (Formerly WeddingShare)](https://www.reddit.com/r/selfhosted/comments/1u8fjhv/memtly_v104_formerly_weddingshare/)
-- 2026-06-17T17:50:21+00:00 — [Offline chat server recommendations](https://www.reddit.com/r/selfhosted/comments/1u8ha83/offline_chat_server_recommendations/)
-- 2026-06-17T21:38:25+00:00 — [What are some good practices for protecting from supply chain attacks or other hardening strategies?](https://www.reddit.com/r/selfhosted/comments/1u8nh97/what_are_some_good_practices_for_protecting_from/)
 <!-- NEWS END -->
