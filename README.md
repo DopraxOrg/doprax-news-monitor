@@ -2,18 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-06-30 10:46 UTC
+Last update: 2026-07-01 10:59 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 30 Jun 2026 20:48:36 +0000 — [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
+- Wed, 01 Jul 2026 10:32:43 +0000 — [How to selectively route traffic over openVPN on Openwrt](https://dev.to/mfat/how-to-use-openvpn-as-socks-proxy-on-openwrt-5d8c)
+- 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
+- 2026-06-30T23:46:38+00:00 — [PulseWeaver — closed-door forward-auth for self-hosters (block unknown IPs before they reach your apps' login pages)](https://www.reddit.com/r/selfhosted/comments/1uk5lc3/pulseweaver_closeddoor_forwardauth_for/)
+- 2026-07-01T09:42:25+00:00 — [First homelab build done, any tips?](https://www.reddit.com/r/selfhosted/comments/1ukh1n3/first_homelab_build_done_any_tips/)
+- 2026-07-01T08:46:36+00:00 — [Can't connect to Qbittorrent webUI anymore - *arrstack](https://www.reddit.com/r/selfhosted/comments/1ukg493/cant_connect_to_qbittorrent_webui_anymore_arrstack/)
+- 2026-06-30T19:01:14+00:00 — [Self-hosted Minecraft server panel with Modrinth mod search built in](https://www.reddit.com/r/selfhosted/comments/1ujy8dm/selfhosted_minecraft_server_panel_with_modrinth/)
+- 2026-06-29T17:00:28+00:00 — [Public reminder: Protect your apps. My unprotected qBittorrent instance ended up running a cryptominer.](https://www.reddit.com/r/selfhosted/comments/1uiy979/public_reminder_protect_your_apps_my_unprotected/)
+- 2026-06-30T19:11:54+00:00 — [Hetzner/Traefik/Headscale/Tailscale/Nginx/Docker/VMs/Proxmox - phew, am I doing it right?](https://www.reddit.com/r/selfhosted/comments/1ujyj7y/hetznertraefikheadscaletailscalenginxdockervmsprox/)
 - Tue, 30 Jun 2026 10:28:54 +0000 — [Tracing, métricas Prometheus y logs estructurados con dos decoradores: Fitz vs el setup de OpenTelemetry en FastAPI](https://dev.to/martin_palopoli/tracing-metricas-prometheus-y-logs-estructurados-con-dos-decoradores-fitz-vs-el-setup-de-4143)
 - Tue, 30 Jun 2026 10:28:39 +0000 — [Tracing, Prometheus metrics, and structured logs with two decorators: Fitz vs the OpenTelemetry setup in FastAPI](https://dev.to/martin_palopoli/tracing-prometheus-metrics-and-structured-logs-with-two-decorators-fitz-vs-the-opentelemetry-3ldk)
 - Tue, 30 Jun 2026 10:25:28 +0000 — [The Hidden Architecture of the Agentic Enterprise: Model Stack, Tokenomics, and Harness](https://dev.to/sarony11/the-hidden-architecture-of-the-agentic-enterprise-model-stack-tokenomics-and-harness-384k)
 - Tue, 30 Jun 2026 10:23:47 +0000 — [Check your IP, ASN, and VPN/proxy leaks from the terminal with curl (no signup, no key)](https://dev.to/codelong888/check-your-ip-asn-and-vpnproxy-leaks-from-the-terminal-with-curl-no-signup-no-key-53lb)
 - Tue, 30 Jun 2026 10:19:47 +0000 — [I Tested 7 Self-Hosted AI Project Tracking Tools - Here's What Actually Works](https://dev.to/danielbrooks1980/i-tested-7-self-hosted-ai-project-tracking-tools-heres-what-actually-works-2ei8)
-- 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
-- 2026-06-29T17:00:28+00:00 — [Public reminder: Protect your apps. My unprotected qBittorrent instance ended up running a cryptominer.](https://www.reddit.com/r/selfhosted/comments/1uiy979/public_reminder_protect_your_apps_my_unprotected/)
 - 2026-06-30T10:06:43+00:00 — [qBittorrent UnionFS with local storage and remote storage via SFTP](https://www.reddit.com/r/selfhosted/comments/1ujl11x/qbittorrent_unionfs_with_local_storage_and_remote/)
 - 2026-06-30T00:55:09+00:00 — [How to setup bridge between host and wg-easy container so that host server can reach peers?](https://www.reddit.com/r/selfhosted/comments/1ujajsu/how_to_setup_bridge_between_host_and_wgeasy/)
 - 2026-06-30T08:08:10+00:00 — [Raspberry pi 5 Usenet streaming](https://www.reddit.com/r/selfhosted/comments/1ujj1e9/raspberry_pi_5_usenet_streaming/)
@@ -100,11 +107,4 @@ Last update: 2026-06-30 10:46 UTC
 - 2026-06-18T19:12:31+00:00 — [Running a Mac as home server and couldn't be happier. Power efficient, fast, small. Roast me!](https://www.reddit.com/r/selfhosted/comments/1u9fgo1/running_a_mac_as_home_server_and_couldnt_be/)
 - 2026-06-19T07:01:49+00:00 — [I'm disappointed with the Spotify music discovery alternatives I've tried so far.](https://www.reddit.com/r/selfhosted/comments/1u9uvn5/im_disappointed_with_the_spotify_music_discovery/)
 - 2026-06-19T16:02:36+00:00 — [[Update] DashCord v1.4.0 - Headless Discord UI bridge (Dropdowns, Embeds, and Modals)](https://www.reddit.com/r/selfhosted/comments/1ua5xjs/update_dashcord_v140_headless_discord_ui_bridge/)
-- 2026-06-19T15:23:03+00:00 — [Full Rustdesk seft hosting?](https://www.reddit.com/r/selfhosted/comments/1ua4wdq/full_rustdesk_seft_hosting/)
-- 2026-06-19T18:46:04+00:00 — [PlikShare v1.2.0 - back from a long break with SSO, quick shares, galleries and an MCP server](https://www.reddit.com/r/selfhosted/comments/1uaa8tx/plikshare_v120_back_from_a_long_break_with_sso/)
-- 2026-06-18T20:43:45+00:00 — [How do you all deal with IPv6 at home?](https://www.reddit.com/r/selfhosted/comments/1u9hv00/how_do_you_all_deal_with_ipv6_at_home/)
-- 2026-06-19T06:57:41+00:00 — [Bazarr-sync 0.7 is here](https://www.reddit.com/r/selfhosted/comments/1u9usu3/bazarrsync_07_is_here/)
-- 2026-06-18T19:28:15+00:00 — [Is there a good docker Weather-app to be found out in the wild?](https://www.reddit.com/r/selfhosted/comments/1u9fvs8/is_there_a_good_docker_weatherapp_to_be_found_out/)
-- 2026-06-18T09:48:55+00:00 — [YAMLResume v0.13 update: new docx engine! Write resumes in yaml and generate to markdown/html/pdf/docx in one shot!](https://www.reddit.com/r/selfhosted/comments/1u91x14/yamlresume_v013_update_new_docx_engine_write/)
-- 2026-06-18T07:28:43+00:00 — [Sometimes docker system prune surprises me](https://www.reddit.com/r/selfhosted/comments/1u8zmej/sometimes_docker_system_prune_surprises_me/)
 <!-- NEWS END -->
