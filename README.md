@@ -2,14 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-01 10:59 UTC
+Last update: 2026-07-02 10:25 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 02 Jul 2026 09:59:26 +0000 — [Choosing an EU-Hosted Inference Provider: A 2026 Comparison](https://dev.to/valeria_bernhardt_c9473b7/choosing-an-eu-hosted-inference-provider-a-2026-comparison-5d5h)
+- Thu, 02 Jul 2026 09:48:48 +0000 — [How to Automate OG Image Generation for Your Blog Using a Screenshot API](https://dev.to/webmox/how-to-automate-og-image-generation-for-your-blog-using-a-screenshot-api-3o30)
+- 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
+- 2026-07-01T13:20:49+00:00 — [GeoPulse - selfhosted alternative to Google Timeline - big updates](https://www.reddit.com/r/selfhosted/comments/1ukljop/geopulse_selfhosted_alternative_to_google/)
+- 2026-07-02T04:58:58+00:00 — [Question regarding IPv6 change](https://www.reddit.com/r/selfhosted/comments/1ul8o50/question_regarding_ipv6_change/)
+- 2026-07-02T08:10:26+00:00 — [Facet - local, open-source photo scoring/culling engine with a web gallery (no cloud, MIT license)](https://www.reddit.com/r/selfhosted/comments/1ulc2ej/facet_local_opensource_photo_scoringculling/)
+- 2026-07-01T20:57:38+00:00 — [Open port behind CGNAT without VPN or tailscale or wireguard](https://www.reddit.com/r/selfhosted/comments/1ukxv4o/open_port_behind_cgnat_without_vpn_or_tailscale/)
+- 2026-07-02T09:13:47+00:00 — [AreaWP — A Docker-Based Panel for Agencies to sell and monetize WordPress Sites (WaaS/SaaS)](https://www.reddit.com/r/selfhosted/comments/1uld4t0/areawp_a_dockerbased_panel_for_agencies_to_sell/)
+- 2026-07-01T23:45:56+00:00 — [Self Hosting CUCM on unRAID](https://www.reddit.com/r/selfhosted/comments/1ul21in/self_hosting_cucm_on_unraid/)
+- 2026-07-01T17:35:40+00:00 — [Looking for a personal self-hosted app that tracks BOTH work hours/shifts and subscription costs? (Or a sleek 2-app combo)](https://www.reddit.com/r/selfhosted/comments/1uksd4u/looking_for_a_personal_selfhosted_app_that_tracks/)
+- 2026-07-01T12:08:07+00:00 — [Bare metal server](https://www.reddit.com/r/selfhosted/comments/1ukjtw3/bare_metal_server/)
+- 2026-07-01T13:18:02+00:00 — [Scanopy now builds four network topology views from one scan (L2/L3/workloads/apps)!](https://www.reddit.com/r/selfhosted/comments/1uklh5f/scanopy_now_builds_four_network_topology_views/)
 - Tue, 30 Jun 2026 20:48:36 +0000 — [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 - Wed, 01 Jul 2026 10:32:43 +0000 — [How to selectively route traffic over openVPN on Openwrt](https://dev.to/mfat/how-to-use-openvpn-as-socks-proxy-on-openwrt-5d8c)
-- 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
 - 2026-06-30T23:46:38+00:00 — [PulseWeaver — closed-door forward-auth for self-hosters (block unknown IPs before they reach your apps' login pages)](https://www.reddit.com/r/selfhosted/comments/1uk5lc3/pulseweaver_closeddoor_forwardauth_for/)
 - 2026-07-01T09:42:25+00:00 — [First homelab build done, any tips?](https://www.reddit.com/r/selfhosted/comments/1ukh1n3/first_homelab_build_done_any_tips/)
 - 2026-07-01T08:46:36+00:00 — [Can't connect to Qbittorrent webUI anymore - *arrstack](https://www.reddit.com/r/selfhosted/comments/1ukg493/cant_connect_to_qbittorrent_webui_anymore_arrstack/)
@@ -96,15 +107,4 @@ Last update: 2026-07-01 10:59 UTC
 - Sun, 21 Jun 2026 10:17:25 +0000 — [API Design for AI: Streaming, Structured Output, and Rate Limits](https://dev.to/uaslimcreate/api-design-for-ai-streaming-structured-output-and-rate-limits-16pa)
 - Sun, 21 Jun 2026 10:15:26 +0000 — [OpenTofu State in MinIO: An S3-Compatible Backend for IaC](https://dev.to/futhgar/opentofu-state-in-minio-an-s3-compatible-backend-for-iac-155l)
 - 2026-06-21T05:39:09+00:00 — [How do you expose your Proxmox VE (via a reverse proxy, etc.)?](https://www.reddit.com/r/selfhosted/comments/1ubhu4m/how_do_you_expose_your_proxmox_ve_via_a_reverse/)
-- 2026-06-20T19:07:21+00:00 — [Tandoor vs mealie?](https://www.reddit.com/r/selfhosted/comments/1ub4psz/tandoor_vs_mealie/)
-- 2026-06-20T11:36:37+00:00 — [Looking for Spotify alternatives that work on mobile, Linux, and preferably also web](https://www.reddit.com/r/selfhosted/comments/1uauegd/looking_for_spotify_alternatives_that_work_on/)
-- 2026-06-20T19:07:34+00:00 — [Jellyfin with Docker and Tailscale Assistance](https://www.reddit.com/r/selfhosted/comments/1ub4q03/jellyfin_with_docker_and_tailscale_assistance/)
-- 2026-06-19T23:17:18+00:00 — [Sencho v0.92.0: Security Upgrades, Mobile Improvements and Fleet Enhancements Released.](https://www.reddit.com/r/selfhosted/comments/1uagtj5/sencho_v0920_security_upgrades_mobile/)
-- 2026-06-20T21:04:17+00:00 — [Homelab Disconnecting Wifi Devices](https://www.reddit.com/r/selfhosted/comments/1ub7ht9/homelab_disconnecting_wifi_devices/)
-- 2026-06-20T20:28:48+00:00 — [Expose Docker socket on network with encryption](https://www.reddit.com/r/selfhosted/comments/1ub6o2c/expose_docker_socket_on_network_with_encryption/)
-- 2026-06-21T04:06:16+00:00 — [HELP: Download FreshRSS](https://www.reddit.com/r/selfhosted/comments/1ubg61h/help_download_freshrss/)
-- Fri, 19 Jun 2026 01:01:00 +0000 — [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
-- 2026-06-18T19:12:31+00:00 — [Running a Mac as home server and couldn't be happier. Power efficient, fast, small. Roast me!](https://www.reddit.com/r/selfhosted/comments/1u9fgo1/running_a_mac_as_home_server_and_couldnt_be/)
-- 2026-06-19T07:01:49+00:00 — [I'm disappointed with the Spotify music discovery alternatives I've tried so far.](https://www.reddit.com/r/selfhosted/comments/1u9uvn5/im_disappointed_with_the_spotify_music_discovery/)
-- 2026-06-19T16:02:36+00:00 — [[Update] DashCord v1.4.0 - Headless Discord UI bridge (Dropdowns, Embeds, and Modals)](https://www.reddit.com/r/selfhosted/comments/1ua5xjs/update_dashcord_v140_headless_discord_ui_bridge/)
 <!-- NEWS END -->
