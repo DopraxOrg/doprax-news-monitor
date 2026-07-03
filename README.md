@@ -2,17 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-02 10:25 UTC
+Last update: 2026-07-03 10:23 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 03 Jul 2026 10:10:26 +0000 — [Cómo construir un agente de IA con LangChain.js y NestJS: tutorial completo](https://dev.to/adriancolom/como-construir-un-agente-de-ia-con-langchainjs-y-nestjs-tutorial-completo-f6p)
+- 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
+- 2026-07-02T19:40:43+00:00 — [Replace YouTube Premium](https://www.reddit.com/r/selfhosted/comments/1ulsc3m/replace_youtube_premium/)
+- 2026-07-02T14:58:33+00:00 — [What’s the best self-hosted knowledge base for a small company?](https://www.reddit.com/r/selfhosted/comments/1ulkm5e/whats_the_best_selfhosted_knowledge_base_for_a/)
+- 2026-07-03T09:00:57+00:00 — [Ai providers in self hosted solutions](https://www.reddit.com/r/selfhosted/comments/1um97vz/ai_providers_in_self_hosted_solutions/)
+- 2026-07-02T10:57:52+00:00 — [What's the leanest OS for multipurpose?](https://www.reddit.com/r/selfhosted/comments/1ulezh3/whats_the_leanest_os_for_multipurpose/)
+- 2026-07-03T02:19:47+00:00 — [Jellyfin buffering](https://www.reddit.com/r/selfhosted/comments/1um1qfx/jellyfin_buffering/)
+- 2026-07-02T08:10:26+00:00 — [Facet - local, open-source photo scoring/culling engine with a web gallery (no cloud, MIT license)](https://www.reddit.com/r/selfhosted/comments/1ulc2ej/facet_local_opensource_photo_scoringculling/)
+- 2026-07-01T13:20:49+00:00 — [GeoPulse - selfhosted alternative to Google Timeline - big updates](https://www.reddit.com/r/selfhosted/comments/1ukljop/geopulse_selfhosted_alternative_to_google/)
 - Thu, 02 Jul 2026 09:59:26 +0000 — [Choosing an EU-Hosted Inference Provider: A 2026 Comparison](https://dev.to/valeria_bernhardt_c9473b7/choosing-an-eu-hosted-inference-provider-a-2026-comparison-5d5h)
 - Thu, 02 Jul 2026 09:48:48 +0000 — [How to Automate OG Image Generation for Your Blog Using a Screenshot API](https://dev.to/webmox/how-to-automate-og-image-generation-for-your-blog-using-a-screenshot-api-3o30)
 - 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
-- 2026-07-01T13:20:49+00:00 — [GeoPulse - selfhosted alternative to Google Timeline - big updates](https://www.reddit.com/r/selfhosted/comments/1ukljop/geopulse_selfhosted_alternative_to_google/)
 - 2026-07-02T04:58:58+00:00 — [Question regarding IPv6 change](https://www.reddit.com/r/selfhosted/comments/1ul8o50/question_regarding_ipv6_change/)
-- 2026-07-02T08:10:26+00:00 — [Facet - local, open-source photo scoring/culling engine with a web gallery (no cloud, MIT license)](https://www.reddit.com/r/selfhosted/comments/1ulc2ej/facet_local_opensource_photo_scoringculling/)
 - 2026-07-01T20:57:38+00:00 — [Open port behind CGNAT without VPN or tailscale or wireguard](https://www.reddit.com/r/selfhosted/comments/1ukxv4o/open_port_behind_cgnat_without_vpn_or_tailscale/)
 - 2026-07-02T09:13:47+00:00 — [AreaWP — A Docker-Based Panel for Agencies to sell and monetize WordPress Sites (WaaS/SaaS)](https://www.reddit.com/r/selfhosted/comments/1uld4t0/areawp_a_dockerbased_panel_for_agencies_to_sell/)
 - 2026-07-01T23:45:56+00:00 — [Self Hosting CUCM on unRAID](https://www.reddit.com/r/selfhosted/comments/1ul21in/self_hosting_cucm_on_unraid/)
@@ -100,11 +107,4 @@ Last update: 2026-07-02 10:25 UTC
 - 2026-06-21T23:05:19+00:00 — [Switching/switching from Tailscale to Headscale or Wireguard on Synology NAS?](https://www.reddit.com/r/selfhosted/comments/1uc3zp0/switchingswitching_from_tailscale_to_headscale_or/)
 - 2026-06-22T11:50:52+00:00 — [SparkyFitness Google Health Integration issues](https://www.reddit.com/r/selfhosted/comments/1ucifbo/sparkyfitness_google_health_integration_issues/)
 - 2026-06-21T17:36:23+00:00 — [How to learn/try out Kubernetes on a homelab?](https://www.reddit.com/r/selfhosted/comments/1ubw2q2/how_to_learntry_out_kubernetes_on_a_homelab/)
-- 2026-06-22T04:33:01+00:00 — [Is it possible for anyone to help me troubleshoot soulsync?](https://www.reddit.com/r/selfhosted/comments/1ucas73/is_it_possible_for_anyone_to_help_me_troubleshoot/)
-- 2026-06-21T14:08:49+00:00 — [Automatizing my server setup](https://www.reddit.com/r/selfhosted/comments/1ubr0cw/automatizing_my_server_setup/)
-- Sun, 21 Jun 2026 10:35:18 +0000 — [Mastering the Art of LLM Prompting: A Developer's Guide to Getting Better Answers from AI](https://dev.to/samchenreviews/mastering-the-art-of-llm-prompting-a-developers-guide-to-getting-better-answers-from-ai-36k5)
-- Sun, 21 Jun 2026 10:23:46 +0000 — [Generate Invoice PDFs from HTML in 10 Lines of Code](https://dev.to/mahiuddinalkamal/generate-invoice-pdfs-from-html-in-10-lines-of-code-57o2)
-- Sun, 21 Jun 2026 10:17:25 +0000 — [API Design for AI: Streaming, Structured Output, and Rate Limits](https://dev.to/uaslimcreate/api-design-for-ai-streaming-structured-output-and-rate-limits-16pa)
-- Sun, 21 Jun 2026 10:15:26 +0000 — [OpenTofu State in MinIO: An S3-Compatible Backend for IaC](https://dev.to/futhgar/opentofu-state-in-minio-an-s3-compatible-backend-for-iac-155l)
-- 2026-06-21T05:39:09+00:00 — [How do you expose your Proxmox VE (via a reverse proxy, etc.)?](https://www.reddit.com/r/selfhosted/comments/1ubhu4m/how_do_you_expose_your_proxmox_ve_via_a_reverse/)
 <!-- NEWS END -->
