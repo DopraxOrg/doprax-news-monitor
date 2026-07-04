@@ -2,16 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-03 10:23 UTC
+Last update: 2026-07-04 09:56 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Fri, 03 Jul 2026 10:10:26 +0000 — [Cómo construir un agente de IA con LangChain.js y NestJS: tutorial completo](https://dev.to/adriancolom/como-construir-un-agente-de-ia-con-langchainjs-y-nestjs-tutorial-completo-f6p)
+- Sat, 04 Jul 2026 09:43:52 +0000 — [Deploying Agents: Containers, Orchestration, and Scaling the Loop](https://dev.to/gabrielanhaia/deploying-agents-containers-orchestration-and-scaling-the-loop-44go)
+- Sat, 04 Jul 2026 09:36:17 +0000 — [Picking an Agent Framework in 2026: An Honest Verdict on Six of Them](https://dev.to/gabrielanhaia/picking-an-agent-framework-in-2026-an-honest-verdict-on-six-of-them-1a6h)
+- Sat, 04 Jul 2026 09:35:13 +0000 — [Pydantic AI: Typed, Testable Agents for Engineers Who Like Guarantees](https://dev.to/gabrielanhaia/pydantic-ai-typed-testable-agents-for-engineers-who-like-guarantees-2cim)
 - 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
+- 2026-07-04T08:09:37+00:00 — [up time kuma needs firewall Open on 53,80,443?](https://www.reddit.com/r/selfhosted/comments/1un3cvv/up_time_kuma_needs_firewall_open_on_5380443/)
+- 2026-07-04T08:04:10+00:00 — [Help! Beszel Podman agent connected, host metrics work, but Podman containers on Bazzite don’t show up](https://www.reddit.com/r/selfhosted/comments/1un39lk/help_beszel_podman_agent_connected_host_metrics/)
+- 2026-07-03T12:14:05+00:00 — [Pangolin appreciation post to expose selfhosted stack at new CGNAT ISP](https://www.reddit.com/r/selfhosted/comments/1umcu4c/pangolin_appreciation_post_to_expose_selfhosted/)
 - 2026-07-02T19:40:43+00:00 — [Replace YouTube Premium](https://www.reddit.com/r/selfhosted/comments/1ulsc3m/replace_youtube_premium/)
-- 2026-07-02T14:58:33+00:00 — [What’s the best self-hosted knowledge base for a small company?](https://www.reddit.com/r/selfhosted/comments/1ulkm5e/whats_the_best_selfhosted_knowledge_base_for_a/)
+- 2026-07-03T19:11:04+00:00 — [Porkbun requires ID verification, are there any other registrars that are not big tech, reliable and don't require ID verification?](https://www.reddit.com/r/selfhosted/comments/1umnaqp/porkbun_requires_id_verification_are_there_any/)
+- 2026-07-03T17:23:11+00:00 — [MiniPC + K3s - Hosting K8s Labs for friends. Suggestions Appreciated](https://www.reddit.com/r/selfhosted/comments/1umkixe/minipc_k3s_hosting_k8s_labs_for_friends/)
+- 2026-07-03T22:03:41+00:00 — [Always need more fans!](https://www.reddit.com/r/selfhosted/comments/1umrih8/always_need_more_fans/)
+- 2026-07-03T19:32:33+00:00 — [Issue with DuckDNS on OMV + Docker + Jellyfin Compose Setup](https://www.reddit.com/r/selfhosted/comments/1umntzq/issue_with_duckdns_on_omv_docker_jellyfin_compose/)
 - 2026-07-03T09:00:57+00:00 — [Ai providers in self hosted solutions](https://www.reddit.com/r/selfhosted/comments/1um97vz/ai_providers_in_self_hosted_solutions/)
+- Fri, 03 Jul 2026 10:10:26 +0000 — [Cómo construir un agente de IA con LangChain.js y NestJS: tutorial completo](https://dev.to/adriancolom/como-construir-un-agente-de-ia-con-langchainjs-y-nestjs-tutorial-completo-f6p)
+- 2026-07-02T14:58:33+00:00 — [What’s the best self-hosted knowledge base for a small company?](https://www.reddit.com/r/selfhosted/comments/1ulkm5e/whats_the_best_selfhosted_knowledge_base_for_a/)
 - 2026-07-02T10:57:52+00:00 — [What's the leanest OS for multipurpose?](https://www.reddit.com/r/selfhosted/comments/1ulezh3/whats_the_leanest_os_for_multipurpose/)
 - 2026-07-03T02:19:47+00:00 — [Jellyfin buffering](https://www.reddit.com/r/selfhosted/comments/1um1qfx/jellyfin_buffering/)
 - 2026-07-02T08:10:26+00:00 — [Facet - local, open-source photo scoring/culling engine with a web gallery (no cloud, MIT license)](https://www.reddit.com/r/selfhosted/comments/1ulc2ej/facet_local_opensource_photo_scoringculling/)
@@ -97,14 +107,4 @@ Last update: 2026-07-03 10:23 UTC
 - 2026-06-22T14:24:00+00:00 — [Docker Alternative: Podman on Linux](https://www.reddit.com/r/selfhosted/comments/1uclzo6/docker_alternative_podman_on_linux/)
 - 2026-06-23T02:29:07+00:00 — [Simple in-home camera stream?](https://www.reddit.com/r/selfhosted/comments/1ud4nl3/simple_inhome_camera_stream/)
 - 2026-06-23T03:05:58+00:00 — [Arcane docker management project detection issue](https://www.reddit.com/r/selfhosted/comments/1ud5fma/arcane_docker_management_project_detection_issue/)
-- 2026-06-22T23:26:45+00:00 — [Best way to back up Unraid services to Raspberry Pis](https://www.reddit.com/r/selfhosted/comments/1ud0krc/best_way_to_back_up_unraid_services_to_raspberry/)
-- 2026-06-23T00:47:18+00:00 — [Need help: stable VPS in the US for self-hosted Docker stack (Postgres + API)?](https://www.reddit.com/r/selfhosted/comments/1ud2f36/need_help_stable_vps_in_the_us_for_selfhosted/)
-- Mon, 22 Jun 2026 13:14:00 +0000 — [6 Months of Running a Production Voice AI — What Changed, What Broke, What We'd Rebuild](https://dev.to/autor_tech/6-months-of-running-a-production-voice-ai-what-changed-what-broke-what-wed-rebuild-5621)
-- Mon, 22 Jun 2026 13:12:58 +0000 — [Building a Secure, Self-Hosted Trading Infrastructure from Scratch](https://dev.to/patexone_richarde/building-a-secure-self-hosted-trading-infrastructure-from-scratch-3gad)
-- 2026-06-21T19:33:10+00:00 — [TapMap 1.8.0 released](https://www.reddit.com/r/selfhosted/comments/1ubyzs1/tapmap_180_released/)
-- 2026-06-22T05:01:27+00:00 — [Need Advice before I Build](https://www.reddit.com/r/selfhosted/comments/1ucbaxx/need_advice_before_i_build/)
-- 2026-06-22T05:15:52+00:00 — [Dockhand for Quadlets?](https://www.reddit.com/r/selfhosted/comments/1ucbkjt/dockhand_for_quadlets/)
-- 2026-06-21T23:05:19+00:00 — [Switching/switching from Tailscale to Headscale or Wireguard on Synology NAS?](https://www.reddit.com/r/selfhosted/comments/1uc3zp0/switchingswitching_from_tailscale_to_headscale_or/)
-- 2026-06-22T11:50:52+00:00 — [SparkyFitness Google Health Integration issues](https://www.reddit.com/r/selfhosted/comments/1ucifbo/sparkyfitness_google_health_integration_issues/)
-- 2026-06-21T17:36:23+00:00 — [How to learn/try out Kubernetes on a homelab?](https://www.reddit.com/r/selfhosted/comments/1ubw2q2/how_to_learntry_out_kubernetes_on_a_homelab/)
 <!-- NEWS END -->
