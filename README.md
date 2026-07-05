@@ -2,15 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-04 09:56 UTC
+Last update: 2026-07-05 10:00 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 05 Jul 2026 09:35:36 +0000 — [Cron jobs and schedulers with BullMQ](https://dev.to/zsevic/cron-jobs-and-schedulers-with-bullmq-405a)
+- 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
+- 2026-07-05T02:46:10+00:00 — [Self Hosted Manga/Comics Downloader](https://www.reddit.com/r/selfhosted/comments/1unqvc4/self_hosted_mangacomics_downloader/)
+- 2026-07-05T08:31:58+00:00 — [Starting my homelab by writing the handbook before the cluster](https://www.reddit.com/r/selfhosted/comments/1unwvkc/starting_my_homelab_by_writing_the_handbook/)
+- 2026-07-05T09:08:54+00:00 — [How are you guys sandboxing local-first voice terminals from sensitive smart home entities?](https://www.reddit.com/r/selfhosted/comments/1unxh4h/how_are_you_guys_sandboxing_localfirst_voice/)
+- 2026-07-05T08:37:50+00:00 — [Best "easy" self hosted solutions/managers in 2026?](https://www.reddit.com/r/selfhosted/comments/1unwyua/best_easy_self_hosted_solutionsmanagers_in_2026/)
+- 2026-07-05T06:39:36+00:00 — [Best docker + iOS music server](https://www.reddit.com/r/selfhosted/comments/1unuzsd/best_docker_ios_music_server/)
+- 2026-07-05T08:12:24+00:00 — [Music Stack Advice](https://www.reddit.com/r/selfhosted/comments/1unwjut/music_stack_advice/)
+- 2026-07-05T03:07:37+00:00 — [Jellyfin, Nginx and Cloudflare running in Docker, Connection Refused Issue](https://www.reddit.com/r/selfhosted/comments/1unr9d8/jellyfin_nginx_and_cloudflare_running_in_docker/)
+- 2026-07-05T09:13:42+00:00 — [I replaced Mapbox, Nominatim, and Apple Maps with a self-hosted map stack for ~€16/mo](https://www.reddit.com/r/selfhosted/comments/1unxjwn/i_replaced_mapbox_nominatim_and_apple_maps_with_a/)
 - Sat, 04 Jul 2026 09:43:52 +0000 — [Deploying Agents: Containers, Orchestration, and Scaling the Loop](https://dev.to/gabrielanhaia/deploying-agents-containers-orchestration-and-scaling-the-loop-44go)
 - Sat, 04 Jul 2026 09:36:17 +0000 — [Picking an Agent Framework in 2026: An Honest Verdict on Six of Them](https://dev.to/gabrielanhaia/picking-an-agent-framework-in-2026-an-honest-verdict-on-six-of-them-1a6h)
 - Sat, 04 Jul 2026 09:35:13 +0000 — [Pydantic AI: Typed, Testable Agents for Engineers Who Like Guarantees](https://dev.to/gabrielanhaia/pydantic-ai-typed-testable-agents-for-engineers-who-like-guarantees-2cim)
-- 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
 - 2026-07-04T08:09:37+00:00 — [up time kuma needs firewall Open on 53,80,443?](https://www.reddit.com/r/selfhosted/comments/1un3cvv/up_time_kuma_needs_firewall_open_on_5380443/)
 - 2026-07-04T08:04:10+00:00 — [Help! Beszel Podman agent connected, host metrics work, but Podman containers on Bazzite don’t show up](https://www.reddit.com/r/selfhosted/comments/1un39lk/help_beszel_podman_agent_connected_host_metrics/)
 - 2026-07-03T12:14:05+00:00 — [Pangolin appreciation post to expose selfhosted stack at new CGNAT ISP](https://www.reddit.com/r/selfhosted/comments/1umcu4c/pangolin_appreciation_post_to_expose_selfhosted/)
@@ -98,13 +107,4 @@ Last update: 2026-07-04 09:56 UTC
 - Wed, 24 Jun 2026 10:06:20 +0000 — [12 Best Frameworks for Building AI Agents in 2026](https://dev.to/deepikarajawat/12-best-frameworks-for-building-ai-agents-in-2026-4g3e)
 - Wed, 24 Jun 2026 10:05:59 +0000 — [Docker Rootless Mode Security Hardening Checklist](https://dev.to/oleksandr_kuryzhev_42873f/docker-rootless-mode-security-hardening-checklist-197m)
 - Wed, 24 Jun 2026 10:03:34 +0000 — [How I Automated DigitalOcean Infrastructure with SuperPlane](https://dev.to/harsh2644/how-i-automated-digitalocean-infrastructure-with-superplane-2po)
-- 2026-06-24T07:20:00+00:00 — [DuckDNS propagation time](https://www.reddit.com/r/selfhosted/comments/1ue6jxf/duckdns_propagation_time/)
-- 2026-06-23T21:54:35+00:00 — [How are you using Komodo?](https://www.reddit.com/r/selfhosted/comments/1udurmb/how_are_you_using_komodo/)
-- 2026-06-24T08:59:31+00:00 — [Audio Volume Normalization for Music Library with Jellyfin?](https://www.reddit.com/r/selfhosted/comments/1ue87cy/audio_volume_normalization_for_music_library_with/)
-- 2026-06-24T03:38:26+00:00 — [NISB – a self-hosted AI workspace where Rooms can become MCP capabilities [GitHub]](https://www.reddit.com/r/selfhosted/comments/1ue2hes/nisb_a_selfhosted_ai_workspace_where_rooms_can/)
-- Tue, 23 Jun 2026 10:40:54 +0000 — [Building Real-Time Voice AI Applications with LiveKit and FastAPI](https://dev.to/joshua-fields-dev/building-real-time-voice-ai-applications-with-livekit-and-fastapi-pae)
-- Tue, 23 Jun 2026 10:31:26 +0000 — [NexFlow: a common language for AI developer teams](https://dev.to/alexander_iwizard/nexflow-a-common-language-for-ai-developer-teams-3bjo)
-- 2026-06-22T14:24:00+00:00 — [Docker Alternative: Podman on Linux](https://www.reddit.com/r/selfhosted/comments/1uclzo6/docker_alternative_podman_on_linux/)
-- 2026-06-23T02:29:07+00:00 — [Simple in-home camera stream?](https://www.reddit.com/r/selfhosted/comments/1ud4nl3/simple_inhome_camera_stream/)
-- 2026-06-23T03:05:58+00:00 — [Arcane docker management project detection issue](https://www.reddit.com/r/selfhosted/comments/1ud5fma/arcane_docker_management_project_detection_issue/)
 <!-- NEWS END -->
