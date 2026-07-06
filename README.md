@@ -2,15 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-05 10:00 UTC
+Last update: 2026-07-06 11:51 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sun, 05 Jul 2026 09:35:36 +0000 — [Cron jobs and schedulers with BullMQ](https://dev.to/zsevic/cron-jobs-and-schedulers-with-bullmq-405a)
+- Mon, 06 Jul 2026 11:45:30 +0000 — [The Performance Illusion](https://dev.to/ezmu/the-performance-illusion-m9i)
+- Mon, 06 Jul 2026 11:42:59 +0000 — [Onboard OpenClaw agents with IdentyClaw Passport: A2A, webhooks, and multi-tenant collaboration](https://dev.to/discernible-io/onboard-openclaw-agents-with-identyclaw-passport-a2a-webhooks-and-multi-tenant-collaboration-3i4k)
 - 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
-- 2026-07-05T02:46:10+00:00 — [Self Hosted Manga/Comics Downloader](https://www.reddit.com/r/selfhosted/comments/1unqvc4/self_hosted_mangacomics_downloader/)
+- 2026-07-05T17:30:10+00:00 — [Im going to China, could I use my home PC/Server as a VPN to Bypass the Great Firewall?](https://www.reddit.com/r/selfhosted/comments/1uo83d8/im_going_to_china_could_i_use_my_home_pcserver_as/)
+- 2026-07-05T17:42:54+00:00 — [Papra v26.6.0 - AI auto-tagging, external document content extraction, and more!](https://www.reddit.com/r/selfhosted/comments/1uo8esb/papra_v2660_ai_autotagging_external_document/)
 - 2026-07-05T08:31:58+00:00 — [Starting my homelab by writing the handbook before the cluster](https://www.reddit.com/r/selfhosted/comments/1unwvkc/starting_my_homelab_by_writing_the_handbook/)
+- 2026-07-06T05:38:52+00:00 — [Jellyfin + arr stack run on Proxmox or NAS](https://www.reddit.com/r/selfhosted/comments/1uoogix/jellyfin_arr_stack_run_on_proxmox_or_nas/)
+- 2026-07-05T02:46:10+00:00 — [Self Hosted Manga/Comics Downloader](https://www.reddit.com/r/selfhosted/comments/1unqvc4/self_hosted_mangacomics_downloader/)
+- 2026-07-05T15:56:09+00:00 — [Portabase now supports Docker volume backup and restore](https://www.reddit.com/r/selfhosted/comments/1uo5pwd/portabase_now_supports_docker_volume_backup_and/)
+- 2026-07-06T09:05:27+00:00 — [Opinion on possible future project i could be developing](https://www.reddit.com/r/selfhosted/comments/1uos02l/opinion_on_possible_future_project_i_could_be/)
+- 2026-07-05T20:41:38+00:00 — [Reticle - The infrastructure diagram you can operate.](https://www.reddit.com/r/selfhosted/comments/1uocww3/reticle_the_infrastructure_diagram_you_can_operate/)
+- Sun, 05 Jul 2026 09:35:36 +0000 — [Cron jobs and schedulers with BullMQ](https://dev.to/zsevic/cron-jobs-and-schedulers-with-bullmq-405a)
 - 2026-07-05T09:08:54+00:00 — [How are you guys sandboxing local-first voice terminals from sensitive smart home entities?](https://www.reddit.com/r/selfhosted/comments/1unxh4h/how_are_you_guys_sandboxing_localfirst_voice/)
 - 2026-07-05T08:37:50+00:00 — [Best "easy" self hosted solutions/managers in 2026?](https://www.reddit.com/r/selfhosted/comments/1unwyua/best_easy_self_hosted_solutionsmanagers_in_2026/)
 - 2026-07-05T06:39:36+00:00 — [Best docker + iOS music server](https://www.reddit.com/r/selfhosted/comments/1unuzsd/best_docker_ios_music_server/)
@@ -99,12 +107,4 @@ Last update: 2026-07-05 10:00 UTC
 - Thu, 25 Jun 2026 09:52:08 +0000 — [Introducing kreuzcrawl v0.3.0](https://dev.to/kreuzberg/introducing-kreuzcrawl-v030-8di)
 - 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
 - 2026-06-24T22:51:01+00:00 — [Cheap vps](https://www.reddit.com/r/selfhosted/comments/1uesndt/cheap_vps/)
-- 2026-06-25T08:07:48+00:00 — [How overkill is my personal network security-privacy focus?](https://www.reddit.com/r/selfhosted/comments/1uf3v8e/how_overkill_is_my_personal_network/)
-- 2026-06-23T20:09:50+00:00 — [TREK: the self-hosted realtime trip planner I posted here 3 months ago, rewritten and a lot bigger now](https://www.reddit.com/r/selfhosted/comments/1uds1tp/trek_the_selfhosted_realtime_trip_planner_i/)
-- 2026-06-24T16:49:47+00:00 — [PostgreSQL backup tool Databasus moved to PG 17 native incremental backups](https://www.reddit.com/r/selfhosted/comments/1ueixrq/postgresql_backup_tool_databasus_moved_to_pg_17/)
-- 2026-06-24T15:24:03+00:00 — [Looking to switch From Raspberry Pi 4 to Dedicated NAS Hardware](https://www.reddit.com/r/selfhosted/comments/1uegl40/looking_to_switch_from_raspberry_pi_4_to/)
-- 2026-06-24T11:34:00+00:00 — [Downloaders with yt-dlp AND gallery-dl support?](https://www.reddit.com/r/selfhosted/comments/1ueazjo/downloaders_with_ytdlp_and_gallerydl_support/)
-- Wed, 24 Jun 2026 10:06:20 +0000 — [12 Best Frameworks for Building AI Agents in 2026](https://dev.to/deepikarajawat/12-best-frameworks-for-building-ai-agents-in-2026-4g3e)
-- Wed, 24 Jun 2026 10:05:59 +0000 — [Docker Rootless Mode Security Hardening Checklist](https://dev.to/oleksandr_kuryzhev_42873f/docker-rootless-mode-security-hardening-checklist-197m)
-- Wed, 24 Jun 2026 10:03:34 +0000 — [How I Automated DigitalOcean Infrastructure with SuperPlane](https://dev.to/harsh2644/how-i-automated-digitalocean-infrastructure-with-superplane-2po)
 <!-- NEWS END -->
