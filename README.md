@@ -2,15 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-06 11:51 UTC
+Last update: 2026-07-07 10:42 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
+- 2026-07-07T03:03:21+00:00 — [RelayTV – self-hosted "cast any link to the TV" runtime with an HTTP API, Home Assistant integration, and a built-in Jellyfin client (Docker, GPL-3.0)](https://www.reddit.com/r/selfhosted/comments/1upiu39/relaytv_selfhosted_cast_any_link_to_the_tv/)
+- 2026-07-07T09:07:44+00:00 — [Wireguard vs Cloudflare tunnel? (for my case)](https://www.reddit.com/r/selfhosted/comments/1uppmfr/wireguard_vs_cloudflare_tunnel_for_my_case/)
+- 2026-07-06T20:50:29+00:00 — [I Selfhosted Vaultwarden on Amazon Echo Show 5 (2nd gen) via LineageOS 18.1 [Jailbroken]](https://www.reddit.com/r/selfhosted/comments/1up9slw/i_selfhosted_vaultwarden_on_amazon_echo_show_5/)
+- 2026-07-06T19:31:08+00:00 — [Showing my appreciation for this community!](https://www.reddit.com/r/selfhosted/comments/1up7mm5/showing_my_appreciation_for_this_community/)
+- 2026-07-06T16:59:29+00:00 — [ISO Simple IPAM Tool](https://www.reddit.com/r/selfhosted/comments/1up38b4/iso_simple_ipam_tool/)
+- 2026-07-07T02:26:04+00:00 — [Need recommendations fo proxmox backup from lvmthin to either borg/restic/something else?](https://www.reddit.com/r/selfhosted/comments/1upi0jy/need_recommendations_fo_proxmox_backup_from/)
+- 2026-07-05T17:30:10+00:00 — [Im going to China, could I use my home PC/Server as a VPN to Bypass the Great Firewall?](https://www.reddit.com/r/selfhosted/comments/1uo83d8/im_going_to_china_could_i_use_my_home_pcserver_as/)
+- 2026-07-07T09:33:08+00:00 — [AreaWP — A Docker-Based Panel for Agencies to sell and monetize WordPress Sites (WaaS/SaaS)](https://www.reddit.com/r/selfhosted/comments/1upq2dq/areawp_a_dockerbased_panel_for_agencies_to_sell/)
+- 2026-07-06T14:35:01+00:00 — [Looking for a self-hosted wiki for my homelab](https://www.reddit.com/r/selfhosted/comments/1uoz4m9/looking_for_a_selfhosted_wiki_for_my_homelab/)
 - Mon, 06 Jul 2026 11:45:30 +0000 — [The Performance Illusion](https://dev.to/ezmu/the-performance-illusion-m9i)
 - Mon, 06 Jul 2026 11:42:59 +0000 — [Onboard OpenClaw agents with IdentyClaw Passport: A2A, webhooks, and multi-tenant collaboration](https://dev.to/discernible-io/onboard-openclaw-agents-with-identyclaw-passport-a2a-webhooks-and-multi-tenant-collaboration-3i4k)
-- 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
-- 2026-07-05T17:30:10+00:00 — [Im going to China, could I use my home PC/Server as a VPN to Bypass the Great Firewall?](https://www.reddit.com/r/selfhosted/comments/1uo83d8/im_going_to_china_could_i_use_my_home_pcserver_as/)
 - 2026-07-05T17:42:54+00:00 — [Papra v26.6.0 - AI auto-tagging, external document content extraction, and more!](https://www.reddit.com/r/selfhosted/comments/1uo8esb/papra_v2660_ai_autotagging_external_document/)
 - 2026-07-05T08:31:58+00:00 — [Starting my homelab by writing the handbook before the cluster](https://www.reddit.com/r/selfhosted/comments/1unwvkc/starting_my_homelab_by_writing_the_handbook/)
 - 2026-07-06T05:38:52+00:00 — [Jellyfin + arr stack run on Proxmox or NAS](https://www.reddit.com/r/selfhosted/comments/1uoogix/jellyfin_arr_stack_run_on_proxmox_or_nas/)
@@ -99,12 +107,4 @@ Last update: 2026-07-06 11:51 UTC
 - Fri, 26 Jun 2026 10:19:17 +0000 — [JWT auth, RBAC, and token blacklist without gluing 5 libraries: Fitz vs FastAPI + python-jose + passlib + Redis + home-grown RBAC](https://dev.to/martin_palopoli/jwt-auth-rbac-and-token-blacklist-without-gluing-5-libraries-fitz-vs-fastapi-python-jose--32f9)
 - 2026-06-26T09:33:39+00:00 — [Setting up ShLink with multiple domains.](https://www.reddit.com/r/selfhosted/comments/1ug20n8/setting_up_shlink_with_multiple_domains/)
 - 2026-06-25T18:18:15+00:00 — [My homelab projects and what it runs on](https://www.reddit.com/r/selfhosted/comments/1ufi0xb/my_homelab_projects_and_what_it_runs_on/)
-- 2026-06-26T04:51:20+00:00 — [Selfhosted VPN on my private network strictly for family and friends](https://www.reddit.com/r/selfhosted/comments/1ufx062/selfhosted_vpn_on_my_private_network_strictly_for/)
-- 2026-06-26T08:10:15+00:00 — [Can my Intel N95 mini PC handle this self-hosted stack?](https://www.reddit.com/r/selfhosted/comments/1ug0lp0/can_my_intel_n95_mini_pc_handle_this_selfhosted/)
-- 2026-06-25T19:23:26+00:00 — [Secret Storage Best Practices](https://www.reddit.com/r/selfhosted/comments/1ufju73/secret_storage_best_practices/)
-- 2026-06-24T16:55:52+00:00 — [JobOps: a self-hosted job search cockpit for searching, tracking, and tailoring applications without auto-applying](https://www.reddit.com/r/selfhosted/comments/1uej3ql/jobops_a_selfhosted_job_search_cockpit_for/)
-- Thu, 25 Jun 2026 09:57:17 +0000 — [The AI Engineering Tools Landscape — Mid-2026](https://dev.to/agrawal_83a0b8e9e8b/every-ai-agent-tool-watches-none-of-them-act-harnessforge-changes-that-3190)
-- Thu, 25 Jun 2026 09:52:08 +0000 — [Introducing kreuzcrawl v0.3.0](https://dev.to/kreuzberg/introducing-kreuzcrawl-v030-8di)
-- 2026-06-18T22:01:05+00:00 — [New Project Megathread - Week of 18 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1u9jtvm/new_project_megathread_week_of_18_jun_2026/)
-- 2026-06-24T22:51:01+00:00 — [Cheap vps](https://www.reddit.com/r/selfhosted/comments/1uesndt/cheap_vps/)
 <!-- NEWS END -->
