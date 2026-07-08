@@ -2,12 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-07 10:42 UTC
+Last update: 2026-07-08 10:03 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 08 Jul 2026 09:53:10 +0000 — [3 Key Advantages of Cloudflare Tunnel for Self-Hosted Services](https://dev.to/merbayerp/3-key-advantages-of-cloudflare-tunnel-for-self-hosted-services-41lo)
+- Wed, 08 Jul 2026 09:50:22 +0000 — [Install Docker on Ubuntu: APT, Snap, Rootless — Complete Guide 2026](https://dev.to/rosgluk/install-docker-on-ubuntu-apt-snap-rootless-complete-guide-2026-4g35)
+- Wed, 08 Jul 2026 09:45:17 +0000 — [Local LLM Setup with Ollama: Keep Your Data Secure](https://dev.to/merbayerp/local-llm-setup-with-ollama-keep-your-data-secure-3fpf)
+- Wed, 08 Jul 2026 09:41:47 +0000 — [Debezium vs Managed CDC: How to Actually Decide Between Build and Buy](https://dev.to/techsourabh/debezium-vs-managed-cdc-how-to-actually-decide-between-build-and-buy-35oc)
 - 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
+- 2026-07-08T04:01:39+00:00 — [Is this normal? Docker images taking up too much memory over time](https://www.reddit.com/r/selfhosted/comments/1uqhsy7/is_this_normal_docker_images_taking_up_too_much/)
+- 2026-07-07T20:43:14+00:00 — [My current homelab after a few months… (read: years) of tinkering.](https://www.reddit.com/r/selfhosted/comments/1uq7g5v/my_current_homelab_after_a_few_months_read_years/)
+- 2026-07-07T14:53:20+00:00 — [I've been building a self-hosted Markdown knowledge base for the past few years. Here's where it's at today.](https://www.reddit.com/r/selfhosted/comments/1upxfsd/ive_been_building_a_selfhosted_markdown_knowledge/)
+- 2026-07-08T01:07:08+00:00 — [yacron2 - an almost overengineered cron](https://www.reddit.com/r/selfhosted/comments/1uqe2pq/yacron2_an_almost_overengineered_cron/)
+- 2026-07-08T04:15:29+00:00 — [Is a refurbished Dell Optiplex Micro (i5-10500T) a good starting point for a CS student? Plans for a gradual upgrade path.](https://www.reddit.com/r/selfhosted/comments/1uqi2w4/is_a_refurbished_dell_optiplex_micro_i510500t_a/)
+- 2026-07-07T14:08:25+00:00 — [Now that Minimus went free too, how are you choosing between the free hardened image options?](https://www.reddit.com/r/selfhosted/comments/1upw6yz/now_that_minimus_went_free_too_how_are_you/)
+- 2026-07-07T16:19:50+00:00 — [OneSearch v1.3.0: Update with true interval schedules and everything since the v1.0 post](https://www.reddit.com/r/selfhosted/comments/1upzwm4/onesearch_v130_update_with_true_interval/)
 - 2026-07-07T03:03:21+00:00 — [RelayTV – self-hosted "cast any link to the TV" runtime with an HTTP API, Home Assistant integration, and a built-in Jellyfin client (Docker, GPL-3.0)](https://www.reddit.com/r/selfhosted/comments/1upiu39/relaytv_selfhosted_cast_any_link_to_the_tv/)
 - 2026-07-07T09:07:44+00:00 — [Wireguard vs Cloudflare tunnel? (for my case)](https://www.reddit.com/r/selfhosted/comments/1uppmfr/wireguard_vs_cloudflare_tunnel_for_my_case/)
 - 2026-07-06T20:50:29+00:00 — [I Selfhosted Vaultwarden on Amazon Echo Show 5 (2nd gen) via LineageOS 18.1 [Jailbroken]](https://www.reddit.com/r/selfhosted/comments/1up9slw/i_selfhosted_vaultwarden_on_amazon_echo_show_5/)
@@ -96,15 +107,4 @@ Last update: 2026-07-07 10:42 UTC
 - 2026-06-28T05:54:03+00:00 — [postlab: a bare-metal server TUI | manage my server without leaving the terminal.](https://www.reddit.com/r/selfhosted/comments/1uhp3qq/postlab_a_baremetal_server_tui_manage_my_server/)
 - 2026-06-27T02:46:43+00:00 — [spent 2 hours troubleshooting my homelab to find that its because pangolin potentially paywalled a feature](https://www.reddit.com/r/selfhosted/comments/1ugquu8/spent_2_hours_troubleshooting_my_homelab_to_find/)
 - 2026-06-27T08:26:08+00:00 — [FileFlows Version 26.06 (Stable) Released](https://www.reddit.com/r/selfhosted/comments/1ugx6bt/fileflows_version_2606_stable_released/)
-- 2026-06-27T08:14:13+00:00 — [*TourGaze* – a self-hosted ride viewer that replays your GPS tracks with a drone/helicopter cam (and lets you race your past self)](https://www.reddit.com/r/selfhosted/comments/1ugwzby/tourgaze_a_selfhosted_ride_viewer_that_replays/)
-- Sat, 27 Jun 2026 09:42:47 +0000 — [VERCEL_EXPERIMENTAL_DEV_SKIP_LINK: Stop Dev Link Hangs](https://dev.to/mahdi_benrhouma_fe1c6005/vercelexperimentaldevskiplink-stop-dev-link-hangs-2lak)
-- 2026-06-27T08:00:45+00:00 — [Recent graduate trying to self-host a portfolio site](https://www.reddit.com/r/selfhosted/comments/1ugwr4s/recent_graduate_trying_to_selfhost_a_portfolio/)
-- 2026-06-26T17:26:55+00:00 — [How do you deploy your apps? Any tools or plain docker or compose](https://www.reddit.com/r/selfhosted/comments/1ugd8h8/how_do_you_deploy_your_apps_any_tools_or_plain/)
-- 2026-06-27T09:26:40+00:00 — [Containers not picking up drives after power outage.](https://www.reddit.com/r/selfhosted/comments/1ugy6dx/containers_not_picking_up_drives_after_power/)
-- 2026-06-26T16:06:45+00:00 — [All my hard work and my router/Internet provider failed me…](https://www.reddit.com/r/selfhosted/comments/1ugb1ip/all_my_hard_work_and_my_routerinternet_provider/)
-- 2026-06-26T22:00:04+00:00 — [How many services do you have and how do you manage them?](https://www.reddit.com/r/selfhosted/comments/1ugkf8u/how_many_services_do_you_have_and_how_do_you/)
-- Fri, 26 Jun 2026 10:19:35 +0000 — [Auth con JWT, RBAC y token blacklist sin pegar 5 librerías: Fitz vs FastAPI + python-jose + passlib + Redis + RBAC casero](https://dev.to/martin_palopoli/auth-con-jwt-rbac-y-token-blacklist-sin-pegar-5-librerias-fitz-vs-fastapi-python-jose-passlib-3e65)
-- Fri, 26 Jun 2026 10:19:17 +0000 — [JWT auth, RBAC, and token blacklist without gluing 5 libraries: Fitz vs FastAPI + python-jose + passlib + Redis + home-grown RBAC](https://dev.to/martin_palopoli/jwt-auth-rbac-and-token-blacklist-without-gluing-5-libraries-fitz-vs-fastapi-python-jose--32f9)
-- 2026-06-26T09:33:39+00:00 — [Setting up ShLink with multiple domains.](https://www.reddit.com/r/selfhosted/comments/1ug20n8/setting_up_shlink_with_multiple_domains/)
-- 2026-06-25T18:18:15+00:00 — [My homelab projects and what it runs on](https://www.reddit.com/r/selfhosted/comments/1ufi0xb/my_homelab_projects_and_what_it_runs_on/)
 <!-- NEWS END -->
