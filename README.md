@@ -2,17 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-08 10:03 UTC
+Last update: 2026-07-09 10:47 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 09 Jul 2026 10:17:39 +0000 — [Why Most AI Agents Still Can't Loop — And That's Why AI Apps Haven't Exploded](https://dev.to/mininglamp/why-most-ai-agents-still-cant-loop-and-thats-why-ai-apps-havent-exploded-56j4)
+- Thu, 09 Jul 2026 10:04:16 +0000 — [HPA vs VPA vs KEDA: Which Kubernetes Autoscaler Actually Cuts Your Cloud Bill](https://dev.to/muskan_bandta/hpa-vs-vpa-vs-keda-which-kubernetes-autoscaler-actually-cuts-your-cloud-bill-2d3h)
+- Thu, 09 Jul 2026 10:02:19 +0000 — [7 Best WhatsApp APIs for Developers in 2026 (Compared)](https://dev.to/kevin_menesesgonzlez/7-best-whatsapp-apis-for-developers-in-2026-compared-f6)
+- Thu, 09 Jul 2026 10:00:46 +0000 — [Batch PDF Verification at Scale: Async Queue Patterns for the HTPBE API](https://dev.to/iurii_rogulia/batch-pdf-verification-at-scale-async-queue-patterns-for-the-htpbe-api-3jam)
+- 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
+- 2026-07-08T16:17:15+00:00 — [Wealthfolio v3.6 released: the local-first investment tracker is now a full personal finance app (net worth, spending, goals, FIRE simulations), now with SSO](https://www.reddit.com/r/selfhosted/comments/1uqxe6u/wealthfolio_v36_released_the_localfirst/)
+- 2026-07-09T04:14:46+00:00 — [What should i do with a newly built optiplex server?](https://www.reddit.com/r/selfhosted/comments/1urfkp7/what_should_i_do_with_a_newly_built_optiplex/)
+- 2026-07-09T07:23:22+00:00 — [self hosted wiki in multiple languages](https://www.reddit.com/r/selfhosted/comments/1urj3hv/self_hosted_wiki_in_multiple_languages/)
+- 2026-07-08T04:01:39+00:00 — [Is this normal? Docker images taking up too much memory over time](https://www.reddit.com/r/selfhosted/comments/1uqhsy7/is_this_normal_docker_images_taking_up_too_much/)
 - Wed, 08 Jul 2026 09:53:10 +0000 — [3 Key Advantages of Cloudflare Tunnel for Self-Hosted Services](https://dev.to/merbayerp/3-key-advantages-of-cloudflare-tunnel-for-self-hosted-services-41lo)
 - Wed, 08 Jul 2026 09:50:22 +0000 — [Install Docker on Ubuntu: APT, Snap, Rootless — Complete Guide 2026](https://dev.to/rosgluk/install-docker-on-ubuntu-apt-snap-rootless-complete-guide-2026-4g35)
 - Wed, 08 Jul 2026 09:45:17 +0000 — [Local LLM Setup with Ollama: Keep Your Data Secure](https://dev.to/merbayerp/local-llm-setup-with-ollama-keep-your-data-secure-3fpf)
 - Wed, 08 Jul 2026 09:41:47 +0000 — [Debezium vs Managed CDC: How to Actually Decide Between Build and Buy](https://dev.to/techsourabh/debezium-vs-managed-cdc-how-to-actually-decide-between-build-and-buy-35oc)
-- 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
-- 2026-07-08T04:01:39+00:00 — [Is this normal? Docker images taking up too much memory over time](https://www.reddit.com/r/selfhosted/comments/1uqhsy7/is_this_normal_docker_images_taking_up_too_much/)
 - 2026-07-07T20:43:14+00:00 — [My current homelab after a few months… (read: years) of tinkering.](https://www.reddit.com/r/selfhosted/comments/1uq7g5v/my_current_homelab_after_a_few_months_read_years/)
 - 2026-07-07T14:53:20+00:00 — [I've been building a self-hosted Markdown knowledge base for the past few years. Here's where it's at today.](https://www.reddit.com/r/selfhosted/comments/1upxfsd/ive_been_building_a_selfhosted_markdown_knowledge/)
 - 2026-07-08T01:07:08+00:00 — [yacron2 - an almost overengineered cron](https://www.reddit.com/r/selfhosted/comments/1uqe2pq/yacron2_an_almost_overengineered_cron/)
@@ -100,11 +107,4 @@ Last update: 2026-07-08 10:03 UTC
 - 2026-06-28T22:50:06+00:00 — [My self-hosted setup: 10" rack at home + Hetzner AX-102, site-to-site, WireGuard-only, and ~930 firewall rules](https://www.reddit.com/r/selfhosted/comments/1uib9u0/my_selfhosted_setup_10_rack_at_home_hetzner_ax102/)
 - 2026-06-29T09:52:26+00:00 — [Adding a self-hosted option to my local-first Android/Desktop app. Which path should I take?](https://www.reddit.com/r/selfhosted/comments/1uio14x/adding_a_selfhosted_option_to_my_localfirst/)
 - 2026-06-29T08:06:24+00:00 — [I did a comparison of EasyRunner vs Dokku vs Dokploy vs Coolify](https://www.reddit.com/r/selfhosted/comments/1uim8w5/i_did_a_comparison_of_easyrunner_vs_dokku_vs/)
-- 2026-06-29T09:23:27+00:00 — [How are you handling YouTube audio extraction](https://www.reddit.com/r/selfhosted/comments/1uinjdu/how_are_you_handling_youtube_audio_extraction/)
-- 2026-06-29T08:44:53+00:00 — [Self-hosting my deployment platform for 6 months — what do you actually miss from managed PaaS?](https://www.reddit.com/r/selfhosted/comments/1uimw47/selfhosting_my_deployment_platform_for_6_months/)
-- Sun, 28 Jun 2026 10:13:44 +0000 — [V.E.L.O.C.I.T.Y.-OS: NDA – The Birth of an AI-Native Language (Part 2)](https://dev.to/unitbuilds_cc/velocity-os-nda-the-birth-of-an-ai-native-language-part-2-4o98)
-- Sun, 28 Jun 2026 09:57:22 +0000 — ["Building an HSK Speaking Test AI: Real-time Tone Grading with Gemini](https://dev.to/64johnlee/building-an-hsk-speaking-test-ai-real-time-tone-grading-with-gemini-5bca)
-- 2026-06-28T05:54:03+00:00 — [postlab: a bare-metal server TUI | manage my server without leaving the terminal.](https://www.reddit.com/r/selfhosted/comments/1uhp3qq/postlab_a_baremetal_server_tui_manage_my_server/)
-- 2026-06-27T02:46:43+00:00 — [spent 2 hours troubleshooting my homelab to find that its because pangolin potentially paywalled a feature](https://www.reddit.com/r/selfhosted/comments/1ugquu8/spent_2_hours_troubleshooting_my_homelab_to_find/)
-- 2026-06-27T08:26:08+00:00 — [FileFlows Version 26.06 (Stable) Released](https://www.reddit.com/r/selfhosted/comments/1ugx6bt/fileflows_version_2606_stable_released/)
 <!-- NEWS END -->
