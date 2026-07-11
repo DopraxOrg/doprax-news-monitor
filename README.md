@@ -2,16 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-10 10:41 UTC
+Last update: 2026-07-11 09:12 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 11 Jul 2026 08:47:00 +0000 — [Vault auth methods — OIDC for humans, Kubernetes for workloads](https://dev.to/secopsloghq/vault-auth-methods-oidc-for-humans-kubernetes-for-workloads-iok)
+- Sat, 11 Jul 2026 08:42:47 +0000 — [I built a skills-extraction API that works in any language — and actually catches soft skills](https://dev.to/lmgk5133dotcom/i-built-a-skills-extraction-api-that-works-in-any-language-and-actually-catches-soft-skills-2jm)
+- Sat, 11 Jul 2026 08:42:42 +0000 — [Helm template functions, pipelines & named templates](https://dev.to/secopsloghq/helm-template-functions-pipelines-named-templates-okp)
+- Sat, 11 Jul 2026 08:40:57 +0000 — [I kept missing Claude Code's permission prompts, so I built a native macOS menu bar app to fix it](https://dev.to/pranavmadhu01/i-kept-missing-claude-codes-permission-prompts-so-i-built-a-native-macos-menu-bar-app-to-fix-it-1hb9)
+- 2026-07-09T22:01:08+00:00 — [New Project Megathread - Week of 09 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1us4i8v/new_project_megathread_week_of_09_jul_2026/)
+- 2026-07-10T16:23:44+00:00 — [Linkwarden 2.15 - open-source collaborative bookmark manager to collect, read, annotate, and fully preserve what matters (tons of new features!) 🚀](https://www.reddit.com/r/selfhosted/comments/1ussfwp/linkwarden_215_opensource_collaborative_bookmark/)
+- 2026-07-11T08:57:07+00:00 — [It's 3am on a Saturday, now i get it](https://www.reddit.com/r/selfhosted/comments/1utewfq/its_3am_on_a_saturday_now_i_get_it/)
+- 2026-07-11T07:05:04+00:00 — [Feedback on a networking control panel?](https://www.reddit.com/r/selfhosted/comments/1utcz86/feedback_on_a_networking_control_panel/)
+- 2026-07-10T02:10:21+00:00 — [New Setup - Recommendations Welcome](https://www.reddit.com/r/selfhosted/comments/1usafss/new_setup_recommendations_welcome/)
+- 2026-07-11T03:41:09+00:00 — [Is the Apple AirPort Time Capsule a good NAS?](https://www.reddit.com/r/selfhosted/comments/1ut95z1/is_the_apple_airport_time_capsule_a_good_nas/)
+- 2026-07-09T16:22:34+00:00 — [Pangolin 1.20: Resource Launcher & Global Command Palette](https://www.reddit.com/r/selfhosted/comments/1urv3eu/pangolin_120_resource_launcher_global_command/)
+- 2026-07-11T03:39:32+00:00 — [So i have a NAS but what next?](https://www.reddit.com/r/selfhosted/comments/1ut94vs/so_i_have_a_nas_but_what_next/)
+- 2026-07-10T22:51:41+00:00 — [Impri – self-hostable human approval inbox for AI agents (MIT, Docker Compose, SQLite)](https://www.reddit.com/r/selfhosted/comments/1ut2vqm/impri_selfhostable_human_approval_inbox_for_ai/)
 - Fri, 10 Jul 2026 10:22:54 +0000 — [I built a production-ready MCP server template so you don't have to — here's the architecture](https://dev.to/leamoreau/i-built-a-production-ready-mcp-server-template-so-you-dont-have-to-heres-the-architecture-2c6i)
 - Fri, 10 Jul 2026 10:20:54 +0000 — [Better Auth Joins Vercel](https://dev.to/erfanebrahimnia/better-auth-joins-vercel-5a97)
-- 2026-07-09T22:01:08+00:00 — [New Project Megathread - Week of 09 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1us4i8v/new_project_megathread_week_of_09_jul_2026/)
-- 2026-07-09T16:22:34+00:00 — [Pangolin 1.20: Resource Launcher & Global Command Palette](https://www.reddit.com/r/selfhosted/comments/1urv3eu/pangolin_120_resource_launcher_global_command/)
-- 2026-07-10T02:10:21+00:00 — [New Setup - Recommendations Welcome](https://www.reddit.com/r/selfhosted/comments/1usafss/new_setup_recommendations_welcome/)
 - 2026-07-09T04:14:46+00:00 — [What should i do with a newly built optiplex server?](https://www.reddit.com/r/selfhosted/comments/1urfkp7/what_should_i_do_with_a_newly_built_optiplex/)
 - 2026-07-10T09:10:46+00:00 — [Wanna start self hosting](https://www.reddit.com/r/selfhosted/comments/1usicyv/wanna_start_self_hosting/)
 - 2026-07-08T16:17:15+00:00 — [Wealthfolio v3.6 released: the local-first investment tracker is now a full personal finance app (net worth, spending, goals, FIRE simulations), now with SSO](https://www.reddit.com/r/selfhosted/comments/1uqxe6u/wealthfolio_v36_released_the_localfirst/)
@@ -97,14 +107,4 @@ Last update: 2026-07-10 10:41 UTC
 - Tue, 30 Jun 2026 10:28:39 +0000 — [Tracing, Prometheus metrics, and structured logs with two decorators: Fitz vs the OpenTelemetry setup in FastAPI](https://dev.to/martin_palopoli/tracing-prometheus-metrics-and-structured-logs-with-two-decorators-fitz-vs-the-opentelemetry-3ldk)
 - Tue, 30 Jun 2026 10:25:28 +0000 — [The Hidden Architecture of the Agentic Enterprise: Model Stack, Tokenomics, and Harness](https://dev.to/sarony11/the-hidden-architecture-of-the-agentic-enterprise-model-stack-tokenomics-and-harness-384k)
 - Tue, 30 Jun 2026 10:23:47 +0000 — [Check your IP, ASN, and VPN/proxy leaks from the terminal with curl (no signup, no key)](https://dev.to/codelong888/check-your-ip-asn-and-vpnproxy-leaks-from-the-terminal-with-curl-no-signup-no-key-53lb)
-- Tue, 30 Jun 2026 10:19:47 +0000 — [I Tested 7 Self-Hosted AI Project Tracking Tools - Here's What Actually Works](https://dev.to/danielbrooks1980/i-tested-7-self-hosted-ai-project-tracking-tools-heres-what-actually-works-2ei8)
-- 2026-06-30T10:06:43+00:00 — [qBittorrent UnionFS with local storage and remote storage via SFTP](https://www.reddit.com/r/selfhosted/comments/1ujl11x/qbittorrent_unionfs_with_local_storage_and_remote/)
-- 2026-06-30T00:55:09+00:00 — [How to setup bridge between host and wg-easy container so that host server can reach peers?](https://www.reddit.com/r/selfhosted/comments/1ujajsu/how_to_setup_bridge_between_host_and_wgeasy/)
-- 2026-06-30T08:08:10+00:00 — [Raspberry pi 5 Usenet streaming](https://www.reddit.com/r/selfhosted/comments/1ujj1e9/raspberry_pi_5_usenet_streaming/)
-- 2026-06-29T15:29:38+00:00 — [Plex Lifetime or setup Jellyfin with reverse proxy](https://www.reddit.com/r/selfhosted/comments/1uivq7z/plex_lifetime_or_setup_jellyfin_with_reverse_proxy/)
-- 2026-06-30T07:06:42+00:00 — [Learning service in Docker](https://www.reddit.com/r/selfhosted/comments/1ujhzbv/learning_service_in_docker/)
-- 2026-06-29T07:58:38+00:00 — [Tribute to a careful use of AI](https://www.reddit.com/r/selfhosted/comments/1uim44v/tribute_to_a_careful_use_of_ai/)
-- 2026-06-29T13:08:22+00:00 — [Sencho v0.93.0 Update: Exploit intelligence (KEV + EPSS), UI/UX Improvements...](https://www.reddit.com/r/selfhosted/comments/1uis1oj/sencho_v0930_update_exploit_intelligence_kev_epss/)
-- 2026-06-28T19:50:13+00:00 — [Finally built my own self-hosted media ecosystem after less than a year of learning.](https://www.reddit.com/r/selfhosted/comments/1ui6vqk/finally_built_my_own_selfhosted_media_ecosystem/)
-- Thu, 25 Jun 2026 13:37:52 +0000 — [Federating Clusters for Zero-Downtime Kubernetes](https://linkerd.io/2026/06/24/federating-clusters-for-zero-downtime-kubernetes/index.html)
 <!-- NEWS END -->
