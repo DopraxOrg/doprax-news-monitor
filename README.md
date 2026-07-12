@@ -2,18 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-11 09:12 UTC
+Last update: 2026-07-12 09:39 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 12 Jul 2026 09:10:48 +0000 — [31 upvotes later, this r/openclaw thread exposed the real problem with agent tools](https://dev.to/lars_winstand/31-upvotes-later-this-ropenclaw-thread-exposed-the-real-problem-with-agent-tools-hlk)
+- Sun, 12 Jul 2026 09:00:39 +0000 — [Colibri — รัน GLM-5.2 (744B MoE) บนเครื่อง 25GB RAM ด้วย Pure C ไฟล์เดียว](https://dev.to/sarantoon/colibri-ran-glm-52-744b-moe-bnekhruueng-25gb-ram-dwy-pure-c-aiflediiyw-3ae9)
+- Sun, 12 Jul 2026 09:00:01 +0000 — [Leveling Up My MERN Stack Observability with SigNoz](https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb)
+- 2026-07-09T22:01:08+00:00 — [New Project Megathread - Week of 09 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1us4i8v/new_project_megathread_week_of_09_jul_2026/)
+- 2026-07-11T08:57:07+00:00 — [It's 3am on a Saturday, now i get it](https://www.reddit.com/r/selfhosted/comments/1utewfq/its_3am_on_a_saturday_now_i_get_it/)
+- 2026-07-11T16:52:29+00:00 — [8gb of ram for this sweet docker stack](https://www.reddit.com/r/selfhosted/comments/1utp80o/8gb_of_ram_for_this_sweet_docker_stack/)
+- 2026-07-12T02:12:28+00:00 — [Released Lanemu P2P VPN 0.14 - Open-source alternative to Hamachi](https://www.reddit.com/r/selfhosted/comments/1uu2kvt/released_lanemu_p2p_vpn_014_opensource/)
+- 2026-07-11T19:41:07+00:00 — [Funny Headup: Be mindful when updating your DNS-Service](https://www.reddit.com/r/selfhosted/comments/1uttlew/funny_headup_be_mindful_when_updating_your/)
+- 2026-07-12T03:08:30+00:00 — [New to self hosting](https://www.reddit.com/r/selfhosted/comments/1uu3pdd/new_to_self_hosting/)
+- 2026-07-11T18:04:23+00:00 — [Archiving raw photos](https://www.reddit.com/r/selfhosted/comments/1utr47x/archiving_raw_photos/)
+- 2026-07-12T08:35:08+00:00 — [Docker music server that uses directories?](https://www.reddit.com/r/selfhosted/comments/1uu9syn/docker_music_server_that_uses_directories/)
+- 2026-07-11T19:19:50+00:00 — [Host Android for idle games](https://www.reddit.com/r/selfhosted/comments/1utt2ab/host_android_for_idle_games/)
+- 2026-07-12T04:50:00+00:00 — [What are you favorite light weight apps to self host on an Oracle Free Instance?](https://www.reddit.com/r/selfhosted/comments/1uu5psr/what_are_you_favorite_light_weight_apps_to_self/)
+- 2026-07-11T12:03:27+00:00 — [Docker compose updates](https://www.reddit.com/r/selfhosted/comments/1utialx/docker_compose_updates/)
 - Sat, 11 Jul 2026 08:47:00 +0000 — [Vault auth methods — OIDC for humans, Kubernetes for workloads](https://dev.to/secopsloghq/vault-auth-methods-oidc-for-humans-kubernetes-for-workloads-iok)
 - Sat, 11 Jul 2026 08:42:47 +0000 — [I built a skills-extraction API that works in any language — and actually catches soft skills](https://dev.to/lmgk5133dotcom/i-built-a-skills-extraction-api-that-works-in-any-language-and-actually-catches-soft-skills-2jm)
 - Sat, 11 Jul 2026 08:42:42 +0000 — [Helm template functions, pipelines & named templates](https://dev.to/secopsloghq/helm-template-functions-pipelines-named-templates-okp)
 - Sat, 11 Jul 2026 08:40:57 +0000 — [I kept missing Claude Code's permission prompts, so I built a native macOS menu bar app to fix it](https://dev.to/pranavmadhu01/i-kept-missing-claude-codes-permission-prompts-so-i-built-a-native-macos-menu-bar-app-to-fix-it-1hb9)
-- 2026-07-09T22:01:08+00:00 — [New Project Megathread - Week of 09 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1us4i8v/new_project_megathread_week_of_09_jul_2026/)
 - 2026-07-10T16:23:44+00:00 — [Linkwarden 2.15 - open-source collaborative bookmark manager to collect, read, annotate, and fully preserve what matters (tons of new features!) 🚀](https://www.reddit.com/r/selfhosted/comments/1ussfwp/linkwarden_215_opensource_collaborative_bookmark/)
-- 2026-07-11T08:57:07+00:00 — [It's 3am on a Saturday, now i get it](https://www.reddit.com/r/selfhosted/comments/1utewfq/its_3am_on_a_saturday_now_i_get_it/)
 - 2026-07-11T07:05:04+00:00 — [Feedback on a networking control panel?](https://www.reddit.com/r/selfhosted/comments/1utcz86/feedback_on_a_networking_control_panel/)
 - 2026-07-10T02:10:21+00:00 — [New Setup - Recommendations Welcome](https://www.reddit.com/r/selfhosted/comments/1usafss/new_setup_recommendations_welcome/)
 - 2026-07-11T03:41:09+00:00 — [Is the Apple AirPort Time Capsule a good NAS?](https://www.reddit.com/r/selfhosted/comments/1ut95z1/is_the_apple_airport_time_capsule_a_good_nas/)
@@ -95,16 +107,4 @@ Last update: 2026-07-11 09:12 UTC
 - 2026-07-01T17:35:40+00:00 — [Looking for a personal self-hosted app that tracks BOTH work hours/shifts and subscription costs? (Or a sleek 2-app combo)](https://www.reddit.com/r/selfhosted/comments/1uksd4u/looking_for_a_personal_selfhosted_app_that_tracks/)
 - 2026-07-01T12:08:07+00:00 — [Bare metal server](https://www.reddit.com/r/selfhosted/comments/1ukjtw3/bare_metal_server/)
 - 2026-07-01T13:18:02+00:00 — [Scanopy now builds four network topology views from one scan (L2/L3/workloads/apps)!](https://www.reddit.com/r/selfhosted/comments/1uklh5f/scanopy_now_builds_four_network_topology_views/)
-- Tue, 30 Jun 2026 20:48:36 +0000 — [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
-- Wed, 01 Jul 2026 10:32:43 +0000 — [How to selectively route traffic over openVPN on Openwrt](https://dev.to/mfat/how-to-use-openvpn-as-socks-proxy-on-openwrt-5d8c)
-- 2026-06-30T23:46:38+00:00 — [PulseWeaver — closed-door forward-auth for self-hosters (block unknown IPs before they reach your apps' login pages)](https://www.reddit.com/r/selfhosted/comments/1uk5lc3/pulseweaver_closeddoor_forwardauth_for/)
-- 2026-07-01T09:42:25+00:00 — [First homelab build done, any tips?](https://www.reddit.com/r/selfhosted/comments/1ukh1n3/first_homelab_build_done_any_tips/)
-- 2026-07-01T08:46:36+00:00 — [Can't connect to Qbittorrent webUI anymore - *arrstack](https://www.reddit.com/r/selfhosted/comments/1ukg493/cant_connect_to_qbittorrent_webui_anymore_arrstack/)
-- 2026-06-30T19:01:14+00:00 — [Self-hosted Minecraft server panel with Modrinth mod search built in](https://www.reddit.com/r/selfhosted/comments/1ujy8dm/selfhosted_minecraft_server_panel_with_modrinth/)
-- 2026-06-29T17:00:28+00:00 — [Public reminder: Protect your apps. My unprotected qBittorrent instance ended up running a cryptominer.](https://www.reddit.com/r/selfhosted/comments/1uiy979/public_reminder_protect_your_apps_my_unprotected/)
-- 2026-06-30T19:11:54+00:00 — [Hetzner/Traefik/Headscale/Tailscale/Nginx/Docker/VMs/Proxmox - phew, am I doing it right?](https://www.reddit.com/r/selfhosted/comments/1ujyj7y/hetznertraefikheadscaletailscalenginxdockervmsprox/)
-- Tue, 30 Jun 2026 10:28:54 +0000 — [Tracing, métricas Prometheus y logs estructurados con dos decoradores: Fitz vs el setup de OpenTelemetry en FastAPI](https://dev.to/martin_palopoli/tracing-metricas-prometheus-y-logs-estructurados-con-dos-decoradores-fitz-vs-el-setup-de-4143)
-- Tue, 30 Jun 2026 10:28:39 +0000 — [Tracing, Prometheus metrics, and structured logs with two decorators: Fitz vs the OpenTelemetry setup in FastAPI](https://dev.to/martin_palopoli/tracing-prometheus-metrics-and-structured-logs-with-two-decorators-fitz-vs-the-opentelemetry-3ldk)
-- Tue, 30 Jun 2026 10:25:28 +0000 — [The Hidden Architecture of the Agentic Enterprise: Model Stack, Tokenomics, and Harness](https://dev.to/sarony11/the-hidden-architecture-of-the-agentic-enterprise-model-stack-tokenomics-and-harness-384k)
-- Tue, 30 Jun 2026 10:23:47 +0000 — [Check your IP, ASN, and VPN/proxy leaks from the terminal with curl (no signup, no key)](https://dev.to/codelong888/check-your-ip-asn-and-vpnproxy-leaks-from-the-terminal-with-curl-no-signup-no-key-53lb)
 <!-- NEWS END -->
