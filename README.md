@@ -2,22 +2,31 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-12 09:39 UTC
+Last update: 2026-07-13 10:46 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-07-09T22:01:08+00:00 — [New Project Megathread - Week of 09 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1us4i8v/new_project_megathread_week_of_09_jul_2026/)
+- 2026-07-12T17:45:49+00:00 — [Portainer alternatives. What are you using?](https://www.reddit.com/r/selfhosted/comments/1uum8fn/portainer_alternatives_what_are_you_using/)
+- 2026-07-12T22:46:30+00:00 — [Self-hosting security (or, how can I add an extra layer of security)?](https://www.reddit.com/r/selfhosted/comments/1uutzop/selfhosting_security_or_how_can_i_add_an_extra/)
+- 2026-07-13T09:26:27+00:00 — [Radarr/Sonarr not removing media from disk or library when using "Remove" button in Seerr](https://www.reddit.com/r/selfhosted/comments/1uv6lvx/radarrsonarr_not_removing_media_from_disk_or/)
+- 2026-07-12T23:09:17+00:00 — [Docker Advice Needed](https://www.reddit.com/r/selfhosted/comments/1uuujaa/docker_advice_needed/)
+- 2026-07-11T08:57:07+00:00 — [It's 3am on a Saturday, now i get it](https://www.reddit.com/r/selfhosted/comments/1utewfq/its_3am_on_a_saturday_now_i_get_it/)
+- 2026-07-12T02:12:28+00:00 — [Released Lanemu P2P VPN 0.14 - Open-source alternative to Hamachi](https://www.reddit.com/r/selfhosted/comments/1uu2kvt/released_lanemu_p2p_vpn_014_opensource/)
+- 2026-07-12T08:35:08+00:00 — [Docker music server that uses directories?](https://www.reddit.com/r/selfhosted/comments/1uu9syn/docker_music_server_that_uses_directories/)
+- 2026-07-13T06:45:36+00:00 — [I bought my first NAS. Complete beginner needs help understanding the process.](https://www.reddit.com/r/selfhosted/comments/1uv3uuy/i_bought_my_first_nas_complete_beginner_needs/)
+- 2026-07-12T22:45:25+00:00 — [Traefik - Confused about docker network isolation](https://www.reddit.com/r/selfhosted/comments/1uutype/traefik_confused_about_docker_network_isolation/)
+- 2026-07-11T16:52:29+00:00 — [8gb of ram for this sweet docker stack](https://www.reddit.com/r/selfhosted/comments/1utp80o/8gb_of_ram_for_this_sweet_docker_stack/)
+- 2026-07-11T19:41:07+00:00 — [Funny Headup: Be mindful when updating your DNS-Service](https://www.reddit.com/r/selfhosted/comments/1uttlew/funny_headup_be_mindful_when_updating_your/)
+- 2026-07-13T10:15:06+00:00 — [Asking Or suggestions kind a](https://www.reddit.com/r/selfhosted/comments/1uv7gxv/asking_or_suggestions_kind_a/)
+- 2026-07-12T12:47:14+00:00 — [NetBird Reverse Proxy only works when target resource is a subdomain!](https://www.reddit.com/r/selfhosted/comments/1uuek74/netbird_reverse_proxy_only_works_when_target/)
+- 2026-07-13T04:21:35+00:00 — [Qbitorrent](https://www.reddit.com/r/selfhosted/comments/1uv17ab/qbitorrent/)
 - Sun, 12 Jul 2026 09:10:48 +0000 — [31 upvotes later, this r/openclaw thread exposed the real problem with agent tools](https://dev.to/lars_winstand/31-upvotes-later-this-ropenclaw-thread-exposed-the-real-problem-with-agent-tools-hlk)
 - Sun, 12 Jul 2026 09:00:39 +0000 — [Colibri — รัน GLM-5.2 (744B MoE) บนเครื่อง 25GB RAM ด้วย Pure C ไฟล์เดียว](https://dev.to/sarantoon/colibri-ran-glm-52-744b-moe-bnekhruueng-25gb-ram-dwy-pure-c-aiflediiyw-3ae9)
 - Sun, 12 Jul 2026 09:00:01 +0000 — [Leveling Up My MERN Stack Observability with SigNoz](https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb)
-- 2026-07-09T22:01:08+00:00 — [New Project Megathread - Week of 09 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1us4i8v/new_project_megathread_week_of_09_jul_2026/)
-- 2026-07-11T08:57:07+00:00 — [It's 3am on a Saturday, now i get it](https://www.reddit.com/r/selfhosted/comments/1utewfq/its_3am_on_a_saturday_now_i_get_it/)
-- 2026-07-11T16:52:29+00:00 — [8gb of ram for this sweet docker stack](https://www.reddit.com/r/selfhosted/comments/1utp80o/8gb_of_ram_for_this_sweet_docker_stack/)
-- 2026-07-12T02:12:28+00:00 — [Released Lanemu P2P VPN 0.14 - Open-source alternative to Hamachi](https://www.reddit.com/r/selfhosted/comments/1uu2kvt/released_lanemu_p2p_vpn_014_opensource/)
-- 2026-07-11T19:41:07+00:00 — [Funny Headup: Be mindful when updating your DNS-Service](https://www.reddit.com/r/selfhosted/comments/1uttlew/funny_headup_be_mindful_when_updating_your/)
 - 2026-07-12T03:08:30+00:00 — [New to self hosting](https://www.reddit.com/r/selfhosted/comments/1uu3pdd/new_to_self_hosting/)
 - 2026-07-11T18:04:23+00:00 — [Archiving raw photos](https://www.reddit.com/r/selfhosted/comments/1utr47x/archiving_raw_photos/)
-- 2026-07-12T08:35:08+00:00 — [Docker music server that uses directories?](https://www.reddit.com/r/selfhosted/comments/1uu9syn/docker_music_server_that_uses_directories/)
 - 2026-07-11T19:19:50+00:00 — [Host Android for idle games](https://www.reddit.com/r/selfhosted/comments/1utt2ab/host_android_for_idle_games/)
 - 2026-07-12T04:50:00+00:00 — [What are you favorite light weight apps to self host on an Oracle Free Instance?](https://www.reddit.com/r/selfhosted/comments/1uu5psr/what_are_you_favorite_light_weight_apps_to_self/)
 - 2026-07-11T12:03:27+00:00 — [Docker compose updates](https://www.reddit.com/r/selfhosted/comments/1utialx/docker_compose_updates/)
@@ -98,13 +107,4 @@ Last update: 2026-07-12 09:39 UTC
 - 2026-07-02T08:10:26+00:00 — [Facet - local, open-source photo scoring/culling engine with a web gallery (no cloud, MIT license)](https://www.reddit.com/r/selfhosted/comments/1ulc2ej/facet_local_opensource_photo_scoringculling/)
 - 2026-07-01T13:20:49+00:00 — [GeoPulse - selfhosted alternative to Google Timeline - big updates](https://www.reddit.com/r/selfhosted/comments/1ukljop/geopulse_selfhosted_alternative_to_google/)
 - Thu, 02 Jul 2026 09:59:26 +0000 — [Choosing an EU-Hosted Inference Provider: A 2026 Comparison](https://dev.to/valeria_bernhardt_c9473b7/choosing-an-eu-hosted-inference-provider-a-2026-comparison-5d5h)
-- Thu, 02 Jul 2026 09:48:48 +0000 — [How to Automate OG Image Generation for Your Blog Using a Screenshot API](https://dev.to/webmox/how-to-automate-og-image-generation-for-your-blog-using-a-screenshot-api-3o30)
-- 2026-06-25T22:01:05+00:00 — [New Project Megathread - Week of 25 Jun 2026](https://www.reddit.com/r/selfhosted/comments/1ufnzcw/new_project_megathread_week_of_25_jun_2026/)
-- 2026-07-02T04:58:58+00:00 — [Question regarding IPv6 change](https://www.reddit.com/r/selfhosted/comments/1ul8o50/question_regarding_ipv6_change/)
-- 2026-07-01T20:57:38+00:00 — [Open port behind CGNAT without VPN or tailscale or wireguard](https://www.reddit.com/r/selfhosted/comments/1ukxv4o/open_port_behind_cgnat_without_vpn_or_tailscale/)
-- 2026-07-02T09:13:47+00:00 — [AreaWP — A Docker-Based Panel for Agencies to sell and monetize WordPress Sites (WaaS/SaaS)](https://www.reddit.com/r/selfhosted/comments/1uld4t0/areawp_a_dockerbased_panel_for_agencies_to_sell/)
-- 2026-07-01T23:45:56+00:00 — [Self Hosting CUCM on unRAID](https://www.reddit.com/r/selfhosted/comments/1ul21in/self_hosting_cucm_on_unraid/)
-- 2026-07-01T17:35:40+00:00 — [Looking for a personal self-hosted app that tracks BOTH work hours/shifts and subscription costs? (Or a sleek 2-app combo)](https://www.reddit.com/r/selfhosted/comments/1uksd4u/looking_for_a_personal_selfhosted_app_that_tracks/)
-- 2026-07-01T12:08:07+00:00 — [Bare metal server](https://www.reddit.com/r/selfhosted/comments/1ukjtw3/bare_metal_server/)
-- 2026-07-01T13:18:02+00:00 — [Scanopy now builds four network topology views from one scan (L2/L3/workloads/apps)!](https://www.reddit.com/r/selfhosted/comments/1uklh5f/scanopy_now_builds_four_network_topology_views/)
 <!-- NEWS END -->
