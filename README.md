@@ -2,11 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-13 10:46 UTC
+Last update: 2026-07-14 09:42 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 14 Jul 2026 09:33:23 +0000 — [This Week in AI: GPT-5.6 Lands, Agent Infrastructure Matures, and the Model War Heats Up](https://dev.to/nerdhead_01/this-week-in-ai-gpt-56-lands-agent-infrastructure-matures-and-the-model-war-heats-up-17dg)
+- Tue, 14 Jul 2026 09:24:39 +0000 — [React Native + Expo JWT Auth with FastAPI — A Complete Working Example](https://dev.to/dhairya_senjaliya_955aef4/react-native-expo-jwt-auth-with-fastapi-a-complete-working-example-3akf)
+- Tue, 14 Jul 2026 09:16:34 +0000 — [Vercel + Lovable, GPT-5.6 multiagent, curl security patch — Dev Signal #64](https://dev.to/devsignal/vercel-lovable-gpt-56-multiagent-curl-security-patch-dev-signal-64-3d2b)
+- 2026-07-14T04:13:00+00:00 — [PSA: UPnP and UGREEN NAS](https://www.reddit.com/r/selfhosted/comments/1uvy3tu/psa_upnp_and_ugreen_nas/)
+- 2026-07-14T08:12:44+00:00 — [How to bypass Cloudflare Tunnel 100MB limit for Immich/Storage behind CGNAT?](https://www.reddit.com/r/selfhosted/comments/1uw2gh9/how_to_bypass_cloudflare_tunnel_100mb_limit_for/)
+- 2026-07-14T08:47:02+00:00 — [I built a free, self-hostable 3D point cloud viewer (Docker) — looking for feedback](https://www.reddit.com/r/selfhosted/comments/1uw31e7/i_built_a_free_selfhostable_3d_point_cloud_viewer/)
+- 2026-07-13T20:51:16+00:00 — [Grimoire v1.5.0 - Added audio support](https://www.reddit.com/r/selfhosted/comments/1uvnv6s/grimoire_v150_added_audio_support/)
+- 2026-07-14T04:34:51+00:00 — [To be or not to be ...H200](https://www.reddit.com/r/selfhosted/comments/1uvyiwi/to_be_or_not_to_be_h200/)
+- 2026-07-13T19:28:44+00:00 — [Automated Local Networking Scanning](https://www.reddit.com/r/selfhosted/comments/1uvljvl/automated_local_networking_scanning/)
+- 2026-07-13T21:33:14+00:00 — [Advice needed for multiple self hosted apps (seafile, frigate, immich, etc)](https://www.reddit.com/r/selfhosted/comments/1uvozsc/advice_needed_for_multiple_self_hosted_apps/)
+- 2026-07-13T11:16:36+00:00 — [Would you move this homelab off your daily driver onto a dedicated mini PC?](https://www.reddit.com/r/selfhosted/comments/1uv8n5y/would_you_move_this_homelab_off_your_daily_driver/)
+- 2026-07-14T02:00:41+00:00 — [Cloudflair question](https://www.reddit.com/r/selfhosted/comments/1uvvbgh/cloudflair_question/)
 - 2026-07-09T22:01:08+00:00 — [New Project Megathread - Week of 09 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1us4i8v/new_project_megathread_week_of_09_jul_2026/)
 - 2026-07-12T17:45:49+00:00 — [Portainer alternatives. What are you using?](https://www.reddit.com/r/selfhosted/comments/1uum8fn/portainer_alternatives_what_are_you_using/)
 - 2026-07-12T22:46:30+00:00 — [Self-hosting security (or, how can I add an extra layer of security)?](https://www.reddit.com/r/selfhosted/comments/1uutzop/selfhosting_security_or_how_can_i_add_an_extra/)
@@ -95,16 +107,4 @@ Last update: 2026-07-13 10:46 UTC
 - 2026-07-04T08:04:10+00:00 — [Help! Beszel Podman agent connected, host metrics work, but Podman containers on Bazzite don’t show up](https://www.reddit.com/r/selfhosted/comments/1un39lk/help_beszel_podman_agent_connected_host_metrics/)
 - 2026-07-03T12:14:05+00:00 — [Pangolin appreciation post to expose selfhosted stack at new CGNAT ISP](https://www.reddit.com/r/selfhosted/comments/1umcu4c/pangolin_appreciation_post_to_expose_selfhosted/)
 - 2026-07-02T19:40:43+00:00 — [Replace YouTube Premium](https://www.reddit.com/r/selfhosted/comments/1ulsc3m/replace_youtube_premium/)
-- 2026-07-03T19:11:04+00:00 — [Porkbun requires ID verification, are there any other registrars that are not big tech, reliable and don't require ID verification?](https://www.reddit.com/r/selfhosted/comments/1umnaqp/porkbun_requires_id_verification_are_there_any/)
-- 2026-07-03T17:23:11+00:00 — [MiniPC + K3s - Hosting K8s Labs for friends. Suggestions Appreciated](https://www.reddit.com/r/selfhosted/comments/1umkixe/minipc_k3s_hosting_k8s_labs_for_friends/)
-- 2026-07-03T22:03:41+00:00 — [Always need more fans!](https://www.reddit.com/r/selfhosted/comments/1umrih8/always_need_more_fans/)
-- 2026-07-03T19:32:33+00:00 — [Issue with DuckDNS on OMV + Docker + Jellyfin Compose Setup](https://www.reddit.com/r/selfhosted/comments/1umntzq/issue_with_duckdns_on_omv_docker_jellyfin_compose/)
-- 2026-07-03T09:00:57+00:00 — [Ai providers in self hosted solutions](https://www.reddit.com/r/selfhosted/comments/1um97vz/ai_providers_in_self_hosted_solutions/)
-- Fri, 03 Jul 2026 10:10:26 +0000 — [Cómo construir un agente de IA con LangChain.js y NestJS: tutorial completo](https://dev.to/adriancolom/como-construir-un-agente-de-ia-con-langchainjs-y-nestjs-tutorial-completo-f6p)
-- 2026-07-02T14:58:33+00:00 — [What’s the best self-hosted knowledge base for a small company?](https://www.reddit.com/r/selfhosted/comments/1ulkm5e/whats_the_best_selfhosted_knowledge_base_for_a/)
-- 2026-07-02T10:57:52+00:00 — [What's the leanest OS for multipurpose?](https://www.reddit.com/r/selfhosted/comments/1ulezh3/whats_the_leanest_os_for_multipurpose/)
-- 2026-07-03T02:19:47+00:00 — [Jellyfin buffering](https://www.reddit.com/r/selfhosted/comments/1um1qfx/jellyfin_buffering/)
-- 2026-07-02T08:10:26+00:00 — [Facet - local, open-source photo scoring/culling engine with a web gallery (no cloud, MIT license)](https://www.reddit.com/r/selfhosted/comments/1ulc2ej/facet_local_opensource_photo_scoringculling/)
-- 2026-07-01T13:20:49+00:00 — [GeoPulse - selfhosted alternative to Google Timeline - big updates](https://www.reddit.com/r/selfhosted/comments/1ukljop/geopulse_selfhosted_alternative_to_google/)
-- Thu, 02 Jul 2026 09:59:26 +0000 — [Choosing an EU-Hosted Inference Provider: A 2026 Comparison](https://dev.to/valeria_bernhardt_c9473b7/choosing-an-eu-hosted-inference-provider-a-2026-comparison-5d5h)
 <!-- NEWS END -->
