@@ -2,19 +2,33 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-14 09:42 UTC
+Last update: 2026-07-15 09:46 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-07-15T05:47:55+00:00 — [Wireguard for remote access in Docker or bare-metal?](https://www.reddit.com/r/selfhosted/comments/1uwwz5n/wireguard_for_remote_access_in_docker_or_baremetal/)
+- 2026-07-15T03:32:55+00:00 — [Uptime](https://www.reddit.com/r/selfhosted/comments/1uwucha/uptime/)
+- 2026-07-14T04:13:00+00:00 — [PSA: UPnP and UGREEN NAS](https://www.reddit.com/r/selfhosted/comments/1uvy3tu/psa_upnp_and_ugreen_nas/)
+- 2026-07-14T17:49:37+00:00 — [I made my first "real" server!](https://www.reddit.com/r/selfhosted/comments/1uwfwgm/i_made_my_first_real_server/)
+- 2026-07-15T02:00:34+00:00 — [Stratora post-GA update: VMware, Hyper-V and Proxmox monitoring are now released](https://www.reddit.com/r/selfhosted/comments/1uwsefh/stratora_postga_update_vmware_hyperv_and_proxmox/)
+- 2026-07-14T20:00:35+00:00 — [got a £43 optiplex 3050 micro on ebay. 16gb + single 8tb, no parity. talk me out of it](https://www.reddit.com/r/selfhosted/comments/1uwjkcl/got_a_43_optiplex_3050_micro_on_ebay_16gb_single/)
+- 2026-07-14T08:12:44+00:00 — [How to bypass Cloudflare Tunnel 100MB limit for Immich/Storage behind CGNAT?](https://www.reddit.com/r/selfhosted/comments/1uw2gh9/how_to_bypass_cloudflare_tunnel_100mb_limit_for/)
+- 2026-07-15T04:28:09+00:00 — [Need advice: Hostinger VPS vs AWS EC2 for a production School ERP](https://www.reddit.com/r/selfhosted/comments/1uwvgmz/need_advice_hostinger_vps_vs_aws_ec2_for_a/)
+- 2026-07-14T20:15:16+00:00 — [Proxmox Backup Server with PI/NFS … is it possible?](https://www.reddit.com/r/selfhosted/comments/1uwjyyj/proxmox_backup_server_with_pinfs_is_it_possible/)
+- 2026-07-14T13:50:50+00:00 — [Streamscope: a live Twitch stream recorder](https://www.reddit.com/r/selfhosted/comments/1uw9agg/streamscope_a_live_twitch_stream_recorder/)
+- 2026-07-14T04:34:51+00:00 — [To be or not to be ...H200](https://www.reddit.com/r/selfhosted/comments/1uvyiwi/to_be_or_not_to_be_h200/)
+- 2026-07-13T17:51:37+00:00 — [Degree vs Certs Dilemma: Is a 4-year CS degree worth $15k (20M IQD) if I already have live cloud projects and a home lab at 19?](https://www.reddit.com/r/devops/comments/1uvisng/degree_vs_certs_dilemma_is_a_4year_cs_degree/)
+- 2026-07-12T11:22:54+00:00 — [The whole frontend + backend + db split in k8s, help](https://www.reddit.com/r/devops/comments/1uucsj2/the_whole_frontend_backend_db_split_in_k8s_help/)
+- 2026-07-12T08:59:43+00:00 — [What Jenkins Agent Architecture Are You Using in Production in 2026?](https://www.reddit.com/r/devops/comments/1uua7n4/what_jenkins_agent_architecture_are_you_using_in/)
+- 2026-07-11T04:54:25+00:00 — [Learning Observability](https://www.reddit.com/r/devops/comments/1utalh7/learning_observability/)
+- 2026-07-12T16:38:34+00:00 — [Article: Model caching for AI workloads on GKE/Kubernetes without re-downloading weights](https://www.reddit.com/r/devops/comments/1uuke1c/article_model_caching_for_ai_workloads_on/)
+- 2026-07-11T11:30:55+00:00 — [what other DevOps at scale skills can I learn, and what my direction should be?](https://www.reddit.com/r/devops/comments/1uthmj6/what_other_devops_at_scale_skills_can_i_learn_and/)
 - Tue, 14 Jul 2026 09:33:23 +0000 — [This Week in AI: GPT-5.6 Lands, Agent Infrastructure Matures, and the Model War Heats Up](https://dev.to/nerdhead_01/this-week-in-ai-gpt-56-lands-agent-infrastructure-matures-and-the-model-war-heats-up-17dg)
 - Tue, 14 Jul 2026 09:24:39 +0000 — [React Native + Expo JWT Auth with FastAPI — A Complete Working Example](https://dev.to/dhairya_senjaliya_955aef4/react-native-expo-jwt-auth-with-fastapi-a-complete-working-example-3akf)
 - Tue, 14 Jul 2026 09:16:34 +0000 — [Vercel + Lovable, GPT-5.6 multiagent, curl security patch — Dev Signal #64](https://dev.to/devsignal/vercel-lovable-gpt-56-multiagent-curl-security-patch-dev-signal-64-3d2b)
-- 2026-07-14T04:13:00+00:00 — [PSA: UPnP and UGREEN NAS](https://www.reddit.com/r/selfhosted/comments/1uvy3tu/psa_upnp_and_ugreen_nas/)
-- 2026-07-14T08:12:44+00:00 — [How to bypass Cloudflare Tunnel 100MB limit for Immich/Storage behind CGNAT?](https://www.reddit.com/r/selfhosted/comments/1uw2gh9/how_to_bypass_cloudflare_tunnel_100mb_limit_for/)
 - 2026-07-14T08:47:02+00:00 — [I built a free, self-hostable 3D point cloud viewer (Docker) — looking for feedback](https://www.reddit.com/r/selfhosted/comments/1uw31e7/i_built_a_free_selfhostable_3d_point_cloud_viewer/)
 - 2026-07-13T20:51:16+00:00 — [Grimoire v1.5.0 - Added audio support](https://www.reddit.com/r/selfhosted/comments/1uvnv6s/grimoire_v150_added_audio_support/)
-- 2026-07-14T04:34:51+00:00 — [To be or not to be ...H200](https://www.reddit.com/r/selfhosted/comments/1uvyiwi/to_be_or_not_to_be_h200/)
 - 2026-07-13T19:28:44+00:00 — [Automated Local Networking Scanning](https://www.reddit.com/r/selfhosted/comments/1uvljvl/automated_local_networking_scanning/)
 - 2026-07-13T21:33:14+00:00 — [Advice needed for multiple self hosted apps (seafile, frigate, immich, etc)](https://www.reddit.com/r/selfhosted/comments/1uvozsc/advice_needed_for_multiple_self_hosted_apps/)
 - 2026-07-13T11:16:36+00:00 — [Would you move this homelab off your daily driver onto a dedicated mini PC?](https://www.reddit.com/r/selfhosted/comments/1uv8n5y/would_you_move_this_homelab_off_your_daily_driver/)
@@ -93,18 +107,4 @@ Last update: 2026-07-14 09:42 UTC
 - 2026-07-05T15:56:09+00:00 — [Portabase now supports Docker volume backup and restore](https://www.reddit.com/r/selfhosted/comments/1uo5pwd/portabase_now_supports_docker_volume_backup_and/)
 - 2026-07-06T09:05:27+00:00 — [Opinion on possible future project i could be developing](https://www.reddit.com/r/selfhosted/comments/1uos02l/opinion_on_possible_future_project_i_could_be/)
 - 2026-07-05T20:41:38+00:00 — [Reticle - The infrastructure diagram you can operate.](https://www.reddit.com/r/selfhosted/comments/1uocww3/reticle_the_infrastructure_diagram_you_can_operate/)
-- Sun, 05 Jul 2026 09:35:36 +0000 — [Cron jobs and schedulers with BullMQ](https://dev.to/zsevic/cron-jobs-and-schedulers-with-bullmq-405a)
-- 2026-07-05T09:08:54+00:00 — [How are you guys sandboxing local-first voice terminals from sensitive smart home entities?](https://www.reddit.com/r/selfhosted/comments/1unxh4h/how_are_you_guys_sandboxing_localfirst_voice/)
-- 2026-07-05T08:37:50+00:00 — [Best "easy" self hosted solutions/managers in 2026?](https://www.reddit.com/r/selfhosted/comments/1unwyua/best_easy_self_hosted_solutionsmanagers_in_2026/)
-- 2026-07-05T06:39:36+00:00 — [Best docker + iOS music server](https://www.reddit.com/r/selfhosted/comments/1unuzsd/best_docker_ios_music_server/)
-- 2026-07-05T08:12:24+00:00 — [Music Stack Advice](https://www.reddit.com/r/selfhosted/comments/1unwjut/music_stack_advice/)
-- 2026-07-05T03:07:37+00:00 — [Jellyfin, Nginx and Cloudflare running in Docker, Connection Refused Issue](https://www.reddit.com/r/selfhosted/comments/1unr9d8/jellyfin_nginx_and_cloudflare_running_in_docker/)
-- 2026-07-05T09:13:42+00:00 — [I replaced Mapbox, Nominatim, and Apple Maps with a self-hosted map stack for ~€16/mo](https://www.reddit.com/r/selfhosted/comments/1unxjwn/i_replaced_mapbox_nominatim_and_apple_maps_with_a/)
-- Sat, 04 Jul 2026 09:43:52 +0000 — [Deploying Agents: Containers, Orchestration, and Scaling the Loop](https://dev.to/gabrielanhaia/deploying-agents-containers-orchestration-and-scaling-the-loop-44go)
-- Sat, 04 Jul 2026 09:36:17 +0000 — [Picking an Agent Framework in 2026: An Honest Verdict on Six of Them](https://dev.to/gabrielanhaia/picking-an-agent-framework-in-2026-an-honest-verdict-on-six-of-them-1a6h)
-- Sat, 04 Jul 2026 09:35:13 +0000 — [Pydantic AI: Typed, Testable Agents for Engineers Who Like Guarantees](https://dev.to/gabrielanhaia/pydantic-ai-typed-testable-agents-for-engineers-who-like-guarantees-2cim)
-- 2026-07-04T08:09:37+00:00 — [up time kuma needs firewall Open on 53,80,443?](https://www.reddit.com/r/selfhosted/comments/1un3cvv/up_time_kuma_needs_firewall_open_on_5380443/)
-- 2026-07-04T08:04:10+00:00 — [Help! Beszel Podman agent connected, host metrics work, but Podman containers on Bazzite don’t show up](https://www.reddit.com/r/selfhosted/comments/1un39lk/help_beszel_podman_agent_connected_host_metrics/)
-- 2026-07-03T12:14:05+00:00 — [Pangolin appreciation post to expose selfhosted stack at new CGNAT ISP](https://www.reddit.com/r/selfhosted/comments/1umcu4c/pangolin_appreciation_post_to_expose_selfhosted/)
-- 2026-07-02T19:40:43+00:00 — [Replace YouTube Premium](https://www.reddit.com/r/selfhosted/comments/1ulsc3m/replace_youtube_premium/)
 <!-- NEWS END -->
