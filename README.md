@@ -2,11 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-15 09:46 UTC
+Last update: 2026-07-16 09:51 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 11 Jul 2026 13:47:47 +0000 — [Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes](https://www.petekeen.net/homelab-resolved/)
+- Thu, 16 Jul 2026 09:20:40 +0000 — [Inkling MoE + Agent Safety: Token Efficiency Meets Reliability](https://dev.to/devsignal/inkling-moe-agent-safety-token-efficiency-meets-reliability-4poj)
+- Thu, 16 Jul 2026 09:14:41 +0000 — [I Deleted Cursor, Copilot, and Windsurf. Here Is What I Use Instead.](https://dev.to/jarynagent/i-deleted-cursor-copilot-and-windsurf-here-is-what-i-use-instead-2bfi)
+- 2026-07-15T14:54:03+00:00 — [Tinyauth is now an OpenID Connect™ Certified provider!](https://www.reddit.com/r/selfhosted/comments/1ux85m8/tinyauth_is_now_an_openid_connect_certified/)
+- 2026-07-15T23:41:51+00:00 — [cronstable: cron with a web UI, durable state, DAGs, clustering, MCP server, and way more](https://www.reddit.com/r/selfhosted/comments/1uxmdji/cronstable_cron_with_a_web_ui_durable_state_dags/)
+- 2026-07-15T21:23:32+00:00 — [best VPS for small projects](https://www.reddit.com/r/selfhosted/comments/1uxit6o/best_vps_for_small_projects/)
+- 2026-07-15T11:11:49+00:00 — [I built Nightingale — self-hosted karaoke from your own music library, powered by local ML. No cloud, 100% free, single binary.](https://www.reddit.com/r/selfhosted/comments/1ux2te3/i_built_nightingale_selfhosted_karaoke_from_your/)
+- 2026-07-15T22:32:52+00:00 — [Backrest is set up, but I have no idea how I'd actually restore if the box dies](https://www.reddit.com/r/selfhosted/comments/1uxkopf/backrest_is_set_up_but_i_have_no_idea_how_id/)
 - 2026-07-15T05:47:55+00:00 — [Wireguard for remote access in Docker or bare-metal?](https://www.reddit.com/r/selfhosted/comments/1uwwz5n/wireguard_for_remote_access_in_docker_or_baremetal/)
 - 2026-07-15T03:32:55+00:00 — [Uptime](https://www.reddit.com/r/selfhosted/comments/1uwucha/uptime/)
 - 2026-07-14T04:13:00+00:00 — [PSA: UPnP and UGREEN NAS](https://www.reddit.com/r/selfhosted/comments/1uvy3tu/psa_upnp_and_ugreen_nas/)
@@ -99,12 +107,4 @@ Last update: 2026-07-15 09:46 UTC
 - 2026-07-07T09:33:08+00:00 — [AreaWP — A Docker-Based Panel for Agencies to sell and monetize WordPress Sites (WaaS/SaaS)](https://www.reddit.com/r/selfhosted/comments/1upq2dq/areawp_a_dockerbased_panel_for_agencies_to_sell/)
 - 2026-07-06T14:35:01+00:00 — [Looking for a self-hosted wiki for my homelab](https://www.reddit.com/r/selfhosted/comments/1uoz4m9/looking_for_a_selfhosted_wiki_for_my_homelab/)
 - Mon, 06 Jul 2026 11:45:30 +0000 — [The Performance Illusion](https://dev.to/ezmu/the-performance-illusion-m9i)
-- Mon, 06 Jul 2026 11:42:59 +0000 — [Onboard OpenClaw agents with IdentyClaw Passport: A2A, webhooks, and multi-tenant collaboration](https://dev.to/discernible-io/onboard-openclaw-agents-with-identyclaw-passport-a2a-webhooks-and-multi-tenant-collaboration-3i4k)
-- 2026-07-05T17:42:54+00:00 — [Papra v26.6.0 - AI auto-tagging, external document content extraction, and more!](https://www.reddit.com/r/selfhosted/comments/1uo8esb/papra_v2660_ai_autotagging_external_document/)
-- 2026-07-05T08:31:58+00:00 — [Starting my homelab by writing the handbook before the cluster](https://www.reddit.com/r/selfhosted/comments/1unwvkc/starting_my_homelab_by_writing_the_handbook/)
-- 2026-07-06T05:38:52+00:00 — [Jellyfin + arr stack run on Proxmox or NAS](https://www.reddit.com/r/selfhosted/comments/1uoogix/jellyfin_arr_stack_run_on_proxmox_or_nas/)
-- 2026-07-05T02:46:10+00:00 — [Self Hosted Manga/Comics Downloader](https://www.reddit.com/r/selfhosted/comments/1unqvc4/self_hosted_mangacomics_downloader/)
-- 2026-07-05T15:56:09+00:00 — [Portabase now supports Docker volume backup and restore](https://www.reddit.com/r/selfhosted/comments/1uo5pwd/portabase_now_supports_docker_volume_backup_and/)
-- 2026-07-06T09:05:27+00:00 — [Opinion on possible future project i could be developing](https://www.reddit.com/r/selfhosted/comments/1uos02l/opinion_on_possible_future_project_i_could_be/)
-- 2026-07-05T20:41:38+00:00 — [Reticle - The infrastructure diagram you can operate.](https://www.reddit.com/r/selfhosted/comments/1uocww3/reticle_the_infrastructure_diagram_you_can_operate/)
 <!-- NEWS END -->
