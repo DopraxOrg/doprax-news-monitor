@@ -2,11 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-16 09:51 UTC
+Last update: 2026-07-17 09:42 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 17 Jul 2026 09:17:04 +0000 — [Kimi K3 Open Weights, Node.js 26 Temporal, and the Week Tooling Got Serious](https://dev.to/devsignal/kimi-k3-open-weights-nodejs-26-temporal-and-the-week-tooling-got-serious-38l5)
+- Fri, 17 Jul 2026 09:08:29 +0000 — [AI agent python ollama: Build, Test, Deploy with FastAPI](https://dev.to/ayush_kumar_085a0f2c54e3f/ai-agent-python-ollama-build-test-deploy-with-fastapi-3ho2)
+- Fri, 17 Jul 2026 09:06:53 +0000 — [Magento 2 Peak Traffic Preparation: Scaling for Black Friday and High-Events](https://dev.to/magevanta/magento-2-peak-traffic-preparation-scaling-for-black-friday-and-high-events-4l64)
+- 2026-07-16T22:01:12+00:00 — [New Project Megathread - Week of 16 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1uygu4t/new_project_megathread_week_of_16_jul_2026/)
+- 2026-07-17T00:36:09+00:00 — [Is it worth moving from docker to podman? Where can I find good resourced to learn podman?](https://www.reddit.com/r/selfhosted/comments/1uykiu5/is_it_worth_moving_from_docker_to_podman_where/)
+- 2026-07-17T06:29:05+00:00 — [Rate my setup (not great, not terrible)](https://www.reddit.com/r/selfhosted/comments/1uyrpdu/rate_my_setup_not_great_not_terrible/)
+- 2026-07-17T06:15:24+00:00 — [Need a very reliable SYNC method across various devices including SETTINGS, CONFIGS and PLUGINS for Obsidian Notetaking app](https://www.reddit.com/r/selfhosted/comments/1uyrgfc/need_a_very_reliable_sync_method_across_various/)
+- 2026-07-16T16:35:21+00:00 — [Portabase 1.24: redesigned dashboard KPIs, telemetry and safer deletions on data](https://www.reddit.com/r/selfhosted/comments/1uy7y2e/portabase_124_redesigned_dashboard_kpis_telemetry/)
+- 2026-07-16T12:43:02+00:00 — [What do I do with 6 leftover Pis?](https://www.reddit.com/r/selfhosted/comments/1uy1sp8/what_do_i_do_with_6_leftover_pis/)
+- 2026-07-16T15:39:35+00:00 — [Alternative solution for a VPS / Cloudflare tunnel?](https://www.reddit.com/r/selfhosted/comments/1uy6ebk/alternative_solution_for_a_vps_cloudflare_tunnel/)
+- 2026-07-16T16:11:24+00:00 — [Can someone help explain how a VPN may affect a reverse proxy](https://www.reddit.com/r/selfhosted/comments/1uy7a90/can_someone_help_explain_how_a_vpn_may_affect_a/)
 - Sat, 11 Jul 2026 13:47:47 +0000 — [Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes](https://www.petekeen.net/homelab-resolved/)
 - Thu, 16 Jul 2026 09:20:40 +0000 — [Inkling MoE + Agent Safety: Token Efficiency Meets Reliability](https://dev.to/devsignal/inkling-moe-agent-safety-token-efficiency-meets-reliability-4poj)
 - Thu, 16 Jul 2026 09:14:41 +0000 — [I Deleted Cursor, Copilot, and Windsurf. Here Is What I Use Instead.](https://dev.to/jarynagent/i-deleted-cursor-copilot-and-windsurf-here-is-what-i-use-instead-2bfi)
@@ -96,15 +107,4 @@ Last update: 2026-07-16 09:51 UTC
 - 2026-07-08T01:07:08+00:00 — [yacron2 - an almost overengineered cron](https://www.reddit.com/r/selfhosted/comments/1uqe2pq/yacron2_an_almost_overengineered_cron/)
 - 2026-07-08T04:15:29+00:00 — [Is a refurbished Dell Optiplex Micro (i5-10500T) a good starting point for a CS student? Plans for a gradual upgrade path.](https://www.reddit.com/r/selfhosted/comments/1uqi2w4/is_a_refurbished_dell_optiplex_micro_i510500t_a/)
 - 2026-07-07T14:08:25+00:00 — [Now that Minimus went free too, how are you choosing between the free hardened image options?](https://www.reddit.com/r/selfhosted/comments/1upw6yz/now_that_minimus_went_free_too_how_are_you/)
-- 2026-07-07T16:19:50+00:00 — [OneSearch v1.3.0: Update with true interval schedules and everything since the v1.0 post](https://www.reddit.com/r/selfhosted/comments/1upzwm4/onesearch_v130_update_with_true_interval/)
-- 2026-07-07T03:03:21+00:00 — [RelayTV – self-hosted "cast any link to the TV" runtime with an HTTP API, Home Assistant integration, and a built-in Jellyfin client (Docker, GPL-3.0)](https://www.reddit.com/r/selfhosted/comments/1upiu39/relaytv_selfhosted_cast_any_link_to_the_tv/)
-- 2026-07-07T09:07:44+00:00 — [Wireguard vs Cloudflare tunnel? (for my case)](https://www.reddit.com/r/selfhosted/comments/1uppmfr/wireguard_vs_cloudflare_tunnel_for_my_case/)
-- 2026-07-06T20:50:29+00:00 — [I Selfhosted Vaultwarden on Amazon Echo Show 5 (2nd gen) via LineageOS 18.1 [Jailbroken]](https://www.reddit.com/r/selfhosted/comments/1up9slw/i_selfhosted_vaultwarden_on_amazon_echo_show_5/)
-- 2026-07-06T19:31:08+00:00 — [Showing my appreciation for this community!](https://www.reddit.com/r/selfhosted/comments/1up7mm5/showing_my_appreciation_for_this_community/)
-- 2026-07-06T16:59:29+00:00 — [ISO Simple IPAM Tool](https://www.reddit.com/r/selfhosted/comments/1up38b4/iso_simple_ipam_tool/)
-- 2026-07-07T02:26:04+00:00 — [Need recommendations fo proxmox backup from lvmthin to either borg/restic/something else?](https://www.reddit.com/r/selfhosted/comments/1upi0jy/need_recommendations_fo_proxmox_backup_from/)
-- 2026-07-05T17:30:10+00:00 — [Im going to China, could I use my home PC/Server as a VPN to Bypass the Great Firewall?](https://www.reddit.com/r/selfhosted/comments/1uo83d8/im_going_to_china_could_i_use_my_home_pcserver_as/)
-- 2026-07-07T09:33:08+00:00 — [AreaWP — A Docker-Based Panel for Agencies to sell and monetize WordPress Sites (WaaS/SaaS)](https://www.reddit.com/r/selfhosted/comments/1upq2dq/areawp_a_dockerbased_panel_for_agencies_to_sell/)
-- 2026-07-06T14:35:01+00:00 — [Looking for a self-hosted wiki for my homelab](https://www.reddit.com/r/selfhosted/comments/1uoz4m9/looking_for_a_selfhosted_wiki_for_my_homelab/)
-- Mon, 06 Jul 2026 11:45:30 +0000 — [The Performance Illusion](https://dev.to/ezmu/the-performance-illusion-m9i)
 <!-- NEWS END -->
