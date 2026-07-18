@@ -2,19 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-17 09:42 UTC
+Last update: 2026-07-18 09:13 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-07-18T00:44:13+00:00 — [LAN Orangutan Self-hosted network discovery for homelabbers v3.0.1 is out](https://www.reddit.com/r/selfhosted/comments/1uzhd21/lan_orangutan_selfhosted_network_discovery_for/)
+- 2026-07-18T02:28:09+00:00 — [What would you use this for?](https://www.reddit.com/r/selfhosted/comments/1uzjjh6/what_would_you_use_this_for/)
+- 2026-07-18T08:17:51+00:00 — [How to prevent client-side internet connection of selfhosted apps?](https://www.reddit.com/r/selfhosted/comments/1uzq4q2/how_to_prevent_clientside_internet_connection_of/)
+- 2026-07-17T16:14:50+00:00 — [My compact home server setup](https://www.reddit.com/r/selfhosted/comments/1uz48km/my_compact_home_server_setup/)
+- 2026-07-17T06:29:05+00:00 — [Rate my setup (not great, not terrible)](https://www.reddit.com/r/selfhosted/comments/1uyrpdu/rate_my_setup_not_great_not_terrible/)
+- 2026-07-17T13:12:22+00:00 — [nzb360 v24 Released :: Now with Radarr 2.0!](https://www.reddit.com/r/selfhosted/comments/1uyzcnn/nzb360_v24_released_now_with_radarr_20/)
+- 2026-07-17T00:36:09+00:00 — [Is it worth moving from docker to podman? Where can I find good resourced to learn podman?](https://www.reddit.com/r/selfhosted/comments/1uykiu5/is_it_worth_moving_from_docker_to_podman_where/)
+- 2026-07-17T16:16:34+00:00 — [Tailscale sidecar on Plex container vs. separate Plex LXC with bare-metal Tailscale (circumventing CGNAT)](https://www.reddit.com/r/selfhosted/comments/1uz4aai/tailscale_sidecar_on_plex_container_vs_separate/)
+- 2026-07-17T14:06:56+00:00 — [A good way to backup Vaultwarden for EXTREME recovery (like having a brand new laptop on travel) ?](https://www.reddit.com/r/selfhosted/comments/1uz0rq9/a_good_way_to_backup_vaultwarden_for_extreme/)
+- 2026-07-17T18:44:25+00:00 — [Trying to get Joplin on iphone to sync through webdav to seafile hosted on a docker in linux mint and all connected to tailscale.](https://www.reddit.com/r/selfhosted/comments/1uz8f2y/trying_to_get_joplin_on_iphone_to_sync_through/)
+- 2026-07-17T06:15:24+00:00 — [Need a very reliable SYNC method across various devices including SETTINGS, CONFIGS and PLUGINS for Obsidian Notetaking app](https://www.reddit.com/r/selfhosted/comments/1uyrgfc/need_a_very_reliable_sync_method_across_various/)
+- 2026-07-16T22:01:12+00:00 — [New Project Megathread - Week of 16 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1uygu4t/new_project_megathread_week_of_16_jul_2026/)
+- 2026-07-17T14:39:52+00:00 — [Public IP vs Domain](https://www.reddit.com/r/selfhosted/comments/1uz1nka/public_ip_vs_domain/)
+- 2026-07-16T16:35:21+00:00 — [Portabase 1.24: redesigned dashboard KPIs, telemetry and safer deletions on data](https://www.reddit.com/r/selfhosted/comments/1uy7y2e/portabase_124_redesigned_dashboard_kpis_telemetry/)
+- 2026-07-17T22:50:39+00:00 — [I’m Considering Switching to Windows, Am I An Idiot?](https://www.reddit.com/r/selfhosted/comments/1uzermj/im_considering_switching_to_windows_am_i_an_idiot/)
 - Fri, 17 Jul 2026 09:17:04 +0000 — [Kimi K3 Open Weights, Node.js 26 Temporal, and the Week Tooling Got Serious](https://dev.to/devsignal/kimi-k3-open-weights-nodejs-26-temporal-and-the-week-tooling-got-serious-38l5)
 - Fri, 17 Jul 2026 09:08:29 +0000 — [AI agent python ollama: Build, Test, Deploy with FastAPI](https://dev.to/ayush_kumar_085a0f2c54e3f/ai-agent-python-ollama-build-test-deploy-with-fastapi-3ho2)
 - Fri, 17 Jul 2026 09:06:53 +0000 — [Magento 2 Peak Traffic Preparation: Scaling for Black Friday and High-Events](https://dev.to/magevanta/magento-2-peak-traffic-preparation-scaling-for-black-friday-and-high-events-4l64)
-- 2026-07-16T22:01:12+00:00 — [New Project Megathread - Week of 16 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1uygu4t/new_project_megathread_week_of_16_jul_2026/)
-- 2026-07-17T00:36:09+00:00 — [Is it worth moving from docker to podman? Where can I find good resourced to learn podman?](https://www.reddit.com/r/selfhosted/comments/1uykiu5/is_it_worth_moving_from_docker_to_podman_where/)
-- 2026-07-17T06:29:05+00:00 — [Rate my setup (not great, not terrible)](https://www.reddit.com/r/selfhosted/comments/1uyrpdu/rate_my_setup_not_great_not_terrible/)
-- 2026-07-17T06:15:24+00:00 — [Need a very reliable SYNC method across various devices including SETTINGS, CONFIGS and PLUGINS for Obsidian Notetaking app](https://www.reddit.com/r/selfhosted/comments/1uyrgfc/need_a_very_reliable_sync_method_across_various/)
-- 2026-07-16T16:35:21+00:00 — [Portabase 1.24: redesigned dashboard KPIs, telemetry and safer deletions on data](https://www.reddit.com/r/selfhosted/comments/1uy7y2e/portabase_124_redesigned_dashboard_kpis_telemetry/)
 - 2026-07-16T12:43:02+00:00 — [What do I do with 6 leftover Pis?](https://www.reddit.com/r/selfhosted/comments/1uy1sp8/what_do_i_do_with_6_leftover_pis/)
 - 2026-07-16T15:39:35+00:00 — [Alternative solution for a VPS / Cloudflare tunnel?](https://www.reddit.com/r/selfhosted/comments/1uy6ebk/alternative_solution_for_a_vps_cloudflare_tunnel/)
 - 2026-07-16T16:11:24+00:00 — [Can someone help explain how a VPN may affect a reverse proxy](https://www.reddit.com/r/selfhosted/comments/1uy7a90/can_someone_help_explain_how_a_vpn_may_affect_a/)
@@ -97,14 +107,4 @@ Last update: 2026-07-17 09:42 UTC
 - Thu, 09 Jul 2026 10:00:46 +0000 — [Batch PDF Verification at Scale: Async Queue Patterns for the HTPBE API](https://dev.to/iurii_rogulia/batch-pdf-verification-at-scale-async-queue-patterns-for-the-htpbe-api-3jam)
 - 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
 - 2026-07-09T07:23:22+00:00 — [self hosted wiki in multiple languages](https://www.reddit.com/r/selfhosted/comments/1urj3hv/self_hosted_wiki_in_multiple_languages/)
-- 2026-07-08T04:01:39+00:00 — [Is this normal? Docker images taking up too much memory over time](https://www.reddit.com/r/selfhosted/comments/1uqhsy7/is_this_normal_docker_images_taking_up_too_much/)
-- Wed, 08 Jul 2026 09:53:10 +0000 — [3 Key Advantages of Cloudflare Tunnel for Self-Hosted Services](https://dev.to/merbayerp/3-key-advantages-of-cloudflare-tunnel-for-self-hosted-services-41lo)
-- Wed, 08 Jul 2026 09:50:22 +0000 — [Install Docker on Ubuntu: APT, Snap, Rootless — Complete Guide 2026](https://dev.to/rosgluk/install-docker-on-ubuntu-apt-snap-rootless-complete-guide-2026-4g35)
-- Wed, 08 Jul 2026 09:45:17 +0000 — [Local LLM Setup with Ollama: Keep Your Data Secure](https://dev.to/merbayerp/local-llm-setup-with-ollama-keep-your-data-secure-3fpf)
-- Wed, 08 Jul 2026 09:41:47 +0000 — [Debezium vs Managed CDC: How to Actually Decide Between Build and Buy](https://dev.to/techsourabh/debezium-vs-managed-cdc-how-to-actually-decide-between-build-and-buy-35oc)
-- 2026-07-07T20:43:14+00:00 — [My current homelab after a few months… (read: years) of tinkering.](https://www.reddit.com/r/selfhosted/comments/1uq7g5v/my_current_homelab_after_a_few_months_read_years/)
-- 2026-07-07T14:53:20+00:00 — [I've been building a self-hosted Markdown knowledge base for the past few years. Here's where it's at today.](https://www.reddit.com/r/selfhosted/comments/1upxfsd/ive_been_building_a_selfhosted_markdown_knowledge/)
-- 2026-07-08T01:07:08+00:00 — [yacron2 - an almost overengineered cron](https://www.reddit.com/r/selfhosted/comments/1uqe2pq/yacron2_an_almost_overengineered_cron/)
-- 2026-07-08T04:15:29+00:00 — [Is a refurbished Dell Optiplex Micro (i5-10500T) a good starting point for a CS student? Plans for a gradual upgrade path.](https://www.reddit.com/r/selfhosted/comments/1uqi2w4/is_a_refurbished_dell_optiplex_micro_i510500t_a/)
-- 2026-07-07T14:08:25+00:00 — [Now that Minimus went free too, how are you choosing between the free hardened image options?](https://www.reddit.com/r/selfhosted/comments/1upw6yz/now_that_minimus_went_free_too_how_are_you/)
 <!-- NEWS END -->
