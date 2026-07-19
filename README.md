@@ -2,14 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-18 09:13 UTC
+Last update: 2026-07-19 09:41 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 19 Jul 2026 08:56:20 +0000 — [cidx v2.1.0 — the most useful output of a release was its seven bug reports](https://dev.to/arcker/cidx-v210-the-most-useful-output-of-a-release-was-its-seven-bug-reports-43lf)
+- 2026-07-18T18:38:57+00:00 — [My Lovable-like startup died, so I open-sourced its engine — one home for all open-source apps and coding agents](https://www.reddit.com/r/selfhosted/comments/1v03q1p/my_lovablelike_startup_died_so_i_opensourced_its/)
+- 2026-07-18T19:31:45+00:00 — [Migrating from Ubuntu to Proxmox, looking for suggestions](https://www.reddit.com/r/selfhosted/comments/1v052bu/migrating_from_ubuntu_to_proxmox_looking_for/)
+- 2026-07-18T16:18:27+00:00 — [Creating a self-hosted media server as a tech illiterate beginner](https://www.reddit.com/r/selfhosted/comments/1v00488/creating_a_selfhosted_media_server_as_a_tech/)
+- 2026-07-18T08:17:51+00:00 — [How to prevent client-side internet connection of selfhosted apps?](https://www.reddit.com/r/selfhosted/comments/1uzq4q2/how_to_prevent_clientside_internet_connection_of/)
+- 2026-07-18T12:32:01+00:00 — [Raspberry Pi's](https://www.reddit.com/r/selfhosted/comments/1uzuo54/raspberry_pis/)
+- 2026-07-18T16:18:55+00:00 — [docker-thunderbird for CalDAV/CardDAV](https://www.reddit.com/r/selfhosted/comments/1v004mq/dockerthunderbird_for_caldavcarddav/)
 - 2026-07-18T00:44:13+00:00 — [LAN Orangutan Self-hosted network discovery for homelabbers v3.0.1 is out](https://www.reddit.com/r/selfhosted/comments/1uzhd21/lan_orangutan_selfhosted_network_discovery_for/)
 - 2026-07-18T02:28:09+00:00 — [What would you use this for?](https://www.reddit.com/r/selfhosted/comments/1uzjjh6/what_would_you_use_this_for/)
-- 2026-07-18T08:17:51+00:00 — [How to prevent client-side internet connection of selfhosted apps?](https://www.reddit.com/r/selfhosted/comments/1uzq4q2/how_to_prevent_clientside_internet_connection_of/)
+- 2026-07-19T06:22:28+00:00 — [Helmarr, “lifetime pro” vs “helmarr pro - lifetime”. Just wondering what’s the difference since I can see them both.](https://www.reddit.com/r/selfhosted/comments/1v0iu7g/helmarr_lifetime_pro_vs_helmarr_pro_lifetime_just/)
+- 2026-07-19T00:56:23+00:00 — [Homelab re-architecture — where I'm at and where I'm headed. Looking for feedback](https://www.reddit.com/r/selfhosted/comments/1v0cl75/homelab_rearchitecture_where_im_at_and_where_im/)
+- 2026-07-19T04:51:54+00:00 — [Self-hosted live chat with a local-AI chatbot — conversations never leave your server](https://www.reddit.com/r/selfhosted/comments/1v0h7j8/selfhosted_live_chat_with_a_localai_chatbot/)
 - 2026-07-17T16:14:50+00:00 — [My compact home server setup](https://www.reddit.com/r/selfhosted/comments/1uz48km/my_compact_home_server_setup/)
 - 2026-07-17T06:29:05+00:00 — [Rate my setup (not great, not terrible)](https://www.reddit.com/r/selfhosted/comments/1uyrpdu/rate_my_setup_not_great_not_terrible/)
 - 2026-07-17T13:12:22+00:00 — [nzb360 v24 Released :: Now with Radarr 2.0!](https://www.reddit.com/r/selfhosted/comments/1uyzcnn/nzb360_v24_released_now_with_radarr_20/)
@@ -98,13 +107,4 @@ Last update: 2026-07-18 09:13 UTC
 - 2026-07-10T22:51:41+00:00 — [Impri – self-hostable human approval inbox for AI agents (MIT, Docker Compose, SQLite)](https://www.reddit.com/r/selfhosted/comments/1ut2vqm/impri_selfhostable_human_approval_inbox_for_ai/)
 - Fri, 10 Jul 2026 10:22:54 +0000 — [I built a production-ready MCP server template so you don't have to — here's the architecture](https://dev.to/leamoreau/i-built-a-production-ready-mcp-server-template-so-you-dont-have-to-heres-the-architecture-2c6i)
 - Fri, 10 Jul 2026 10:20:54 +0000 — [Better Auth Joins Vercel](https://dev.to/erfanebrahimnia/better-auth-joins-vercel-5a97)
-- 2026-07-09T04:14:46+00:00 — [What should i do with a newly built optiplex server?](https://www.reddit.com/r/selfhosted/comments/1urfkp7/what_should_i_do_with_a_newly_built_optiplex/)
-- 2026-07-10T09:10:46+00:00 — [Wanna start self hosting](https://www.reddit.com/r/selfhosted/comments/1usicyv/wanna_start_self_hosting/)
-- 2026-07-08T16:17:15+00:00 — [Wealthfolio v3.6 released: the local-first investment tracker is now a full personal finance app (net worth, spending, goals, FIRE simulations), now with SSO](https://www.reddit.com/r/selfhosted/comments/1uqxe6u/wealthfolio_v36_released_the_localfirst/)
-- Thu, 09 Jul 2026 10:17:39 +0000 — [Why Most AI Agents Still Can't Loop — And That's Why AI Apps Haven't Exploded](https://dev.to/mininglamp/why-most-ai-agents-still-cant-loop-and-thats-why-ai-apps-havent-exploded-56j4)
-- Thu, 09 Jul 2026 10:04:16 +0000 — [HPA vs VPA vs KEDA: Which Kubernetes Autoscaler Actually Cuts Your Cloud Bill](https://dev.to/muskan_bandta/hpa-vs-vpa-vs-keda-which-kubernetes-autoscaler-actually-cuts-your-cloud-bill-2d3h)
-- Thu, 09 Jul 2026 10:02:19 +0000 — [7 Best WhatsApp APIs for Developers in 2026 (Compared)](https://dev.to/kevin_menesesgonzlez/7-best-whatsapp-apis-for-developers-in-2026-compared-f6)
-- Thu, 09 Jul 2026 10:00:46 +0000 — [Batch PDF Verification at Scale: Async Queue Patterns for the HTPBE API](https://dev.to/iurii_rogulia/batch-pdf-verification-at-scale-async-queue-patterns-for-the-htpbe-api-3jam)
-- 2026-07-02T22:01:05+00:00 — [New Project Megathread - Week of 02 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1ulvzjo/new_project_megathread_week_of_02_jul_2026/)
-- 2026-07-09T07:23:22+00:00 — [self hosted wiki in multiple languages](https://www.reddit.com/r/selfhosted/comments/1urj3hv/self_hosted_wiki_in_multiple_languages/)
 <!-- NEWS END -->
