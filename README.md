@@ -2,11 +2,20 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-19 09:41 UTC
+Last update: 2026-07-20 10:37 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 20 Jul 2026 10:11:23 +0000 — [Kubernetes: StatefulSet vs. Deployment](https://dev.to/theyamlguy/kubernetes-statefulset-vs-deployment-nh7)
+- Mon, 20 Jul 2026 10:10:23 +0000 — [Building a Production Grade AWS Infrastructure Project (Part 3): IAM Terraform](https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-part-3-iam-terraform-243a)
+- 2026-07-19T20:42:27+00:00 — [Looking for a good wiki / knowledge base solution.](https://www.reddit.com/r/selfhosted/comments/1v11ami/looking_for_a_good_wiki_knowledge_base_solution/)
+- 2026-07-20T01:17:15+00:00 — [Mental models for securing selfhosted infrastructure](https://www.reddit.com/r/selfhosted/comments/1v17jt4/mental_models_for_securing_selfhosted/)
+- 2026-07-19T10:38:36+00:00 — [My tiny mini-PC does more than it has any right to (Beelink N150, 12GB RAM)](https://www.reddit.com/r/selfhosted/comments/1v0n6yd/my_tiny_minipc_does_more_than_it_has_any_right_to/)
+- 2026-07-20T09:51:34+00:00 — [What vector database has held up for you on a low-RAM box?](https://www.reddit.com/r/selfhosted/comments/1v1gzko/what_vector_database_has_held_up_for_you_on_a/)
+- 2026-07-20T05:09:07+00:00 — [How can I change the Apache Guacamole branding (title and logo)?](https://www.reddit.com/r/selfhosted/comments/1v1c3qq/how_can_i_change_the_apache_guacamole_branding/)
+- 2026-07-19T19:28:27+00:00 — [Issue running Szurubooru LAN only with Synology NAS (upstream timeout?)](https://www.reddit.com/r/selfhosted/comments/1v0zk0r/issue_running_szurubooru_lan_only_with_synology/)
+- 2026-07-19T15:03:49+00:00 — [My solve for issues with Connectivity Assist on iOS27](https://www.reddit.com/r/selfhosted/comments/1v0svwz/my_solve_for_issues_with_connectivity_assist_on/)
 - Sun, 19 Jul 2026 08:56:20 +0000 — [cidx v2.1.0 — the most useful output of a release was its seven bug reports](https://dev.to/arcker/cidx-v210-the-most-useful-output-of-a-release-was-its-seven-bug-reports-43lf)
 - 2026-07-18T18:38:57+00:00 — [My Lovable-like startup died, so I open-sourced its engine — one home for all open-source apps and coding agents](https://www.reddit.com/r/selfhosted/comments/1v03q1p/my_lovablelike_startup_died_so_i_opensourced_its/)
 - 2026-07-18T19:31:45+00:00 — [Migrating from Ubuntu to Proxmox, looking for suggestions](https://www.reddit.com/r/selfhosted/comments/1v052bu/migrating_from_ubuntu_to_proxmox_looking_for/)
@@ -98,13 +107,4 @@ Last update: 2026-07-19 09:41 UTC
 - Sat, 11 Jul 2026 08:42:47 +0000 — [I built a skills-extraction API that works in any language — and actually catches soft skills](https://dev.to/lmgk5133dotcom/i-built-a-skills-extraction-api-that-works-in-any-language-and-actually-catches-soft-skills-2jm)
 - Sat, 11 Jul 2026 08:42:42 +0000 — [Helm template functions, pipelines & named templates](https://dev.to/secopsloghq/helm-template-functions-pipelines-named-templates-okp)
 - Sat, 11 Jul 2026 08:40:57 +0000 — [I kept missing Claude Code's permission prompts, so I built a native macOS menu bar app to fix it](https://dev.to/pranavmadhu01/i-kept-missing-claude-codes-permission-prompts-so-i-built-a-native-macos-menu-bar-app-to-fix-it-1hb9)
-- 2026-07-10T16:23:44+00:00 — [Linkwarden 2.15 - open-source collaborative bookmark manager to collect, read, annotate, and fully preserve what matters (tons of new features!) 🚀](https://www.reddit.com/r/selfhosted/comments/1ussfwp/linkwarden_215_opensource_collaborative_bookmark/)
-- 2026-07-11T07:05:04+00:00 — [Feedback on a networking control panel?](https://www.reddit.com/r/selfhosted/comments/1utcz86/feedback_on_a_networking_control_panel/)
-- 2026-07-10T02:10:21+00:00 — [New Setup - Recommendations Welcome](https://www.reddit.com/r/selfhosted/comments/1usafss/new_setup_recommendations_welcome/)
-- 2026-07-11T03:41:09+00:00 — [Is the Apple AirPort Time Capsule a good NAS?](https://www.reddit.com/r/selfhosted/comments/1ut95z1/is_the_apple_airport_time_capsule_a_good_nas/)
-- 2026-07-09T16:22:34+00:00 — [Pangolin 1.20: Resource Launcher & Global Command Palette](https://www.reddit.com/r/selfhosted/comments/1urv3eu/pangolin_120_resource_launcher_global_command/)
-- 2026-07-11T03:39:32+00:00 — [So i have a NAS but what next?](https://www.reddit.com/r/selfhosted/comments/1ut94vs/so_i_have_a_nas_but_what_next/)
-- 2026-07-10T22:51:41+00:00 — [Impri – self-hostable human approval inbox for AI agents (MIT, Docker Compose, SQLite)](https://www.reddit.com/r/selfhosted/comments/1ut2vqm/impri_selfhostable_human_approval_inbox_for_ai/)
-- Fri, 10 Jul 2026 10:22:54 +0000 — [I built a production-ready MCP server template so you don't have to — here's the architecture](https://dev.to/leamoreau/i-built-a-production-ready-mcp-server-template-so-you-dont-have-to-heres-the-architecture-2c6i)
-- Fri, 10 Jul 2026 10:20:54 +0000 — [Better Auth Joins Vercel](https://dev.to/erfanebrahimnia/better-auth-joins-vercel-5a97)
 <!-- NEWS END -->
