@@ -2,11 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-20 10:37 UTC
+Last update: 2026-07-21 10:10 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 21 Jul 2026 10:01:56 +0000 — [Docker for the Developer Who Actually Has to Ship: Secrets, Multi-Stage Builds, Live Reload, and Why Your Container Just Died](https://dev.to/surajrkhonde/docker-for-the-developer-who-actually-has-to-ship-secrets-multi-stage-builds-live-reload-and-57m7)
+- 2026-07-21T08:58:02+00:00 — [Plex over Tailscale: works perfectly from one location, but is detected as Remote from another Wi-Fi network](https://www.reddit.com/r/selfhosted/comments/1v2cx3u/plex_over_tailscale_works_perfectly_from_one/)
+- 2026-07-21T07:58:20+00:00 — [Handle torrent storage with two mount point](https://www.reddit.com/r/selfhosted/comments/1v2bwbj/handle_torrent_storage_with_two_mount_point/)
+- 2026-07-20T22:09:57+00:00 — [CrawlSEO — self-hosted SEO monitoring (GSC + site crawler + Core Web Vitals + MCP server)](https://www.reddit.com/r/selfhosted/comments/1v1zo47/crawlseo_selfhosted_seo_monitoring_gsc_site/)
+- 2026-07-21T01:08:08+00:00 — [NextPVR not deleting Timeshift files](https://www.reddit.com/r/selfhosted/comments/1v23tjz/nextpvr_not_deleting_timeshift_files/)
+- 2026-07-20T12:00:44+00:00 — [Can I self-host a DNS server to custom block websites on Android?](https://www.reddit.com/r/selfhosted/comments/1v1jhsf/can_i_selfhost_a_dns_server_to_custom_block/)
+- 2026-07-21T04:40:05+00:00 — [Recommendations for File Sharing](https://www.reddit.com/r/selfhosted/comments/1v28b72/recommendations_for_file_sharing/)
+- 2026-07-19T10:13:40+00:00 — [I analyzed 30 days of traffic hitting my homelab reverse proxy. 1.16 million requests were attacks. Here's what they're actually looking for.](https://www.reddit.com/r/selfhosted/comments/1v0mrjd/i_analyzed_30_days_of_traffic_hitting_my_homelab/)
+- 2026-07-21T07:19:55+00:00 — [Calculated my self hosting costs vs subscriptions](https://www.reddit.com/r/selfhosted/comments/1v2b8t3/calculated_my_self_hosting_costs_vs_subscriptions/)
+- 2026-07-20T19:43:19+00:00 — [How should I structure my Podman quadlet deployment?](https://www.reddit.com/r/selfhosted/comments/1v1vtg6/how_should_i_structure_my_podman_quadlet/)
 - Mon, 20 Jul 2026 10:11:23 +0000 — [Kubernetes: StatefulSet vs. Deployment](https://dev.to/theyamlguy/kubernetes-statefulset-vs-deployment-nh7)
 - Mon, 20 Jul 2026 10:10:23 +0000 — [Building a Production Grade AWS Infrastructure Project (Part 3): IAM Terraform](https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-part-3-iam-terraform-243a)
 - 2026-07-19T20:42:27+00:00 — [Looking for a good wiki / knowledge base solution.](https://www.reddit.com/r/selfhosted/comments/1v11ami/looking_for_a_good_wiki_knowledge_base_solution/)
@@ -97,14 +107,4 @@ Last update: 2026-07-20 10:37 UTC
 - 2026-07-13T04:21:35+00:00 — [Qbitorrent](https://www.reddit.com/r/selfhosted/comments/1uv17ab/qbitorrent/)
 - Sun, 12 Jul 2026 09:10:48 +0000 — [31 upvotes later, this r/openclaw thread exposed the real problem with agent tools](https://dev.to/lars_winstand/31-upvotes-later-this-ropenclaw-thread-exposed-the-real-problem-with-agent-tools-hlk)
 - Sun, 12 Jul 2026 09:00:39 +0000 — [Colibri — รัน GLM-5.2 (744B MoE) บนเครื่อง 25GB RAM ด้วย Pure C ไฟล์เดียว](https://dev.to/sarantoon/colibri-ran-glm-52-744b-moe-bnekhruueng-25gb-ram-dwy-pure-c-aiflediiyw-3ae9)
-- Sun, 12 Jul 2026 09:00:01 +0000 — [Leveling Up My MERN Stack Observability with SigNoz](https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb)
-- 2026-07-12T03:08:30+00:00 — [New to self hosting](https://www.reddit.com/r/selfhosted/comments/1uu3pdd/new_to_self_hosting/)
-- 2026-07-11T18:04:23+00:00 — [Archiving raw photos](https://www.reddit.com/r/selfhosted/comments/1utr47x/archiving_raw_photos/)
-- 2026-07-11T19:19:50+00:00 — [Host Android for idle games](https://www.reddit.com/r/selfhosted/comments/1utt2ab/host_android_for_idle_games/)
-- 2026-07-12T04:50:00+00:00 — [What are you favorite light weight apps to self host on an Oracle Free Instance?](https://www.reddit.com/r/selfhosted/comments/1uu5psr/what_are_you_favorite_light_weight_apps_to_self/)
-- 2026-07-11T12:03:27+00:00 — [Docker compose updates](https://www.reddit.com/r/selfhosted/comments/1utialx/docker_compose_updates/)
-- Sat, 11 Jul 2026 08:47:00 +0000 — [Vault auth methods — OIDC for humans, Kubernetes for workloads](https://dev.to/secopsloghq/vault-auth-methods-oidc-for-humans-kubernetes-for-workloads-iok)
-- Sat, 11 Jul 2026 08:42:47 +0000 — [I built a skills-extraction API that works in any language — and actually catches soft skills](https://dev.to/lmgk5133dotcom/i-built-a-skills-extraction-api-that-works-in-any-language-and-actually-catches-soft-skills-2jm)
-- Sat, 11 Jul 2026 08:42:42 +0000 — [Helm template functions, pipelines & named templates](https://dev.to/secopsloghq/helm-template-functions-pipelines-named-templates-okp)
-- Sat, 11 Jul 2026 08:40:57 +0000 — [I kept missing Claude Code's permission prompts, so I built a native macOS menu bar app to fix it](https://dev.to/pranavmadhu01/i-kept-missing-claude-codes-permission-prompts-so-i-built-a-native-macos-menu-bar-app-to-fix-it-1hb9)
 <!-- NEWS END -->
