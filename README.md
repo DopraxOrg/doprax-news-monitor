@@ -2,11 +2,20 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-21 10:10 UTC
+Last update: 2026-07-22 10:10 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 21 Jul 2026 19:43:59 +0000 — ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
+- Wed, 22 Jul 2026 09:50:30 +0000 — [Late Night Shipping Safi Budget Engine Updates & Render Deployment published](https://dev.to/shakipkorir/late-night-shipping-safi-budget-engine-updates-render-deployment-published-1j3g)
+- Wed, 22 Jul 2026 09:47:01 +0000 — [Build a Crypto Payment Module for SaaS Apps](https://dev.to/kevins1988/build-a-crypto-payment-module-for-saas-apps-4poe)
+- Wed, 22 Jul 2026 09:38:53 +0000 — [Teaching My Backend to Listen and Reply — FastAPI CRUD, Phase 2](https://dev.to/silentcarry/teaching-my-backend-to-listen-and-reply-fastapi-crud-phase-2-pjh)
+- 2026-07-21T21:00:50+00:00 — [[NEW RELEASE] dockcheck.sh v0.8.1 - Now possible to run containerized plus a few new options](https://www.reddit.com/r/selfhosted/comments/1v2v5aa/new_release_dockchecksh_v081_now_possible_to_run/)
+- 2026-07-21T15:48:25+00:00 — [Mindwtr: a local-first GTD task manager with self-hosted sync](https://www.reddit.com/r/selfhosted/comments/1v2mag9/mindwtr_a_localfirst_gtd_task_manager_with/)
+- 2026-07-22T03:34:29+00:00 — [Anyone here running Koito as their main music scrobbler?](https://www.reddit.com/r/selfhosted/comments/1v34i0o/anyone_here_running_koito_as_their_main_music/)
+- 2026-07-22T09:13:12+00:00 — [Searching for an "Online Outlook"](https://www.reddit.com/r/selfhosted/comments/1v3atl5/searching_for_an_online_outlook/)
+- 2026-07-22T09:42:06+00:00 — [UGOS Pro forced update broke Docker permissions](https://www.reddit.com/r/selfhosted/comments/1v3bbmh/ugos_pro_forced_update_broke_docker_permissions/)
 - Tue, 21 Jul 2026 10:01:56 +0000 — [Docker for the Developer Who Actually Has to Ship: Secrets, Multi-Stage Builds, Live Reload, and Why Your Container Just Died](https://dev.to/surajrkhonde/docker-for-the-developer-who-actually-has-to-ship-secrets-multi-stage-builds-live-reload-and-57m7)
 - 2026-07-21T08:58:02+00:00 — [Plex over Tailscale: works perfectly from one location, but is detected as Remote from another Wi-Fi network](https://www.reddit.com/r/selfhosted/comments/1v2cx3u/plex_over_tailscale_works_perfectly_from_one/)
 - 2026-07-21T07:58:20+00:00 — [Handle torrent storage with two mount point](https://www.reddit.com/r/selfhosted/comments/1v2bwbj/handle_torrent_storage_with_two_mount_point/)
@@ -98,13 +107,4 @@ Last update: 2026-07-21 10:10 UTC
 - 2026-07-11T08:57:07+00:00 — [It's 3am on a Saturday, now i get it](https://www.reddit.com/r/selfhosted/comments/1utewfq/its_3am_on_a_saturday_now_i_get_it/)
 - 2026-07-12T02:12:28+00:00 — [Released Lanemu P2P VPN 0.14 - Open-source alternative to Hamachi](https://www.reddit.com/r/selfhosted/comments/1uu2kvt/released_lanemu_p2p_vpn_014_opensource/)
 - 2026-07-12T08:35:08+00:00 — [Docker music server that uses directories?](https://www.reddit.com/r/selfhosted/comments/1uu9syn/docker_music_server_that_uses_directories/)
-- 2026-07-13T06:45:36+00:00 — [I bought my first NAS. Complete beginner needs help understanding the process.](https://www.reddit.com/r/selfhosted/comments/1uv3uuy/i_bought_my_first_nas_complete_beginner_needs/)
-- 2026-07-12T22:45:25+00:00 — [Traefik - Confused about docker network isolation](https://www.reddit.com/r/selfhosted/comments/1uutype/traefik_confused_about_docker_network_isolation/)
-- 2026-07-11T16:52:29+00:00 — [8gb of ram for this sweet docker stack](https://www.reddit.com/r/selfhosted/comments/1utp80o/8gb_of_ram_for_this_sweet_docker_stack/)
-- 2026-07-11T19:41:07+00:00 — [Funny Headup: Be mindful when updating your DNS-Service](https://www.reddit.com/r/selfhosted/comments/1uttlew/funny_headup_be_mindful_when_updating_your/)
-- 2026-07-13T10:15:06+00:00 — [Asking Or suggestions kind a](https://www.reddit.com/r/selfhosted/comments/1uv7gxv/asking_or_suggestions_kind_a/)
-- 2026-07-12T12:47:14+00:00 — [NetBird Reverse Proxy only works when target resource is a subdomain!](https://www.reddit.com/r/selfhosted/comments/1uuek74/netbird_reverse_proxy_only_works_when_target/)
-- 2026-07-13T04:21:35+00:00 — [Qbitorrent](https://www.reddit.com/r/selfhosted/comments/1uv17ab/qbitorrent/)
-- Sun, 12 Jul 2026 09:10:48 +0000 — [31 upvotes later, this r/openclaw thread exposed the real problem with agent tools](https://dev.to/lars_winstand/31-upvotes-later-this-ropenclaw-thread-exposed-the-real-problem-with-agent-tools-hlk)
-- Sun, 12 Jul 2026 09:00:39 +0000 — [Colibri — รัน GLM-5.2 (744B MoE) บนเครื่อง 25GB RAM ด้วย Pure C ไฟล์เดียว](https://dev.to/sarantoon/colibri-ran-glm-52-744b-moe-bnekhruueng-25gb-ram-dwy-pure-c-aiflediiyw-3ae9)
 <!-- NEWS END -->
