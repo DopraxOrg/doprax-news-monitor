@@ -2,17 +2,27 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-22 10:10 UTC
+Last update: 2026-07-23 10:08 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 23 Jul 2026 10:04:50 +0000 — [Introducing tinbase — local Supabase without Docker (one process, real Postgres)](https://dev.to/russel_dsouza_bd584a3cb2a/introducing-tinbase-local-supabase-without-docker-one-process-real-postgres-o0b)
+- Thu, 23 Jul 2026 09:39:01 +0000 — [GitLab CI "Cannot connect to unix:///var/run/docker.sock"](https://dev.to/devopsstart/gitlab-ci-cannot-connect-to-unixvarrundockersock-1doj)
+- Thu, 23 Jul 2026 09:33:22 +0000 — [Unhandled Promise Rejections in Node.js: Why They Silently Kill Jobs](https://dev.to/faisal_nadeem_752520c3e03/unhandled-promise-rejections-in-nodejs-why-they-silently-kill-jobs-dl2)
+- 2026-07-22T18:17:03+00:00 — [My Glance Dashboard Setup](https://www.reddit.com/r/selfhosted/comments/1v3obzv/my_glance_dashboard_setup/)
+- 2026-07-23T08:09:56+00:00 — [I’ve spent over a year building a self-hosted alternative to Pusher](https://www.reddit.com/r/selfhosted/comments/1v47ibf/ive_spent_over_a_year_building_a_selfhosted/)
+- 2026-07-22T12:46:12+00:00 — [I work in security and self-host everything at home. Built an open source linter to catch my compose mistakes.](https://www.reddit.com/r/selfhosted/comments/1v3f55q/i_work_in_security_and_selfhost_everything_at/)
+- 2026-07-22T15:00:45+00:00 — [Am I being safe enough with my server?](https://www.reddit.com/r/selfhosted/comments/1v3incp/am_i_being_safe_enough_with_my_server/)
+- 2026-07-22T20:42:07+00:00 — [ISO Suggestions: File/Resource Access Distribution Service](https://www.reddit.com/r/selfhosted/comments/1v3sicb/iso_suggestions_fileresource_access_distribution/)
+- 2026-07-23T08:10:24+00:00 — [quick guide to self-hosting apps with OpenShip](https://www.reddit.com/r/selfhosted/comments/1v47iml/quick_guide_to_selfhosting_apps_with_openship/)
+- 2026-07-21T21:00:50+00:00 — [[NEW RELEASE] dockcheck.sh v0.8.1 - Now possible to run containerized plus a few new options](https://www.reddit.com/r/selfhosted/comments/1v2v5aa/new_release_dockchecksh_v081_now_possible_to_run/)
+- 2026-07-21T15:48:25+00:00 — [Mindwtr: a local-first GTD task manager with self-hosted sync](https://www.reddit.com/r/selfhosted/comments/1v2mag9/mindwtr_a_localfirst_gtd_task_manager_with/)
+- 2026-07-22T19:52:55+00:00 — [self hosting a DNS server on old android phone](https://www.reddit.com/r/selfhosted/comments/1v3r2xa/self_hosting_a_dns_server_on_old_android_phone/)
 - Tue, 21 Jul 2026 19:43:59 +0000 — ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
 - Wed, 22 Jul 2026 09:50:30 +0000 — [Late Night Shipping Safi Budget Engine Updates & Render Deployment published](https://dev.to/shakipkorir/late-night-shipping-safi-budget-engine-updates-render-deployment-published-1j3g)
 - Wed, 22 Jul 2026 09:47:01 +0000 — [Build a Crypto Payment Module for SaaS Apps](https://dev.to/kevins1988/build-a-crypto-payment-module-for-saas-apps-4poe)
 - Wed, 22 Jul 2026 09:38:53 +0000 — [Teaching My Backend to Listen and Reply — FastAPI CRUD, Phase 2](https://dev.to/silentcarry/teaching-my-backend-to-listen-and-reply-fastapi-crud-phase-2-pjh)
-- 2026-07-21T21:00:50+00:00 — [[NEW RELEASE] dockcheck.sh v0.8.1 - Now possible to run containerized plus a few new options](https://www.reddit.com/r/selfhosted/comments/1v2v5aa/new_release_dockchecksh_v081_now_possible_to_run/)
-- 2026-07-21T15:48:25+00:00 — [Mindwtr: a local-first GTD task manager with self-hosted sync](https://www.reddit.com/r/selfhosted/comments/1v2mag9/mindwtr_a_localfirst_gtd_task_manager_with/)
 - 2026-07-22T03:34:29+00:00 — [Anyone here running Koito as their main music scrobbler?](https://www.reddit.com/r/selfhosted/comments/1v34i0o/anyone_here_running_koito_as_their_main_music/)
 - 2026-07-22T09:13:12+00:00 — [Searching for an "Online Outlook"](https://www.reddit.com/r/selfhosted/comments/1v3atl5/searching_for_an_online_outlook/)
 - 2026-07-22T09:42:06+00:00 — [UGOS Pro forced update broke Docker permissions](https://www.reddit.com/r/selfhosted/comments/1v3bbmh/ugos_pro_forced_update_broke_docker_permissions/)
@@ -97,14 +107,4 @@ Last update: 2026-07-22 10:10 UTC
 - 2026-07-13T20:51:16+00:00 — [Grimoire v1.5.0 - Added audio support](https://www.reddit.com/r/selfhosted/comments/1uvnv6s/grimoire_v150_added_audio_support/)
 - 2026-07-13T19:28:44+00:00 — [Automated Local Networking Scanning](https://www.reddit.com/r/selfhosted/comments/1uvljvl/automated_local_networking_scanning/)
 - 2026-07-13T21:33:14+00:00 — [Advice needed for multiple self hosted apps (seafile, frigate, immich, etc)](https://www.reddit.com/r/selfhosted/comments/1uvozsc/advice_needed_for_multiple_self_hosted_apps/)
-- 2026-07-13T11:16:36+00:00 — [Would you move this homelab off your daily driver onto a dedicated mini PC?](https://www.reddit.com/r/selfhosted/comments/1uv8n5y/would_you_move_this_homelab_off_your_daily_driver/)
-- 2026-07-14T02:00:41+00:00 — [Cloudflair question](https://www.reddit.com/r/selfhosted/comments/1uvvbgh/cloudflair_question/)
-- 2026-07-09T22:01:08+00:00 — [New Project Megathread - Week of 09 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1us4i8v/new_project_megathread_week_of_09_jul_2026/)
-- 2026-07-12T17:45:49+00:00 — [Portainer alternatives. What are you using?](https://www.reddit.com/r/selfhosted/comments/1uum8fn/portainer_alternatives_what_are_you_using/)
-- 2026-07-12T22:46:30+00:00 — [Self-hosting security (or, how can I add an extra layer of security)?](https://www.reddit.com/r/selfhosted/comments/1uutzop/selfhosting_security_or_how_can_i_add_an_extra/)
-- 2026-07-13T09:26:27+00:00 — [Radarr/Sonarr not removing media from disk or library when using "Remove" button in Seerr](https://www.reddit.com/r/selfhosted/comments/1uv6lvx/radarrsonarr_not_removing_media_from_disk_or/)
-- 2026-07-12T23:09:17+00:00 — [Docker Advice Needed](https://www.reddit.com/r/selfhosted/comments/1uuujaa/docker_advice_needed/)
-- 2026-07-11T08:57:07+00:00 — [It's 3am on a Saturday, now i get it](https://www.reddit.com/r/selfhosted/comments/1utewfq/its_3am_on_a_saturday_now_i_get_it/)
-- 2026-07-12T02:12:28+00:00 — [Released Lanemu P2P VPN 0.14 - Open-source alternative to Hamachi](https://www.reddit.com/r/selfhosted/comments/1uu2kvt/released_lanemu_p2p_vpn_014_opensource/)
-- 2026-07-12T08:35:08+00:00 — [Docker music server that uses directories?](https://www.reddit.com/r/selfhosted/comments/1uu9syn/docker_music_server_that_uses_directories/)
 <!-- NEWS END -->
