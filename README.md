@@ -2,15 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-23 10:08 UTC
+Last update: 2026-07-24 10:03 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 24 Jul 2026 09:35:35 +0000 — [Building RecipeHub: My Experience Developing and Deploying a Modern Recipe Sharing Platform with Django](https://dev.to/hodhan_/building-recipehub-my-experience-developing-and-deploying-a-modern-recipe-sharing-platform-with-53jb)
+- Fri, 24 Jul 2026 09:28:53 +0000 — [Spark 4.2 Added Native Vector Search: Do You Still Need a Vector Database?](https://dev.to/muskan_bandta/spark-42-added-native-vector-search-do-you-still-need-a-vector-database-1l69)
+- Fri, 24 Jul 2026 09:19:14 +0000 — [Hetzner Inference: First Look](https://dev.to/code42cate/hetzner-inference-first-look-587)
+- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
+- 2026-07-24T08:01:14+00:00 — [We made a new SEO/GEO rank tracker (alternative to SerpBear)](https://www.reddit.com/r/selfhosted/comments/1v54xma/we_made_a_new_seogeo_rank_tracker_alternative_to/)
+- 2026-07-23T23:39:04+00:00 — [I somehow broke my SSL in Caddy and I'm at my wit's end](https://www.reddit.com/r/selfhosted/comments/1v4umf1/i_somehow_broke_my_ssl_in_caddy_and_im_at_my_wits/)
+- 2026-07-24T01:55:57+00:00 — [Cloudflared + Docker Swarm + NPM(Or Trafek?) with root domain pointing at github pages](https://www.reddit.com/r/selfhosted/comments/1v4xpsm/cloudflared_docker_swarm_npmor_trafek_with_root/)
+- 2026-07-24T09:27:24+00:00 — [🚨 Never use Hostinger, worst experience ever 👎](https://www.reddit.com/r/selfhosted/comments/1v56fag/never_use_hostinger_worst_experience_ever/)
+- 2026-07-22T18:17:03+00:00 — [My Glance Dashboard Setup](https://www.reddit.com/r/selfhosted/comments/1v3obzv/my_glance_dashboard_setup/)
 - Thu, 23 Jul 2026 10:04:50 +0000 — [Introducing tinbase — local Supabase without Docker (one process, real Postgres)](https://dev.to/russel_dsouza_bd584a3cb2a/introducing-tinbase-local-supabase-without-docker-one-process-real-postgres-o0b)
 - Thu, 23 Jul 2026 09:39:01 +0000 — [GitLab CI "Cannot connect to unix:///var/run/docker.sock"](https://dev.to/devopsstart/gitlab-ci-cannot-connect-to-unixvarrundockersock-1doj)
 - Thu, 23 Jul 2026 09:33:22 +0000 — [Unhandled Promise Rejections in Node.js: Why They Silently Kill Jobs](https://dev.to/faisal_nadeem_752520c3e03/unhandled-promise-rejections-in-nodejs-why-they-silently-kill-jobs-dl2)
-- 2026-07-22T18:17:03+00:00 — [My Glance Dashboard Setup](https://www.reddit.com/r/selfhosted/comments/1v3obzv/my_glance_dashboard_setup/)
 - 2026-07-23T08:09:56+00:00 — [I’ve spent over a year building a self-hosted alternative to Pusher](https://www.reddit.com/r/selfhosted/comments/1v47ibf/ive_spent_over_a_year_building_a_selfhosted/)
 - 2026-07-22T12:46:12+00:00 — [I work in security and self-host everything at home. Built an open source linter to catch my compose mistakes.](https://www.reddit.com/r/selfhosted/comments/1v3f55q/i_work_in_security_and_selfhost_everything_at/)
 - 2026-07-22T15:00:45+00:00 — [Am I being safe enough with my server?](https://www.reddit.com/r/selfhosted/comments/1v3incp/am_i_being_safe_enough_with_my_server/)
@@ -99,12 +107,4 @@ Last update: 2026-07-23 10:08 UTC
 - 2026-07-12T08:59:43+00:00 — [What Jenkins Agent Architecture Are You Using in Production in 2026?](https://www.reddit.com/r/devops/comments/1uua7n4/what_jenkins_agent_architecture_are_you_using_in/)
 - 2026-07-11T04:54:25+00:00 — [Learning Observability](https://www.reddit.com/r/devops/comments/1utalh7/learning_observability/)
 - 2026-07-12T16:38:34+00:00 — [Article: Model caching for AI workloads on GKE/Kubernetes without re-downloading weights](https://www.reddit.com/r/devops/comments/1uuke1c/article_model_caching_for_ai_workloads_on/)
-- 2026-07-11T11:30:55+00:00 — [what other DevOps at scale skills can I learn, and what my direction should be?](https://www.reddit.com/r/devops/comments/1uthmj6/what_other_devops_at_scale_skills_can_i_learn_and/)
-- Tue, 14 Jul 2026 09:33:23 +0000 — [This Week in AI: GPT-5.6 Lands, Agent Infrastructure Matures, and the Model War Heats Up](https://dev.to/nerdhead_01/this-week-in-ai-gpt-56-lands-agent-infrastructure-matures-and-the-model-war-heats-up-17dg)
-- Tue, 14 Jul 2026 09:24:39 +0000 — [React Native + Expo JWT Auth with FastAPI — A Complete Working Example](https://dev.to/dhairya_senjaliya_955aef4/react-native-expo-jwt-auth-with-fastapi-a-complete-working-example-3akf)
-- Tue, 14 Jul 2026 09:16:34 +0000 — [Vercel + Lovable, GPT-5.6 multiagent, curl security patch — Dev Signal #64](https://dev.to/devsignal/vercel-lovable-gpt-56-multiagent-curl-security-patch-dev-signal-64-3d2b)
-- 2026-07-14T08:47:02+00:00 — [I built a free, self-hostable 3D point cloud viewer (Docker) — looking for feedback](https://www.reddit.com/r/selfhosted/comments/1uw31e7/i_built_a_free_selfhostable_3d_point_cloud_viewer/)
-- 2026-07-13T20:51:16+00:00 — [Grimoire v1.5.0 - Added audio support](https://www.reddit.com/r/selfhosted/comments/1uvnv6s/grimoire_v150_added_audio_support/)
-- 2026-07-13T19:28:44+00:00 — [Automated Local Networking Scanning](https://www.reddit.com/r/selfhosted/comments/1uvljvl/automated_local_networking_scanning/)
-- 2026-07-13T21:33:14+00:00 — [Advice needed for multiple self hosted apps (seafile, frigate, immich, etc)](https://www.reddit.com/r/selfhosted/comments/1uvozsc/advice_needed_for_multiple_self_hosted_apps/)
 <!-- NEWS END -->
