@@ -2,15 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-24 10:03 UTC
+Last update: 2026-07-25 09:23 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 25 Jul 2026 09:06:54 +0000 — [📐 Mathematics for AI — Foundation Course](https://dev.to/ajmal_hasan/mathematics-for-ai-foundation-course-18dk)
+- Sat, 25 Jul 2026 09:06:27 +0000 — [Teaching My Backend to Lock the Door — FastAPI Auth, Phase 3](https://dev.to/silentcarry/teaching-my-backend-to-lock-the-door-fastapi-auth-phase-3-5b9o)
+- Sat, 25 Jul 2026 08:57:35 +0000 — [I turned the claude code cli into a Prism provider](https://dev.to/kevariable/i-turned-the-claude-code-cli-into-a-prism-provider-25bk)
+- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
+- 2026-07-25T06:59:26+00:00 — [Dockhand 1.0.38 adds backup and restore for stack/containers (beta)](https://www.reddit.com/r/selfhosted/comments/1v6106s/dockhand_1038_adds_backup_and_restore_for/)
+- 2026-07-25T03:51:00+00:00 — [Which laptop to use for beginner self hosting?](https://www.reddit.com/r/selfhosted/comments/1v5xcw6/which_laptop_to_use_for_beginner_self_hosting/)
+- 2026-07-25T08:04:35+00:00 — [Pangolin and Newt on the same host](https://www.reddit.com/r/selfhosted/comments/1v626bi/pangolin_and_newt_on_the_same_host/)
+- 2026-07-25T04:41:40+00:00 — [Setup Jellyfin server on Mac Mini](https://www.reddit.com/r/selfhosted/comments/1v5yddg/setup_jellyfin_server_on_mac_mini/)
 - Fri, 24 Jul 2026 09:35:35 +0000 — [Building RecipeHub: My Experience Developing and Deploying a Modern Recipe Sharing Platform with Django](https://dev.to/hodhan_/building-recipehub-my-experience-developing-and-deploying-a-modern-recipe-sharing-platform-with-53jb)
 - Fri, 24 Jul 2026 09:28:53 +0000 — [Spark 4.2 Added Native Vector Search: Do You Still Need a Vector Database?](https://dev.to/muskan_bandta/spark-42-added-native-vector-search-do-you-still-need-a-vector-database-1l69)
 - Fri, 24 Jul 2026 09:19:14 +0000 — [Hetzner Inference: First Look](https://dev.to/code42cate/hetzner-inference-first-look-587)
-- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
 - 2026-07-24T08:01:14+00:00 — [We made a new SEO/GEO rank tracker (alternative to SerpBear)](https://www.reddit.com/r/selfhosted/comments/1v54xma/we_made_a_new_seogeo_rank_tracker_alternative_to/)
 - 2026-07-23T23:39:04+00:00 — [I somehow broke my SSL in Caddy and I'm at my wit's end](https://www.reddit.com/r/selfhosted/comments/1v4umf1/i_somehow_broke_my_ssl_in_caddy_and_im_at_my_wits/)
 - 2026-07-24T01:55:57+00:00 — [Cloudflared + Docker Swarm + NPM(Or Trafek?) with root domain pointing at github pages](https://www.reddit.com/r/selfhosted/comments/1v4xpsm/cloudflared_docker_swarm_npmor_trafek_with_root/)
@@ -100,11 +107,4 @@ Last update: 2026-07-24 10:03 UTC
 - 2026-07-14T08:12:44+00:00 — [How to bypass Cloudflare Tunnel 100MB limit for Immich/Storage behind CGNAT?](https://www.reddit.com/r/selfhosted/comments/1uw2gh9/how_to_bypass_cloudflare_tunnel_100mb_limit_for/)
 - 2026-07-15T04:28:09+00:00 — [Need advice: Hostinger VPS vs AWS EC2 for a production School ERP](https://www.reddit.com/r/selfhosted/comments/1uwvgmz/need_advice_hostinger_vps_vs_aws_ec2_for_a/)
 - 2026-07-14T20:15:16+00:00 — [Proxmox Backup Server with PI/NFS … is it possible?](https://www.reddit.com/r/selfhosted/comments/1uwjyyj/proxmox_backup_server_with_pinfs_is_it_possible/)
-- 2026-07-14T13:50:50+00:00 — [Streamscope: a live Twitch stream recorder](https://www.reddit.com/r/selfhosted/comments/1uw9agg/streamscope_a_live_twitch_stream_recorder/)
-- 2026-07-14T04:34:51+00:00 — [To be or not to be ...H200](https://www.reddit.com/r/selfhosted/comments/1uvyiwi/to_be_or_not_to_be_h200/)
-- 2026-07-13T17:51:37+00:00 — [Degree vs Certs Dilemma: Is a 4-year CS degree worth $15k (20M IQD) if I already have live cloud projects and a home lab at 19?](https://www.reddit.com/r/devops/comments/1uvisng/degree_vs_certs_dilemma_is_a_4year_cs_degree/)
-- 2026-07-12T11:22:54+00:00 — [The whole frontend + backend + db split in k8s, help](https://www.reddit.com/r/devops/comments/1uucsj2/the_whole_frontend_backend_db_split_in_k8s_help/)
-- 2026-07-12T08:59:43+00:00 — [What Jenkins Agent Architecture Are You Using in Production in 2026?](https://www.reddit.com/r/devops/comments/1uua7n4/what_jenkins_agent_architecture_are_you_using_in/)
-- 2026-07-11T04:54:25+00:00 — [Learning Observability](https://www.reddit.com/r/devops/comments/1utalh7/learning_observability/)
-- 2026-07-12T16:38:34+00:00 — [Article: Model caching for AI workloads on GKE/Kubernetes without re-downloading weights](https://www.reddit.com/r/devops/comments/1uuke1c/article_model_caching_for_ai_workloads_on/)
 <!-- NEWS END -->
