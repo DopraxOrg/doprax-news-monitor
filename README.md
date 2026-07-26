@@ -2,18 +2,28 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-25 09:23 UTC
+Last update: 2026-07-26 09:48 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 21 Jul 2026 20:30:22 +0000 — [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
+- Sun, 26 Jul 2026 09:31:01 +0000 — [Terraform e YAML - Implementação Prática em Projetos de CI/CD](https://dev.to/apsis-cc/terraform-e-yaml-implementacao-pratica-em-projetos-de-cicd-5h97)
+- Sun, 26 Jul 2026 09:26:07 +0000 — [Validate Kubernetes Manifests with Flux Schema](https://dev.to/devopsstart/validate-kubernetes-manifests-with-flux-schema-4kbh)
+- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
+- 2026-07-25T20:15:08+00:00 — [I released a new open background removal model (Docker, Python, GIMP, macOS)](https://www.reddit.com/r/selfhosted/comments/1v6ipb3/i_released_a_new_open_background_removal_model/)
+- 2026-07-26T09:42:55+00:00 — [Do i just accept my fate?](https://www.reddit.com/r/selfhosted/comments/1v6zag3/do_i_just_accept_my_fate/)
+- 2026-07-26T09:42:33+00:00 — [I created an ip webcam app for android (audio/video), what protocols to add?](https://www.reddit.com/r/selfhosted/comments/1v6za7y/i_created_an_ip_webcam_app_for_android_audiovideo/)
+- 2026-07-26T08:39:50+00:00 — [looking for an automated email sending setup](https://www.reddit.com/r/selfhosted/comments/1v6y5xx/looking_for_an_automated_email_sending_setup/)
+- 2026-07-25T20:49:23+00:00 — [KVM Dashboard selfhostable for LuckFox KVM](https://www.reddit.com/r/selfhosted/comments/1v6jk1c/kvm_dashboard_selfhostable_for_luckfox_kvm/)
+- 2026-07-26T05:53:27+00:00 — [Looking for feedback on a self-hosted project management + docs tool](https://www.reddit.com/r/selfhosted/comments/1v6v6l5/looking_for_feedback_on_a_selfhosted_project/)
+- 2026-07-26T05:16:56+00:00 — [What would make you comfortable running a self-hosted 30-day agent test?](https://www.reddit.com/r/selfhosted/comments/1v6ui0t/what_would_make_you_comfortable_running_a/)
+- 2026-07-25T08:04:35+00:00 — [Pangolin and Newt on the same host](https://www.reddit.com/r/selfhosted/comments/1v626bi/pangolin_and_newt_on_the_same_host/)
 - Sat, 25 Jul 2026 09:06:54 +0000 — [📐 Mathematics for AI — Foundation Course](https://dev.to/ajmal_hasan/mathematics-for-ai-foundation-course-18dk)
 - Sat, 25 Jul 2026 09:06:27 +0000 — [Teaching My Backend to Lock the Door — FastAPI Auth, Phase 3](https://dev.to/silentcarry/teaching-my-backend-to-lock-the-door-fastapi-auth-phase-3-5b9o)
 - Sat, 25 Jul 2026 08:57:35 +0000 — [I turned the claude code cli into a Prism provider](https://dev.to/kevariable/i-turned-the-claude-code-cli-into-a-prism-provider-25bk)
-- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
 - 2026-07-25T06:59:26+00:00 — [Dockhand 1.0.38 adds backup and restore for stack/containers (beta)](https://www.reddit.com/r/selfhosted/comments/1v6106s/dockhand_1038_adds_backup_and_restore_for/)
 - 2026-07-25T03:51:00+00:00 — [Which laptop to use for beginner self hosting?](https://www.reddit.com/r/selfhosted/comments/1v5xcw6/which_laptop_to_use_for_beginner_self_hosting/)
-- 2026-07-25T08:04:35+00:00 — [Pangolin and Newt on the same host](https://www.reddit.com/r/selfhosted/comments/1v626bi/pangolin_and_newt_on_the_same_host/)
 - 2026-07-25T04:41:40+00:00 — [Setup Jellyfin server on Mac Mini](https://www.reddit.com/r/selfhosted/comments/1v5yddg/setup_jellyfin_server_on_mac_mini/)
 - Fri, 24 Jul 2026 09:35:35 +0000 — [Building RecipeHub: My Experience Developing and Deploying a Modern Recipe Sharing Platform with Django](https://dev.to/hodhan_/building-recipehub-my-experience-developing-and-deploying-a-modern-recipe-sharing-platform-with-53jb)
 - Fri, 24 Jul 2026 09:28:53 +0000 — [Spark 4.2 Added Native Vector Search: Do You Still Need a Vector Database?](https://dev.to/muskan_bandta/spark-42-added-native-vector-search-do-you-still-need-a-vector-database-1l69)
@@ -97,14 +107,4 @@ Last update: 2026-07-25 09:23 UTC
 - 2026-07-15T23:41:51+00:00 — [cronstable: cron with a web UI, durable state, DAGs, clustering, MCP server, and way more](https://www.reddit.com/r/selfhosted/comments/1uxmdji/cronstable_cron_with_a_web_ui_durable_state_dags/)
 - 2026-07-15T21:23:32+00:00 — [best VPS for small projects](https://www.reddit.com/r/selfhosted/comments/1uxit6o/best_vps_for_small_projects/)
 - 2026-07-15T11:11:49+00:00 — [I built Nightingale — self-hosted karaoke from your own music library, powered by local ML. No cloud, 100% free, single binary.](https://www.reddit.com/r/selfhosted/comments/1ux2te3/i_built_nightingale_selfhosted_karaoke_from_your/)
-- 2026-07-15T22:32:52+00:00 — [Backrest is set up, but I have no idea how I'd actually restore if the box dies](https://www.reddit.com/r/selfhosted/comments/1uxkopf/backrest_is_set_up_but_i_have_no_idea_how_id/)
-- 2026-07-15T05:47:55+00:00 — [Wireguard for remote access in Docker or bare-metal?](https://www.reddit.com/r/selfhosted/comments/1uwwz5n/wireguard_for_remote_access_in_docker_or_baremetal/)
-- 2026-07-15T03:32:55+00:00 — [Uptime](https://www.reddit.com/r/selfhosted/comments/1uwucha/uptime/)
-- 2026-07-14T04:13:00+00:00 — [PSA: UPnP and UGREEN NAS](https://www.reddit.com/r/selfhosted/comments/1uvy3tu/psa_upnp_and_ugreen_nas/)
-- 2026-07-14T17:49:37+00:00 — [I made my first "real" server!](https://www.reddit.com/r/selfhosted/comments/1uwfwgm/i_made_my_first_real_server/)
-- 2026-07-15T02:00:34+00:00 — [Stratora post-GA update: VMware, Hyper-V and Proxmox monitoring are now released](https://www.reddit.com/r/selfhosted/comments/1uwsefh/stratora_postga_update_vmware_hyperv_and_proxmox/)
-- 2026-07-14T20:00:35+00:00 — [got a £43 optiplex 3050 micro on ebay. 16gb + single 8tb, no parity. talk me out of it](https://www.reddit.com/r/selfhosted/comments/1uwjkcl/got_a_43_optiplex_3050_micro_on_ebay_16gb_single/)
-- 2026-07-14T08:12:44+00:00 — [How to bypass Cloudflare Tunnel 100MB limit for Immich/Storage behind CGNAT?](https://www.reddit.com/r/selfhosted/comments/1uw2gh9/how_to_bypass_cloudflare_tunnel_100mb_limit_for/)
-- 2026-07-15T04:28:09+00:00 — [Need advice: Hostinger VPS vs AWS EC2 for a production School ERP](https://www.reddit.com/r/selfhosted/comments/1uwvgmz/need_advice_hostinger_vps_vs_aws_ec2_for_a/)
-- 2026-07-14T20:15:16+00:00 — [Proxmox Backup Server with PI/NFS … is it possible?](https://www.reddit.com/r/selfhosted/comments/1uwjyyj/proxmox_backup_server_with_pinfs_is_it_possible/)
 <!-- NEWS END -->
