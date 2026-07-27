@@ -2,17 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-26 09:48 UTC
+Last update: 2026-07-27 10:58 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 27 Jul 2026 10:27:01 +0000 — [5 Docker Security Mistakes I Learned the Hard Way](https://dev.to/_eb0609572b9efcf27472066/5-docker-security-mistakes-i-learned-the-hard-way-cj7)
+- Mon, 27 Jul 2026 10:20:43 +0000 — [Connecting an LLM Agent to a Real Browser With Playwright MCP](https://dev.to/basavaraj_sh_1ea7d95f0f2e/connecting-an-llm-agent-to-a-real-browser-with-playwright-mcp-4onj)
+- Mon, 27 Jul 2026 10:09:05 +0000 — [I ported a knowledge-format (OKF) library to zero-dependency .NET — here's what I learned](https://dev.to/julien_chable/i-ported-a-knowledge-format-okf-library-to-zero-dependency-net-heres-what-i-learned-1mb7)
+- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
+- 2026-07-26T18:29:18+00:00 — [I self-host a tunnel in a country that actively hunts them. Here's what survives, and what keeps breaking.](https://www.reddit.com/r/selfhosted/comments/1v7bww8/i_selfhost_a_tunnel_in_a_country_that_actively/)
+- 2026-07-26T09:42:55+00:00 — [Do i just accept my fate?](https://www.reddit.com/r/selfhosted/comments/1v6zag3/do_i_just_accept_my_fate/)
+- 2026-07-26T14:51:32+00:00 — [I am starting my homelabbing path out of fear of loosing my job](https://www.reddit.com/r/selfhosted/comments/1v760ho/i_am_starting_my_homelabbing_path_out_of_fear_of/)
+- 2026-07-26T11:24:44+00:00 — [Why did projects like IPFS and Filecoin never found its place in self hosting communities?](https://www.reddit.com/r/selfhosted/comments/1v717sr/why_did_projects_like_ipfs_and_filecoin_never/)
+- 2026-07-26T12:31:55+00:00 — [Best alternative to dockge?](https://www.reddit.com/r/selfhosted/comments/1v72mic/best_alternative_to_dockge/)
+- 2026-07-27T05:05:10+00:00 — [How to Access Caddy Reverse-Proxied Services Over NetBird Without Exposing Them](https://www.reddit.com/r/selfhosted/comments/1v7qstp/how_to_access_caddy_reverseproxied_services_over/)
+- 2026-07-26T21:46:39+00:00 — [Best VPN for Ubuntu SLSKD Server](https://www.reddit.com/r/selfhosted/comments/1v7h6h5/best_vpn_for_ubuntu_slskd_server/)
+- 2026-07-27T07:13:39+00:00 — [What features do you consider essential before you'd self-host an automation platform?](https://www.reddit.com/r/selfhosted/comments/1v7t498/what_features_do_you_consider_essential_before/)
+- 2026-07-27T04:27:09+00:00 — [Self hosting Valheim server, opening port 2456-2457 to the public](https://www.reddit.com/r/selfhosted/comments/1v7q1z5/self_hosting_valheim_server_opening_port_24562457/)
+- 2026-07-27T04:24:50+00:00 — [Giving students a real root shell with a working Docker daemon: Incus VM + sysbox, and the two timers that stop sandboxes leaking](https://www.reddit.com/r/selfhosted/comments/1v7q0d1/giving_students_a_real_root_shell_with_a_working/)
 - Tue, 21 Jul 2026 20:30:22 +0000 — [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
 - Sun, 26 Jul 2026 09:31:01 +0000 — [Terraform e YAML - Implementação Prática em Projetos de CI/CD](https://dev.to/apsis-cc/terraform-e-yaml-implementacao-pratica-em-projetos-de-cicd-5h97)
 - Sun, 26 Jul 2026 09:26:07 +0000 — [Validate Kubernetes Manifests with Flux Schema](https://dev.to/devopsstart/validate-kubernetes-manifests-with-flux-schema-4kbh)
-- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
 - 2026-07-25T20:15:08+00:00 — [I released a new open background removal model (Docker, Python, GIMP, macOS)](https://www.reddit.com/r/selfhosted/comments/1v6ipb3/i_released_a_new_open_background_removal_model/)
-- 2026-07-26T09:42:55+00:00 — [Do i just accept my fate?](https://www.reddit.com/r/selfhosted/comments/1v6zag3/do_i_just_accept_my_fate/)
 - 2026-07-26T09:42:33+00:00 — [I created an ip webcam app for android (audio/video), what protocols to add?](https://www.reddit.com/r/selfhosted/comments/1v6za7y/i_created_an_ip_webcam_app_for_android_audiovideo/)
 - 2026-07-26T08:39:50+00:00 — [looking for an automated email sending setup](https://www.reddit.com/r/selfhosted/comments/1v6y5xx/looking_for_an_automated_email_sending_setup/)
 - 2026-07-25T20:49:23+00:00 — [KVM Dashboard selfhostable for LuckFox KVM](https://www.reddit.com/r/selfhosted/comments/1v6jk1c/kvm_dashboard_selfhostable_for_luckfox_kvm/)
@@ -95,16 +107,4 @@ Last update: 2026-07-26 09:48 UTC
 - 2026-07-16T16:35:21+00:00 — [Portabase 1.24: redesigned dashboard KPIs, telemetry and safer deletions on data](https://www.reddit.com/r/selfhosted/comments/1uy7y2e/portabase_124_redesigned_dashboard_kpis_telemetry/)
 - 2026-07-17T22:50:39+00:00 — [I’m Considering Switching to Windows, Am I An Idiot?](https://www.reddit.com/r/selfhosted/comments/1uzermj/im_considering_switching_to_windows_am_i_an_idiot/)
 - Fri, 17 Jul 2026 09:17:04 +0000 — [Kimi K3 Open Weights, Node.js 26 Temporal, and the Week Tooling Got Serious](https://dev.to/devsignal/kimi-k3-open-weights-nodejs-26-temporal-and-the-week-tooling-got-serious-38l5)
-- Fri, 17 Jul 2026 09:08:29 +0000 — [AI agent python ollama: Build, Test, Deploy with FastAPI](https://dev.to/ayush_kumar_085a0f2c54e3f/ai-agent-python-ollama-build-test-deploy-with-fastapi-3ho2)
-- Fri, 17 Jul 2026 09:06:53 +0000 — [Magento 2 Peak Traffic Preparation: Scaling for Black Friday and High-Events](https://dev.to/magevanta/magento-2-peak-traffic-preparation-scaling-for-black-friday-and-high-events-4l64)
-- 2026-07-16T12:43:02+00:00 — [What do I do with 6 leftover Pis?](https://www.reddit.com/r/selfhosted/comments/1uy1sp8/what_do_i_do_with_6_leftover_pis/)
-- 2026-07-16T15:39:35+00:00 — [Alternative solution for a VPS / Cloudflare tunnel?](https://www.reddit.com/r/selfhosted/comments/1uy6ebk/alternative_solution_for_a_vps_cloudflare_tunnel/)
-- 2026-07-16T16:11:24+00:00 — [Can someone help explain how a VPN may affect a reverse proxy](https://www.reddit.com/r/selfhosted/comments/1uy7a90/can_someone_help_explain_how_a_vpn_may_affect_a/)
-- Sat, 11 Jul 2026 13:47:47 +0000 — [Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes](https://www.petekeen.net/homelab-resolved/)
-- Thu, 16 Jul 2026 09:20:40 +0000 — [Inkling MoE + Agent Safety: Token Efficiency Meets Reliability](https://dev.to/devsignal/inkling-moe-agent-safety-token-efficiency-meets-reliability-4poj)
-- Thu, 16 Jul 2026 09:14:41 +0000 — [I Deleted Cursor, Copilot, and Windsurf. Here Is What I Use Instead.](https://dev.to/jarynagent/i-deleted-cursor-copilot-and-windsurf-here-is-what-i-use-instead-2bfi)
-- 2026-07-15T14:54:03+00:00 — [Tinyauth is now an OpenID Connect™ Certified provider!](https://www.reddit.com/r/selfhosted/comments/1ux85m8/tinyauth_is_now_an_openid_connect_certified/)
-- 2026-07-15T23:41:51+00:00 — [cronstable: cron with a web UI, durable state, DAGs, clustering, MCP server, and way more](https://www.reddit.com/r/selfhosted/comments/1uxmdji/cronstable_cron_with_a_web_ui_durable_state_dags/)
-- 2026-07-15T21:23:32+00:00 — [best VPS for small projects](https://www.reddit.com/r/selfhosted/comments/1uxit6o/best_vps_for_small_projects/)
-- 2026-07-15T11:11:49+00:00 — [I built Nightingale — self-hosted karaoke from your own music library, powered by local ML. No cloud, 100% free, single binary.](https://www.reddit.com/r/selfhosted/comments/1ux2te3/i_built_nightingale_selfhosted_karaoke_from_your/)
 <!-- NEWS END -->
