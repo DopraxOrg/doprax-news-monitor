@@ -2,16 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-27 10:58 UTC
+Last update: 2026-07-28 10:18 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 28 Jul 2026 10:12:23 +0000 — [One bounded context per microservice is how you build a distributed monolith](https://dev.to/adioof/one-bounded-context-per-microservice-is-how-you-build-a-distributed-monolith-2jcd)
+- Tue, 28 Jul 2026 10:01:01 +0000 — [Build a Real-Time Chat App with FastAPI and WebSockets](https://dev.to/qingluan/build-a-real-time-chat-app-with-fastapi-and-websockets-3m0l)
+- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
+- 2026-07-28T09:40:41+00:00 — [Running an android app in a docker container](https://www.reddit.com/r/selfhosted/comments/1v8th2l/running_an_android_app_in_a_docker_container/)
+- 2026-07-26T18:29:18+00:00 — [I self-host a tunnel in a country that actively hunts them. Here's what survives, and what keeps breaking.](https://www.reddit.com/r/selfhosted/comments/1v7bww8/i_selfhost_a_tunnel_in_a_country_that_actively/)
+- 2026-07-27T14:08:22+00:00 — [Port forwarding](https://www.reddit.com/r/selfhosted/comments/1v81gud/port_forwarding/)
+- 2026-07-27T17:43:51+00:00 — [Little services on docker or VM?](https://www.reddit.com/r/selfhosted/comments/1v87hc2/little_services_on_docker_or_vm/)
+- 2026-07-27T16:03:58+00:00 — [What's the next step up in hardware?](https://www.reddit.com/r/selfhosted/comments/1v84n7k/whats_the_next_step_up_in_hardware/)
+- 2026-07-27T15:02:33+00:00 — [Best SSD & HDD setup for Media Server?](https://www.reddit.com/r/selfhosted/comments/1v82xq0/best_ssd_hdd_setup_for_media_server/)
+- 2026-07-28T00:11:23+00:00 — [confused about gluetun and if it is possible to route SSH request through with shadowsocks](https://www.reddit.com/r/selfhosted/comments/1v8hzjg/confused_about_gluetun_and_if_it_is_possible_to/)
 - Mon, 27 Jul 2026 10:27:01 +0000 — [5 Docker Security Mistakes I Learned the Hard Way](https://dev.to/_eb0609572b9efcf27472066/5-docker-security-mistakes-i-learned-the-hard-way-cj7)
 - Mon, 27 Jul 2026 10:20:43 +0000 — [Connecting an LLM Agent to a Real Browser With Playwright MCP](https://dev.to/basavaraj_sh_1ea7d95f0f2e/connecting-an-llm-agent-to-a-real-browser-with-playwright-mcp-4onj)
 - Mon, 27 Jul 2026 10:09:05 +0000 — [I ported a knowledge-format (OKF) library to zero-dependency .NET — here's what I learned](https://dev.to/julien_chable/i-ported-a-knowledge-format-okf-library-to-zero-dependency-net-heres-what-i-learned-1mb7)
-- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
-- 2026-07-26T18:29:18+00:00 — [I self-host a tunnel in a country that actively hunts them. Here's what survives, and what keeps breaking.](https://www.reddit.com/r/selfhosted/comments/1v7bww8/i_selfhost_a_tunnel_in_a_country_that_actively/)
 - 2026-07-26T09:42:55+00:00 — [Do i just accept my fate?](https://www.reddit.com/r/selfhosted/comments/1v6zag3/do_i_just_accept_my_fate/)
 - 2026-07-26T14:51:32+00:00 — [I am starting my homelabbing path out of fear of loosing my job](https://www.reddit.com/r/selfhosted/comments/1v760ho/i_am_starting_my_homelabbing_path_out_of_fear_of/)
 - 2026-07-26T11:24:44+00:00 — [Why did projects like IPFS and Filecoin never found its place in self hosting communities?](https://www.reddit.com/r/selfhosted/comments/1v717sr/why_did_projects_like_ipfs_and_filecoin_never/)
@@ -99,12 +107,4 @@ Last update: 2026-07-27 10:58 UTC
 - 2026-07-17T13:12:22+00:00 — [nzb360 v24 Released :: Now with Radarr 2.0!](https://www.reddit.com/r/selfhosted/comments/1uyzcnn/nzb360_v24_released_now_with_radarr_20/)
 - 2026-07-17T00:36:09+00:00 — [Is it worth moving from docker to podman? Where can I find good resourced to learn podman?](https://www.reddit.com/r/selfhosted/comments/1uykiu5/is_it_worth_moving_from_docker_to_podman_where/)
 - 2026-07-17T16:16:34+00:00 — [Tailscale sidecar on Plex container vs. separate Plex LXC with bare-metal Tailscale (circumventing CGNAT)](https://www.reddit.com/r/selfhosted/comments/1uz4aai/tailscale_sidecar_on_plex_container_vs_separate/)
-- 2026-07-17T14:06:56+00:00 — [A good way to backup Vaultwarden for EXTREME recovery (like having a brand new laptop on travel) ?](https://www.reddit.com/r/selfhosted/comments/1uz0rq9/a_good_way_to_backup_vaultwarden_for_extreme/)
-- 2026-07-17T18:44:25+00:00 — [Trying to get Joplin on iphone to sync through webdav to seafile hosted on a docker in linux mint and all connected to tailscale.](https://www.reddit.com/r/selfhosted/comments/1uz8f2y/trying_to_get_joplin_on_iphone_to_sync_through/)
-- 2026-07-17T06:15:24+00:00 — [Need a very reliable SYNC method across various devices including SETTINGS, CONFIGS and PLUGINS for Obsidian Notetaking app](https://www.reddit.com/r/selfhosted/comments/1uyrgfc/need_a_very_reliable_sync_method_across_various/)
-- 2026-07-16T22:01:12+00:00 — [New Project Megathread - Week of 16 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1uygu4t/new_project_megathread_week_of_16_jul_2026/)
-- 2026-07-17T14:39:52+00:00 — [Public IP vs Domain](https://www.reddit.com/r/selfhosted/comments/1uz1nka/public_ip_vs_domain/)
-- 2026-07-16T16:35:21+00:00 — [Portabase 1.24: redesigned dashboard KPIs, telemetry and safer deletions on data](https://www.reddit.com/r/selfhosted/comments/1uy7y2e/portabase_124_redesigned_dashboard_kpis_telemetry/)
-- 2026-07-17T22:50:39+00:00 — [I’m Considering Switching to Windows, Am I An Idiot?](https://www.reddit.com/r/selfhosted/comments/1uzermj/im_considering_switching_to_windows_am_i_an_idiot/)
-- Fri, 17 Jul 2026 09:17:04 +0000 — [Kimi K3 Open Weights, Node.js 26 Temporal, and the Week Tooling Got Serious](https://dev.to/devsignal/kimi-k3-open-weights-nodejs-26-temporal-and-the-week-tooling-got-serious-38l5)
 <!-- NEWS END -->
