@@ -2,14 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-28 10:18 UTC
+Last update: 2026-07-29 10:24 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 29 Jul 2026 10:17:01 +0000 — [Terraform Should Not Deploy Into EKS. ArgoCD Should.](https://dev.to/valeriouberti/terraform-should-not-deploy-into-eks-argocd-should-5cii)
+- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
+- 2026-07-29T02:54:37+00:00 — [What are your coolest or most utilized selfhosted services?](https://www.reddit.com/r/selfhosted/comments/1v9jn8i/what_are_your_coolest_or_most_utilized_selfhosted/)
+- 2026-07-29T05:14:18+00:00 — [Hammer: offline-first novel writing app with an optional self-hosted sync server. Now has an official multi-arch Docker image, so it's finally a five-minute setup.](https://www.reddit.com/r/selfhosted/comments/1v9miur/hammer_offlinefirst_novel_writing_app_with_an/)
+- 2026-07-28T15:16:05+00:00 — [Super Productivity v18.16.0 released: what changed since last r/selfhosted update](https://www.reddit.com/r/selfhosted/comments/1v91fg8/super_productivity_v18160_released_what_changed/)
+- 2026-07-29T07:13:22+00:00 — [Architecture advice needed: VPS front-door web proxy (Pangolin/Nebird) or direct port forwarding.](https://www.reddit.com/r/selfhosted/comments/1v9orfn/architecture_advice_needed_vps_frontdoor_web/)
+- 2026-07-29T07:47:10+00:00 — [Best Practices to Host SeaweedFS](https://www.reddit.com/r/selfhosted/comments/1v9pd13/best_practices_to_host_seaweedfs/)
+- 2026-07-29T05:18:46+00:00 — [Need advice for swapping my mini pc's SSD](https://www.reddit.com/r/selfhosted/comments/1v9mm0b/need_advice_for_swapping_my_mini_pcs_ssd/)
+- 2026-07-28T13:42:41+00:00 — [Recommendations for Teams alternative](https://www.reddit.com/r/selfhosted/comments/1v8ywed/recommendations_for_teams_alternative/)
+- 2026-07-29T05:31:34+00:00 — [Filebrowser Quantum Issue/Question](https://www.reddit.com/r/selfhosted/comments/1v9mv58/filebrowser_quantum_issuequestion/)
 - Tue, 28 Jul 2026 10:12:23 +0000 — [One bounded context per microservice is how you build a distributed monolith](https://dev.to/adioof/one-bounded-context-per-microservice-is-how-you-build-a-distributed-monolith-2jcd)
 - Tue, 28 Jul 2026 10:01:01 +0000 — [Build a Real-Time Chat App with FastAPI and WebSockets](https://dev.to/qingluan/build-a-real-time-chat-app-with-fastapi-and-websockets-3m0l)
-- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
 - 2026-07-28T09:40:41+00:00 — [Running an android app in a docker container](https://www.reddit.com/r/selfhosted/comments/1v8th2l/running_an_android_app_in_a_docker_container/)
 - 2026-07-26T18:29:18+00:00 — [I self-host a tunnel in a country that actively hunts them. Here's what survives, and what keeps breaking.](https://www.reddit.com/r/selfhosted/comments/1v7bww8/i_selfhost_a_tunnel_in_a_country_that_actively/)
 - 2026-07-27T14:08:22+00:00 — [Port forwarding](https://www.reddit.com/r/selfhosted/comments/1v81gud/port_forwarding/)
@@ -98,13 +107,4 @@ Last update: 2026-07-28 10:18 UTC
 - 2026-07-18T12:32:01+00:00 — [Raspberry Pi's](https://www.reddit.com/r/selfhosted/comments/1uzuo54/raspberry_pis/)
 - 2026-07-18T16:18:55+00:00 — [docker-thunderbird for CalDAV/CardDAV](https://www.reddit.com/r/selfhosted/comments/1v004mq/dockerthunderbird_for_caldavcarddav/)
 - 2026-07-18T00:44:13+00:00 — [LAN Orangutan Self-hosted network discovery for homelabbers v3.0.1 is out](https://www.reddit.com/r/selfhosted/comments/1uzhd21/lan_orangutan_selfhosted_network_discovery_for/)
-- 2026-07-18T02:28:09+00:00 — [What would you use this for?](https://www.reddit.com/r/selfhosted/comments/1uzjjh6/what_would_you_use_this_for/)
-- 2026-07-19T06:22:28+00:00 — [Helmarr, “lifetime pro” vs “helmarr pro - lifetime”. Just wondering what’s the difference since I can see them both.](https://www.reddit.com/r/selfhosted/comments/1v0iu7g/helmarr_lifetime_pro_vs_helmarr_pro_lifetime_just/)
-- 2026-07-19T00:56:23+00:00 — [Homelab re-architecture — where I'm at and where I'm headed. Looking for feedback](https://www.reddit.com/r/selfhosted/comments/1v0cl75/homelab_rearchitecture_where_im_at_and_where_im/)
-- 2026-07-19T04:51:54+00:00 — [Self-hosted live chat with a local-AI chatbot — conversations never leave your server](https://www.reddit.com/r/selfhosted/comments/1v0h7j8/selfhosted_live_chat_with_a_localai_chatbot/)
-- 2026-07-17T16:14:50+00:00 — [My compact home server setup](https://www.reddit.com/r/selfhosted/comments/1uz48km/my_compact_home_server_setup/)
-- 2026-07-17T06:29:05+00:00 — [Rate my setup (not great, not terrible)](https://www.reddit.com/r/selfhosted/comments/1uyrpdu/rate_my_setup_not_great_not_terrible/)
-- 2026-07-17T13:12:22+00:00 — [nzb360 v24 Released :: Now with Radarr 2.0!](https://www.reddit.com/r/selfhosted/comments/1uyzcnn/nzb360_v24_released_now_with_radarr_20/)
-- 2026-07-17T00:36:09+00:00 — [Is it worth moving from docker to podman? Where can I find good resourced to learn podman?](https://www.reddit.com/r/selfhosted/comments/1uykiu5/is_it_worth_moving_from_docker_to_podman_where/)
-- 2026-07-17T16:16:34+00:00 — [Tailscale sidecar on Plex container vs. separate Plex LXC with bare-metal Tailscale (circumventing CGNAT)](https://www.reddit.com/r/selfhosted/comments/1uz4aai/tailscale_sidecar_on_plex_container_vs_separate/)
 <!-- NEWS END -->
