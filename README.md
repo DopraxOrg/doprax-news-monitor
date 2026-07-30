@@ -2,15 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-29 10:24 UTC
+Last update: 2026-07-30 10:08 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 29 Jul 2026 10:17:01 +0000 — [Terraform Should Not Deploy Into EKS. ArgoCD Should.](https://dev.to/valeriouberti/terraform-should-not-deploy-into-eks-argocd-should-5cii)
+- Thu, 30 Jul 2026 09:44:03 +0000 — [Coding Doesn't Make You a Software Engineer](https://dev.to/rjshree/coding-doesnt-make-you-a-software-engineer-5a27)
 - 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
+- 2026-07-29T10:59:47+00:00 — [Is it just me, or are some newer European open-source projects surprisingly hard to self-host?](https://www.reddit.com/r/selfhosted/comments/1v9sv06/is_it_just_me_or_are_some_newer_european/)
+- 2026-07-30T08:41:26+00:00 — [Building a native mobile companion for Coolify — What features are most critical for you on mobile?](https://www.reddit.com/r/selfhosted/comments/1vanw5w/building_a_native_mobile_companion_for_coolify/)
+- 2026-07-30T08:00:59+00:00 — [Looking for advice / sanity check on my home server setup: Self-hosting client sites + Personal media server with failover strategy](https://www.reddit.com/r/selfhosted/comments/1van78g/looking_for_advice_sanity_check_on_my_home_server/)
+- 2026-07-29T20:41:58+00:00 — [Best practices for deploying Nextcloud in a small company with 15 employees?](https://www.reddit.com/r/selfhosted/comments/1va8ffa/best_practices_for_deploying_nextcloud_in_a_small/)
 - 2026-07-29T02:54:37+00:00 — [What are your coolest or most utilized selfhosted services?](https://www.reddit.com/r/selfhosted/comments/1v9jn8i/what_are_your_coolest_or_most_utilized_selfhosted/)
 - 2026-07-29T05:14:18+00:00 — [Hammer: offline-first novel writing app with an optional self-hosted sync server. Now has an official multi-arch Docker image, so it's finally a five-minute setup.](https://www.reddit.com/r/selfhosted/comments/1v9miur/hammer_offlinefirst_novel_writing_app_with_an/)
+- 2026-07-30T02:14:23+00:00 — [Home Temperature Control / Monitoring](https://www.reddit.com/r/selfhosted/comments/1vaghkl/home_temperature_control_monitoring/)
+- 2026-07-30T07:53:44+00:00 — [Web app to help people prepare themselves for study interview or study assignment](https://www.reddit.com/r/selfhosted/comments/1van2o6/web_app_to_help_people_prepare_themselves_for/)
+- 2026-07-29T21:27:33+00:00 — [Advice Needed: Best OS Setup for a Dell OptiPlex 3080 Self-Hosting Server](https://www.reddit.com/r/selfhosted/comments/1va9n16/advice_needed_best_os_setup_for_a_dell_optiplex/)
+- 2026-07-29T19:47:36+00:00 — [Coolify/Dokploy alternative with builds on GitHub Actions?](https://www.reddit.com/r/selfhosted/comments/1va6wq2/coolifydokploy_alternative_with_builds_on_github/)
+- Wed, 29 Jul 2026 10:17:01 +0000 — [Terraform Should Not Deploy Into EKS. ArgoCD Should.](https://dev.to/valeriouberti/terraform-should-not-deploy-into-eks-argocd-should-5cii)
 - 2026-07-28T15:16:05+00:00 — [Super Productivity v18.16.0 released: what changed since last r/selfhosted update](https://www.reddit.com/r/selfhosted/comments/1v91fg8/super_productivity_v18160_released_what_changed/)
 - 2026-07-29T07:13:22+00:00 — [Architecture advice needed: VPS front-door web proxy (Pangolin/Nebird) or direct port forwarding.](https://www.reddit.com/r/selfhosted/comments/1v9orfn/architecture_advice_needed_vps_frontdoor_web/)
 - 2026-07-29T07:47:10+00:00 — [Best Practices to Host SeaweedFS](https://www.reddit.com/r/selfhosted/comments/1v9pd13/best_practices_to_host_seaweedfs/)
@@ -98,13 +107,4 @@ Last update: 2026-07-29 10:24 UTC
 - 2026-07-20T09:51:34+00:00 — [What vector database has held up for you on a low-RAM box?](https://www.reddit.com/r/selfhosted/comments/1v1gzko/what_vector_database_has_held_up_for_you_on_a/)
 - 2026-07-20T05:09:07+00:00 — [How can I change the Apache Guacamole branding (title and logo)?](https://www.reddit.com/r/selfhosted/comments/1v1c3qq/how_can_i_change_the_apache_guacamole_branding/)
 - 2026-07-19T19:28:27+00:00 — [Issue running Szurubooru LAN only with Synology NAS (upstream timeout?)](https://www.reddit.com/r/selfhosted/comments/1v0zk0r/issue_running_szurubooru_lan_only_with_synology/)
-- 2026-07-19T15:03:49+00:00 — [My solve for issues with Connectivity Assist on iOS27](https://www.reddit.com/r/selfhosted/comments/1v0svwz/my_solve_for_issues_with_connectivity_assist_on/)
-- Sun, 19 Jul 2026 08:56:20 +0000 — [cidx v2.1.0 — the most useful output of a release was its seven bug reports](https://dev.to/arcker/cidx-v210-the-most-useful-output-of-a-release-was-its-seven-bug-reports-43lf)
-- 2026-07-18T18:38:57+00:00 — [My Lovable-like startup died, so I open-sourced its engine — one home for all open-source apps and coding agents](https://www.reddit.com/r/selfhosted/comments/1v03q1p/my_lovablelike_startup_died_so_i_opensourced_its/)
-- 2026-07-18T19:31:45+00:00 — [Migrating from Ubuntu to Proxmox, looking for suggestions](https://www.reddit.com/r/selfhosted/comments/1v052bu/migrating_from_ubuntu_to_proxmox_looking_for/)
-- 2026-07-18T16:18:27+00:00 — [Creating a self-hosted media server as a tech illiterate beginner](https://www.reddit.com/r/selfhosted/comments/1v00488/creating_a_selfhosted_media_server_as_a_tech/)
-- 2026-07-18T08:17:51+00:00 — [How to prevent client-side internet connection of selfhosted apps?](https://www.reddit.com/r/selfhosted/comments/1uzq4q2/how_to_prevent_clientside_internet_connection_of/)
-- 2026-07-18T12:32:01+00:00 — [Raspberry Pi's](https://www.reddit.com/r/selfhosted/comments/1uzuo54/raspberry_pis/)
-- 2026-07-18T16:18:55+00:00 — [docker-thunderbird for CalDAV/CardDAV](https://www.reddit.com/r/selfhosted/comments/1v004mq/dockerthunderbird_for_caldavcarddav/)
-- 2026-07-18T00:44:13+00:00 — [LAN Orangutan Self-hosted network discovery for homelabbers v3.0.1 is out](https://www.reddit.com/r/selfhosted/comments/1uzhd21/lan_orangutan_selfhosted_network_discovery_for/)
 <!-- NEWS END -->
