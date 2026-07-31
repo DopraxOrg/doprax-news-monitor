@@ -2,11 +2,20 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-30 10:08 UTC
+Last update: 2026-07-31 10:24 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 31 Jul 2026 10:05:21 +0000 — [Building a Password Strength Validator with Entropy Calculation](https://dev.to/ayinedjimi-consultants/building-a-password-strength-validator-with-entropy-calculation-5djl)
+- 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
+- 2026-07-31T09:08:31+00:00 — [forgejo error 503](https://www.reddit.com/r/selfhosted/comments/1vblol9/forgejo_error_503/)
+- 2026-07-31T09:01:28+00:00 — [Can you reccomend me OS/apps for my purpose?](https://www.reddit.com/r/selfhosted/comments/1vblk3w/can_you_reccomend_me_osapps_for_my_purpose/)
+- 2026-07-31T09:28:19+00:00 — [Beszel Agent + rootless Podman not showing containers (Fedora/Podman 5.8.4)](https://www.reddit.com/r/selfhosted/comments/1vbm0uo/beszel_agent_rootless_podman_not_showing/)
+- 2026-07-30T21:25:59+00:00 — [Wondering what a good simple setup is for tasks and notes](https://www.reddit.com/r/selfhosted/comments/1vb6t63/wondering_what_a_good_simple_setup_is_for_tasks/)
+- 2026-07-31T06:20:48+00:00 — [Immich ML crash-looped after update — it was Proxmox kvm64 hiding X86_V2, not Immich](https://www.reddit.com/r/selfhosted/comments/1vbioov/immich_ml_crashlooped_after_update_it_was_proxmox/)
+- 2026-07-30T14:13:34+00:00 — [Questions about VPS](https://www.reddit.com/r/selfhosted/comments/1vauu1o/questions_about_vps/)
+- 2026-07-31T02:07:52+00:00 — [Question on Automation with an AI agent/sub-agent setup](https://www.reddit.com/r/selfhosted/comments/1vbdh3n/question_on_automation_with_an_ai_agentsubagent/)
 - Thu, 30 Jul 2026 09:44:03 +0000 — [Coding Doesn't Make You a Software Engineer](https://dev.to/rjshree/coding-doesnt-make-you-a-software-engineer-5a27)
 - 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
 - 2026-07-29T10:59:47+00:00 — [Is it just me, or are some newer European open-source projects surprisingly hard to self-host?](https://www.reddit.com/r/selfhosted/comments/1v9sv06/is_it_just_me_or_are_some_newer_european/)
@@ -98,13 +107,4 @@ Last update: 2026-07-30 10:08 UTC
 - 2026-07-21T04:40:05+00:00 — [Recommendations for File Sharing](https://www.reddit.com/r/selfhosted/comments/1v28b72/recommendations_for_file_sharing/)
 - 2026-07-19T10:13:40+00:00 — [I analyzed 30 days of traffic hitting my homelab reverse proxy. 1.16 million requests were attacks. Here's what they're actually looking for.](https://www.reddit.com/r/selfhosted/comments/1v0mrjd/i_analyzed_30_days_of_traffic_hitting_my_homelab/)
 - 2026-07-21T07:19:55+00:00 — [Calculated my self hosting costs vs subscriptions](https://www.reddit.com/r/selfhosted/comments/1v2b8t3/calculated_my_self_hosting_costs_vs_subscriptions/)
-- 2026-07-20T19:43:19+00:00 — [How should I structure my Podman quadlet deployment?](https://www.reddit.com/r/selfhosted/comments/1v1vtg6/how_should_i_structure_my_podman_quadlet/)
-- Mon, 20 Jul 2026 10:11:23 +0000 — [Kubernetes: StatefulSet vs. Deployment](https://dev.to/theyamlguy/kubernetes-statefulset-vs-deployment-nh7)
-- Mon, 20 Jul 2026 10:10:23 +0000 — [Building a Production Grade AWS Infrastructure Project (Part 3): IAM Terraform](https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-part-3-iam-terraform-243a)
-- 2026-07-19T20:42:27+00:00 — [Looking for a good wiki / knowledge base solution.](https://www.reddit.com/r/selfhosted/comments/1v11ami/looking_for_a_good_wiki_knowledge_base_solution/)
-- 2026-07-20T01:17:15+00:00 — [Mental models for securing selfhosted infrastructure](https://www.reddit.com/r/selfhosted/comments/1v17jt4/mental_models_for_securing_selfhosted/)
-- 2026-07-19T10:38:36+00:00 — [My tiny mini-PC does more than it has any right to (Beelink N150, 12GB RAM)](https://www.reddit.com/r/selfhosted/comments/1v0n6yd/my_tiny_minipc_does_more_than_it_has_any_right_to/)
-- 2026-07-20T09:51:34+00:00 — [What vector database has held up for you on a low-RAM box?](https://www.reddit.com/r/selfhosted/comments/1v1gzko/what_vector_database_has_held_up_for_you_on_a/)
-- 2026-07-20T05:09:07+00:00 — [How can I change the Apache Guacamole branding (title and logo)?](https://www.reddit.com/r/selfhosted/comments/1v1c3qq/how_can_i_change_the_apache_guacamole_branding/)
-- 2026-07-19T19:28:27+00:00 — [Issue running Szurubooru LAN only with Synology NAS (upstream timeout?)](https://www.reddit.com/r/selfhosted/comments/1v0zk0r/issue_running_szurubooru_lan_only_with_synology/)
 <!-- NEWS END -->
