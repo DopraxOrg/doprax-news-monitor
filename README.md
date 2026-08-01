@@ -2,14 +2,18 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-07-31 10:24 UTC
+Last update: 2026-08-01 09:46 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Fri, 31 Jul 2026 10:05:21 +0000 — [Building a Password Strength Validator with Entropy Calculation](https://dev.to/ayinedjimi-consultants/building-a-password-strength-validator-with-entropy-calculation-5djl)
+- Sat, 01 Aug 2026 09:12:25 +0000 — [I built an AI dev team that reviews its own work — here's what I learned about multi-agent loops](https://dev.to/chris_l_c1b53c66e5a4ce7e8/i-built-an-ai-dev-team-that-reviews-its-own-work-heres-what-i-learned-about-multi-agent-loops-40la)
+- Sat, 01 Aug 2026 09:05:00 +0000 — [Padel Flow](https://dev.to/hafiz_muhammad_2c132a0595/padel-flow-3f0i)
 - 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
+- 2026-08-01T09:16:21+00:00 — [Best way to migrate my Syn NAS from ext4 to btrfs?](https://www.reddit.com/r/selfhosted/comments/1vcijc3/best_way_to_migrate_my_syn_nas_from_ext4_to_btrfs/)
+- 2026-08-01T02:01:19+00:00 — [help troubleshooting immich set-up](https://www.reddit.com/r/selfhosted/comments/1vca9ss/help_troubleshooting_immich_setup/)
 - 2026-07-31T09:08:31+00:00 — [forgejo error 503](https://www.reddit.com/r/selfhosted/comments/1vblol9/forgejo_error_503/)
+- Fri, 31 Jul 2026 10:05:21 +0000 — [Building a Password Strength Validator with Entropy Calculation](https://dev.to/ayinedjimi-consultants/building-a-password-strength-validator-with-entropy-calculation-5djl)
 - 2026-07-31T09:01:28+00:00 — [Can you reccomend me OS/apps for my purpose?](https://www.reddit.com/r/selfhosted/comments/1vblk3w/can_you_reccomend_me_osapps_for_my_purpose/)
 - 2026-07-31T09:28:19+00:00 — [Beszel Agent + rootless Podman not showing containers (Fedora/Podman 5.8.4)](https://www.reddit.com/r/selfhosted/comments/1vbm0uo/beszel_agent_rootless_podman_not_showing/)
 - 2026-07-30T21:25:59+00:00 — [Wondering what a good simple setup is for tasks and notes](https://www.reddit.com/r/selfhosted/comments/1vb6t63/wondering_what_a_good_simple_setup_is_for_tasks/)
@@ -103,8 +107,4 @@ Last update: 2026-07-31 10:24 UTC
 - 2026-07-21T07:58:20+00:00 — [Handle torrent storage with two mount point](https://www.reddit.com/r/selfhosted/comments/1v2bwbj/handle_torrent_storage_with_two_mount_point/)
 - 2026-07-20T22:09:57+00:00 — [CrawlSEO — self-hosted SEO monitoring (GSC + site crawler + Core Web Vitals + MCP server)](https://www.reddit.com/r/selfhosted/comments/1v1zo47/crawlseo_selfhosted_seo_monitoring_gsc_site/)
 - 2026-07-21T01:08:08+00:00 — [NextPVR not deleting Timeshift files](https://www.reddit.com/r/selfhosted/comments/1v23tjz/nextpvr_not_deleting_timeshift_files/)
-- 2026-07-20T12:00:44+00:00 — [Can I self-host a DNS server to custom block websites on Android?](https://www.reddit.com/r/selfhosted/comments/1v1jhsf/can_i_selfhost_a_dns_server_to_custom_block/)
-- 2026-07-21T04:40:05+00:00 — [Recommendations for File Sharing](https://www.reddit.com/r/selfhosted/comments/1v28b72/recommendations_for_file_sharing/)
-- 2026-07-19T10:13:40+00:00 — [I analyzed 30 days of traffic hitting my homelab reverse proxy. 1.16 million requests were attacks. Here's what they're actually looking for.](https://www.reddit.com/r/selfhosted/comments/1v0mrjd/i_analyzed_30_days_of_traffic_hitting_my_homelab/)
-- 2026-07-21T07:19:55+00:00 — [Calculated my self hosting costs vs subscriptions](https://www.reddit.com/r/selfhosted/comments/1v2b8t3/calculated_my_self_hosting_costs_vs_subscriptions/)
 <!-- NEWS END -->
