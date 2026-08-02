@@ -2,14 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-01 09:46 UTC
+Last update: 2026-08-02 09:46 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 02 Aug 2026 09:10:26 +0000 — [Halfway Through the MLH Production Engineering Fellowship](https://dev.to/frixumpullum/halfway-through-the-mlh-production-engineering-fellowship-46ol)
+- 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
+- 2026-08-01T21:02:26+00:00 — [New to self-hosting, how to secure it all?](https://www.reddit.com/r/selfhosted/comments/1vcyocx/new_to_selfhosting_how_to_secure_it_all/)
+- 2026-08-02T01:46:53+00:00 — [Is this architecture secure enough?](https://www.reddit.com/r/selfhosted/comments/1vd4zhu/is_this_architecture_secure_enough/)
+- 2026-08-02T04:57:42+00:00 — [Reel Tracker - A semi self-hosted movie & TV tracker running on Cloudflare Workers](https://www.reddit.com/r/selfhosted/comments/1vd8ssz/reel_tracker_a_semi_selfhosted_movie_tv_tracker/)
+- 2026-08-01T17:17:48+00:00 — [Released Lanemu P2P VPN 0.14.1 - Open-source alternative to Hamachi/Zerotier/Radmin](https://www.reddit.com/r/selfhosted/comments/1vct17m/released_lanemu_p2p_vpn_0141_opensource/)
 - Sat, 01 Aug 2026 09:12:25 +0000 — [I built an AI dev team that reviews its own work — here's what I learned about multi-agent loops](https://dev.to/chris_l_c1b53c66e5a4ce7e8/i-built-an-ai-dev-team-that-reviews-its-own-work-heres-what-i-learned-about-multi-agent-loops-40la)
 - Sat, 01 Aug 2026 09:05:00 +0000 — [Padel Flow](https://dev.to/hafiz_muhammad_2c132a0595/padel-flow-3f0i)
-- 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
 - 2026-08-01T09:16:21+00:00 — [Best way to migrate my Syn NAS from ext4 to btrfs?](https://www.reddit.com/r/selfhosted/comments/1vcijc3/best_way_to_migrate_my_syn_nas_from_ext4_to_btrfs/)
 - 2026-08-01T02:01:19+00:00 — [help troubleshooting immich set-up](https://www.reddit.com/r/selfhosted/comments/1vca9ss/help_troubleshooting_immich_setup/)
 - 2026-07-31T09:08:31+00:00 — [forgejo error 503](https://www.reddit.com/r/selfhosted/comments/1vblol9/forgejo_error_503/)
@@ -102,9 +107,4 @@ Last update: 2026-08-01 09:46 UTC
 - 2026-07-22T03:34:29+00:00 — [Anyone here running Koito as their main music scrobbler?](https://www.reddit.com/r/selfhosted/comments/1v34i0o/anyone_here_running_koito_as_their_main_music/)
 - 2026-07-22T09:13:12+00:00 — [Searching for an "Online Outlook"](https://www.reddit.com/r/selfhosted/comments/1v3atl5/searching_for_an_online_outlook/)
 - 2026-07-22T09:42:06+00:00 — [UGOS Pro forced update broke Docker permissions](https://www.reddit.com/r/selfhosted/comments/1v3bbmh/ugos_pro_forced_update_broke_docker_permissions/)
-- Tue, 21 Jul 2026 10:01:56 +0000 — [Docker for the Developer Who Actually Has to Ship: Secrets, Multi-Stage Builds, Live Reload, and Why Your Container Just Died](https://dev.to/surajrkhonde/docker-for-the-developer-who-actually-has-to-ship-secrets-multi-stage-builds-live-reload-and-57m7)
-- 2026-07-21T08:58:02+00:00 — [Plex over Tailscale: works perfectly from one location, but is detected as Remote from another Wi-Fi network](https://www.reddit.com/r/selfhosted/comments/1v2cx3u/plex_over_tailscale_works_perfectly_from_one/)
-- 2026-07-21T07:58:20+00:00 — [Handle torrent storage with two mount point](https://www.reddit.com/r/selfhosted/comments/1v2bwbj/handle_torrent_storage_with_two_mount_point/)
-- 2026-07-20T22:09:57+00:00 — [CrawlSEO — self-hosted SEO monitoring (GSC + site crawler + Core Web Vitals + MCP server)](https://www.reddit.com/r/selfhosted/comments/1v1zo47/crawlseo_selfhosted_seo_monitoring_gsc_site/)
-- 2026-07-21T01:08:08+00:00 — [NextPVR not deleting Timeshift files](https://www.reddit.com/r/selfhosted/comments/1v23tjz/nextpvr_not_deleting_timeshift_files/)
 <!-- NEWS END -->
