@@ -2,14 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-02 09:46 UTC
+Last update: 2026-08-03 11:09 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sun, 02 Aug 2026 09:10:26 +0000 — [Halfway Through the MLH Production Engineering Fellowship](https://dev.to/frixumpullum/halfway-through-the-mlh-production-engineering-fellowship-46ol)
 - 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
+- 2026-08-03T09:23:20+00:00 — [Forgot and experienced true hell with :lastest](https://www.reddit.com/r/selfhosted/comments/1ve8h5q/forgot_and_experienced_true_hell_with_lastest/)
+- 2026-08-02T10:35:55+00:00 — [The 3 Stages of Self Hosting](https://www.reddit.com/r/selfhosted/comments/1vdepgr/the_3_stages_of_self_hosting/)
+- 2026-08-03T09:28:30+00:00 — [Aralez v.0.92.16 . Reverse proxy, website accelerator](https://www.reddit.com/r/selfhosted/comments/1ve8kf7/aralez_v09216_reverse_proxy_website_accelerator/)
+- 2026-08-03T06:59:18+00:00 — [Learning Docker and Setting Up for SelfHosting](https://www.reddit.com/r/selfhosted/comments/1ve5z9e/learning_docker_and_setting_up_for_selfhosting/)
+- 2026-08-03T10:26:48+00:00 — [Not authorized from Windows KopiaUI to docker Kopia Server](https://www.reddit.com/r/selfhosted/comments/1ve9m10/not_authorized_from_windows_kopiaui_to_docker/)
+- 2026-08-02T11:26:15+00:00 — [Karakeep 0.33 release - Semantic Search and Offline Reading!](https://www.reddit.com/r/selfhosted/comments/1vdfm4j/karakeep_033_release_semantic_search_and_offline/)
+- 2026-08-02T16:28:07+00:00 — [Portabase 1.27 - open-source backup and restore platform](https://www.reddit.com/r/selfhosted/comments/1vdmhqv/portabase_127_opensource_backup_and_restore/)
+- 2026-08-02T11:39:51+00:00 — [double quotes in docker-compose.yaml files?](https://www.reddit.com/r/selfhosted/comments/1vdfv26/double_quotes_in_dockercomposeyaml_files/)
+- 2026-08-02T17:00:02+00:00 — [Thinking about moving away from Synology DS224+ to ZimaOS/ZimaBoard or building a DIY homelab, looking for advice](https://www.reddit.com/r/selfhosted/comments/1vdna6z/thinking_about_moving_away_from_synology_ds224_to/)
+- 2026-08-02T19:33:23+00:00 — [Is there any guide or 101 that can be used to start self hosting](https://www.reddit.com/r/selfhosted/comments/1vdr8jn/is_there_any_guide_or_101_that_can_be_used_to/)
+- 2026-08-02T14:11:30+00:00 — [Self hosting photo upload site](https://www.reddit.com/r/selfhosted/comments/1vdj3uu/self_hosting_photo_upload_site/)
 - 2026-08-01T21:02:26+00:00 — [New to self-hosting, how to secure it all?](https://www.reddit.com/r/selfhosted/comments/1vcyocx/new_to_selfhosting_how_to_secure_it_all/)
+- 2026-08-03T08:09:27+00:00 — [Built a self-hosted project management & documentation platform for teams that want to keep everything on-premise](https://www.reddit.com/r/selfhosted/comments/1ve77bx/built_a_selfhosted_project_management/)
+- Sun, 02 Aug 2026 09:10:26 +0000 — [Halfway Through the MLH Production Engineering Fellowship](https://dev.to/frixumpullum/halfway-through-the-mlh-production-engineering-fellowship-46ol)
 - 2026-08-02T01:46:53+00:00 — [Is this architecture secure enough?](https://www.reddit.com/r/selfhosted/comments/1vd4zhu/is_this_architecture_secure_enough/)
 - 2026-08-02T04:57:42+00:00 — [Reel Tracker - A semi self-hosted movie & TV tracker running on Cloudflare Workers](https://www.reddit.com/r/selfhosted/comments/1vd8ssz/reel_tracker_a_semi_selfhosted_movie_tv_tracker/)
 - 2026-08-01T17:17:48+00:00 — [Released Lanemu P2P VPN 0.14.1 - Open-source alternative to Hamachi/Zerotier/Radmin](https://www.reddit.com/r/selfhosted/comments/1vct17m/released_lanemu_p2p_vpn_0141_opensource/)
@@ -95,16 +107,4 @@ Last update: 2026-08-02 09:46 UTC
 - 2026-07-23T08:09:56+00:00 — [I’ve spent over a year building a self-hosted alternative to Pusher](https://www.reddit.com/r/selfhosted/comments/1v47ibf/ive_spent_over_a_year_building_a_selfhosted/)
 - 2026-07-22T12:46:12+00:00 — [I work in security and self-host everything at home. Built an open source linter to catch my compose mistakes.](https://www.reddit.com/r/selfhosted/comments/1v3f55q/i_work_in_security_and_selfhost_everything_at/)
 - 2026-07-22T15:00:45+00:00 — [Am I being safe enough with my server?](https://www.reddit.com/r/selfhosted/comments/1v3incp/am_i_being_safe_enough_with_my_server/)
-- 2026-07-22T20:42:07+00:00 — [ISO Suggestions: File/Resource Access Distribution Service](https://www.reddit.com/r/selfhosted/comments/1v3sicb/iso_suggestions_fileresource_access_distribution/)
-- 2026-07-23T08:10:24+00:00 — [quick guide to self-hosting apps with OpenShip](https://www.reddit.com/r/selfhosted/comments/1v47iml/quick_guide_to_selfhosting_apps_with_openship/)
-- 2026-07-21T21:00:50+00:00 — [[NEW RELEASE] dockcheck.sh v0.8.1 - Now possible to run containerized plus a few new options](https://www.reddit.com/r/selfhosted/comments/1v2v5aa/new_release_dockchecksh_v081_now_possible_to_run/)
-- 2026-07-21T15:48:25+00:00 — [Mindwtr: a local-first GTD task manager with self-hosted sync](https://www.reddit.com/r/selfhosted/comments/1v2mag9/mindwtr_a_localfirst_gtd_task_manager_with/)
-- 2026-07-22T19:52:55+00:00 — [self hosting a DNS server on old android phone](https://www.reddit.com/r/selfhosted/comments/1v3r2xa/self_hosting_a_dns_server_on_old_android_phone/)
-- Tue, 21 Jul 2026 19:43:59 +0000 — ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
-- Wed, 22 Jul 2026 09:50:30 +0000 — [Late Night Shipping Safi Budget Engine Updates & Render Deployment published](https://dev.to/shakipkorir/late-night-shipping-safi-budget-engine-updates-render-deployment-published-1j3g)
-- Wed, 22 Jul 2026 09:47:01 +0000 — [Build a Crypto Payment Module for SaaS Apps](https://dev.to/kevins1988/build-a-crypto-payment-module-for-saas-apps-4poe)
-- Wed, 22 Jul 2026 09:38:53 +0000 — [Teaching My Backend to Listen and Reply — FastAPI CRUD, Phase 2](https://dev.to/silentcarry/teaching-my-backend-to-listen-and-reply-fastapi-crud-phase-2-pjh)
-- 2026-07-22T03:34:29+00:00 — [Anyone here running Koito as their main music scrobbler?](https://www.reddit.com/r/selfhosted/comments/1v34i0o/anyone_here_running_koito_as_their_main_music/)
-- 2026-07-22T09:13:12+00:00 — [Searching for an "Online Outlook"](https://www.reddit.com/r/selfhosted/comments/1v3atl5/searching_for_an_online_outlook/)
-- 2026-07-22T09:42:06+00:00 — [UGOS Pro forced update broke Docker permissions](https://www.reddit.com/r/selfhosted/comments/1v3bbmh/ugos_pro_forced_update_broke_docker_permissions/)
 <!-- NEWS END -->
