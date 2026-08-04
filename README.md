@@ -2,15 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-03 11:09 UTC
+Last update: 2026-08-04 10:24 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 04 Aug 2026 10:09:22 +0000 — [Stop Burning Your AI Limits: A Token Diet for Long Coding Days](https://dev.to/eram/stop-burning-your-ai-limits-a-token-diet-for-long-coding-days-o2h)
+- Tue, 04 Aug 2026 10:08:50 +0000 — [Self-hosted Linear?](https://dev.to/croffasia/self-hosted-linear-56bi)
+- Tue, 04 Aug 2026 10:06:25 +0000 — [Redis Complete Guide: Caching, Queues & Pub/Sub (2026)](https://dev.to/stacknotice/redis-complete-guide-caching-queues-pubsub-2026-2pml)
 - 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
 - 2026-08-03T09:23:20+00:00 — [Forgot and experienced true hell with :lastest](https://www.reddit.com/r/selfhosted/comments/1ve8h5q/forgot_and_experienced_true_hell_with_lastest/)
+- 2026-08-04T08:15:17+00:00 — [Self-hosted publishing stack: where do you draw the line between VPS and local machine?](https://www.reddit.com/r/selfhosted/comments/1vf46o4/selfhosted_publishing_stack_where_do_you_draw_the/)
+- 2026-08-04T09:25:55+00:00 — [Looking to share a funeral recording in a respectful manner](https://www.reddit.com/r/selfhosted/comments/1vf5dr2/looking_to_share_a_funeral_recording_in_a/)
+- 2026-08-04T07:49:54+00:00 — [Do you backup your databases or the filesystem?](https://www.reddit.com/r/selfhosted/comments/1vf3r1r/do_you_backup_your_databases_or_the_filesystem/)
+- 2026-08-03T12:56:55+00:00 — [IronCalc v0.8 released](https://www.reddit.com/r/selfhosted/comments/1vecogx/ironcalc_v08_released/)
 - 2026-08-02T10:35:55+00:00 — [The 3 Stages of Self Hosting](https://www.reddit.com/r/selfhosted/comments/1vdepgr/the_3_stages_of_self_hosting/)
+- 2026-08-03T12:24:53+00:00 — [Codeman: self-hosted mission control for AI coding agents, built in the open with the community, supports OpenCode, Claude Code, Codex and Gemini](https://www.reddit.com/r/selfhosted/comments/1vebymy/codeman_selfhosted_mission_control_for_ai_coding/)
 - 2026-08-03T09:28:30+00:00 — [Aralez v.0.92.16 . Reverse proxy, website accelerator](https://www.reddit.com/r/selfhosted/comments/1ve8kf7/aralez_v09216_reverse_proxy_website_accelerator/)
+- 2026-08-04T07:49:58+00:00 — [Looking for feedback from Kubernetes users on a deployment tool I'm building ✅](https://www.reddit.com/r/selfhosted/comments/1vf3r38/looking_for_feedback_from_kubernetes_users_on_a/)
 - 2026-08-03T06:59:18+00:00 — [Learning Docker and Setting Up for SelfHosting](https://www.reddit.com/r/selfhosted/comments/1ve5z9e/learning_docker_and_setting_up_for_selfhosting/)
 - 2026-08-03T10:26:48+00:00 — [Not authorized from Windows KopiaUI to docker Kopia Server](https://www.reddit.com/r/selfhosted/comments/1ve9m10/not_authorized_from_windows_kopiaui_to_docker/)
 - 2026-08-02T11:26:15+00:00 — [Karakeep 0.33 release - Semantic Search and Offline Reading!](https://www.reddit.com/r/selfhosted/comments/1vdfm4j/karakeep_033_release_semantic_search_and_offline/)
@@ -98,13 +107,4 @@ Last update: 2026-08-03 11:09 UTC
 - Fri, 24 Jul 2026 09:19:14 +0000 — [Hetzner Inference: First Look](https://dev.to/code42cate/hetzner-inference-first-look-587)
 - 2026-07-24T08:01:14+00:00 — [We made a new SEO/GEO rank tracker (alternative to SerpBear)](https://www.reddit.com/r/selfhosted/comments/1v54xma/we_made_a_new_seogeo_rank_tracker_alternative_to/)
 - 2026-07-23T23:39:04+00:00 — [I somehow broke my SSL in Caddy and I'm at my wit's end](https://www.reddit.com/r/selfhosted/comments/1v4umf1/i_somehow_broke_my_ssl_in_caddy_and_im_at_my_wits/)
-- 2026-07-24T01:55:57+00:00 — [Cloudflared + Docker Swarm + NPM(Or Trafek?) with root domain pointing at github pages](https://www.reddit.com/r/selfhosted/comments/1v4xpsm/cloudflared_docker_swarm_npmor_trafek_with_root/)
-- 2026-07-24T09:27:24+00:00 — [🚨 Never use Hostinger, worst experience ever 👎](https://www.reddit.com/r/selfhosted/comments/1v56fag/never_use_hostinger_worst_experience_ever/)
-- 2026-07-22T18:17:03+00:00 — [My Glance Dashboard Setup](https://www.reddit.com/r/selfhosted/comments/1v3obzv/my_glance_dashboard_setup/)
-- Thu, 23 Jul 2026 10:04:50 +0000 — [Introducing tinbase — local Supabase without Docker (one process, real Postgres)](https://dev.to/russel_dsouza_bd584a3cb2a/introducing-tinbase-local-supabase-without-docker-one-process-real-postgres-o0b)
-- Thu, 23 Jul 2026 09:39:01 +0000 — [GitLab CI "Cannot connect to unix:///var/run/docker.sock"](https://dev.to/devopsstart/gitlab-ci-cannot-connect-to-unixvarrundockersock-1doj)
-- Thu, 23 Jul 2026 09:33:22 +0000 — [Unhandled Promise Rejections in Node.js: Why They Silently Kill Jobs](https://dev.to/faisal_nadeem_752520c3e03/unhandled-promise-rejections-in-nodejs-why-they-silently-kill-jobs-dl2)
-- 2026-07-23T08:09:56+00:00 — [I’ve spent over a year building a self-hosted alternative to Pusher](https://www.reddit.com/r/selfhosted/comments/1v47ibf/ive_spent_over_a_year_building_a_selfhosted/)
-- 2026-07-22T12:46:12+00:00 — [I work in security and self-host everything at home. Built an open source linter to catch my compose mistakes.](https://www.reddit.com/r/selfhosted/comments/1v3f55q/i_work_in_security_and_selfhost_everything_at/)
-- 2026-07-22T15:00:45+00:00 — [Am I being safe enough with my server?](https://www.reddit.com/r/selfhosted/comments/1v3incp/am_i_being_safe_enough_with_my_server/)
 <!-- NEWS END -->
