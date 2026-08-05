@@ -2,19 +2,27 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-04 10:24 UTC
+Last update: 2026-08-05 10:20 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 05 Aug 2026 10:11:51 +0000 — [Auditability vs. Forced Determinism : Future of Agentic AI](https://dev.to/mir_arshadalitalpur_1b3/auditability-vs-forced-determinism-future-of-agentic-ai-55ae)
+- Wed, 05 Aug 2026 10:10:33 +0000 — [Audit an AI Coding Agent's Network Egress Before It Gets a Shell](https://dev.to/jaryn_123/audit-an-ai-coding-agents-network-egress-before-it-gets-a-shell-4k69)
+- 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
+- 2026-08-04T21:27:32+00:00 — [Forgot my sudo password, reset it from a privileged container](https://www.reddit.com/r/selfhosted/comments/1vfnle3/forgot_my_sudo_password_reset_it_from_a/)
+- 2026-08-04T13:07:27+00:00 — [Do I just have to live connected to Tailscale now?](https://www.reddit.com/r/selfhosted/comments/1vf9v31/do_i_just_have_to_live_connected_to_tailscale_now/)
+- 2026-08-05T01:35:24+00:00 — [What is Tailscale mullvad actually doing](https://www.reddit.com/r/selfhosted/comments/1vftfgc/what_is_tailscale_mullvad_actually_doing/)
+- 2026-08-04T08:15:17+00:00 — [Self-hosted publishing stack: where do you draw the line between VPS and local machine?](https://www.reddit.com/r/selfhosted/comments/1vf46o4/selfhosted_publishing_stack_where_do_you_draw_the/)
+- 2026-08-05T00:29:02+00:00 — [Does anyone have knowledge of Eero router and AdGuardHome playing nice for DHCP?](https://www.reddit.com/r/selfhosted/comments/1vfrz69/does_anyone_have_knowledge_of_eero_router_and/)
+- 2026-08-04T15:51:03+00:00 — [NutriTrace v1.1.0 Released! In-app updates, redesigned Settings, and more!](https://www.reddit.com/r/selfhosted/comments/1vfe843/nutritrace_v110_released_inapp_updates_redesigned/)
+- 2026-08-04T09:25:55+00:00 — [Looking to share a funeral recording in a respectful manner](https://www.reddit.com/r/selfhosted/comments/1vf5dr2/looking_to_share_a_funeral_recording_in_a/)
+- 2026-08-04T07:49:54+00:00 — [Do you backup your databases or the filesystem?](https://www.reddit.com/r/selfhosted/comments/1vf3r1r/do_you_backup_your_databases_or_the_filesystem/)
+- 2026-08-04T16:54:36+00:00 — [Looking to reduce my dependence to iCloud that works well with the Apple ecosystem](https://www.reddit.com/r/selfhosted/comments/1vfg0o9/looking_to_reduce_my_dependence_to_icloud_that/)
+- 2026-08-03T09:23:20+00:00 — [Forgot and experienced true hell with :lastest](https://www.reddit.com/r/selfhosted/comments/1ve8h5q/forgot_and_experienced_true_hell_with_lastest/)
 - Tue, 04 Aug 2026 10:09:22 +0000 — [Stop Burning Your AI Limits: A Token Diet for Long Coding Days](https://dev.to/eram/stop-burning-your-ai-limits-a-token-diet-for-long-coding-days-o2h)
 - Tue, 04 Aug 2026 10:08:50 +0000 — [Self-hosted Linear?](https://dev.to/croffasia/self-hosted-linear-56bi)
 - Tue, 04 Aug 2026 10:06:25 +0000 — [Redis Complete Guide: Caching, Queues & Pub/Sub (2026)](https://dev.to/stacknotice/redis-complete-guide-caching-queues-pubsub-2026-2pml)
-- 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
-- 2026-08-03T09:23:20+00:00 — [Forgot and experienced true hell with :lastest](https://www.reddit.com/r/selfhosted/comments/1ve8h5q/forgot_and_experienced_true_hell_with_lastest/)
-- 2026-08-04T08:15:17+00:00 — [Self-hosted publishing stack: where do you draw the line between VPS and local machine?](https://www.reddit.com/r/selfhosted/comments/1vf46o4/selfhosted_publishing_stack_where_do_you_draw_the/)
-- 2026-08-04T09:25:55+00:00 — [Looking to share a funeral recording in a respectful manner](https://www.reddit.com/r/selfhosted/comments/1vf5dr2/looking_to_share_a_funeral_recording_in_a/)
-- 2026-08-04T07:49:54+00:00 — [Do you backup your databases or the filesystem?](https://www.reddit.com/r/selfhosted/comments/1vf3r1r/do_you_backup_your_databases_or_the_filesystem/)
 - 2026-08-03T12:56:55+00:00 — [IronCalc v0.8 released](https://www.reddit.com/r/selfhosted/comments/1vecogx/ironcalc_v08_released/)
 - 2026-08-02T10:35:55+00:00 — [The 3 Stages of Self Hosting](https://www.reddit.com/r/selfhosted/comments/1vdepgr/the_3_stages_of_self_hosting/)
 - 2026-08-03T12:24:53+00:00 — [Codeman: self-hosted mission control for AI coding agents, built in the open with the community, supports OpenCode, Claude Code, Codex and Gemini](https://www.reddit.com/r/selfhosted/comments/1vebymy/codeman_selfhosted_mission_control_for_ai_coding/)
@@ -99,12 +107,4 @@ Last update: 2026-08-04 10:24 UTC
 - Sat, 25 Jul 2026 09:06:54 +0000 — [📐 Mathematics for AI — Foundation Course](https://dev.to/ajmal_hasan/mathematics-for-ai-foundation-course-18dk)
 - Sat, 25 Jul 2026 09:06:27 +0000 — [Teaching My Backend to Lock the Door — FastAPI Auth, Phase 3](https://dev.to/silentcarry/teaching-my-backend-to-lock-the-door-fastapi-auth-phase-3-5b9o)
 - Sat, 25 Jul 2026 08:57:35 +0000 — [I turned the claude code cli into a Prism provider](https://dev.to/kevariable/i-turned-the-claude-code-cli-into-a-prism-provider-25bk)
-- 2026-07-25T06:59:26+00:00 — [Dockhand 1.0.38 adds backup and restore for stack/containers (beta)](https://www.reddit.com/r/selfhosted/comments/1v6106s/dockhand_1038_adds_backup_and_restore_for/)
-- 2026-07-25T03:51:00+00:00 — [Which laptop to use for beginner self hosting?](https://www.reddit.com/r/selfhosted/comments/1v5xcw6/which_laptop_to_use_for_beginner_self_hosting/)
-- 2026-07-25T04:41:40+00:00 — [Setup Jellyfin server on Mac Mini](https://www.reddit.com/r/selfhosted/comments/1v5yddg/setup_jellyfin_server_on_mac_mini/)
-- Fri, 24 Jul 2026 09:35:35 +0000 — [Building RecipeHub: My Experience Developing and Deploying a Modern Recipe Sharing Platform with Django](https://dev.to/hodhan_/building-recipehub-my-experience-developing-and-deploying-a-modern-recipe-sharing-platform-with-53jb)
-- Fri, 24 Jul 2026 09:28:53 +0000 — [Spark 4.2 Added Native Vector Search: Do You Still Need a Vector Database?](https://dev.to/muskan_bandta/spark-42-added-native-vector-search-do-you-still-need-a-vector-database-1l69)
-- Fri, 24 Jul 2026 09:19:14 +0000 — [Hetzner Inference: First Look](https://dev.to/code42cate/hetzner-inference-first-look-587)
-- 2026-07-24T08:01:14+00:00 — [We made a new SEO/GEO rank tracker (alternative to SerpBear)](https://www.reddit.com/r/selfhosted/comments/1v54xma/we_made_a_new_seogeo_rank_tracker_alternative_to/)
-- 2026-07-23T23:39:04+00:00 — [I somehow broke my SSL in Caddy and I'm at my wit's end](https://www.reddit.com/r/selfhosted/comments/1v4umf1/i_somehow_broke_my_ssl_in_caddy_and_im_at_my_wits/)
 <!-- NEWS END -->
