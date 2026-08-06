@@ -2,15 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-05 10:20 UTC
+Last update: 2026-08-06 10:22 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 06 Aug 2026 07:34:06 +0000 — [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
+- Thu, 06 Aug 2026 10:05:28 +0000 — [Implementing TOTP Two-Factor Authentication from Scratch in Python](https://dev.to/ayinedjimi-consultants/implementing-totp-two-factor-authentication-from-scratch-in-python-4j9)
+- Thu, 06 Aug 2026 09:59:23 +0000 — [Your first Fitz LiveViews component, twice: SSR and WASM from one source](https://dev.to/martin_palopoli/your-first-fitz-liveviews-component-twice-ssr-and-wasm-from-one-source-1hlo)
+- 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
+- 2026-08-06T07:49:19+00:00 — [I built OpenJornada: a self-hosted work-time clock for Spanish/EU labor-law compliance (AGPL-3.0, Docker)](https://www.reddit.com/r/selfhosted/comments/1vgxows/i_built_openjornada_a_selfhosted_worktime_clock/)
+- 2026-08-06T08:34:24+00:00 — [Another self-hosted catalogue focusing on rich data](https://www.reddit.com/r/selfhosted/comments/1vgygav/another_selfhosted_catalogue_focusing_on_rich_data/)
+- 2026-08-06T05:27:28+00:00 — [Does anyone actually test their restores?](https://www.reddit.com/r/selfhosted/comments/1vgv73t/does_anyone_actually_test_their_restores/)
+- 2026-08-05T10:56:42+00:00 — [Dawarich 1.11.0](https://www.reddit.com/r/selfhosted/comments/1vg42k9/dawarich_1110/)
+- 2026-08-05T20:07:09+00:00 — [Discovered self-hosting world and am ridiculously excited about - here's my tiny Oracle VPS homelab so far](https://www.reddit.com/r/selfhosted/comments/1vgifon/discovered_selfhosting_world_and_am_ridiculously/)
+- 2026-08-05T20:06:07+00:00 — [Komga unusable with large library, clogs up the whole NAS](https://www.reddit.com/r/selfhosted/comments/1vgieog/komga_unusable_with_large_library_clogs_up_the/)
+- 2026-08-04T21:27:32+00:00 — [Forgot my sudo password, reset it from a privileged container](https://www.reddit.com/r/selfhosted/comments/1vfnle3/forgot_my_sudo_password_reset_it_from_a/)
+- 2026-08-05T21:05:51+00:00 — [Dozzle style util for Linux shell?](https://www.reddit.com/r/selfhosted/comments/1vgk0s8/dozzle_style_util_for_linux_shell/)
+- 2026-08-06T03:20:27+00:00 — [Do I need to learn now how to write python or shell scripting?](https://www.reddit.com/r/devops/comments/1vgspo4/do_i_need_to_learn_now_how_to_write_python_or/)
+- 2026-08-05T04:54:08+00:00 — [Self-hosted enterprise app builders with strong RBAC and compliance features](https://www.reddit.com/r/devops/comments/1vfxku2/selfhosted_enterprise_app_builders_with_strong/)
+- 2026-08-03T21:21:58+00:00 — [Book recommendations for on premises deployment](https://www.reddit.com/r/devops/comments/1veqes4/book_recommendations_for_on_premises_deployment/)
+- 2026-08-04T19:35:46+00:00 — [Hetzner Cloud vs Turkish VPS for a production mobile backend?](https://www.reddit.com/r/devops/comments/1vfkjvd/hetzner_cloud_vs_turkish_vps_for_a_production/)
+- 2026-08-03T10:32:11+00:00 — [Need a DevOps Roadmap for a Complete Beginner (2026)](https://www.reddit.com/r/devops/comments/1ve9pnr/need_a_devops_roadmap_for_a_complete_beginner_2026/)
 - Wed, 05 Aug 2026 10:11:51 +0000 — [Auditability vs. Forced Determinism : Future of Agentic AI](https://dev.to/mir_arshadalitalpur_1b3/auditability-vs-forced-determinism-future-of-agentic-ai-55ae)
 - Wed, 05 Aug 2026 10:10:33 +0000 — [Audit an AI Coding Agent's Network Egress Before It Gets a Shell](https://dev.to/jaryn_123/audit-an-ai-coding-agents-network-egress-before-it-gets-a-shell-4k69)
-- 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
-- 2026-08-04T21:27:32+00:00 — [Forgot my sudo password, reset it from a privileged container](https://www.reddit.com/r/selfhosted/comments/1vfnle3/forgot_my_sudo_password_reset_it_from_a/)
 - 2026-08-04T13:07:27+00:00 — [Do I just have to live connected to Tailscale now?](https://www.reddit.com/r/selfhosted/comments/1vf9v31/do_i_just_have_to_live_connected_to_tailscale_now/)
 - 2026-08-05T01:35:24+00:00 — [What is Tailscale mullvad actually doing](https://www.reddit.com/r/selfhosted/comments/1vftfgc/what_is_tailscale_mullvad_actually_doing/)
 - 2026-08-04T08:15:17+00:00 — [Self-hosted publishing stack: where do you draw the line between VPS and local machine?](https://www.reddit.com/r/selfhosted/comments/1vf46o4/selfhosted_publishing_stack_where_do_you_draw_the/)
@@ -92,19 +107,4 @@ Last update: 2026-08-05 10:20 UTC
 - 2026-07-27T05:05:10+00:00 — [How to Access Caddy Reverse-Proxied Services Over NetBird Without Exposing Them](https://www.reddit.com/r/selfhosted/comments/1v7qstp/how_to_access_caddy_reverseproxied_services_over/)
 - 2026-07-26T21:46:39+00:00 — [Best VPN for Ubuntu SLSKD Server](https://www.reddit.com/r/selfhosted/comments/1v7h6h5/best_vpn_for_ubuntu_slskd_server/)
 - 2026-07-27T07:13:39+00:00 — [What features do you consider essential before you'd self-host an automation platform?](https://www.reddit.com/r/selfhosted/comments/1v7t498/what_features_do_you_consider_essential_before/)
-- 2026-07-27T04:27:09+00:00 — [Self hosting Valheim server, opening port 2456-2457 to the public](https://www.reddit.com/r/selfhosted/comments/1v7q1z5/self_hosting_valheim_server_opening_port_24562457/)
-- 2026-07-27T04:24:50+00:00 — [Giving students a real root shell with a working Docker daemon: Incus VM + sysbox, and the two timers that stop sandboxes leaking](https://www.reddit.com/r/selfhosted/comments/1v7q0d1/giving_students_a_real_root_shell_with_a_working/)
-- Tue, 21 Jul 2026 20:30:22 +0000 — [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
-- Sun, 26 Jul 2026 09:31:01 +0000 — [Terraform e YAML - Implementação Prática em Projetos de CI/CD](https://dev.to/apsis-cc/terraform-e-yaml-implementacao-pratica-em-projetos-de-cicd-5h97)
-- Sun, 26 Jul 2026 09:26:07 +0000 — [Validate Kubernetes Manifests with Flux Schema](https://dev.to/devopsstart/validate-kubernetes-manifests-with-flux-schema-4kbh)
-- 2026-07-25T20:15:08+00:00 — [I released a new open background removal model (Docker, Python, GIMP, macOS)](https://www.reddit.com/r/selfhosted/comments/1v6ipb3/i_released_a_new_open_background_removal_model/)
-- 2026-07-26T09:42:33+00:00 — [I created an ip webcam app for android (audio/video), what protocols to add?](https://www.reddit.com/r/selfhosted/comments/1v6za7y/i_created_an_ip_webcam_app_for_android_audiovideo/)
-- 2026-07-26T08:39:50+00:00 — [looking for an automated email sending setup](https://www.reddit.com/r/selfhosted/comments/1v6y5xx/looking_for_an_automated_email_sending_setup/)
-- 2026-07-25T20:49:23+00:00 — [KVM Dashboard selfhostable for LuckFox KVM](https://www.reddit.com/r/selfhosted/comments/1v6jk1c/kvm_dashboard_selfhostable_for_luckfox_kvm/)
-- 2026-07-26T05:53:27+00:00 — [Looking for feedback on a self-hosted project management + docs tool](https://www.reddit.com/r/selfhosted/comments/1v6v6l5/looking_for_feedback_on_a_selfhosted_project/)
-- 2026-07-26T05:16:56+00:00 — [What would make you comfortable running a self-hosted 30-day agent test?](https://www.reddit.com/r/selfhosted/comments/1v6ui0t/what_would_make_you_comfortable_running_a/)
-- 2026-07-25T08:04:35+00:00 — [Pangolin and Newt on the same host](https://www.reddit.com/r/selfhosted/comments/1v626bi/pangolin_and_newt_on_the_same_host/)
-- Sat, 25 Jul 2026 09:06:54 +0000 — [📐 Mathematics for AI — Foundation Course](https://dev.to/ajmal_hasan/mathematics-for-ai-foundation-course-18dk)
-- Sat, 25 Jul 2026 09:06:27 +0000 — [Teaching My Backend to Lock the Door — FastAPI Auth, Phase 3](https://dev.to/silentcarry/teaching-my-backend-to-lock-the-door-fastapi-auth-phase-3-5b9o)
-- Sat, 25 Jul 2026 08:57:35 +0000 — [I turned the claude code cli into a Prism provider](https://dev.to/kevariable/i-turned-the-claude-code-cli-into-a-prism-provider-25bk)
 <!-- NEWS END -->
