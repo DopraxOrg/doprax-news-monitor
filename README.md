@@ -2,18 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-06 10:22 UTC
+Last update: 2026-08-07 08:42 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 07 Aug 2026 08:20:46 +0000 — [# My First Docker Container: Installation and Essential Commands](https://dev.to/prash_1_9a3a6266c93cd7276/-my-first-docker-container-installation-and-essential-commands-43ol)
+- Fri, 07 Aug 2026 08:13:05 +0000 — [What We Learned Building Enterprise AI Agents: Five Challenges Nobody Talks About](https://dev.to/chandni_8b89a0126408ba8e1/what-we-learned-building-enterprise-ai-agents-five-challenges-nobody-talks-about-1i5b)
+- Fri, 07 Aug 2026 08:08:42 +0000 — [วิธีที่ผมสร้าง "สมองที่สอง" ให้ AI อ่านได้ ด้วย Obsidian, Git และ VS Code AI Agent](https://dev.to/dev_next4i/withiithiiphmsraang-smngthiisng-aih-ai-aanaid-dwy-obsidian-git-aela-vs-code-ai-agent-269k)
+- Fri, 07 Aug 2026 07:55:45 +0000 — [How I Built an AI-Readable Second Brain with Obsidian, Git, and a VS Code AI Agent](https://dev.to/dev_next4i/how-i-built-an-ai-readable-second-brain-with-obsidian-git-and-a-vs-code-ai-agent-5hep)
+- 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
+- 2026-08-06T18:54:19+00:00 — [How do you stop Sonarr from grabbing fake releases full of .exe/.scr files?](https://www.reddit.com/r/selfhosted/comments/1vhd7r7/how_do_you_stop_sonarr_from_grabbing_fake/)
+- 2026-08-06T13:31:38+00:00 — [Release TaskView 1.51.0](https://www.reddit.com/r/selfhosted/comments/1vh4cvu/release_taskview_1510/)
+- 2026-08-07T05:40:23+00:00 — [Looking to Self Host an NVR. Suggestions?](https://www.reddit.com/r/selfhosted/comments/1vhrxyi/looking_to_self_host_an_nvr_suggestions/)
+- 2026-08-06T13:13:51+00:00 — [Launching r/AutoHebergement_FR — a French-speaking self-hosting community](https://www.reddit.com/r/selfhosted/comments/1vh3x21/launching_rautohebergement_fr_a_frenchspeaking/)
+- 2026-08-06T20:08:50+00:00 — [Is it worth it to turn this laptop into a home server as someone with no experience?](https://www.reddit.com/r/selfhosted/comments/1vhf8cv/is_it_worth_it_to_turn_this_laptop_into_a_home/)
+- 2026-08-06T08:34:24+00:00 — [Another self-hosted catalogue focusing on rich data](https://www.reddit.com/r/selfhosted/comments/1vgygav/another_selfhosted_catalogue_focusing_on_rich_data/)
+- 2026-08-06T07:49:19+00:00 — [I built OpenJornada: a self-hosted work-time clock for Spanish/EU labor-law compliance (AGPL-3.0, Docker)](https://www.reddit.com/r/selfhosted/comments/1vgxows/i_built_openjornada_a_selfhosted_worktime_clock/)
+- 2026-08-06T10:28:21+00:00 — [security for self-hosted services in the age of AI](https://www.reddit.com/r/selfhosted/comments/1vh0erd/security_for_selfhosted_services_in_the_age_of_ai/)
+- 2026-08-06T19:57:34+00:00 — [Domain resolution with Self signed certificate works on LAN but not on IOS and Android](https://www.reddit.com/r/selfhosted/comments/1vhex9l/domain_resolution_with_self_signed_certificate/)
+- 2026-08-06T05:27:28+00:00 — [Does anyone actually test their restores?](https://www.reddit.com/r/selfhosted/comments/1vgv73t/does_anyone_actually_test_their_restores/)
 - Thu, 06 Aug 2026 07:34:06 +0000 — [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
 - Thu, 06 Aug 2026 10:05:28 +0000 — [Implementing TOTP Two-Factor Authentication from Scratch in Python](https://dev.to/ayinedjimi-consultants/implementing-totp-two-factor-authentication-from-scratch-in-python-4j9)
 - Thu, 06 Aug 2026 09:59:23 +0000 — [Your first Fitz LiveViews component, twice: SSR and WASM from one source](https://dev.to/martin_palopoli/your-first-fitz-liveviews-component-twice-ssr-and-wasm-from-one-source-1hlo)
 - 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
-- 2026-08-06T07:49:19+00:00 — [I built OpenJornada: a self-hosted work-time clock for Spanish/EU labor-law compliance (AGPL-3.0, Docker)](https://www.reddit.com/r/selfhosted/comments/1vgxows/i_built_openjornada_a_selfhosted_worktime_clock/)
-- 2026-08-06T08:34:24+00:00 — [Another self-hosted catalogue focusing on rich data](https://www.reddit.com/r/selfhosted/comments/1vgygav/another_selfhosted_catalogue_focusing_on_rich_data/)
-- 2026-08-06T05:27:28+00:00 — [Does anyone actually test their restores?](https://www.reddit.com/r/selfhosted/comments/1vgv73t/does_anyone_actually_test_their_restores/)
 - 2026-08-05T10:56:42+00:00 — [Dawarich 1.11.0](https://www.reddit.com/r/selfhosted/comments/1vg42k9/dawarich_1110/)
 - 2026-08-05T20:07:09+00:00 — [Discovered self-hosting world and am ridiculously excited about - here's my tiny Oracle VPS homelab so far](https://www.reddit.com/r/selfhosted/comments/1vgifon/discovered_selfhosting_world_and_am_ridiculously/)
 - 2026-08-05T20:06:07+00:00 — [Komga unusable with large library, clogs up the whole NAS](https://www.reddit.com/r/selfhosted/comments/1vgieog/komga_unusable_with_large_library_clogs_up_the/)
@@ -95,16 +107,4 @@ Last update: 2026-08-06 10:22 UTC
 - 2026-07-27T14:08:22+00:00 — [Port forwarding](https://www.reddit.com/r/selfhosted/comments/1v81gud/port_forwarding/)
 - 2026-07-27T17:43:51+00:00 — [Little services on docker or VM?](https://www.reddit.com/r/selfhosted/comments/1v87hc2/little_services_on_docker_or_vm/)
 - 2026-07-27T16:03:58+00:00 — [What's the next step up in hardware?](https://www.reddit.com/r/selfhosted/comments/1v84n7k/whats_the_next_step_up_in_hardware/)
-- 2026-07-27T15:02:33+00:00 — [Best SSD & HDD setup for Media Server?](https://www.reddit.com/r/selfhosted/comments/1v82xq0/best_ssd_hdd_setup_for_media_server/)
-- 2026-07-28T00:11:23+00:00 — [confused about gluetun and if it is possible to route SSH request through with shadowsocks](https://www.reddit.com/r/selfhosted/comments/1v8hzjg/confused_about_gluetun_and_if_it_is_possible_to/)
-- Mon, 27 Jul 2026 10:27:01 +0000 — [5 Docker Security Mistakes I Learned the Hard Way](https://dev.to/_eb0609572b9efcf27472066/5-docker-security-mistakes-i-learned-the-hard-way-cj7)
-- Mon, 27 Jul 2026 10:20:43 +0000 — [Connecting an LLM Agent to a Real Browser With Playwright MCP](https://dev.to/basavaraj_sh_1ea7d95f0f2e/connecting-an-llm-agent-to-a-real-browser-with-playwright-mcp-4onj)
-- Mon, 27 Jul 2026 10:09:05 +0000 — [I ported a knowledge-format (OKF) library to zero-dependency .NET — here's what I learned](https://dev.to/julien_chable/i-ported-a-knowledge-format-okf-library-to-zero-dependency-net-heres-what-i-learned-1mb7)
-- 2026-07-26T09:42:55+00:00 — [Do i just accept my fate?](https://www.reddit.com/r/selfhosted/comments/1v6zag3/do_i_just_accept_my_fate/)
-- 2026-07-26T14:51:32+00:00 — [I am starting my homelabbing path out of fear of loosing my job](https://www.reddit.com/r/selfhosted/comments/1v760ho/i_am_starting_my_homelabbing_path_out_of_fear_of/)
-- 2026-07-26T11:24:44+00:00 — [Why did projects like IPFS and Filecoin never found its place in self hosting communities?](https://www.reddit.com/r/selfhosted/comments/1v717sr/why_did_projects_like_ipfs_and_filecoin_never/)
-- 2026-07-26T12:31:55+00:00 — [Best alternative to dockge?](https://www.reddit.com/r/selfhosted/comments/1v72mic/best_alternative_to_dockge/)
-- 2026-07-27T05:05:10+00:00 — [How to Access Caddy Reverse-Proxied Services Over NetBird Without Exposing Them](https://www.reddit.com/r/selfhosted/comments/1v7qstp/how_to_access_caddy_reverseproxied_services_over/)
-- 2026-07-26T21:46:39+00:00 — [Best VPN for Ubuntu SLSKD Server](https://www.reddit.com/r/selfhosted/comments/1v7h6h5/best_vpn_for_ubuntu_slskd_server/)
-- 2026-07-27T07:13:39+00:00 — [What features do you consider essential before you'd self-host an automation platform?](https://www.reddit.com/r/selfhosted/comments/1v7t498/what_features_do_you_consider_essential_before/)
 <!-- NEWS END -->
