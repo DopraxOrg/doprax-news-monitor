@@ -2,19 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-07 08:42 UTC
+Last update: 2026-08-08 08:24 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 08 Aug 2026 08:00:28 +0000 — [Cutting Cloud Costs with a Few Habits](https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-4b3e)
+- 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
+- 2026-08-07T21:12:09+00:00 — [Help with self-hosting an existing music collection - which software should own the pipeline?](https://www.reddit.com/r/selfhosted/comments/1vicy8c/help_with_selfhosting_an_existing_music/)
+- 2026-08-07T12:32:23+00:00 — [Supabase self hosting alternative](https://www.reddit.com/r/selfhosted/comments/1vhzd0o/supabase_self_hosting_alternative/)
+- 2026-08-06T18:54:19+00:00 — [How do you stop Sonarr from grabbing fake releases full of .exe/.scr files?](https://www.reddit.com/r/selfhosted/comments/1vhd7r7/how_do_you_stop_sonarr_from_grabbing_fake/)
+- 2026-08-07T05:40:23+00:00 — [Looking to Self Host an NVR. Suggestions?](https://www.reddit.com/r/selfhosted/comments/1vhrxyi/looking_to_self_host_an_nvr_suggestions/)
+- 2026-08-06T13:31:38+00:00 — [Release TaskView 1.51.0](https://www.reddit.com/r/selfhosted/comments/1vh4cvu/release_taskview_1510/)
 - Fri, 07 Aug 2026 08:20:46 +0000 — [# My First Docker Container: Installation and Essential Commands](https://dev.to/prash_1_9a3a6266c93cd7276/-my-first-docker-container-installation-and-essential-commands-43ol)
 - Fri, 07 Aug 2026 08:13:05 +0000 — [What We Learned Building Enterprise AI Agents: Five Challenges Nobody Talks About](https://dev.to/chandni_8b89a0126408ba8e1/what-we-learned-building-enterprise-ai-agents-five-challenges-nobody-talks-about-1i5b)
 - Fri, 07 Aug 2026 08:08:42 +0000 — [วิธีที่ผมสร้าง "สมองที่สอง" ให้ AI อ่านได้ ด้วย Obsidian, Git และ VS Code AI Agent](https://dev.to/dev_next4i/withiithiiphmsraang-smngthiisng-aih-ai-aanaid-dwy-obsidian-git-aela-vs-code-ai-agent-269k)
 - Fri, 07 Aug 2026 07:55:45 +0000 — [How I Built an AI-Readable Second Brain with Obsidian, Git, and a VS Code AI Agent](https://dev.to/dev_next4i/how-i-built-an-ai-readable-second-brain-with-obsidian-git-and-a-vs-code-ai-agent-5hep)
-- 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
-- 2026-08-06T18:54:19+00:00 — [How do you stop Sonarr from grabbing fake releases full of .exe/.scr files?](https://www.reddit.com/r/selfhosted/comments/1vhd7r7/how_do_you_stop_sonarr_from_grabbing_fake/)
-- 2026-08-06T13:31:38+00:00 — [Release TaskView 1.51.0](https://www.reddit.com/r/selfhosted/comments/1vh4cvu/release_taskview_1510/)
-- 2026-08-07T05:40:23+00:00 — [Looking to Self Host an NVR. Suggestions?](https://www.reddit.com/r/selfhosted/comments/1vhrxyi/looking_to_self_host_an_nvr_suggestions/)
 - 2026-08-06T13:13:51+00:00 — [Launching r/AutoHebergement_FR — a French-speaking self-hosting community](https://www.reddit.com/r/selfhosted/comments/1vh3x21/launching_rautohebergement_fr_a_frenchspeaking/)
 - 2026-08-06T20:08:50+00:00 — [Is it worth it to turn this laptop into a home server as someone with no experience?](https://www.reddit.com/r/selfhosted/comments/1vhf8cv/is_it_worth_it_to_turn_this_laptop_into_a_home/)
 - 2026-08-06T08:34:24+00:00 — [Another self-hosted catalogue focusing on rich data](https://www.reddit.com/r/selfhosted/comments/1vgygav/another_selfhosted_catalogue_focusing_on_rich_data/)
@@ -104,7 +107,4 @@ Last update: 2026-08-07 08:42 UTC
 - Tue, 28 Jul 2026 10:01:01 +0000 — [Build a Real-Time Chat App with FastAPI and WebSockets](https://dev.to/qingluan/build-a-real-time-chat-app-with-fastapi-and-websockets-3m0l)
 - 2026-07-28T09:40:41+00:00 — [Running an android app in a docker container](https://www.reddit.com/r/selfhosted/comments/1v8th2l/running_an_android_app_in_a_docker_container/)
 - 2026-07-26T18:29:18+00:00 — [I self-host a tunnel in a country that actively hunts them. Here's what survives, and what keeps breaking.](https://www.reddit.com/r/selfhosted/comments/1v7bww8/i_selfhost_a_tunnel_in_a_country_that_actively/)
-- 2026-07-27T14:08:22+00:00 — [Port forwarding](https://www.reddit.com/r/selfhosted/comments/1v81gud/port_forwarding/)
-- 2026-07-27T17:43:51+00:00 — [Little services on docker or VM?](https://www.reddit.com/r/selfhosted/comments/1v87hc2/little_services_on_docker_or_vm/)
-- 2026-07-27T16:03:58+00:00 — [What's the next step up in hardware?](https://www.reddit.com/r/selfhosted/comments/1v84n7k/whats_the_next_step_up_in_hardware/)
 <!-- NEWS END -->
