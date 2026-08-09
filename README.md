@@ -2,13 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-08 08:24 UTC
+Last update: 2026-08-09 08:26 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sat, 08 Aug 2026 08:00:28 +0000 — [Cutting Cloud Costs with a Few Habits](https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-4b3e)
+- Sun, 09 Aug 2026 08:00:20 +0000 — [Build, Buy, or Call an API: How We Actually Decide](https://dev.to/sagar_jain4010/build-buy-or-call-an-api-how-we-actually-decide-4hdi)
+- Sun, 09 Aug 2026 07:54:31 +0000 — [fastapi-crudrouter is Dead. Here's How to Migrate to BetterCRUD](https://dev.to/_340a11d0e3d75cd9d691d/fastapi-crudrouter-is-dead-heres-how-to-migrate-to-bettercrud-3gn9)
+- Sun, 09 Aug 2026 07:50:07 +0000 — [Stop Writing CRUD Boilerplate: Generate a Complete FastAPI API From One Decorator](https://dev.to/_340a11d0e3d75cd9d691d/stop-writing-crud-boilerplate-generate-a-complete-fastapi-api-from-one-decorator-3e6d)
 - 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
+- 2026-08-08T09:19:34+00:00 — [what are some other ways to bypass cgnat (no vpn and tunneling?)](https://www.reddit.com/r/selfhosted/comments/1virdlm/what_are_some_other_ways_to_bypass_cgnat_no_vpn/)
+- 2026-08-08T16:01:53+00:00 — [Setting Up an internal KB for our company, did anyone do something similar?](https://www.reddit.com/r/selfhosted/comments/1vizoi3/setting_up_an_internal_kb_for_our_company_did/)
+- 2026-08-08T15:10:20+00:00 — [Nextcloud with local access only](https://www.reddit.com/r/selfhosted/comments/1viyftq/nextcloud_with_local_access_only/)
+- 2026-08-08T13:33:31+00:00 — [Need some advice!!!](https://www.reddit.com/r/selfhosted/comments/1viw69h/need_some_advice/)
+- 2026-08-09T00:50:51+00:00 — [When using Radarr and Sonarr, what else do I need to use?](https://www.reddit.com/r/selfhosted/comments/1vjbzpz/when_using_radarr_and_sonarr_what_else_do_i_need/)
+- 2026-08-08T22:35:18+00:00 — [Schautrack - open source, self-hosted web app for calorie, macro and weight tracking](https://www.reddit.com/r/selfhosted/comments/1vj93mb/schautrack_open_source_selfhosted_web_app_for/)
+- Sat, 08 Aug 2026 08:00:28 +0000 — [Cutting Cloud Costs with a Few Habits](https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-4b3e)
 - 2026-08-07T21:12:09+00:00 — [Help with self-hosting an existing music collection - which software should own the pipeline?](https://www.reddit.com/r/selfhosted/comments/1vicy8c/help_with_selfhosting_an_existing_music/)
 - 2026-08-07T12:32:23+00:00 — [Supabase self hosting alternative](https://www.reddit.com/r/selfhosted/comments/1vhzd0o/supabase_self_hosting_alternative/)
 - 2026-08-06T18:54:19+00:00 — [How do you stop Sonarr from grabbing fake releases full of .exe/.scr files?](https://www.reddit.com/r/selfhosted/comments/1vhd7r7/how_do_you_stop_sonarr_from_grabbing_fake/)
@@ -98,13 +107,4 @@ Last update: 2026-08-08 08:24 UTC
 - 2026-07-29T19:47:36+00:00 — [Coolify/Dokploy alternative with builds on GitHub Actions?](https://www.reddit.com/r/selfhosted/comments/1va6wq2/coolifydokploy_alternative_with_builds_on_github/)
 - Wed, 29 Jul 2026 10:17:01 +0000 — [Terraform Should Not Deploy Into EKS. ArgoCD Should.](https://dev.to/valeriouberti/terraform-should-not-deploy-into-eks-argocd-should-5cii)
 - 2026-07-28T15:16:05+00:00 — [Super Productivity v18.16.0 released: what changed since last r/selfhosted update](https://www.reddit.com/r/selfhosted/comments/1v91fg8/super_productivity_v18160_released_what_changed/)
-- 2026-07-29T07:13:22+00:00 — [Architecture advice needed: VPS front-door web proxy (Pangolin/Nebird) or direct port forwarding.](https://www.reddit.com/r/selfhosted/comments/1v9orfn/architecture_advice_needed_vps_frontdoor_web/)
-- 2026-07-29T07:47:10+00:00 — [Best Practices to Host SeaweedFS](https://www.reddit.com/r/selfhosted/comments/1v9pd13/best_practices_to_host_seaweedfs/)
-- 2026-07-29T05:18:46+00:00 — [Need advice for swapping my mini pc's SSD](https://www.reddit.com/r/selfhosted/comments/1v9mm0b/need_advice_for_swapping_my_mini_pcs_ssd/)
-- 2026-07-28T13:42:41+00:00 — [Recommendations for Teams alternative](https://www.reddit.com/r/selfhosted/comments/1v8ywed/recommendations_for_teams_alternative/)
-- 2026-07-29T05:31:34+00:00 — [Filebrowser Quantum Issue/Question](https://www.reddit.com/r/selfhosted/comments/1v9mv58/filebrowser_quantum_issuequestion/)
-- Tue, 28 Jul 2026 10:12:23 +0000 — [One bounded context per microservice is how you build a distributed monolith](https://dev.to/adioof/one-bounded-context-per-microservice-is-how-you-build-a-distributed-monolith-2jcd)
-- Tue, 28 Jul 2026 10:01:01 +0000 — [Build a Real-Time Chat App with FastAPI and WebSockets](https://dev.to/qingluan/build-a-real-time-chat-app-with-fastapi-and-websockets-3m0l)
-- 2026-07-28T09:40:41+00:00 — [Running an android app in a docker container](https://www.reddit.com/r/selfhosted/comments/1v8th2l/running_an_android_app_in_a_docker_container/)
-- 2026-07-26T18:29:18+00:00 — [I self-host a tunnel in a country that actively hunts them. Here's what survives, and what keeps breaking.](https://www.reddit.com/r/selfhosted/comments/1v7bww8/i_selfhost_a_tunnel_in_a_country_that_actively/)
 <!-- NEWS END -->
