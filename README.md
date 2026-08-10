@@ -2,15 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-09 08:26 UTC
+Last update: 2026-08-10 09:03 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 10 Aug 2026 06:02:38 +0000 — [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+- 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
+- 2026-08-09T22:57:05+00:00 — [What VPN do you use?](https://www.reddit.com/r/selfhosted/comments/1vk3xiv/what_vpn_do_you_use/)
+- 2026-08-10T06:55:33+00:00 — [Best practices for securing VPS](https://www.reddit.com/r/selfhosted/comments/1vkdhfr/best_practices_for_securing_vps/)
+- 2026-08-10T05:12:30+00:00 — [Tailscale exit node as VPN while in Russia](https://www.reddit.com/r/selfhosted/comments/1vkbp2c/tailscale_exit_node_as_vpn_while_in_russia/)
 - Sun, 09 Aug 2026 08:00:20 +0000 — [Build, Buy, or Call an API: How We Actually Decide](https://dev.to/sagar_jain4010/build-buy-or-call-an-api-how-we-actually-decide-4hdi)
 - Sun, 09 Aug 2026 07:54:31 +0000 — [fastapi-crudrouter is Dead. Here's How to Migrate to BetterCRUD](https://dev.to/_340a11d0e3d75cd9d691d/fastapi-crudrouter-is-dead-heres-how-to-migrate-to-bettercrud-3gn9)
 - Sun, 09 Aug 2026 07:50:07 +0000 — [Stop Writing CRUD Boilerplate: Generate a Complete FastAPI API From One Decorator](https://dev.to/_340a11d0e3d75cd9d691d/stop-writing-crud-boilerplate-generate-a-complete-fastapi-api-from-one-decorator-3e6d)
-- 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
 - 2026-08-08T09:19:34+00:00 — [what are some other ways to bypass cgnat (no vpn and tunneling?)](https://www.reddit.com/r/selfhosted/comments/1virdlm/what_are_some_other_ways_to_bypass_cgnat_no_vpn/)
 - 2026-08-08T16:01:53+00:00 — [Setting Up an internal KB for our company, did anyone do something similar?](https://www.reddit.com/r/selfhosted/comments/1vizoi3/setting_up_an_internal_kb_for_our_company_did/)
 - 2026-08-08T15:10:20+00:00 — [Nextcloud with local access only](https://www.reddit.com/r/selfhosted/comments/1viyftq/nextcloud_with_local_access_only/)
@@ -103,8 +107,4 @@ Last update: 2026-08-09 08:26 UTC
 - 2026-07-29T05:14:18+00:00 — [Hammer: offline-first novel writing app with an optional self-hosted sync server. Now has an official multi-arch Docker image, so it's finally a five-minute setup.](https://www.reddit.com/r/selfhosted/comments/1v9miur/hammer_offlinefirst_novel_writing_app_with_an/)
 - 2026-07-30T02:14:23+00:00 — [Home Temperature Control / Monitoring](https://www.reddit.com/r/selfhosted/comments/1vaghkl/home_temperature_control_monitoring/)
 - 2026-07-30T07:53:44+00:00 — [Web app to help people prepare themselves for study interview or study assignment](https://www.reddit.com/r/selfhosted/comments/1van2o6/web_app_to_help_people_prepare_themselves_for/)
-- 2026-07-29T21:27:33+00:00 — [Advice Needed: Best OS Setup for a Dell OptiPlex 3080 Self-Hosting Server](https://www.reddit.com/r/selfhosted/comments/1va9n16/advice_needed_best_os_setup_for_a_dell_optiplex/)
-- 2026-07-29T19:47:36+00:00 — [Coolify/Dokploy alternative with builds on GitHub Actions?](https://www.reddit.com/r/selfhosted/comments/1va6wq2/coolifydokploy_alternative_with_builds_on_github/)
-- Wed, 29 Jul 2026 10:17:01 +0000 — [Terraform Should Not Deploy Into EKS. ArgoCD Should.](https://dev.to/valeriouberti/terraform-should-not-deploy-into-eks-argocd-should-5cii)
-- 2026-07-28T15:16:05+00:00 — [Super Productivity v18.16.0 released: what changed since last r/selfhosted update](https://www.reddit.com/r/selfhosted/comments/1v91fg8/super_productivity_v18160_released_what_changed/)
 <!-- NEWS END -->
