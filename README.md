@@ -2,14 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-10 09:03 UTC
+Last update: 2026-08-11 08:41 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 10 Aug 2026 06:02:38 +0000 — [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
 - 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
+- 2026-08-10T13:52:53+00:00 — [Scored the homelab lottery](https://www.reddit.com/r/selfhosted/comments/1vklhqx/scored_the_homelab_lottery/)
+- 2026-08-11T00:43:17+00:00 — [Selfhosting noob, feeling defeated. Proxmox CTs & Jellyfin. Plea for Mercy.](https://www.reddit.com/r/selfhosted/comments/1vl2mb9/selfhosting_noob_feeling_defeated_proxmox_cts/)
+- 2026-08-11T01:01:52+00:00 — [Need help with remote access for Jellyfin and Navidrome through WireGuard](https://www.reddit.com/r/selfhosted/comments/1vl31gt/need_help_with_remote_access_for_jellyfin_and/)
+- 2026-08-11T06:34:29+00:00 — [Private big cloud with rclone and alist](https://www.reddit.com/r/selfhosted/comments/1vl9nt1/private_big_cloud_with_rclone_and_alist/)
 - 2026-08-09T22:57:05+00:00 — [What VPN do you use?](https://www.reddit.com/r/selfhosted/comments/1vk3xiv/what_vpn_do_you_use/)
+- 2026-08-10T12:45:45+00:00 — [Chobble Tickets: Low cost, self-hosted alternative to Eventbrite, Bookitbee, etc](https://www.reddit.com/r/selfhosted/comments/1vkjuem/chobble_tickets_low_cost_selfhosted_alternative/)
+- Mon, 10 Aug 2026 06:02:38 +0000 — [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
 - 2026-08-10T06:55:33+00:00 — [Best practices for securing VPS](https://www.reddit.com/r/selfhosted/comments/1vkdhfr/best_practices_for_securing_vps/)
 - 2026-08-10T05:12:30+00:00 — [Tailscale exit node as VPN while in Russia](https://www.reddit.com/r/selfhosted/comments/1vkbp2c/tailscale_exit_node_as_vpn_while_in_russia/)
 - Sun, 09 Aug 2026 08:00:20 +0000 — [Build, Buy, or Call an API: How We Actually Decide](https://dev.to/sagar_jain4010/build-buy-or-call-an-api-how-we-actually-decide-4hdi)
@@ -102,9 +107,4 @@ Last update: 2026-08-10 09:03 UTC
 - 2026-07-29T10:59:47+00:00 — [Is it just me, or are some newer European open-source projects surprisingly hard to self-host?](https://www.reddit.com/r/selfhosted/comments/1v9sv06/is_it_just_me_or_are_some_newer_european/)
 - 2026-07-30T08:41:26+00:00 — [Building a native mobile companion for Coolify — What features are most critical for you on mobile?](https://www.reddit.com/r/selfhosted/comments/1vanw5w/building_a_native_mobile_companion_for_coolify/)
 - 2026-07-30T08:00:59+00:00 — [Looking for advice / sanity check on my home server setup: Self-hosting client sites + Personal media server with failover strategy](https://www.reddit.com/r/selfhosted/comments/1van78g/looking_for_advice_sanity_check_on_my_home_server/)
-- 2026-07-29T20:41:58+00:00 — [Best practices for deploying Nextcloud in a small company with 15 employees?](https://www.reddit.com/r/selfhosted/comments/1va8ffa/best_practices_for_deploying_nextcloud_in_a_small/)
-- 2026-07-29T02:54:37+00:00 — [What are your coolest or most utilized selfhosted services?](https://www.reddit.com/r/selfhosted/comments/1v9jn8i/what_are_your_coolest_or_most_utilized_selfhosted/)
-- 2026-07-29T05:14:18+00:00 — [Hammer: offline-first novel writing app with an optional self-hosted sync server. Now has an official multi-arch Docker image, so it's finally a five-minute setup.](https://www.reddit.com/r/selfhosted/comments/1v9miur/hammer_offlinefirst_novel_writing_app_with_an/)
-- 2026-07-30T02:14:23+00:00 — [Home Temperature Control / Monitoring](https://www.reddit.com/r/selfhosted/comments/1vaghkl/home_temperature_control_monitoring/)
-- 2026-07-30T07:53:44+00:00 — [Web app to help people prepare themselves for study interview or study assignment](https://www.reddit.com/r/selfhosted/comments/1van2o6/web_app_to_help_people_prepare_themselves_for/)
 <!-- NEWS END -->
