@@ -2,14 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-11 08:41 UTC
+Last update: 2026-08-12 08:56 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 12 Aug 2026 08:25:54 +0000 — [Vector Databases: Types, Architecture, and Why They Power Modern Apps](https://dev.to/sameer_saleem/vector-databases-types-architecture-and-why-they-power-modern-apps-35m7)
+- Wed, 12 Aug 2026 08:07:22 +0000 — [Triton Inference Server](https://dev.to/godofgeeks/triton-inference-server-1eal)
+- Wed, 12 Aug 2026 08:06:31 +0000 — [Exploring Backend Development with Java!](https://dev.to/kumarabhinav-codes/exploring-backend-development-with-java-44bc)
 - 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
-- 2026-08-10T13:52:53+00:00 — [Scored the homelab lottery](https://www.reddit.com/r/selfhosted/comments/1vklhqx/scored_the_homelab_lottery/)
+- 2026-08-11T17:13:34+00:00 — [Best OS for a server?](https://www.reddit.com/r/selfhosted/comments/1vlnljm/best_os_for_a_server/)
+- 2026-08-11T11:56:09+00:00 — [I rebuilt my live 3D print failure detector. Self-hosted, one container, and no frame ever leaves your network](https://www.reddit.com/r/selfhosted/comments/1vlfcr3/i_rebuilt_my_live_3d_print_failure_detector/)
+- 2026-08-11T16:27:41+00:00 — [Self hosted music library best practices for iPod music sync](https://www.reddit.com/r/selfhosted/comments/1vlmb9m/self_hosted_music_library_best_practices_for_ipod/)
+- 2026-08-12T00:03:47+00:00 — [My first selfhosted Server](https://www.reddit.com/r/selfhosted/comments/1vlyeya/my_first_selfhosted_server/)
 - 2026-08-11T00:43:17+00:00 — [Selfhosting noob, feeling defeated. Proxmox CTs & Jellyfin. Plea for Mercy.](https://www.reddit.com/r/selfhosted/comments/1vl2mb9/selfhosting_noob_feeling_defeated_proxmox_cts/)
+- 2026-08-10T13:52:53+00:00 — [Scored the homelab lottery](https://www.reddit.com/r/selfhosted/comments/1vklhqx/scored_the_homelab_lottery/)
 - 2026-08-11T01:01:52+00:00 — [Need help with remote access for Jellyfin and Navidrome through WireGuard](https://www.reddit.com/r/selfhosted/comments/1vl31gt/need_help_with_remote_access_for_jellyfin_and/)
 - 2026-08-11T06:34:29+00:00 — [Private big cloud with rclone and alist](https://www.reddit.com/r/selfhosted/comments/1vl9nt1/private_big_cloud_with_rclone_and_alist/)
 - 2026-08-09T22:57:05+00:00 — [What VPN do you use?](https://www.reddit.com/r/selfhosted/comments/1vk3xiv/what_vpn_do_you_use/)
@@ -100,11 +107,4 @@ Last update: 2026-08-11 08:41 UTC
 - 2026-07-31T09:28:19+00:00 — [Beszel Agent + rootless Podman not showing containers (Fedora/Podman 5.8.4)](https://www.reddit.com/r/selfhosted/comments/1vbm0uo/beszel_agent_rootless_podman_not_showing/)
 - 2026-07-30T21:25:59+00:00 — [Wondering what a good simple setup is for tasks and notes](https://www.reddit.com/r/selfhosted/comments/1vb6t63/wondering_what_a_good_simple_setup_is_for_tasks/)
 - 2026-07-31T06:20:48+00:00 — [Immich ML crash-looped after update — it was Proxmox kvm64 hiding X86_V2, not Immich](https://www.reddit.com/r/selfhosted/comments/1vbioov/immich_ml_crashlooped_after_update_it_was_proxmox/)
-- 2026-07-30T14:13:34+00:00 — [Questions about VPS](https://www.reddit.com/r/selfhosted/comments/1vauu1o/questions_about_vps/)
-- 2026-07-31T02:07:52+00:00 — [Question on Automation with an AI agent/sub-agent setup](https://www.reddit.com/r/selfhosted/comments/1vbdh3n/question_on_automation_with_an_ai_agentsubagent/)
-- Thu, 30 Jul 2026 09:44:03 +0000 — [Coding Doesn't Make You a Software Engineer](https://dev.to/rjshree/coding-doesnt-make-you-a-software-engineer-5a27)
-- 2026-07-23T22:01:06+00:00 — [New Project Megathread - Week of 23 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1v4s7ok/new_project_megathread_week_of_23_jul_2026/)
-- 2026-07-29T10:59:47+00:00 — [Is it just me, or are some newer European open-source projects surprisingly hard to self-host?](https://www.reddit.com/r/selfhosted/comments/1v9sv06/is_it_just_me_or_are_some_newer_european/)
-- 2026-07-30T08:41:26+00:00 — [Building a native mobile companion for Coolify — What features are most critical for you on mobile?](https://www.reddit.com/r/selfhosted/comments/1vanw5w/building_a_native_mobile_companion_for_coolify/)
-- 2026-07-30T08:00:59+00:00 — [Looking for advice / sanity check on my home server setup: Self-hosting client sites + Personal media server with failover strategy](https://www.reddit.com/r/selfhosted/comments/1van78g/looking_for_advice_sanity_check_on_my_home_server/)
 <!-- NEWS END -->
