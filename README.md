@@ -2,16 +2,27 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-12 08:56 UTC
+Last update: 2026-08-13 08:59 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 13 Aug 2026 08:47:24 +0000 — [Как устроена информационная система: проектируем простую систему учета заявок](https://dev.to/dmitrii_2223/kak-ustroiena-informatsionnaia-sistiema-proiektiruiem-prostuiu-sistiemu-uchieta-zaiavok-5hhf)
+- Thu, 13 Aug 2026 08:09:52 +0000 — [Automatically scale LXC containers resources on Proxmox hosts](https://dev.to/fabriziosalmi/automatically-scale-lxc-containers-resources-on-proxmox-hosts-3p1n)
+- Thu, 13 Aug 2026 08:01:51 +0000 — [I built an Open Source Linux cleaner because I couldn't find one I wanted to use](https://dev.to/debba/i-built-an-open-source-linux-cleaner-because-i-couldnt-find-one-i-wanted-to-use-1041)
+- Thu, 13 Aug 2026 08:00:17 +0000 — [Terminal Productivity Tips That Actually Save Time](https://dev.to/binaryjournal/terminal-productivity-tips-that-actually-save-time-2jfa)
+- 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
+- 2026-08-12T11:12:29+00:00 — [What I wish someone told me when I started](https://www.reddit.com/r/selfhosted/comments/1vmb5og/what_i_wish_someone_told_me_when_i_started/)
+- 2026-08-12T21:08:13+00:00 — [I organized my wedding with my homelab (and it worked better than expected)](https://www.reddit.com/r/selfhosted/comments/1vmqozp/i_organized_my_wedding_with_my_homelab_and_it/)
+- 2026-08-12T22:32:54+00:00 — [Put my server behind a VPN for the *arr stack?](https://www.reddit.com/r/selfhosted/comments/1vmsuph/put_my_server_behind_a_vpn_for_the_arr_stack/)
+- 2026-08-13T08:30:39+00:00 — [Raspberry Pi 4 NAS: SATA SSD starts throwing I/O errors and disconnecting](https://www.reddit.com/r/selfhosted/comments/1vn4wyf/raspberry_pi_4_nas_sata_ssd_starts_throwing_io/)
+- 2026-08-12T10:46:20+00:00 — [AdventureLog 2 Year Anniversary + v0.13.0 Release](https://www.reddit.com/r/selfhosted/comments/1vmanhm/adventurelog_2_year_anniversary_v0130_release/)
+- 2026-08-12T18:54:10+00:00 — [Help finding good data compression and storage methods that can work on an old laptop as a server](https://www.reddit.com/r/selfhosted/comments/1vmn4c3/help_finding_good_data_compression_and_storage/)
+- 2026-08-11T17:13:34+00:00 — [Best OS for a server?](https://www.reddit.com/r/selfhosted/comments/1vlnljm/best_os_for_a_server/)
+- 2026-08-13T02:57:42+00:00 — [I built MCP Nexus to manage and test self-hosted MCP servers](https://www.reddit.com/r/selfhosted/comments/1vmyt0n/i_built_mcp_nexus_to_manage_and_test_selfhosted/)
 - Wed, 12 Aug 2026 08:25:54 +0000 — [Vector Databases: Types, Architecture, and Why They Power Modern Apps](https://dev.to/sameer_saleem/vector-databases-types-architecture-and-why-they-power-modern-apps-35m7)
 - Wed, 12 Aug 2026 08:07:22 +0000 — [Triton Inference Server](https://dev.to/godofgeeks/triton-inference-server-1eal)
 - Wed, 12 Aug 2026 08:06:31 +0000 — [Exploring Backend Development with Java!](https://dev.to/kumarabhinav-codes/exploring-backend-development-with-java-44bc)
-- 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
-- 2026-08-11T17:13:34+00:00 — [Best OS for a server?](https://www.reddit.com/r/selfhosted/comments/1vlnljm/best_os_for_a_server/)
 - 2026-08-11T11:56:09+00:00 — [I rebuilt my live 3D print failure detector. Self-hosted, one container, and no frame ever leaves your network](https://www.reddit.com/r/selfhosted/comments/1vlfcr3/i_rebuilt_my_live_3d_print_failure_detector/)
 - 2026-08-11T16:27:41+00:00 — [Self hosted music library best practices for iPod music sync](https://www.reddit.com/r/selfhosted/comments/1vlmb9m/self_hosted_music_library_best_practices_for_ipod/)
 - 2026-08-12T00:03:47+00:00 — [My first selfhosted Server](https://www.reddit.com/r/selfhosted/comments/1vlyeya/my_first_selfhosted_server/)
@@ -96,15 +107,4 @@ Last update: 2026-08-12 08:56 UTC
 - Sun, 02 Aug 2026 09:10:26 +0000 — [Halfway Through the MLH Production Engineering Fellowship](https://dev.to/frixumpullum/halfway-through-the-mlh-production-engineering-fellowship-46ol)
 - 2026-08-02T01:46:53+00:00 — [Is this architecture secure enough?](https://www.reddit.com/r/selfhosted/comments/1vd4zhu/is_this_architecture_secure_enough/)
 - 2026-08-02T04:57:42+00:00 — [Reel Tracker - A semi self-hosted movie & TV tracker running on Cloudflare Workers](https://www.reddit.com/r/selfhosted/comments/1vd8ssz/reel_tracker_a_semi_selfhosted_movie_tv_tracker/)
-- 2026-08-01T17:17:48+00:00 — [Released Lanemu P2P VPN 0.14.1 - Open-source alternative to Hamachi/Zerotier/Radmin](https://www.reddit.com/r/selfhosted/comments/1vct17m/released_lanemu_p2p_vpn_0141_opensource/)
-- Sat, 01 Aug 2026 09:12:25 +0000 — [I built an AI dev team that reviews its own work — here's what I learned about multi-agent loops](https://dev.to/chris_l_c1b53c66e5a4ce7e8/i-built-an-ai-dev-team-that-reviews-its-own-work-heres-what-i-learned-about-multi-agent-loops-40la)
-- Sat, 01 Aug 2026 09:05:00 +0000 — [Padel Flow](https://dev.to/hafiz_muhammad_2c132a0595/padel-flow-3f0i)
-- 2026-08-01T09:16:21+00:00 — [Best way to migrate my Syn NAS from ext4 to btrfs?](https://www.reddit.com/r/selfhosted/comments/1vcijc3/best_way_to_migrate_my_syn_nas_from_ext4_to_btrfs/)
-- 2026-08-01T02:01:19+00:00 — [help troubleshooting immich set-up](https://www.reddit.com/r/selfhosted/comments/1vca9ss/help_troubleshooting_immich_setup/)
-- 2026-07-31T09:08:31+00:00 — [forgejo error 503](https://www.reddit.com/r/selfhosted/comments/1vblol9/forgejo_error_503/)
-- Fri, 31 Jul 2026 10:05:21 +0000 — [Building a Password Strength Validator with Entropy Calculation](https://dev.to/ayinedjimi-consultants/building-a-password-strength-validator-with-entropy-calculation-5djl)
-- 2026-07-31T09:01:28+00:00 — [Can you reccomend me OS/apps for my purpose?](https://www.reddit.com/r/selfhosted/comments/1vblk3w/can_you_reccomend_me_osapps_for_my_purpose/)
-- 2026-07-31T09:28:19+00:00 — [Beszel Agent + rootless Podman not showing containers (Fedora/Podman 5.8.4)](https://www.reddit.com/r/selfhosted/comments/1vbm0uo/beszel_agent_rootless_podman_not_showing/)
-- 2026-07-30T21:25:59+00:00 — [Wondering what a good simple setup is for tasks and notes](https://www.reddit.com/r/selfhosted/comments/1vb6t63/wondering_what_a_good_simple_setup_is_for_tasks/)
-- 2026-07-31T06:20:48+00:00 — [Immich ML crash-looped after update — it was Proxmox kvm64 hiding X86_V2, not Immich](https://www.reddit.com/r/selfhosted/comments/1vbioov/immich_ml_crashlooped_after_update_it_was_proxmox/)
 <!-- NEWS END -->
