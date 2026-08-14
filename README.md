@@ -2,18 +2,28 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-13 08:59 UTC
+Last update: 2026-08-14 08:54 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-08-13T22:01:08+00:00 — [New Project Megathread - Week of 13 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vnoqxf/new_project_megathread_week_of_13_aug_2026/)
+- 2026-08-13T19:18:55+00:00 — [Is Guacamole not popular anymore? What are the thin-client VNC & SSH alternatives?](https://www.reddit.com/r/selfhosted/comments/1vnkgmx/is_guacamole_not_popular_anymore_what_are_the/)
+- 2026-08-13T14:11:20+00:00 — [What guides and tips could you recommend for someone just starting with servers?](https://www.reddit.com/r/selfhosted/comments/1vnbuav/what_guides_and_tips_could_you_recommend_for/)
+- 2026-08-13T23:51:08+00:00 — [Am I sending internal network traffic to external VPN?](https://www.reddit.com/r/selfhosted/comments/1vnrcxy/am_i_sending_internal_network_traffic_to_external/)
+- 2026-08-14T04:13:32+00:00 — [Best way to make self-hosted OpenVPN survive DPI while sharing TCP/443 with HAProxy?](https://www.reddit.com/r/selfhosted/comments/1vnwy6y/best_way_to_make_selfhosted_openvpn_survive_dpi/)
+- 2026-08-13T20:16:09+00:00 — [Self hosted e-commerce website suggestions](https://www.reddit.com/r/selfhosted/comments/1vnm0un/self_hosted_ecommerce_website_suggestions/)
+- 2026-08-14T01:43:05+00:00 — [Automatically download new songs from a Spotify playlist?](https://www.reddit.com/r/selfhosted/comments/1vntu7z/automatically_download_new_songs_from_a_spotify/)
+- 2026-08-13T22:33:42+00:00 — [Getting started with self hosting](https://www.reddit.com/r/selfhosted/comments/1vnpk4b/getting_started_with_self_hosting/)
+- 2026-08-14T07:09:36+00:00 — [Built a self-hosted tool that shows all your VMs, Docker containers, and Kubernetes stuff on one live map, looking for people to break it](https://www.reddit.com/r/selfhosted/comments/1vo05uh/built_a_selfhosted_tool_that_shows_all_your_vms/)
+- 2026-08-12T11:12:29+00:00 — [What I wish someone told me when I started](https://www.reddit.com/r/selfhosted/comments/1vmb5og/what_i_wish_someone_told_me_when_i_started/)
+- 2026-08-12T21:08:13+00:00 — [I organized my wedding with my homelab (and it worked better than expected)](https://www.reddit.com/r/selfhosted/comments/1vmqozp/i_organized_my_wedding_with_my_homelab_and_it/)
+- 2026-08-13T10:54:09+00:00 — [Which minimal Docker images work best for Go applications?](https://www.reddit.com/r/selfhosted/comments/1vn7e79/which_minimal_docker_images_work_best_for_go/)
 - Thu, 13 Aug 2026 08:47:24 +0000 — [Как устроена информационная система: проектируем простую систему учета заявок](https://dev.to/dmitrii_2223/kak-ustroiena-informatsionnaia-sistiema-proiektiruiem-prostuiu-sistiemu-uchieta-zaiavok-5hhf)
 - Thu, 13 Aug 2026 08:09:52 +0000 — [Automatically scale LXC containers resources on Proxmox hosts](https://dev.to/fabriziosalmi/automatically-scale-lxc-containers-resources-on-proxmox-hosts-3p1n)
 - Thu, 13 Aug 2026 08:01:51 +0000 — [I built an Open Source Linux cleaner because I couldn't find one I wanted to use](https://dev.to/debba/i-built-an-open-source-linux-cleaner-because-i-couldnt-find-one-i-wanted-to-use-1041)
 - Thu, 13 Aug 2026 08:00:17 +0000 — [Terminal Productivity Tips That Actually Save Time](https://dev.to/binaryjournal/terminal-productivity-tips-that-actually-save-time-2jfa)
 - 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
-- 2026-08-12T11:12:29+00:00 — [What I wish someone told me when I started](https://www.reddit.com/r/selfhosted/comments/1vmb5og/what_i_wish_someone_told_me_when_i_started/)
-- 2026-08-12T21:08:13+00:00 — [I organized my wedding with my homelab (and it worked better than expected)](https://www.reddit.com/r/selfhosted/comments/1vmqozp/i_organized_my_wedding_with_my_homelab_and_it/)
 - 2026-08-12T22:32:54+00:00 — [Put my server behind a VPN for the *arr stack?](https://www.reddit.com/r/selfhosted/comments/1vmsuph/put_my_server_behind_a_vpn_for_the_arr_stack/)
 - 2026-08-13T08:30:39+00:00 — [Raspberry Pi 4 NAS: SATA SSD starts throwing I/O errors and disconnecting](https://www.reddit.com/r/selfhosted/comments/1vn4wyf/raspberry_pi_4_nas_sata_ssd_starts_throwing_io/)
 - 2026-08-12T10:46:20+00:00 — [AdventureLog 2 Year Anniversary + v0.13.0 Release](https://www.reddit.com/r/selfhosted/comments/1vmanhm/adventurelog_2_year_anniversary_v0130_release/)
@@ -97,14 +107,4 @@ Last update: 2026-08-13 08:59 UTC
 - 2026-08-03T06:59:18+00:00 — [Learning Docker and Setting Up for SelfHosting](https://www.reddit.com/r/selfhosted/comments/1ve5z9e/learning_docker_and_setting_up_for_selfhosting/)
 - 2026-08-03T10:26:48+00:00 — [Not authorized from Windows KopiaUI to docker Kopia Server](https://www.reddit.com/r/selfhosted/comments/1ve9m10/not_authorized_from_windows_kopiaui_to_docker/)
 - 2026-08-02T11:26:15+00:00 — [Karakeep 0.33 release - Semantic Search and Offline Reading!](https://www.reddit.com/r/selfhosted/comments/1vdfm4j/karakeep_033_release_semantic_search_and_offline/)
-- 2026-08-02T16:28:07+00:00 — [Portabase 1.27 - open-source backup and restore platform](https://www.reddit.com/r/selfhosted/comments/1vdmhqv/portabase_127_opensource_backup_and_restore/)
-- 2026-08-02T11:39:51+00:00 — [double quotes in docker-compose.yaml files?](https://www.reddit.com/r/selfhosted/comments/1vdfv26/double_quotes_in_dockercomposeyaml_files/)
-- 2026-08-02T17:00:02+00:00 — [Thinking about moving away from Synology DS224+ to ZimaOS/ZimaBoard or building a DIY homelab, looking for advice](https://www.reddit.com/r/selfhosted/comments/1vdna6z/thinking_about_moving_away_from_synology_ds224_to/)
-- 2026-08-02T19:33:23+00:00 — [Is there any guide or 101 that can be used to start self hosting](https://www.reddit.com/r/selfhosted/comments/1vdr8jn/is_there_any_guide_or_101_that_can_be_used_to/)
-- 2026-08-02T14:11:30+00:00 — [Self hosting photo upload site](https://www.reddit.com/r/selfhosted/comments/1vdj3uu/self_hosting_photo_upload_site/)
-- 2026-08-01T21:02:26+00:00 — [New to self-hosting, how to secure it all?](https://www.reddit.com/r/selfhosted/comments/1vcyocx/new_to_selfhosting_how_to_secure_it_all/)
-- 2026-08-03T08:09:27+00:00 — [Built a self-hosted project management & documentation platform for teams that want to keep everything on-premise](https://www.reddit.com/r/selfhosted/comments/1ve77bx/built_a_selfhosted_project_management/)
-- Sun, 02 Aug 2026 09:10:26 +0000 — [Halfway Through the MLH Production Engineering Fellowship](https://dev.to/frixumpullum/halfway-through-the-mlh-production-engineering-fellowship-46ol)
-- 2026-08-02T01:46:53+00:00 — [Is this architecture secure enough?](https://www.reddit.com/r/selfhosted/comments/1vd4zhu/is_this_architecture_secure_enough/)
-- 2026-08-02T04:57:42+00:00 — [Reel Tracker - A semi self-hosted movie & TV tracker running on Cloudflare Workers](https://www.reddit.com/r/selfhosted/comments/1vd8ssz/reel_tracker_a_semi_selfhosted_movie_tv_tracker/)
 <!-- NEWS END -->
