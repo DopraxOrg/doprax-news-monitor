@@ -2,12 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-14 08:54 UTC
+Last update: 2026-08-15 08:12 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
 - 2026-08-13T22:01:08+00:00 — [New Project Megathread - Week of 13 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vnoqxf/new_project_megathread_week_of_13_aug_2026/)
+- 2026-08-14T19:29:08+00:00 — [The Self-hosted tools and apps that I rely on](https://www.reddit.com/r/selfhosted/comments/1voh007/the_selfhosted_tools_and_apps_that_i_rely_on/)
+- 2026-08-15T02:38:48+00:00 — [Glance live-updating dashboard with custom widgets](https://www.reddit.com/r/selfhosted/comments/1voqzrj/glance_liveupdating_dashboard_with_custom_widgets/)
+- 2026-08-15T07:35:19+00:00 — [My setup a few months in](https://www.reddit.com/r/selfhosted/comments/1vowhyg/my_setup_a_few_months_in/)
+- 2026-08-15T07:40:31+00:00 — [Self-hosted Docker app for Viofo dashcams with auto Wi-Fi backup, web UI, GPS trip mapping, and video editor (viofosync)](https://www.reddit.com/r/selfhosted/comments/1vowl11/selfhosted_docker_app_for_viofo_dashcams_with/)
+- 2026-08-14T13:31:38+00:00 — [My home setup, what next?](https://www.reddit.com/r/selfhosted/comments/1vo7e4u/my_home_setup_what_next/)
+- 2026-08-14T21:05:19+00:00 — [Nvidia Tesla P4 to self host Ollama on my homelab. Is it worth it?](https://www.reddit.com/r/selfhosted/comments/1vojiyv/nvidia_tesla_p4_to_self_host_ollama_on_my_homelab/)
+- 2026-08-15T06:13:11+00:00 — [Question for a complete self-hosting beginner to start.](https://www.reddit.com/r/selfhosted/comments/1vov2ad/question_for_a_complete_selfhosting_beginner_to/)
+- 2026-08-14T21:34:07+00:00 — [Orchestrator for geographically-distributed IoT devices](https://www.reddit.com/r/selfhosted/comments/1vok9a7/orchestrator_for_geographicallydistributed_iot/)
+- 2026-08-14T21:03:22+00:00 — [Looking for a PureRef self-hosted alternative](https://www.reddit.com/r/selfhosted/comments/1vojh4s/looking_for_a_pureref_selfhosted_alternative/)
+- 2026-08-15T00:40:48+00:00 — [Help with homelab creation](https://www.reddit.com/r/selfhosted/comments/1vooj9e/help_with_homelab_creation/)
+- 2026-08-14T09:39:28+00:00 — [NoteDiscovery 0.31.1, self-hosted notes app gets more community involvement](https://www.reddit.com/r/selfhosted/comments/1vo2o2j/notediscovery_0311_selfhosted_notes_app_gets_more/)
+- 2026-08-14T21:49:08+00:00 — [Best way to deploy approved Renovate updates from GitHub to multiple Proxmox LXCs?](https://www.reddit.com/r/selfhosted/comments/1vokmm1/best_way_to_deploy_approved_renovate_updates_from/)
 - 2026-08-13T19:18:55+00:00 — [Is Guacamole not popular anymore? What are the thin-client VNC & SSH alternatives?](https://www.reddit.com/r/selfhosted/comments/1vnkgmx/is_guacamole_not_popular_anymore_what_are_the/)
 - 2026-08-13T14:11:20+00:00 — [What guides and tips could you recommend for someone just starting with servers?](https://www.reddit.com/r/selfhosted/comments/1vnbuav/what_guides_and_tips_could_you_recommend_for/)
 - 2026-08-13T23:51:08+00:00 — [Am I sending internal network traffic to external VPN?](https://www.reddit.com/r/selfhosted/comments/1vnrcxy/am_i_sending_internal_network_traffic_to_external/)
@@ -95,16 +107,4 @@ Last update: 2026-08-14 08:54 UTC
 - 2026-08-04T09:25:55+00:00 — [Looking to share a funeral recording in a respectful manner](https://www.reddit.com/r/selfhosted/comments/1vf5dr2/looking_to_share_a_funeral_recording_in_a/)
 - 2026-08-04T07:49:54+00:00 — [Do you backup your databases or the filesystem?](https://www.reddit.com/r/selfhosted/comments/1vf3r1r/do_you_backup_your_databases_or_the_filesystem/)
 - 2026-08-04T16:54:36+00:00 — [Looking to reduce my dependence to iCloud that works well with the Apple ecosystem](https://www.reddit.com/r/selfhosted/comments/1vfg0o9/looking_to_reduce_my_dependence_to_icloud_that/)
-- 2026-08-03T09:23:20+00:00 — [Forgot and experienced true hell with :lastest](https://www.reddit.com/r/selfhosted/comments/1ve8h5q/forgot_and_experienced_true_hell_with_lastest/)
-- Tue, 04 Aug 2026 10:09:22 +0000 — [Stop Burning Your AI Limits: A Token Diet for Long Coding Days](https://dev.to/eram/stop-burning-your-ai-limits-a-token-diet-for-long-coding-days-o2h)
-- Tue, 04 Aug 2026 10:08:50 +0000 — [Self-hosted Linear?](https://dev.to/croffasia/self-hosted-linear-56bi)
-- Tue, 04 Aug 2026 10:06:25 +0000 — [Redis Complete Guide: Caching, Queues & Pub/Sub (2026)](https://dev.to/stacknotice/redis-complete-guide-caching-queues-pubsub-2026-2pml)
-- 2026-08-03T12:56:55+00:00 — [IronCalc v0.8 released](https://www.reddit.com/r/selfhosted/comments/1vecogx/ironcalc_v08_released/)
-- 2026-08-02T10:35:55+00:00 — [The 3 Stages of Self Hosting](https://www.reddit.com/r/selfhosted/comments/1vdepgr/the_3_stages_of_self_hosting/)
-- 2026-08-03T12:24:53+00:00 — [Codeman: self-hosted mission control for AI coding agents, built in the open with the community, supports OpenCode, Claude Code, Codex and Gemini](https://www.reddit.com/r/selfhosted/comments/1vebymy/codeman_selfhosted_mission_control_for_ai_coding/)
-- 2026-08-03T09:28:30+00:00 — [Aralez v.0.92.16 . Reverse proxy, website accelerator](https://www.reddit.com/r/selfhosted/comments/1ve8kf7/aralez_v09216_reverse_proxy_website_accelerator/)
-- 2026-08-04T07:49:58+00:00 — [Looking for feedback from Kubernetes users on a deployment tool I'm building ✅](https://www.reddit.com/r/selfhosted/comments/1vf3r38/looking_for_feedback_from_kubernetes_users_on_a/)
-- 2026-08-03T06:59:18+00:00 — [Learning Docker and Setting Up for SelfHosting](https://www.reddit.com/r/selfhosted/comments/1ve5z9e/learning_docker_and_setting_up_for_selfhosting/)
-- 2026-08-03T10:26:48+00:00 — [Not authorized from Windows KopiaUI to docker Kopia Server](https://www.reddit.com/r/selfhosted/comments/1ve9m10/not_authorized_from_windows_kopiaui_to_docker/)
-- 2026-08-02T11:26:15+00:00 — [Karakeep 0.33 release - Semantic Search and Offline Reading!](https://www.reddit.com/r/selfhosted/comments/1vdfm4j/karakeep_033_release_semantic_search_and_offline/)
 <!-- NEWS END -->
