@@ -2,16 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-15 08:12 UTC
+Last update: 2026-08-16 08:13 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 16 Aug 2026 07:41:27 +0000 — [ReClaim — Scalable, Campus-Centric Property Recovery via High-Dimensional Visual Search](https://dev.to/neeraj_ciju/reclaim-scalable-campus-centric-property-recovery-via-high-dimensional-visual-search-2106)
 - 2026-08-13T22:01:08+00:00 — [New Project Megathread - Week of 13 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vnoqxf/new_project_megathread_week_of_13_aug_2026/)
+- 2026-08-16T04:39:42+00:00 — [How do you deal with CrowdSec self-bans when you're behind CGNAT?](https://www.reddit.com/r/selfhosted/comments/1vpnkav/how_do_you_deal_with_crowdsec_selfbans_when_youre/)
 - 2026-08-14T19:29:08+00:00 — [The Self-hosted tools and apps that I rely on](https://www.reddit.com/r/selfhosted/comments/1voh007/the_selfhosted_tools_and_apps_that_i_rely_on/)
-- 2026-08-15T02:38:48+00:00 — [Glance live-updating dashboard with custom widgets](https://www.reddit.com/r/selfhosted/comments/1voqzrj/glance_liveupdating_dashboard_with_custom_widgets/)
 - 2026-08-15T07:35:19+00:00 — [My setup a few months in](https://www.reddit.com/r/selfhosted/comments/1vowhyg/my_setup_a_few_months_in/)
+- 2026-08-16T07:49:55+00:00 — [Verbatim v2 update. "self-hosted transcription that turns a whole channel into transcripts + AI analysis (Whisper/Gemini, Docker)"](https://www.reddit.com/r/selfhosted/comments/1vpqy0g/verbatim_v2_update_selfhosted_transcription_that/)
+- 2026-08-15T02:38:48+00:00 — [Glance live-updating dashboard with custom widgets](https://www.reddit.com/r/selfhosted/comments/1voqzrj/glance_liveupdating_dashboard_with_custom_widgets/)
+- 2026-08-15T11:26:21+00:00 — [Anybody used port knocking?](https://www.reddit.com/r/selfhosted/comments/1vp0dys/anybody_used_port_knocking/)
+- 2026-08-15T19:45:20+00:00 — [Wanted some input before I make final decisions to get started on my server pc and possibly change my mind after starting](https://www.reddit.com/r/selfhosted/comments/1vpc6cq/wanted_some_input_before_i_make_final_decisions/)
 - 2026-08-15T07:40:31+00:00 — [Self-hosted Docker app for Viofo dashcams with auto Wi-Fi backup, web UI, GPS trip mapping, and video editor (viofosync)](https://www.reddit.com/r/selfhosted/comments/1vowl11/selfhosted_docker_app_for_viofo_dashcams_with/)
+- 2026-08-15T21:51:19+00:00 — [What would be the best backup options for my needs?](https://www.reddit.com/r/selfhosted/comments/1vpf772/what_would_be_the_best_backup_options_for_my_needs/)
+- 2026-08-15T12:54:10+00:00 — [Does the CWA built in bookreader support KOSync?](https://www.reddit.com/r/selfhosted/comments/1vp25de/does_the_cwa_built_in_bookreader_support_kosync/)
+- 2026-08-15T18:31:50+00:00 — [Security to improve?](https://www.reddit.com/r/selfhosted/comments/1vpacg3/security_to_improve/)
 - 2026-08-14T13:31:38+00:00 — [My home setup, what next?](https://www.reddit.com/r/selfhosted/comments/1vo7e4u/my_home_setup_what_next/)
 - 2026-08-14T21:05:19+00:00 — [Nvidia Tesla P4 to self host Ollama on my homelab. Is it worth it?](https://www.reddit.com/r/selfhosted/comments/1vojiyv/nvidia_tesla_p4_to_self_host_ollama_on_my_homelab/)
 - 2026-08-15T06:13:11+00:00 — [Question for a complete self-hosting beginner to start.](https://www.reddit.com/r/selfhosted/comments/1vov2ad/question_for_a_complete_selfhosting_beginner_to/)
@@ -99,12 +107,4 @@ Last update: 2026-08-15 08:12 UTC
 - 2026-08-03T10:32:11+00:00 — [Need a DevOps Roadmap for a Complete Beginner (2026)](https://www.reddit.com/r/devops/comments/1ve9pnr/need_a_devops_roadmap_for_a_complete_beginner_2026/)
 - Wed, 05 Aug 2026 10:11:51 +0000 — [Auditability vs. Forced Determinism : Future of Agentic AI](https://dev.to/mir_arshadalitalpur_1b3/auditability-vs-forced-determinism-future-of-agentic-ai-55ae)
 - Wed, 05 Aug 2026 10:10:33 +0000 — [Audit an AI Coding Agent's Network Egress Before It Gets a Shell](https://dev.to/jaryn_123/audit-an-ai-coding-agents-network-egress-before-it-gets-a-shell-4k69)
-- 2026-08-04T13:07:27+00:00 — [Do I just have to live connected to Tailscale now?](https://www.reddit.com/r/selfhosted/comments/1vf9v31/do_i_just_have_to_live_connected_to_tailscale_now/)
-- 2026-08-05T01:35:24+00:00 — [What is Tailscale mullvad actually doing](https://www.reddit.com/r/selfhosted/comments/1vftfgc/what_is_tailscale_mullvad_actually_doing/)
-- 2026-08-04T08:15:17+00:00 — [Self-hosted publishing stack: where do you draw the line between VPS and local machine?](https://www.reddit.com/r/selfhosted/comments/1vf46o4/selfhosted_publishing_stack_where_do_you_draw_the/)
-- 2026-08-05T00:29:02+00:00 — [Does anyone have knowledge of Eero router and AdGuardHome playing nice for DHCP?](https://www.reddit.com/r/selfhosted/comments/1vfrz69/does_anyone_have_knowledge_of_eero_router_and/)
-- 2026-08-04T15:51:03+00:00 — [NutriTrace v1.1.0 Released! In-app updates, redesigned Settings, and more!](https://www.reddit.com/r/selfhosted/comments/1vfe843/nutritrace_v110_released_inapp_updates_redesigned/)
-- 2026-08-04T09:25:55+00:00 — [Looking to share a funeral recording in a respectful manner](https://www.reddit.com/r/selfhosted/comments/1vf5dr2/looking_to_share_a_funeral_recording_in_a/)
-- 2026-08-04T07:49:54+00:00 — [Do you backup your databases or the filesystem?](https://www.reddit.com/r/selfhosted/comments/1vf3r1r/do_you_backup_your_databases_or_the_filesystem/)
-- 2026-08-04T16:54:36+00:00 — [Looking to reduce my dependence to iCloud that works well with the Apple ecosystem](https://www.reddit.com/r/selfhosted/comments/1vfg0o9/looking_to_reduce_my_dependence_to_icloud_that/)
 <!-- NEWS END -->
