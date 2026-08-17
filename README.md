@@ -2,13 +2,17 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-16 08:13 UTC
+Last update: 2026-08-17 08:27 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sun, 16 Aug 2026 07:41:27 +0000 — [ReClaim — Scalable, Campus-Centric Property Recovery via High-Dimensional Visual Search](https://dev.to/neeraj_ciju/reclaim-scalable-campus-centric-property-recovery-via-high-dimensional-visual-search-2106)
+- Mon, 17 Aug 2026 08:21:08 +0000 — [A Free 16-Week Cloud and DevOps Syllabus for Karachi (2026)](https://dev.to/usman_sherdil_582e626a7db/a-free-16-week-cloud-and-devops-syllabus-for-karachi-2026-342n)
 - 2026-08-13T22:01:08+00:00 — [New Project Megathread - Week of 13 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vnoqxf/new_project_megathread_week_of_13_aug_2026/)
+- 2026-08-16T12:14:07+00:00 — [ELI5 TinyAuth, PocketID and reverse proxy.](https://www.reddit.com/r/selfhosted/comments/1vpvhlv/eli5_tinyauth_pocketid_and_reverse_proxy/)
+- 2026-08-16T08:28:53+00:00 — [Destroying My Homelab With Kubernetes - Linux Society UNSW 2026](https://www.reddit.com/r/selfhosted/comments/1vprlxn/destroying_my_homelab_with_kubernetes_linux/)
+- 2026-08-16T16:49:09+00:00 — [Calibre docker going high cpu load XMRig](https://www.reddit.com/r/selfhosted/comments/1vq212c/calibre_docker_going_high_cpu_load_xmrig/)
+- Sun, 16 Aug 2026 07:41:27 +0000 — [ReClaim — Scalable, Campus-Centric Property Recovery via High-Dimensional Visual Search](https://dev.to/neeraj_ciju/reclaim-scalable-campus-centric-property-recovery-via-high-dimensional-visual-search-2106)
 - 2026-08-16T04:39:42+00:00 — [How do you deal with CrowdSec self-bans when you're behind CGNAT?](https://www.reddit.com/r/selfhosted/comments/1vpnkav/how_do_you_deal_with_crowdsec_selfbans_when_youre/)
 - 2026-08-14T19:29:08+00:00 — [The Self-hosted tools and apps that I rely on](https://www.reddit.com/r/selfhosted/comments/1voh007/the_selfhosted_tools_and_apps_that_i_rely_on/)
 - 2026-08-15T07:35:19+00:00 — [My setup a few months in](https://www.reddit.com/r/selfhosted/comments/1vowhyg/my_setup_a_few_months_in/)
@@ -103,8 +107,4 @@ Last update: 2026-08-16 08:13 UTC
 - 2026-08-06T03:20:27+00:00 — [Do I need to learn now how to write python or shell scripting?](https://www.reddit.com/r/devops/comments/1vgspo4/do_i_need_to_learn_now_how_to_write_python_or/)
 - 2026-08-05T04:54:08+00:00 — [Self-hosted enterprise app builders with strong RBAC and compliance features](https://www.reddit.com/r/devops/comments/1vfxku2/selfhosted_enterprise_app_builders_with_strong/)
 - 2026-08-03T21:21:58+00:00 — [Book recommendations for on premises deployment](https://www.reddit.com/r/devops/comments/1veqes4/book_recommendations_for_on_premises_deployment/)
-- 2026-08-04T19:35:46+00:00 — [Hetzner Cloud vs Turkish VPS for a production mobile backend?](https://www.reddit.com/r/devops/comments/1vfkjvd/hetzner_cloud_vs_turkish_vps_for_a_production/)
-- 2026-08-03T10:32:11+00:00 — [Need a DevOps Roadmap for a Complete Beginner (2026)](https://www.reddit.com/r/devops/comments/1ve9pnr/need_a_devops_roadmap_for_a_complete_beginner_2026/)
-- Wed, 05 Aug 2026 10:11:51 +0000 — [Auditability vs. Forced Determinism : Future of Agentic AI](https://dev.to/mir_arshadalitalpur_1b3/auditability-vs-forced-determinism-future-of-agentic-ai-55ae)
-- Wed, 05 Aug 2026 10:10:33 +0000 — [Audit an AI Coding Agent's Network Egress Before It Gets a Shell](https://dev.to/jaryn_123/audit-an-ai-coding-agents-network-egress-before-it-gets-a-shell-4k69)
 <!-- NEWS END -->
