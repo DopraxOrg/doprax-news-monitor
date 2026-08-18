@@ -2,13 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-17 08:27 UTC
+Last update: 2026-08-18 08:19 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 17 Aug 2026 08:21:08 +0000 — [A Free 16-Week Cloud and DevOps Syllabus for Karachi (2026)](https://dev.to/usman_sherdil_582e626a7db/a-free-16-week-cloud-and-devops-syllabus-for-karachi-2026-342n)
+- Tue, 18 Aug 2026 08:07:12 +0000 — [Synced, Healthy, Running, Wrong](https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2)
 - 2026-08-13T22:01:08+00:00 — [New Project Megathread - Week of 13 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vnoqxf/new_project_megathread_week_of_13_aug_2026/)
+- 2026-08-18T07:16:07+00:00 — [TIL docker restart doesn't re-read your .env](https://www.reddit.com/r/selfhosted/comments/1vri1kw/til_docker_restart_doesnt_reread_your_env/)
+- 2026-08-17T18:41:13+00:00 — [I know people say use old Hardware.. but how old is TOO old?](https://www.reddit.com/r/selfhosted/comments/1vr0vks/i_know_people_say_use_old_hardware_but_how_old_is/)
+- 2026-08-17T21:07:34+00:00 — [Is paying for a static IP worth it for hosting?](https://www.reddit.com/r/selfhosted/comments/1vr4x5x/is_paying_for_a_static_ip_worth_it_for_hosting/)
+- 2026-08-18T06:58:15+00:00 — [One year later: An update on Poznote](https://www.reddit.com/r/selfhosted/comments/1vrhpta/one_year_later_an_update_on_poznote/)
+- 2026-08-17T18:49:34+00:00 — [Nix vs immutable Fedora for homelab?](https://www.reddit.com/r/selfhosted/comments/1vr146v/nix_vs_immutable_fedora_for_homelab/)
+- 2026-08-18T04:06:26+00:00 — [Looking to replace Apple Music’s horrible music discovery engine with my own…](https://www.reddit.com/r/selfhosted/comments/1vrejlk/looking_to_replace_apple_musics_horrible_music/)
+- 2026-08-17T16:13:12+00:00 — [Accessing my Apps and use a VPN](https://www.reddit.com/r/selfhosted/comments/1vqwjcj/accessing_my_apps_and_use_a_vpn/)
+- Mon, 17 Aug 2026 08:21:08 +0000 — [A Free 16-Week Cloud and DevOps Syllabus for Karachi (2026)](https://dev.to/usman_sherdil_582e626a7db/a-free-16-week-cloud-and-devops-syllabus-for-karachi-2026-342n)
 - 2026-08-16T12:14:07+00:00 — [ELI5 TinyAuth, PocketID and reverse proxy.](https://www.reddit.com/r/selfhosted/comments/1vpvhlv/eli5_tinyauth_pocketid_and_reverse_proxy/)
 - 2026-08-16T08:28:53+00:00 — [Destroying My Homelab With Kubernetes - Linux Society UNSW 2026](https://www.reddit.com/r/selfhosted/comments/1vprlxn/destroying_my_homelab_with_kubernetes_linux/)
 - 2026-08-16T16:49:09+00:00 — [Calibre docker going high cpu load XMRig](https://www.reddit.com/r/selfhosted/comments/1vq212c/calibre_docker_going_high_cpu_load_xmrig/)
@@ -99,12 +107,4 @@ Last update: 2026-08-17 08:27 UTC
 - Thu, 06 Aug 2026 10:05:28 +0000 — [Implementing TOTP Two-Factor Authentication from Scratch in Python](https://dev.to/ayinedjimi-consultants/implementing-totp-two-factor-authentication-from-scratch-in-python-4j9)
 - Thu, 06 Aug 2026 09:59:23 +0000 — [Your first Fitz LiveViews component, twice: SSR and WASM from one source](https://dev.to/martin_palopoli/your-first-fitz-liveviews-component-twice-ssr-and-wasm-from-one-source-1hlo)
 - 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
-- 2026-08-05T10:56:42+00:00 — [Dawarich 1.11.0](https://www.reddit.com/r/selfhosted/comments/1vg42k9/dawarich_1110/)
-- 2026-08-05T20:07:09+00:00 — [Discovered self-hosting world and am ridiculously excited about - here's my tiny Oracle VPS homelab so far](https://www.reddit.com/r/selfhosted/comments/1vgifon/discovered_selfhosting_world_and_am_ridiculously/)
-- 2026-08-05T20:06:07+00:00 — [Komga unusable with large library, clogs up the whole NAS](https://www.reddit.com/r/selfhosted/comments/1vgieog/komga_unusable_with_large_library_clogs_up_the/)
-- 2026-08-04T21:27:32+00:00 — [Forgot my sudo password, reset it from a privileged container](https://www.reddit.com/r/selfhosted/comments/1vfnle3/forgot_my_sudo_password_reset_it_from_a/)
-- 2026-08-05T21:05:51+00:00 — [Dozzle style util for Linux shell?](https://www.reddit.com/r/selfhosted/comments/1vgk0s8/dozzle_style_util_for_linux_shell/)
-- 2026-08-06T03:20:27+00:00 — [Do I need to learn now how to write python or shell scripting?](https://www.reddit.com/r/devops/comments/1vgspo4/do_i_need_to_learn_now_how_to_write_python_or/)
-- 2026-08-05T04:54:08+00:00 — [Self-hosted enterprise app builders with strong RBAC and compliance features](https://www.reddit.com/r/devops/comments/1vfxku2/selfhosted_enterprise_app_builders_with_strong/)
-- 2026-08-03T21:21:58+00:00 — [Book recommendations for on premises deployment](https://www.reddit.com/r/devops/comments/1veqes4/book_recommendations_for_on_premises_deployment/)
 <!-- NEWS END -->
