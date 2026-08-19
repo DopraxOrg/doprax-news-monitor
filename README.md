@@ -2,17 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-18 08:19 UTC
+Last update: 2026-08-19 08:20 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Tue, 18 Aug 2026 08:07:12 +0000 — [Synced, Healthy, Running, Wrong](https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2)
+- Wed, 19 Aug 2026 08:14:41 +0000 — [Securing your database connection: TLS, SSH tunnels, and IAM, from the ground up](https://dev.to/flextabledev/securing-your-database-connection-tls-ssh-tunnels-and-iam-from-the-ground-up-3pk8)
 - 2026-08-13T22:01:08+00:00 — [New Project Megathread - Week of 13 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vnoqxf/new_project_megathread_week_of_13_aug_2026/)
+- 2026-08-18T14:44:43+00:00 — [I had a stupid idea: a homelab in my backpack. Then I realized I already had almost everything.](https://www.reddit.com/r/selfhosted/comments/1vrr7t9/i_had_a_stupid_idea_a_homelab_in_my_backpack_then/)
 - 2026-08-18T07:16:07+00:00 — [TIL docker restart doesn't re-read your .env](https://www.reddit.com/r/selfhosted/comments/1vri1kw/til_docker_restart_doesnt_reread_your_env/)
-- 2026-08-17T18:41:13+00:00 — [I know people say use old Hardware.. but how old is TOO old?](https://www.reddit.com/r/selfhosted/comments/1vr0vks/i_know_people_say_use_old_hardware_but_how_old_is/)
-- 2026-08-17T21:07:34+00:00 — [Is paying for a static IP worth it for hosting?](https://www.reddit.com/r/selfhosted/comments/1vr4x5x/is_paying_for_a_static_ip_worth_it_for_hosting/)
+- 2026-08-19T01:38:51+00:00 — [Can Tailscale or Wireguard on Android auto connect somehow?](https://www.reddit.com/r/selfhosted/comments/1vs8k2p/can_tailscale_or_wireguard_on_android_auto/)
+- 2026-08-18T23:26:36+00:00 — [Is this even a thing or possible via ANY self hosted scam/adblocker?](https://www.reddit.com/r/selfhosted/comments/1vs5j73/is_this_even_a_thing_or_possible_via_any_self/)
+- 2026-08-18T18:17:03+00:00 — [OS for k8s cluster](https://www.reddit.com/r/selfhosted/comments/1vrxbau/os_for_k8s_cluster/)
+- 2026-08-18T20:28:48+00:00 — [Hatchdoor v2.5.0: The markdown vault editor now natively multi-vault](https://www.reddit.com/r/selfhosted/comments/1vs10x9/hatchdoor_v250_the_markdown_vault_editor_now/)
+- 2026-08-18T19:39:03+00:00 — [SearXNG queries via WireGuard interface](https://www.reddit.com/r/selfhosted/comments/1vrzn36/searxng_queries_via_wireguard_interface/)
+- 2026-08-18T22:29:44+00:00 — [Homepage (gethomepage) set port in source install](https://www.reddit.com/r/selfhosted/comments/1vs45sx/homepage_gethomepage_set_port_in_source_install/)
 - 2026-08-18T06:58:15+00:00 — [One year later: An update on Poznote](https://www.reddit.com/r/selfhosted/comments/1vrhpta/one_year_later_an_update_on_poznote/)
+- 2026-08-18T14:44:56+00:00 — [hosting online? what's the golden standard?](https://www.reddit.com/r/selfhosted/comments/1vrr80i/hosting_online_whats_the_golden_standard/)
+- 2026-08-17T18:41:13+00:00 — [I know people say use old Hardware.. but how old is TOO old?](https://www.reddit.com/r/selfhosted/comments/1vr0vks/i_know_people_say_use_old_hardware_but_how_old_is/)
+- Tue, 18 Aug 2026 08:07:12 +0000 — [Synced, Healthy, Running, Wrong](https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2)
+- 2026-08-17T21:07:34+00:00 — [Is paying for a static IP worth it for hosting?](https://www.reddit.com/r/selfhosted/comments/1vr4x5x/is_paying_for_a_static_ip_worth_it_for_hosting/)
 - 2026-08-17T18:49:34+00:00 — [Nix vs immutable Fedora for homelab?](https://www.reddit.com/r/selfhosted/comments/1vr146v/nix_vs_immutable_fedora_for_homelab/)
 - 2026-08-18T04:06:26+00:00 — [Looking to replace Apple Music’s horrible music discovery engine with my own…](https://www.reddit.com/r/selfhosted/comments/1vrejlk/looking_to_replace_apple_musics_horrible_music/)
 - 2026-08-17T16:13:12+00:00 — [Accessing my Apps and use a VPN](https://www.reddit.com/r/selfhosted/comments/1vqwjcj/accessing_my_apps_and_use_a_vpn/)
@@ -98,13 +107,4 @@ Last update: 2026-08-18 08:19 UTC
 - Fri, 07 Aug 2026 07:55:45 +0000 — [How I Built an AI-Readable Second Brain with Obsidian, Git, and a VS Code AI Agent](https://dev.to/dev_next4i/how-i-built-an-ai-readable-second-brain-with-obsidian-git-and-a-vs-code-ai-agent-5hep)
 - 2026-08-06T13:13:51+00:00 — [Launching r/AutoHebergement_FR — a French-speaking self-hosting community](https://www.reddit.com/r/selfhosted/comments/1vh3x21/launching_rautohebergement_fr_a_frenchspeaking/)
 - 2026-08-06T20:08:50+00:00 — [Is it worth it to turn this laptop into a home server as someone with no experience?](https://www.reddit.com/r/selfhosted/comments/1vhf8cv/is_it_worth_it_to_turn_this_laptop_into_a_home/)
-- 2026-08-06T08:34:24+00:00 — [Another self-hosted catalogue focusing on rich data](https://www.reddit.com/r/selfhosted/comments/1vgygav/another_selfhosted_catalogue_focusing_on_rich_data/)
-- 2026-08-06T07:49:19+00:00 — [I built OpenJornada: a self-hosted work-time clock for Spanish/EU labor-law compliance (AGPL-3.0, Docker)](https://www.reddit.com/r/selfhosted/comments/1vgxows/i_built_openjornada_a_selfhosted_worktime_clock/)
-- 2026-08-06T10:28:21+00:00 — [security for self-hosted services in the age of AI](https://www.reddit.com/r/selfhosted/comments/1vh0erd/security_for_selfhosted_services_in_the_age_of_ai/)
-- 2026-08-06T19:57:34+00:00 — [Domain resolution with Self signed certificate works on LAN but not on IOS and Android](https://www.reddit.com/r/selfhosted/comments/1vhex9l/domain_resolution_with_self_signed_certificate/)
-- 2026-08-06T05:27:28+00:00 — [Does anyone actually test their restores?](https://www.reddit.com/r/selfhosted/comments/1vgv73t/does_anyone_actually_test_their_restores/)
-- Thu, 06 Aug 2026 07:34:06 +0000 — [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
-- Thu, 06 Aug 2026 10:05:28 +0000 — [Implementing TOTP Two-Factor Authentication from Scratch in Python](https://dev.to/ayinedjimi-consultants/implementing-totp-two-factor-authentication-from-scratch-in-python-4j9)
-- Thu, 06 Aug 2026 09:59:23 +0000 — [Your first Fitz LiveViews component, twice: SSR and WASM from one source](https://dev.to/martin_palopoli/your-first-fitz-liveviews-component-twice-ssr-and-wasm-from-one-source-1hlo)
-- 2026-07-30T22:01:17+00:00 — [New Project Megathread - Week of 30 Jul 2026](https://www.reddit.com/r/selfhosted/comments/1vb7psc/new_project_megathread_week_of_30_jul_2026/)
 <!-- NEWS END -->
