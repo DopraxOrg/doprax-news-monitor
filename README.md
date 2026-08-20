@@ -2,14 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-19 08:20 UTC
+Last update: 2026-08-20 08:21 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 19 Aug 2026 08:14:41 +0000 — [Securing your database connection: TLS, SSH tunnels, and IAM, from the ground up](https://dev.to/flextabledev/securing-your-database-connection-tls-ssh-tunnels-and-iam-from-the-ground-up-3pk8)
+- Thu, 20 Aug 2026 07:34:39 +0000 — [Kubernetes DNS was failing 33% of the time. CoreDNS was fine.](https://dev.to/hilmib/kubernetes-dns-was-failing-33-of-the-time-coredns-was-fine-221e)
+- Thu, 20 Aug 2026 07:11:03 +0000 — [Setting up an IPv6 only VM](https://dev.to/laurencet/setting-up-an-ipv6-only-vm-2dcl)
 - 2026-08-13T22:01:08+00:00 — [New Project Megathread - Week of 13 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vnoqxf/new_project_megathread_week_of_13_aug_2026/)
+- 2026-08-19T20:01:24+00:00 — [Is adding a first auth layer a good idea?](https://www.reddit.com/r/selfhosted/comments/1vsxe70/is_adding_a_first_auth_layer_a_good_idea/)
+- 2026-08-19T14:38:41+00:00 — [Homepage - docker list like in Homarr](https://www.reddit.com/r/selfhosted/comments/1vsob18/homepage_docker_list_like_in_homarr/)
+- 2026-08-19T11:38:15+00:00 — [Help me deciding](https://www.reddit.com/r/selfhosted/comments/1vsjxcs/help_me_deciding/)
 - 2026-08-18T14:44:43+00:00 — [I had a stupid idea: a homelab in my backpack. Then I realized I already had almost everything.](https://www.reddit.com/r/selfhosted/comments/1vrr7t9/i_had_a_stupid_idea_a_homelab_in_my_backpack_then/)
+- 2026-08-19T16:00:09+00:00 — [inboxes - a self-hostable inbox for your Resend domains. Threading, unlimited users, shared aliases, and now an MCP server!](https://www.reddit.com/r/selfhosted/comments/1vsqjms/inboxes_a_selfhostable_inbox_for_your_resend/)
+- 2026-08-19T19:45:21+00:00 — [How do I get a self-hosted Renovate Bot to use the SSH private key I made it?](https://www.reddit.com/r/selfhosted/comments/1vswygf/how_do_i_get_a_selfhosted_renovate_bot_to_use_the/)
+- Wed, 19 Aug 2026 08:14:41 +0000 — [Securing your database connection: TLS, SSH tunnels, and IAM, from the ground up](https://dev.to/flextabledev/securing-your-database-connection-tls-ssh-tunnels-and-iam-from-the-ground-up-3pk8)
 - 2026-08-18T07:16:07+00:00 — [TIL docker restart doesn't re-read your .env](https://www.reddit.com/r/selfhosted/comments/1vri1kw/til_docker_restart_doesnt_reread_your_env/)
 - 2026-08-19T01:38:51+00:00 — [Can Tailscale or Wireguard on Android auto connect somehow?](https://www.reddit.com/r/selfhosted/comments/1vs8k2p/can_tailscale_or_wireguard_on_android_auto/)
 - 2026-08-18T23:26:36+00:00 — [Is this even a thing or possible via ANY self hosted scam/adblocker?](https://www.reddit.com/r/selfhosted/comments/1vs5j73/is_this_even_a_thing_or_possible_via_any_self/)
@@ -100,11 +107,4 @@ Last update: 2026-08-19 08:20 UTC
 - 2026-08-07T12:32:23+00:00 — [Supabase self hosting alternative](https://www.reddit.com/r/selfhosted/comments/1vhzd0o/supabase_self_hosting_alternative/)
 - 2026-08-06T18:54:19+00:00 — [How do you stop Sonarr from grabbing fake releases full of .exe/.scr files?](https://www.reddit.com/r/selfhosted/comments/1vhd7r7/how_do_you_stop_sonarr_from_grabbing_fake/)
 - 2026-08-07T05:40:23+00:00 — [Looking to Self Host an NVR. Suggestions?](https://www.reddit.com/r/selfhosted/comments/1vhrxyi/looking_to_self_host_an_nvr_suggestions/)
-- 2026-08-06T13:31:38+00:00 — [Release TaskView 1.51.0](https://www.reddit.com/r/selfhosted/comments/1vh4cvu/release_taskview_1510/)
-- Fri, 07 Aug 2026 08:20:46 +0000 — [# My First Docker Container: Installation and Essential Commands](https://dev.to/prash_1_9a3a6266c93cd7276/-my-first-docker-container-installation-and-essential-commands-43ol)
-- Fri, 07 Aug 2026 08:13:05 +0000 — [What We Learned Building Enterprise AI Agents: Five Challenges Nobody Talks About](https://dev.to/chandni_8b89a0126408ba8e1/what-we-learned-building-enterprise-ai-agents-five-challenges-nobody-talks-about-1i5b)
-- Fri, 07 Aug 2026 08:08:42 +0000 — [วิธีที่ผมสร้าง "สมองที่สอง" ให้ AI อ่านได้ ด้วย Obsidian, Git และ VS Code AI Agent](https://dev.to/dev_next4i/withiithiiphmsraang-smngthiisng-aih-ai-aanaid-dwy-obsidian-git-aela-vs-code-ai-agent-269k)
-- Fri, 07 Aug 2026 07:55:45 +0000 — [How I Built an AI-Readable Second Brain with Obsidian, Git, and a VS Code AI Agent](https://dev.to/dev_next4i/how-i-built-an-ai-readable-second-brain-with-obsidian-git-and-a-vs-code-ai-agent-5hep)
-- 2026-08-06T13:13:51+00:00 — [Launching r/AutoHebergement_FR — a French-speaking self-hosting community](https://www.reddit.com/r/selfhosted/comments/1vh3x21/launching_rautohebergement_fr_a_frenchspeaking/)
-- 2026-08-06T20:08:50+00:00 — [Is it worth it to turn this laptop into a home server as someone with no experience?](https://www.reddit.com/r/selfhosted/comments/1vhf8cv/is_it_worth_it_to_turn_this_laptop_into_a_home/)
 <!-- NEWS END -->
