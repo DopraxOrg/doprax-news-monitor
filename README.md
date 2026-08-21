@@ -2,11 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-20 08:21 UTC
+Last update: 2026-08-21 08:22 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 21 Aug 2026 08:01:14 +0000 — [Don't Let Codex Roam Free: 6 Guardrails I Use for AI-Assisted Coding](https://dev.to/tosane932/dont-let-codex-roam-free-6-guardrails-i-use-for-ai-assisted-coding-4bj4)
+- Fri, 21 Aug 2026 07:29:39 +0000 — [Your Laravel queue worker count is a guess. Here is the math that replaces it.](https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba)
+- 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
+- 2026-08-20T18:14:41+00:00 — [Aurral is about to pass 1 million downloads, and 2.5.0 is a big step toward a real self-hosted music library](https://www.reddit.com/r/selfhosted/comments/1vtr9tr/aurral_is_about_to_pass_1_million_downloads_and/)
+- 2026-08-20T18:32:48+00:00 — [What embarrassingly simple, but genuinely helpful things have you learned about self-hosting that others should know for their own peace of mind or at least to have a chuckle?](https://www.reddit.com/r/selfhosted/comments/1vtrs3t/what_embarrassingly_simple_but_genuinely_helpful/)
+- 2026-08-21T07:06:32+00:00 — [Self hosting gets you an API of your own. Mine draws a live cluster card onto my repo's README every 15 minutes](https://www.reddit.com/r/selfhosted/comments/1vu90ef/self_hosting_gets_you_an_api_of_your_own_mine/)
+- 2026-08-20T11:41:19+00:00 — [1 Year into Self-Hosting: Proxmox Setup, LXC vs. Docker Dilemma, and Seeking Advice!](https://www.reddit.com/r/selfhosted/comments/1vth3j1/1_year_into_selfhosting_proxmox_setup_lxc_vs/)
+- 2026-08-21T02:03:20+00:00 — [Setting up custom local URLs for arr-stack with NPM?](https://www.reddit.com/r/selfhosted/comments/1vu346q/setting_up_custom_local_urls_for_arrstack_with_npm/)
+- 2026-08-21T02:00:11+00:00 — [Town / region Community news app?](https://www.reddit.com/r/selfhosted/comments/1vu31j5/town_region_community_news_app/)
+- 2026-08-21T06:44:34+00:00 — [Built a self-hosted AI Video Studio pipeline (React/Node/FFmpeg/Docker) to cut out SaaS markups.](https://www.reddit.com/r/selfhosted/comments/1vu8mna/built_a_selfhosted_ai_video_studio_pipeline/)
 - Thu, 20 Aug 2026 07:34:39 +0000 — [Kubernetes DNS was failing 33% of the time. CoreDNS was fine.](https://dev.to/hilmib/kubernetes-dns-was-failing-33-of-the-time-coredns-was-fine-221e)
 - Thu, 20 Aug 2026 07:11:03 +0000 — [Setting up an IPv6 only VM](https://dev.to/laurencet/setting-up-an-ipv6-only-vm-2dcl)
 - 2026-08-13T22:01:08+00:00 — [New Project Megathread - Week of 13 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vnoqxf/new_project_megathread_week_of_13_aug_2026/)
@@ -97,14 +107,4 @@ Last update: 2026-08-20 08:21 UTC
 - Sun, 09 Aug 2026 07:54:31 +0000 — [fastapi-crudrouter is Dead. Here's How to Migrate to BetterCRUD](https://dev.to/_340a11d0e3d75cd9d691d/fastapi-crudrouter-is-dead-heres-how-to-migrate-to-bettercrud-3gn9)
 - Sun, 09 Aug 2026 07:50:07 +0000 — [Stop Writing CRUD Boilerplate: Generate a Complete FastAPI API From One Decorator](https://dev.to/_340a11d0e3d75cd9d691d/stop-writing-crud-boilerplate-generate-a-complete-fastapi-api-from-one-decorator-3e6d)
 - 2026-08-08T09:19:34+00:00 — [what are some other ways to bypass cgnat (no vpn and tunneling?)](https://www.reddit.com/r/selfhosted/comments/1virdlm/what_are_some_other_ways_to_bypass_cgnat_no_vpn/)
-- 2026-08-08T16:01:53+00:00 — [Setting Up an internal KB for our company, did anyone do something similar?](https://www.reddit.com/r/selfhosted/comments/1vizoi3/setting_up_an_internal_kb_for_our_company_did/)
-- 2026-08-08T15:10:20+00:00 — [Nextcloud with local access only](https://www.reddit.com/r/selfhosted/comments/1viyftq/nextcloud_with_local_access_only/)
-- 2026-08-08T13:33:31+00:00 — [Need some advice!!!](https://www.reddit.com/r/selfhosted/comments/1viw69h/need_some_advice/)
-- 2026-08-09T00:50:51+00:00 — [When using Radarr and Sonarr, what else do I need to use?](https://www.reddit.com/r/selfhosted/comments/1vjbzpz/when_using_radarr_and_sonarr_what_else_do_i_need/)
-- 2026-08-08T22:35:18+00:00 — [Schautrack - open source, self-hosted web app for calorie, macro and weight tracking](https://www.reddit.com/r/selfhosted/comments/1vj93mb/schautrack_open_source_selfhosted_web_app_for/)
-- Sat, 08 Aug 2026 08:00:28 +0000 — [Cutting Cloud Costs with a Few Habits](https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-4b3e)
-- 2026-08-07T21:12:09+00:00 — [Help with self-hosting an existing music collection - which software should own the pipeline?](https://www.reddit.com/r/selfhosted/comments/1vicy8c/help_with_selfhosting_an_existing_music/)
-- 2026-08-07T12:32:23+00:00 — [Supabase self hosting alternative](https://www.reddit.com/r/selfhosted/comments/1vhzd0o/supabase_self_hosting_alternative/)
-- 2026-08-06T18:54:19+00:00 — [How do you stop Sonarr from grabbing fake releases full of .exe/.scr files?](https://www.reddit.com/r/selfhosted/comments/1vhd7r7/how_do_you_stop_sonarr_from_grabbing_fake/)
-- 2026-08-07T05:40:23+00:00 — [Looking to Self Host an NVR. Suggestions?](https://www.reddit.com/r/selfhosted/comments/1vhrxyi/looking_to_self_host_an_nvr_suggestions/)
 <!-- NEWS END -->
