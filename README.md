@@ -2,16 +2,27 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-21 08:22 UTC
+Last update: 2026-08-22 08:14 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Fri, 21 Aug 2026 08:01:14 +0000 — [Don't Let Codex Roam Free: 6 Guardrails I Use for AI-Assisted Coding](https://dev.to/tosane932/dont-let-codex-roam-free-6-guardrails-i-use-for-ai-assisted-coding-4bj4)
-- Fri, 21 Aug 2026 07:29:39 +0000 — [Your Laravel queue worker count is a guess. Here is the math that replaces it.](https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba)
+- Mon, 17 Aug 2026 12:02:18 +0000 — [ESP32 Firmware Development with Docker Sandboxes](https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/)
+- Sat, 22 Aug 2026 07:20:40 +0000 — [I Turned the GetBirthChart Astrology Engine Into a Python Package](https://dev.to/getbirthchart/i-turned-the-getbirthchart-astrology-engine-into-a-python-package-1mng)
 - 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
+- 2026-08-21T21:16:07+00:00 — [If you self-host something you actually rely on, is it a Docker container on a NAS or a service on a plain Linux box?](https://www.reddit.com/r/selfhosted/comments/1vusx56/if_you_selfhost_something_you_actually_rely_on_is/)
+- 2026-08-21T08:49:43+00:00 — [Put Self Hosting on Your CV](https://www.reddit.com/r/selfhosted/comments/1vuaqh5/put_self_hosting_on_your_cv/)
+- 2026-08-21T12:45:03+00:00 — [Get myself a new toy, can I turn this thing into an all in one server?](https://www.reddit.com/r/selfhosted/comments/1vufcur/get_myself_a_new_toy_can_i_turn_this_thing_into/)
+- 2026-08-21T15:46:27+00:00 — [GitHub - eseifert/altero: Self-hosted sync server for Zotero — keep libraries, groups, notes and attachments on your own infrastructure using the unmodified desktop client](https://www.reddit.com/r/selfhosted/comments/1vuk0zg/github_eseifertaltero_selfhosted_sync_server_for/)
 - 2026-08-20T18:14:41+00:00 — [Aurral is about to pass 1 million downloads, and 2.5.0 is a big step toward a real self-hosted music library](https://www.reddit.com/r/selfhosted/comments/1vtr9tr/aurral_is_about_to_pass_1_million_downloads_and/)
 - 2026-08-20T18:32:48+00:00 — [What embarrassingly simple, but genuinely helpful things have you learned about self-hosting that others should know for their own peace of mind or at least to have a chuckle?](https://www.reddit.com/r/selfhosted/comments/1vtrs3t/what_embarrassingly_simple_but_genuinely_helpful/)
+- 2026-08-22T06:36:34+00:00 — [Stop exposing your Docker ports! 🛑 How to properly deploy React & Node.js to Production HTTPS.](https://www.reddit.com/r/selfhosted/comments/1vv4ugu/stop_exposing_your_docker_ports_how_to_properly/)
+- 2026-08-21T14:42:25+00:00 — [Not sure if I should consider going to reverse proxy, or stick with my Cloudflare tunnel](https://www.reddit.com/r/selfhosted/comments/1vuiadt/not_sure_if_i_should_consider_going_to_reverse/)
+- 2026-08-22T01:38:44+00:00 — [Proxmox alternative?](https://www.reddit.com/r/selfhosted/comments/1vuz0ll/proxmox_alternative/)
+- 2026-08-21T11:49:22+00:00 — [Issue on OMV workbench on PI](https://www.reddit.com/r/selfhosted/comments/1vue51j/issue_on_omv_workbench_on_pi/)
+- 2026-08-21T22:58:19+00:00 — [got 2 apps running on my T470 with Docker](https://www.reddit.com/r/selfhosted/comments/1vuvffn/got_2_apps_running_on_my_t470_with_docker/)
+- Fri, 21 Aug 2026 08:01:14 +0000 — [Don't Let Codex Roam Free: 6 Guardrails I Use for AI-Assisted Coding](https://dev.to/tosane932/dont-let-codex-roam-free-6-guardrails-i-use-for-ai-assisted-coding-4bj4)
+- Fri, 21 Aug 2026 07:29:39 +0000 — [Your Laravel queue worker count is a guess. Here is the math that replaces it.](https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba)
 - 2026-08-21T07:06:32+00:00 — [Self hosting gets you an API of your own. Mine draws a live cluster card onto my repo's README every 15 minutes](https://www.reddit.com/r/selfhosted/comments/1vu90ef/self_hosting_gets_you_an_api_of_your_own_mine/)
 - 2026-08-20T11:41:19+00:00 — [1 Year into Self-Hosting: Proxmox Setup, LXC vs. Docker Dilemma, and Seeking Advice!](https://www.reddit.com/r/selfhosted/comments/1vth3j1/1_year_into_selfhosting_proxmox_setup_lxc_vs/)
 - 2026-08-21T02:03:20+00:00 — [Setting up custom local URLs for arr-stack with NPM?](https://www.reddit.com/r/selfhosted/comments/1vu346q/setting_up_custom_local_urls_for_arrstack_with_npm/)
@@ -96,15 +107,4 @@ Last update: 2026-08-21 08:22 UTC
 - 2026-08-12T00:03:47+00:00 — [My first selfhosted Server](https://www.reddit.com/r/selfhosted/comments/1vlyeya/my_first_selfhosted_server/)
 - 2026-08-11T00:43:17+00:00 — [Selfhosting noob, feeling defeated. Proxmox CTs & Jellyfin. Plea for Mercy.](https://www.reddit.com/r/selfhosted/comments/1vl2mb9/selfhosting_noob_feeling_defeated_proxmox_cts/)
 - 2026-08-10T13:52:53+00:00 — [Scored the homelab lottery](https://www.reddit.com/r/selfhosted/comments/1vklhqx/scored_the_homelab_lottery/)
-- 2026-08-11T01:01:52+00:00 — [Need help with remote access for Jellyfin and Navidrome through WireGuard](https://www.reddit.com/r/selfhosted/comments/1vl31gt/need_help_with_remote_access_for_jellyfin_and/)
-- 2026-08-11T06:34:29+00:00 — [Private big cloud with rclone and alist](https://www.reddit.com/r/selfhosted/comments/1vl9nt1/private_big_cloud_with_rclone_and_alist/)
-- 2026-08-09T22:57:05+00:00 — [What VPN do you use?](https://www.reddit.com/r/selfhosted/comments/1vk3xiv/what_vpn_do_you_use/)
-- 2026-08-10T12:45:45+00:00 — [Chobble Tickets: Low cost, self-hosted alternative to Eventbrite, Bookitbee, etc](https://www.reddit.com/r/selfhosted/comments/1vkjuem/chobble_tickets_low_cost_selfhosted_alternative/)
-- Mon, 10 Aug 2026 06:02:38 +0000 — [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
-- 2026-08-10T06:55:33+00:00 — [Best practices for securing VPS](https://www.reddit.com/r/selfhosted/comments/1vkdhfr/best_practices_for_securing_vps/)
-- 2026-08-10T05:12:30+00:00 — [Tailscale exit node as VPN while in Russia](https://www.reddit.com/r/selfhosted/comments/1vkbp2c/tailscale_exit_node_as_vpn_while_in_russia/)
-- Sun, 09 Aug 2026 08:00:20 +0000 — [Build, Buy, or Call an API: How We Actually Decide](https://dev.to/sagar_jain4010/build-buy-or-call-an-api-how-we-actually-decide-4hdi)
-- Sun, 09 Aug 2026 07:54:31 +0000 — [fastapi-crudrouter is Dead. Here's How to Migrate to BetterCRUD](https://dev.to/_340a11d0e3d75cd9d691d/fastapi-crudrouter-is-dead-heres-how-to-migrate-to-bettercrud-3gn9)
-- Sun, 09 Aug 2026 07:50:07 +0000 — [Stop Writing CRUD Boilerplate: Generate a Complete FastAPI API From One Decorator](https://dev.to/_340a11d0e3d75cd9d691d/stop-writing-crud-boilerplate-generate-a-complete-fastapi-api-from-one-decorator-3e6d)
-- 2026-08-08T09:19:34+00:00 — [what are some other ways to bypass cgnat (no vpn and tunneling?)](https://www.reddit.com/r/selfhosted/comments/1virdlm/what_are_some_other_ways_to_bypass_cgnat_no_vpn/)
 <!-- NEWS END -->
