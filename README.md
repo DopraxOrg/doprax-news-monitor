@@ -2,14 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-22 08:14 UTC
+Last update: 2026-08-23 08:14 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
+- 2026-08-23T05:05:50+00:00 — [self hosting in an android phone](https://www.reddit.com/r/selfhosted/comments/1vvy16y/self_hosting_in_an_android_phone/)
+- 2026-08-22T18:20:28+00:00 — [Do i ACTUALLY need a VPN for torrenting Linux isos?](https://www.reddit.com/r/selfhosted/comments/1vvjr6d/do_i_actually_need_a_vpn_for_torrenting_linux_isos/)
+- 2026-08-22T11:31:24+00:00 — [Bookorbit is incredible](https://www.reddit.com/r/selfhosted/comments/1vva03f/bookorbit_is_incredible/)
+- 2026-08-22T12:38:07+00:00 — [It started with a single question...](https://www.reddit.com/r/selfhosted/comments/1vvbcul/it_started_with_a_single_question/)
+- 2026-08-22T14:00:44+00:00 — [assemblrr - Automated media stack setup so you can spend time watching, not configuring](https://www.reddit.com/r/selfhosted/comments/1vvd863/assemblrr_automated_media_stack_setup_so_you_can/)
+- 2026-08-23T03:39:36+00:00 — [Looking for feedback: privacy web analytics you co-host on a small VPS (Docker Compose)](https://www.reddit.com/r/selfhosted/comments/1vvwepz/looking_for_feedback_privacy_web_analytics_you/)
+- 2026-08-23T05:35:32+00:00 — [Running servers on the Steam Machine](https://www.reddit.com/r/selfhosted/comments/1vvyk9q/running_servers_on_the_steam_machine/)
+- 2026-08-23T03:26:15+00:00 — [Looking for some help on setting up Tailscale HTTPS](https://www.reddit.com/r/selfhosted/comments/1vvw5fi/looking_for_some_help_on_setting_up_tailscale/)
 - Mon, 17 Aug 2026 12:02:18 +0000 — [ESP32 Firmware Development with Docker Sandboxes](https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/)
 - Sat, 22 Aug 2026 07:20:40 +0000 — [I Turned the GetBirthChart Astrology Engine Into a Python Package](https://dev.to/getbirthchart/i-turned-the-getbirthchart-astrology-engine-into-a-python-package-1mng)
-- 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
 - 2026-08-21T21:16:07+00:00 — [If you self-host something you actually rely on, is it a Docker container on a NAS or a service on a plain Linux box?](https://www.reddit.com/r/selfhosted/comments/1vusx56/if_you_selfhost_something_you_actually_rely_on_is/)
 - 2026-08-21T08:49:43+00:00 — [Put Self Hosting on Your CV](https://www.reddit.com/r/selfhosted/comments/1vuaqh5/put_self_hosting_on_your_cv/)
 - 2026-08-21T12:45:03+00:00 — [Get myself a new toy, can I turn this thing into an all in one server?](https://www.reddit.com/r/selfhosted/comments/1vufcur/get_myself_a_new_toy_can_i_turn_this_thing_into/)
@@ -99,12 +107,4 @@ Last update: 2026-08-22 08:14 UTC
 - 2026-08-12T18:54:10+00:00 — [Help finding good data compression and storage methods that can work on an old laptop as a server](https://www.reddit.com/r/selfhosted/comments/1vmn4c3/help_finding_good_data_compression_and_storage/)
 - 2026-08-11T17:13:34+00:00 — [Best OS for a server?](https://www.reddit.com/r/selfhosted/comments/1vlnljm/best_os_for_a_server/)
 - 2026-08-13T02:57:42+00:00 — [I built MCP Nexus to manage and test self-hosted MCP servers](https://www.reddit.com/r/selfhosted/comments/1vmyt0n/i_built_mcp_nexus_to_manage_and_test_selfhosted/)
-- Wed, 12 Aug 2026 08:25:54 +0000 — [Vector Databases: Types, Architecture, and Why They Power Modern Apps](https://dev.to/sameer_saleem/vector-databases-types-architecture-and-why-they-power-modern-apps-35m7)
-- Wed, 12 Aug 2026 08:07:22 +0000 — [Triton Inference Server](https://dev.to/godofgeeks/triton-inference-server-1eal)
-- Wed, 12 Aug 2026 08:06:31 +0000 — [Exploring Backend Development with Java!](https://dev.to/kumarabhinav-codes/exploring-backend-development-with-java-44bc)
-- 2026-08-11T11:56:09+00:00 — [I rebuilt my live 3D print failure detector. Self-hosted, one container, and no frame ever leaves your network](https://www.reddit.com/r/selfhosted/comments/1vlfcr3/i_rebuilt_my_live_3d_print_failure_detector/)
-- 2026-08-11T16:27:41+00:00 — [Self hosted music library best practices for iPod music sync](https://www.reddit.com/r/selfhosted/comments/1vlmb9m/self_hosted_music_library_best_practices_for_ipod/)
-- 2026-08-12T00:03:47+00:00 — [My first selfhosted Server](https://www.reddit.com/r/selfhosted/comments/1vlyeya/my_first_selfhosted_server/)
-- 2026-08-11T00:43:17+00:00 — [Selfhosting noob, feeling defeated. Proxmox CTs & Jellyfin. Plea for Mercy.](https://www.reddit.com/r/selfhosted/comments/1vl2mb9/selfhosting_noob_feeling_defeated_proxmox_cts/)
-- 2026-08-10T13:52:53+00:00 — [Scored the homelab lottery](https://www.reddit.com/r/selfhosted/comments/1vklhqx/scored_the_homelab_lottery/)
 <!-- NEWS END -->
