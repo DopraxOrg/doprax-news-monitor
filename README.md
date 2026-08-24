@@ -2,13 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-23 08:14 UTC
+Last update: 2026-08-24 08:32 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 24 Aug 2026 08:29:52 +0000 — [I Built a Real-World Customer Payment Analysis Tool in Python](https://dev.to/bekbrace/i-built-a-real-world-customer-payment-analysis-tool-in-python-2p46)
 - 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
+- 2026-08-23T18:24:40+00:00 — [Why Proxmox?](https://www.reddit.com/r/selfhosted/comments/1vwet2e/why_proxmox/)
+- 2026-08-23T08:34:51+00:00 — [Does anyone still run their homelab on plain Linux + Docker Compose ?](https://www.reddit.com/r/selfhosted/comments/1vw1oqz/does_anyone_still_run_their_homelab_on_plain/)
+- 2026-08-24T04:29:01+00:00 — [I am starting to like the idea of gitops and storing my master compose files in git.](https://www.reddit.com/r/selfhosted/comments/1vwspeh/i_am_starting_to_like_the_idea_of_gitops_and/)
+- 2026-08-23T18:24:14+00:00 — [Tinyauth + PocketID Automatic App Login](https://www.reddit.com/r/selfhosted/comments/1vwesn4/tinyauth_pocketid_automatic_app_login/)
 - 2026-08-23T05:05:50+00:00 — [self hosting in an android phone](https://www.reddit.com/r/selfhosted/comments/1vvy16y/self_hosting_in_an_android_phone/)
+- 2026-08-23T15:54:49+00:00 — [Trying to decide what to use for GUI for docker](https://www.reddit.com/r/selfhosted/comments/1vwau48/trying_to_decide_what_to_use_for_gui_for_docker/)
+- 2026-08-24T01:00:54+00:00 — [Need some help setting up ROMM (or suggestions for alternative services)](https://www.reddit.com/r/selfhosted/comments/1vwofxs/need_some_help_setting_up_romm_or_suggestions_for/)
+- 2026-08-23T17:44:22+00:00 — [gh-stats: self-hosted GitHub profile stats cards for your README (MIT, docker compose)](https://www.reddit.com/r/selfhosted/comments/1vwdpke/ghstats_selfhosted_github_profile_stats_cards_for/)
 - 2026-08-22T18:20:28+00:00 — [Do i ACTUALLY need a VPN for torrenting Linux isos?](https://www.reddit.com/r/selfhosted/comments/1vvjr6d/do_i_actually_need_a_vpn_for_torrenting_linux_isos/)
 - 2026-08-22T11:31:24+00:00 — [Bookorbit is incredible](https://www.reddit.com/r/selfhosted/comments/1vva03f/bookorbit_is_incredible/)
 - 2026-08-22T12:38:07+00:00 — [It started with a single question...](https://www.reddit.com/r/selfhosted/comments/1vvbcul/it_started_with_a_single_question/)
@@ -99,12 +107,4 @@ Last update: 2026-08-23 08:14 UTC
 - Thu, 13 Aug 2026 08:47:24 +0000 — [Как устроена информационная система: проектируем простую систему учета заявок](https://dev.to/dmitrii_2223/kak-ustroiena-informatsionnaia-sistiema-proiektiruiem-prostuiu-sistiemu-uchieta-zaiavok-5hhf)
 - Thu, 13 Aug 2026 08:09:52 +0000 — [Automatically scale LXC containers resources on Proxmox hosts](https://dev.to/fabriziosalmi/automatically-scale-lxc-containers-resources-on-proxmox-hosts-3p1n)
 - Thu, 13 Aug 2026 08:01:51 +0000 — [I built an Open Source Linux cleaner because I couldn't find one I wanted to use](https://dev.to/debba/i-built-an-open-source-linux-cleaner-because-i-couldnt-find-one-i-wanted-to-use-1041)
-- Thu, 13 Aug 2026 08:00:17 +0000 — [Terminal Productivity Tips That Actually Save Time](https://dev.to/binaryjournal/terminal-productivity-tips-that-actually-save-time-2jfa)
-- 2026-08-06T22:01:13+00:00 — [New Project Megathread - Week of 06 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vhi4mk/new_project_megathread_week_of_06_aug_2026/)
-- 2026-08-12T22:32:54+00:00 — [Put my server behind a VPN for the *arr stack?](https://www.reddit.com/r/selfhosted/comments/1vmsuph/put_my_server_behind_a_vpn_for_the_arr_stack/)
-- 2026-08-13T08:30:39+00:00 — [Raspberry Pi 4 NAS: SATA SSD starts throwing I/O errors and disconnecting](https://www.reddit.com/r/selfhosted/comments/1vn4wyf/raspberry_pi_4_nas_sata_ssd_starts_throwing_io/)
-- 2026-08-12T10:46:20+00:00 — [AdventureLog 2 Year Anniversary + v0.13.0 Release](https://www.reddit.com/r/selfhosted/comments/1vmanhm/adventurelog_2_year_anniversary_v0130_release/)
-- 2026-08-12T18:54:10+00:00 — [Help finding good data compression and storage methods that can work on an old laptop as a server](https://www.reddit.com/r/selfhosted/comments/1vmn4c3/help_finding_good_data_compression_and_storage/)
-- 2026-08-11T17:13:34+00:00 — [Best OS for a server?](https://www.reddit.com/r/selfhosted/comments/1vlnljm/best_os_for_a_server/)
-- 2026-08-13T02:57:42+00:00 — [I built MCP Nexus to manage and test self-hosted MCP servers](https://www.reddit.com/r/selfhosted/comments/1vmyt0n/i_built_mcp_nexus_to_manage_and_test_selfhosted/)
 <!-- NEWS END -->
