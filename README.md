@@ -2,14 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-24 08:32 UTC
+Last update: 2026-08-25 08:26 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 24 Aug 2026 08:29:52 +0000 — [I Built a Real-World Customer Payment Analysis Tool in Python](https://dev.to/bekbrace/i-built-a-real-world-customer-payment-analysis-tool-in-python-2p46)
+- Tue, 25 Aug 2026 08:12:48 +0000 — [The Model Is a Dependency. The Contract Is the Product.](https://dev.to/kongkong1/the-model-is-a-dependency-the-contract-is-the-product-alb)
+- Tue, 25 Aug 2026 08:03:20 +0000 — [What a 12-Year AWS Engineer Expects to Get Wrong About Google Cloud](https://dev.to/achutharaman/what-a-12-year-aws-engineer-expects-to-get-wrong-about-google-cloud-53gi)
+- Tue, 25 Aug 2026 08:00:00 +0000 — [I built a simplified microservice reference project with guide on how to run locally, using docker-compose or Kubernetes + deployment to AKS](https://dev.to/amrali21/i-built-a-simplified-microservice-reference-project-with-guide-on-how-to-run-locally-using-13f6)
 - 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
+- 2026-08-24T20:42:04+00:00 — [How do you guys know if anyone’s breaking into your self hosted apps?](https://www.reddit.com/r/selfhosted/comments/1vxeuug/how_do_you_guys_know_if_anyones_breaking_into/)
+- 2026-08-24T22:32:58+00:00 — [ARR stack hardware](https://www.reddit.com/r/selfhosted/comments/1vxhrkf/arr_stack_hardware/)
+- 2026-08-25T08:07:29+00:00 — [hmelj - self-hosted email client, why and how](https://www.reddit.com/r/selfhosted/comments/1vxtjue/hmelj_selfhosted_email_client_why_and_how/)
+- 2026-08-25T07:18:32+00:00 — [I open-sourced my cold-email infrastructure: SMTP verification gate + pattern-based email discovery. Next.js + FastAPI, no third-party contact database.](https://www.reddit.com/r/selfhosted/comments/1vxsqha/i_opensourced_my_coldemail_infrastructure_smtp/)
 - 2026-08-23T18:24:40+00:00 — [Why Proxmox?](https://www.reddit.com/r/selfhosted/comments/1vwet2e/why_proxmox/)
+- 2026-08-24T15:01:23+00:00 — [I've made a "dummy" image](https://www.reddit.com/r/selfhosted/comments/1vx5a5s/ive_made_a_dummy_image/)
+- Mon, 24 Aug 2026 08:29:52 +0000 — [I Built a Real-World Customer Payment Analysis Tool in Python](https://dev.to/bekbrace/i-built-a-real-world-customer-payment-analysis-tool-in-python-2p46)
 - 2026-08-23T08:34:51+00:00 — [Does anyone still run their homelab on plain Linux + Docker Compose ?](https://www.reddit.com/r/selfhosted/comments/1vw1oqz/does_anyone_still_run_their_homelab_on_plain/)
 - 2026-08-24T04:29:01+00:00 — [I am starting to like the idea of gitops and storing my master compose files in git.](https://www.reddit.com/r/selfhosted/comments/1vwspeh/i_am_starting_to_like_the_idea_of_gitops_and/)
 - 2026-08-23T18:24:14+00:00 — [Tinyauth + PocketID Automatic App Login](https://www.reddit.com/r/selfhosted/comments/1vwesn4/tinyauth_pocketid_automatic_app_login/)
@@ -99,12 +107,4 @@ Last update: 2026-08-24 08:32 UTC
 - 2026-08-14T04:13:32+00:00 — [Best way to make self-hosted OpenVPN survive DPI while sharing TCP/443 with HAProxy?](https://www.reddit.com/r/selfhosted/comments/1vnwy6y/best_way_to_make_selfhosted_openvpn_survive_dpi/)
 - 2026-08-13T20:16:09+00:00 — [Self hosted e-commerce website suggestions](https://www.reddit.com/r/selfhosted/comments/1vnm0un/self_hosted_ecommerce_website_suggestions/)
 - 2026-08-14T01:43:05+00:00 — [Automatically download new songs from a Spotify playlist?](https://www.reddit.com/r/selfhosted/comments/1vntu7z/automatically_download_new_songs_from_a_spotify/)
-- 2026-08-13T22:33:42+00:00 — [Getting started with self hosting](https://www.reddit.com/r/selfhosted/comments/1vnpk4b/getting_started_with_self_hosting/)
-- 2026-08-14T07:09:36+00:00 — [Built a self-hosted tool that shows all your VMs, Docker containers, and Kubernetes stuff on one live map, looking for people to break it](https://www.reddit.com/r/selfhosted/comments/1vo05uh/built_a_selfhosted_tool_that_shows_all_your_vms/)
-- 2026-08-12T11:12:29+00:00 — [What I wish someone told me when I started](https://www.reddit.com/r/selfhosted/comments/1vmb5og/what_i_wish_someone_told_me_when_i_started/)
-- 2026-08-12T21:08:13+00:00 — [I organized my wedding with my homelab (and it worked better than expected)](https://www.reddit.com/r/selfhosted/comments/1vmqozp/i_organized_my_wedding_with_my_homelab_and_it/)
-- 2026-08-13T10:54:09+00:00 — [Which minimal Docker images work best for Go applications?](https://www.reddit.com/r/selfhosted/comments/1vn7e79/which_minimal_docker_images_work_best_for_go/)
-- Thu, 13 Aug 2026 08:47:24 +0000 — [Как устроена информационная система: проектируем простую систему учета заявок](https://dev.to/dmitrii_2223/kak-ustroiena-informatsionnaia-sistiema-proiektiruiem-prostuiu-sistiemu-uchieta-zaiavok-5hhf)
-- Thu, 13 Aug 2026 08:09:52 +0000 — [Automatically scale LXC containers resources on Proxmox hosts](https://dev.to/fabriziosalmi/automatically-scale-lxc-containers-resources-on-proxmox-hosts-3p1n)
-- Thu, 13 Aug 2026 08:01:51 +0000 — [I built an Open Source Linux cleaner because I couldn't find one I wanted to use](https://dev.to/debba/i-built-an-open-source-linux-cleaner-because-i-couldnt-find-one-i-wanted-to-use-1041)
 <!-- NEWS END -->
