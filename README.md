@@ -2,16 +2,28 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-25 08:26 UTC
+Last update: 2026-08-26 08:26 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 26 Aug 2026 08:05:27 +0000 — [LangChain vs Bedrock: Which AI Framework to Choose?](https://dev.to/devtoaaron/langchain-vs-bedrock-which-ai-framework-to-choose-1l4a)
+- 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
+- 2026-08-26T02:28:18+00:00 — [PSA: Avoid self hosting AppFlowy, they patched a vulnerability in their SaaS but didn't patch the self hosted version.](https://www.reddit.com/r/selfhosted/comments/1vyk94h/psa_avoid_self_hosting_appflowy_they_patched_a/)
+- 2026-08-26T05:09:37+00:00 — [How do I secure a website / web apps?](https://www.reddit.com/r/selfhosted/comments/1vynlp4/how_do_i_secure_a_website_web_apps/)
+- 2026-08-25T17:38:52+00:00 — [Updating self hosted apps](https://www.reddit.com/r/selfhosted/comments/1vy6ol8/updating_self_hosted_apps/)
+- 2026-08-25T17:54:15+00:00 — [I was looking to maybe try and find 32gb of ram, and wondering lower speed is worth it or not](https://www.reddit.com/r/selfhosted/comments/1vy740g/i_was_looking_to_maybe_try_and_find_32gb_of_ram/)
+- 2026-08-25T20:42:39+00:00 — [Just wanted to share my app Kept, an open source self-hosted Google Keep-style app I've built for people who love how simple Keep is.](https://www.reddit.com/r/selfhosted/comments/1vybxbq/just_wanted_to_share_my_app_kept_an_open_source/)
+- 2026-08-26T07:27:11+00:00 — [Centralized secret management (API, user vault, etc.) options](https://www.reddit.com/r/selfhosted/comments/1vyq33h/centralized_secret_management_api_user_vault_etc/)
+- 2026-08-26T06:40:34+00:00 — [Mobile Android App for Apache Guacamole](https://www.reddit.com/r/selfhosted/comments/1vyp9jv/mobile_android_app_for_apache_guacamole/)
+- 2026-08-24T20:42:04+00:00 — [How do you guys know if anyone’s breaking into your self hosted apps?](https://www.reddit.com/r/selfhosted/comments/1vxeuug/how_do_you_guys_know_if_anyones_breaking_into/)
+- 2026-08-26T03:08:44+00:00 — [Bookmark manager with offline first mobile](https://www.reddit.com/r/selfhosted/comments/1vyl5br/bookmark_manager_with_offline_first_mobile/)
+- 2026-08-25T13:32:09+00:00 — [NoteDiscovery 0.31.4 now tih custom share links and vault zip export](https://www.reddit.com/r/selfhosted/comments/1vxzyyn/notediscovery_0314_now_tih_custom_share_links_and/)
+- 2026-08-25T19:05:19+00:00 — [Issues with qBitTorrent downloads very slow with Gluetun and Tailscale.](https://www.reddit.com/r/selfhosted/comments/1vy95qz/issues_with_qbittorrent_downloads_very_slow_with/)
+- 2026-08-25T11:32:30+00:00 — [WebSSH - a self-hosted SSH and SFTP workspace for homelabs and teams](https://www.reddit.com/r/selfhosted/comments/1vxx7vd/webssh_a_selfhosted_ssh_and_sftp_workspace_for/)
 - Tue, 25 Aug 2026 08:12:48 +0000 — [The Model Is a Dependency. The Contract Is the Product.](https://dev.to/kongkong1/the-model-is-a-dependency-the-contract-is-the-product-alb)
 - Tue, 25 Aug 2026 08:03:20 +0000 — [What a 12-Year AWS Engineer Expects to Get Wrong About Google Cloud](https://dev.to/achutharaman/what-a-12-year-aws-engineer-expects-to-get-wrong-about-google-cloud-53gi)
 - Tue, 25 Aug 2026 08:00:00 +0000 — [I built a simplified microservice reference project with guide on how to run locally, using docker-compose or Kubernetes + deployment to AKS](https://dev.to/amrali21/i-built-a-simplified-microservice-reference-project-with-guide-on-how-to-run-locally-using-13f6)
-- 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
-- 2026-08-24T20:42:04+00:00 — [How do you guys know if anyone’s breaking into your self hosted apps?](https://www.reddit.com/r/selfhosted/comments/1vxeuug/how_do_you_guys_know_if_anyones_breaking_into/)
 - 2026-08-24T22:32:58+00:00 — [ARR stack hardware](https://www.reddit.com/r/selfhosted/comments/1vxhrkf/arr_stack_hardware/)
 - 2026-08-25T08:07:29+00:00 — [hmelj - self-hosted email client, why and how](https://www.reddit.com/r/selfhosted/comments/1vxtjue/hmelj_selfhosted_email_client_why_and_how/)
 - 2026-08-25T07:18:32+00:00 — [I open-sourced my cold-email infrastructure: SMTP verification gate + pattern-based email discovery. Next.js + FastAPI, no third-party contact database.](https://www.reddit.com/r/selfhosted/comments/1vxsqha/i_opensourced_my_coldemail_infrastructure_smtp/)
@@ -95,16 +107,4 @@ Last update: 2026-08-25 08:26 UTC
 - 2026-08-15T18:31:50+00:00 — [Security to improve?](https://www.reddit.com/r/selfhosted/comments/1vpacg3/security_to_improve/)
 - 2026-08-14T13:31:38+00:00 — [My home setup, what next?](https://www.reddit.com/r/selfhosted/comments/1vo7e4u/my_home_setup_what_next/)
 - 2026-08-14T21:05:19+00:00 — [Nvidia Tesla P4 to self host Ollama on my homelab. Is it worth it?](https://www.reddit.com/r/selfhosted/comments/1vojiyv/nvidia_tesla_p4_to_self_host_ollama_on_my_homelab/)
-- 2026-08-15T06:13:11+00:00 — [Question for a complete self-hosting beginner to start.](https://www.reddit.com/r/selfhosted/comments/1vov2ad/question_for_a_complete_selfhosting_beginner_to/)
-- 2026-08-14T21:34:07+00:00 — [Orchestrator for geographically-distributed IoT devices](https://www.reddit.com/r/selfhosted/comments/1vok9a7/orchestrator_for_geographicallydistributed_iot/)
-- 2026-08-14T21:03:22+00:00 — [Looking for a PureRef self-hosted alternative](https://www.reddit.com/r/selfhosted/comments/1vojh4s/looking_for_a_pureref_selfhosted_alternative/)
-- 2026-08-15T00:40:48+00:00 — [Help with homelab creation](https://www.reddit.com/r/selfhosted/comments/1vooj9e/help_with_homelab_creation/)
-- 2026-08-14T09:39:28+00:00 — [NoteDiscovery 0.31.1, self-hosted notes app gets more community involvement](https://www.reddit.com/r/selfhosted/comments/1vo2o2j/notediscovery_0311_selfhosted_notes_app_gets_more/)
-- 2026-08-14T21:49:08+00:00 — [Best way to deploy approved Renovate updates from GitHub to multiple Proxmox LXCs?](https://www.reddit.com/r/selfhosted/comments/1vokmm1/best_way_to_deploy_approved_renovate_updates_from/)
-- 2026-08-13T19:18:55+00:00 — [Is Guacamole not popular anymore? What are the thin-client VNC & SSH alternatives?](https://www.reddit.com/r/selfhosted/comments/1vnkgmx/is_guacamole_not_popular_anymore_what_are_the/)
-- 2026-08-13T14:11:20+00:00 — [What guides and tips could you recommend for someone just starting with servers?](https://www.reddit.com/r/selfhosted/comments/1vnbuav/what_guides_and_tips_could_you_recommend_for/)
-- 2026-08-13T23:51:08+00:00 — [Am I sending internal network traffic to external VPN?](https://www.reddit.com/r/selfhosted/comments/1vnrcxy/am_i_sending_internal_network_traffic_to_external/)
-- 2026-08-14T04:13:32+00:00 — [Best way to make self-hosted OpenVPN survive DPI while sharing TCP/443 with HAProxy?](https://www.reddit.com/r/selfhosted/comments/1vnwy6y/best_way_to_make_selfhosted_openvpn_survive_dpi/)
-- 2026-08-13T20:16:09+00:00 — [Self hosted e-commerce website suggestions](https://www.reddit.com/r/selfhosted/comments/1vnm0un/self_hosted_ecommerce_website_suggestions/)
-- 2026-08-14T01:43:05+00:00 — [Automatically download new songs from a Spotify playlist?](https://www.reddit.com/r/selfhosted/comments/1vntu7z/automatically_download_new_songs_from_a_spotify/)
 <!-- NEWS END -->
