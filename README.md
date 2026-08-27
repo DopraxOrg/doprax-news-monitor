@@ -2,13 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-26 08:26 UTC
+Last update: 2026-08-27 18:26 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 26 Aug 2026 08:05:27 +0000 — [LangChain vs Bedrock: Which AI Framework to Choose?](https://dev.to/devtoaaron/langchain-vs-bedrock-which-ai-framework-to-choose-1l4a)
+- Thu, 27 Aug 2026 18:17:36 +0000 — [Serverless and Agentic Coding Are a Match Made in Heaven](https://dev.to/garethmcc/serverless-and-agentic-coding-are-a-match-made-in-heaven-2ah9)
+- Thu, 27 Aug 2026 18:00:46 +0000 — [Beyond the LLM: Why RAG Checklists, Agent Observability, and Lightweight Infrastructure Are the New Developer Stack](https://dev.to/tamizuddin/beyond-the-llm-why-rag-checklists-agent-observability-and-lightweight-infrastructure-are-the-new-3776)
 - 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
+- 2026-08-27T11:26:28+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen (v0.0.18)](https://www.reddit.com/r/selfhosted/comments/1vzr8y7/kitchen_board_a_selfhosted_wall_planner_for_the/)
+- 2026-08-27T14:51:36+00:00 — [Jellyfin but for game emulation](https://www.reddit.com/r/selfhosted/comments/1vzw5tq/jellyfin_but_for_game_emulation/)
+- 2026-08-27T17:29:10+00:00 — [IMAP to mirror/sync and become the ongoing access method for new messages.](https://www.reddit.com/r/selfhosted/comments/1w00hbm/imap_to_mirrorsync_and_become_the_ongoing_access/)
+- 2026-08-26T21:12:15+00:00 — [I am the guy who lost all the data the other week](https://www.reddit.com/r/selfhosted/comments/1vz9yup/i_am_the_guy_who_lost_all_the_data_the_other_week/)
+- 2026-08-27T01:39:09+00:00 — [Im running these. What am I missing?](https://www.reddit.com/r/selfhosted/comments/1vzgcdi/im_running_these_what_am_i_missing/)
+- 2026-08-27T18:22:42+00:00 — [Have you moved away from self-hosting towards commercial products or cloud services?](https://www.reddit.com/r/selfhosted/comments/1w01zv8/have_you_moved_away_from_selfhosting_towards/)
+- 2026-08-26T23:39:04+00:00 — [Any suggestions for self hosting games for small kids?](https://www.reddit.com/r/selfhosted/comments/1vzdm2u/any_suggestions_for_self_hosting_games_for_small/)
+- 2026-08-27T12:42:42+00:00 — [using *arr stack while jellyfin is offline?](https://www.reddit.com/r/selfhosted/comments/1vzswfw/using_arr_stack_while_jellyfin_is_offline/)
+- Wed, 26 Aug 2026 08:05:27 +0000 — [LangChain vs Bedrock: Which AI Framework to Choose?](https://dev.to/devtoaaron/langchain-vs-bedrock-which-ai-framework-to-choose-1l4a)
 - 2026-08-26T02:28:18+00:00 — [PSA: Avoid self hosting AppFlowy, they patched a vulnerability in their SaaS but didn't patch the self hosted version.](https://www.reddit.com/r/selfhosted/comments/1vyk94h/psa_avoid_self_hosting_appflowy_they_patched_a/)
 - 2026-08-26T05:09:37+00:00 — [How do I secure a website / web apps?](https://www.reddit.com/r/selfhosted/comments/1vynlp4/how_do_i_secure_a_website_web_apps/)
 - 2026-08-25T17:38:52+00:00 — [Updating self hosted apps](https://www.reddit.com/r/selfhosted/comments/1vy6ol8/updating_self_hosted_apps/)
@@ -97,14 +107,4 @@ Last update: 2026-08-26 08:26 UTC
 - 2026-08-16T04:39:42+00:00 — [How do you deal with CrowdSec self-bans when you're behind CGNAT?](https://www.reddit.com/r/selfhosted/comments/1vpnkav/how_do_you_deal_with_crowdsec_selfbans_when_youre/)
 - 2026-08-14T19:29:08+00:00 — [The Self-hosted tools and apps that I rely on](https://www.reddit.com/r/selfhosted/comments/1voh007/the_selfhosted_tools_and_apps_that_i_rely_on/)
 - 2026-08-15T07:35:19+00:00 — [My setup a few months in](https://www.reddit.com/r/selfhosted/comments/1vowhyg/my_setup_a_few_months_in/)
-- 2026-08-16T07:49:55+00:00 — [Verbatim v2 update. "self-hosted transcription that turns a whole channel into transcripts + AI analysis (Whisper/Gemini, Docker)"](https://www.reddit.com/r/selfhosted/comments/1vpqy0g/verbatim_v2_update_selfhosted_transcription_that/)
-- 2026-08-15T02:38:48+00:00 — [Glance live-updating dashboard with custom widgets](https://www.reddit.com/r/selfhosted/comments/1voqzrj/glance_liveupdating_dashboard_with_custom_widgets/)
-- 2026-08-15T11:26:21+00:00 — [Anybody used port knocking?](https://www.reddit.com/r/selfhosted/comments/1vp0dys/anybody_used_port_knocking/)
-- 2026-08-15T19:45:20+00:00 — [Wanted some input before I make final decisions to get started on my server pc and possibly change my mind after starting](https://www.reddit.com/r/selfhosted/comments/1vpc6cq/wanted_some_input_before_i_make_final_decisions/)
-- 2026-08-15T07:40:31+00:00 — [Self-hosted Docker app for Viofo dashcams with auto Wi-Fi backup, web UI, GPS trip mapping, and video editor (viofosync)](https://www.reddit.com/r/selfhosted/comments/1vowl11/selfhosted_docker_app_for_viofo_dashcams_with/)
-- 2026-08-15T21:51:19+00:00 — [What would be the best backup options for my needs?](https://www.reddit.com/r/selfhosted/comments/1vpf772/what_would_be_the_best_backup_options_for_my_needs/)
-- 2026-08-15T12:54:10+00:00 — [Does the CWA built in bookreader support KOSync?](https://www.reddit.com/r/selfhosted/comments/1vp25de/does_the_cwa_built_in_bookreader_support_kosync/)
-- 2026-08-15T18:31:50+00:00 — [Security to improve?](https://www.reddit.com/r/selfhosted/comments/1vpacg3/security_to_improve/)
-- 2026-08-14T13:31:38+00:00 — [My home setup, what next?](https://www.reddit.com/r/selfhosted/comments/1vo7e4u/my_home_setup_what_next/)
-- 2026-08-14T21:05:19+00:00 — [Nvidia Tesla P4 to self host Ollama on my homelab. Is it worth it?](https://www.reddit.com/r/selfhosted/comments/1vojiyv/nvidia_tesla_p4_to_self_host_ollama_on_my_homelab/)
 <!-- NEWS END -->
