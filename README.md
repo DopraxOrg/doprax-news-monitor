@@ -2,16 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-27 18:26 UTC
+Last update: 2026-08-28 19:40 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 28 Aug 2026 19:15:50 +0000 — [Understanding Kubernetes: A Beginner's Guide to Container Orchestration](https://dev.to/bibekkakati/understanding-kubernetes-a-beginners-guide-to-container-orchestration-2dgo)
+- Fri, 28 Aug 2026 19:15:44 +0000 — [CI/CD: From Green Checks to Real Confidence](https://dev.to/motarek08/cicd-from-green-checks-to-real-confidence-12bf)
+- 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
+- 2026-08-28T08:24:40+00:00 — [Anyone using NixOS to selfhost?](https://www.reddit.com/r/selfhosted/comments/1w0knhs/anyone_using_nixos_to_selfhost/)
+- 2026-08-28T06:18:48+00:00 — [Redlib is the GOAT for a debloated Reddit front end](https://www.reddit.com/r/selfhosted/comments/1w0ijy7/redlib_is_the_goat_for_a_debloated_reddit_front/)
+- 2026-08-28T10:21:15+00:00 — [What are you using to manage Docker ?](https://www.reddit.com/r/selfhosted/comments/1w0mnlz/what_are_you_using_to_manage_docker/)
+- 2026-08-27T14:51:36+00:00 — [Jellyfin but for game emulation](https://www.reddit.com/r/selfhosted/comments/1vzw5tq/jellyfin_but_for_game_emulation/)
+- 2026-08-27T11:26:28+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen (v0.0.18)](https://www.reddit.com/r/selfhosted/comments/1vzr8y7/kitchen_board_a_selfhosted_wall_planner_for_the/)
+- 2026-08-28T16:48:29+00:00 — [Easy docker projects for privacy and replacing subscriptions?](https://www.reddit.com/r/selfhosted/comments/1w0vw00/easy_docker_projects_for_privacy_and_replacing/)
+- 2026-08-28T04:31:47+00:00 — [Fighting Zscaler and access control at work with selfhosting. It's difficult.](https://www.reddit.com/r/selfhosted/comments/1w0glyt/fighting_zscaler_and_access_control_at_work_with/)
+- 2026-08-27T18:58:29+00:00 — [I built MTL Explorer to see all my GPS tracks on one map](https://www.reddit.com/r/selfhosted/comments/1w02zpy/i_built_mtl_explorer_to_see_all_my_gps_tracks_on/)
 - Thu, 27 Aug 2026 18:17:36 +0000 — [Serverless and Agentic Coding Are a Match Made in Heaven](https://dev.to/garethmcc/serverless-and-agentic-coding-are-a-match-made-in-heaven-2ah9)
 - Thu, 27 Aug 2026 18:00:46 +0000 — [Beyond the LLM: Why RAG Checklists, Agent Observability, and Lightweight Infrastructure Are the New Developer Stack](https://dev.to/tamizuddin/beyond-the-llm-why-rag-checklists-agent-observability-and-lightweight-infrastructure-are-the-new-3776)
 - 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
-- 2026-08-27T11:26:28+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen (v0.0.18)](https://www.reddit.com/r/selfhosted/comments/1vzr8y7/kitchen_board_a_selfhosted_wall_planner_for_the/)
-- 2026-08-27T14:51:36+00:00 — [Jellyfin but for game emulation](https://www.reddit.com/r/selfhosted/comments/1vzw5tq/jellyfin_but_for_game_emulation/)
 - 2026-08-27T17:29:10+00:00 — [IMAP to mirror/sync and become the ongoing access method for new messages.](https://www.reddit.com/r/selfhosted/comments/1w00hbm/imap_to_mirrorsync_and_become_the_ongoing_access/)
 - 2026-08-26T21:12:15+00:00 — [I am the guy who lost all the data the other week](https://www.reddit.com/r/selfhosted/comments/1vz9yup/i_am_the_guy_who_lost_all_the_data_the_other_week/)
 - 2026-08-27T01:39:09+00:00 — [Im running these. What am I missing?](https://www.reddit.com/r/selfhosted/comments/1vzgcdi/im_running_these_what_am_i_missing/)
@@ -98,13 +107,4 @@ Last update: 2026-08-27 18:26 UTC
 - 2026-08-17T21:07:34+00:00 — [Is paying for a static IP worth it for hosting?](https://www.reddit.com/r/selfhosted/comments/1vr4x5x/is_paying_for_a_static_ip_worth_it_for_hosting/)
 - 2026-08-17T18:49:34+00:00 — [Nix vs immutable Fedora for homelab?](https://www.reddit.com/r/selfhosted/comments/1vr146v/nix_vs_immutable_fedora_for_homelab/)
 - 2026-08-18T04:06:26+00:00 — [Looking to replace Apple Music’s horrible music discovery engine with my own…](https://www.reddit.com/r/selfhosted/comments/1vrejlk/looking_to_replace_apple_musics_horrible_music/)
-- 2026-08-17T16:13:12+00:00 — [Accessing my Apps and use a VPN](https://www.reddit.com/r/selfhosted/comments/1vqwjcj/accessing_my_apps_and_use_a_vpn/)
-- Mon, 17 Aug 2026 08:21:08 +0000 — [A Free 16-Week Cloud and DevOps Syllabus for Karachi (2026)](https://dev.to/usman_sherdil_582e626a7db/a-free-16-week-cloud-and-devops-syllabus-for-karachi-2026-342n)
-- 2026-08-16T12:14:07+00:00 — [ELI5 TinyAuth, PocketID and reverse proxy.](https://www.reddit.com/r/selfhosted/comments/1vpvhlv/eli5_tinyauth_pocketid_and_reverse_proxy/)
-- 2026-08-16T08:28:53+00:00 — [Destroying My Homelab With Kubernetes - Linux Society UNSW 2026](https://www.reddit.com/r/selfhosted/comments/1vprlxn/destroying_my_homelab_with_kubernetes_linux/)
-- 2026-08-16T16:49:09+00:00 — [Calibre docker going high cpu load XMRig](https://www.reddit.com/r/selfhosted/comments/1vq212c/calibre_docker_going_high_cpu_load_xmrig/)
-- Sun, 16 Aug 2026 07:41:27 +0000 — [ReClaim — Scalable, Campus-Centric Property Recovery via High-Dimensional Visual Search](https://dev.to/neeraj_ciju/reclaim-scalable-campus-centric-property-recovery-via-high-dimensional-visual-search-2106)
-- 2026-08-16T04:39:42+00:00 — [How do you deal with CrowdSec self-bans when you're behind CGNAT?](https://www.reddit.com/r/selfhosted/comments/1vpnkav/how_do_you_deal_with_crowdsec_selfbans_when_youre/)
-- 2026-08-14T19:29:08+00:00 — [The Self-hosted tools and apps that I rely on](https://www.reddit.com/r/selfhosted/comments/1voh007/the_selfhosted_tools_and_apps_that_i_rely_on/)
-- 2026-08-15T07:35:19+00:00 — [My setup a few months in](https://www.reddit.com/r/selfhosted/comments/1vowhyg/my_setup_a_few_months_in/)
 <!-- NEWS END -->
