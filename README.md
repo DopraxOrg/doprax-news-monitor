@@ -2,17 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-28 19:40 UTC
+Last update: 2026-08-29 13:25 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 29 Aug 2026 13:00:26 +0000 — [The Pipeline Worked. Then the Research Outgrew It.](https://dev.to/daemonic01/the-pipeline-worked-then-the-research-outgrew-it-pk4)
+- Sat, 29 Aug 2026 13:00:00 +0000 — [Debugging a Network Problem From Another Machine](https://dev.to/heymaikol/debugging-a-network-problem-from-another-machine-1fam)
+- 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
+- 2026-08-29T11:14:02+00:00 — [Moving from Tailscale to other VPN, worth it?](https://www.reddit.com/r/selfhosted/comments/1w1jt2k/moving_from_tailscale_to_other_vpn_worth_it/)
+- 2026-08-29T12:54:15+00:00 — [BentoPDF can edit existing PDF Text and two new engines](https://www.reddit.com/r/selfhosted/comments/1w1ltg9/bentopdf_can_edit_existing_pdf_text_and_two_new/)
+- 2026-08-28T08:24:40+00:00 — [Anyone using NixOS to selfhost?](https://www.reddit.com/r/selfhosted/comments/1w0knhs/anyone_using_nixos_to_selfhost/)
+- 2026-08-28T10:21:15+00:00 — [What are you using to manage Docker ?](https://www.reddit.com/r/selfhosted/comments/1w0mnlz/what_are_you_using_to_manage_docker/)
+- 2026-08-28T06:18:48+00:00 — [Redlib is the GOAT for a debloated Reddit front end](https://www.reddit.com/r/selfhosted/comments/1w0ijy7/redlib_is_the_goat_for_a_debloated_reddit_front/)
+- 2026-08-28T22:25:22+00:00 — [Best lightway usage? Rebuilding the last time my Server](https://www.reddit.com/r/selfhosted/comments/1w14usc/best_lightway_usage_rebuilding_the_last_time_my/)
+- 2026-08-28T23:00:15+00:00 — [Ntfy setup](https://www.reddit.com/r/selfhosted/comments/1w15p2l/ntfy_setup/)
 - Fri, 28 Aug 2026 19:15:50 +0000 — [Understanding Kubernetes: A Beginner's Guide to Container Orchestration](https://dev.to/bibekkakati/understanding-kubernetes-a-beginners-guide-to-container-orchestration-2dgo)
 - Fri, 28 Aug 2026 19:15:44 +0000 — [CI/CD: From Green Checks to Real Confidence](https://dev.to/motarek08/cicd-from-green-checks-to-real-confidence-12bf)
-- 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
-- 2026-08-28T08:24:40+00:00 — [Anyone using NixOS to selfhost?](https://www.reddit.com/r/selfhosted/comments/1w0knhs/anyone_using_nixos_to_selfhost/)
-- 2026-08-28T06:18:48+00:00 — [Redlib is the GOAT for a debloated Reddit front end](https://www.reddit.com/r/selfhosted/comments/1w0ijy7/redlib_is_the_goat_for_a_debloated_reddit_front/)
-- 2026-08-28T10:21:15+00:00 — [What are you using to manage Docker ?](https://www.reddit.com/r/selfhosted/comments/1w0mnlz/what_are_you_using_to_manage_docker/)
 - 2026-08-27T14:51:36+00:00 — [Jellyfin but for game emulation](https://www.reddit.com/r/selfhosted/comments/1vzw5tq/jellyfin_but_for_game_emulation/)
 - 2026-08-27T11:26:28+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen (v0.0.18)](https://www.reddit.com/r/selfhosted/comments/1vzr8y7/kitchen_board_a_selfhosted_wall_planner_for_the/)
 - 2026-08-28T16:48:29+00:00 — [Easy docker projects for privacy and replacing subscriptions?](https://www.reddit.com/r/selfhosted/comments/1w0vw00/easy_docker_projects_for_privacy_and_replacing/)
@@ -101,10 +107,4 @@ Last update: 2026-08-28 19:40 UTC
 - 2026-08-18T19:39:03+00:00 — [SearXNG queries via WireGuard interface](https://www.reddit.com/r/selfhosted/comments/1vrzn36/searxng_queries_via_wireguard_interface/)
 - 2026-08-18T22:29:44+00:00 — [Homepage (gethomepage) set port in source install](https://www.reddit.com/r/selfhosted/comments/1vs45sx/homepage_gethomepage_set_port_in_source_install/)
 - 2026-08-18T06:58:15+00:00 — [One year later: An update on Poznote](https://www.reddit.com/r/selfhosted/comments/1vrhpta/one_year_later_an_update_on_poznote/)
-- 2026-08-18T14:44:56+00:00 — [hosting online? what's the golden standard?](https://www.reddit.com/r/selfhosted/comments/1vrr80i/hosting_online_whats_the_golden_standard/)
-- 2026-08-17T18:41:13+00:00 — [I know people say use old Hardware.. but how old is TOO old?](https://www.reddit.com/r/selfhosted/comments/1vr0vks/i_know_people_say_use_old_hardware_but_how_old_is/)
-- Tue, 18 Aug 2026 08:07:12 +0000 — [Synced, Healthy, Running, Wrong](https://dev.to/jeromefromhk/synced-healthy-running-wrong-2ak2)
-- 2026-08-17T21:07:34+00:00 — [Is paying for a static IP worth it for hosting?](https://www.reddit.com/r/selfhosted/comments/1vr4x5x/is_paying_for_a_static_ip_worth_it_for_hosting/)
-- 2026-08-17T18:49:34+00:00 — [Nix vs immutable Fedora for homelab?](https://www.reddit.com/r/selfhosted/comments/1vr146v/nix_vs_immutable_fedora_for_homelab/)
-- 2026-08-18T04:06:26+00:00 — [Looking to replace Apple Music’s horrible music discovery engine with my own…](https://www.reddit.com/r/selfhosted/comments/1vrejlk/looking_to_replace_apple_musics_horrible_music/)
 <!-- NEWS END -->
