@@ -2,16 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-29 13:25 UTC
+Last update: 2026-08-30 13:21 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
+- 2026-08-30T12:40:25+00:00 — [Reitti v5.3.1 is out: custom map styles, multi-segment trips, H3 spatial coverage and more](https://www.reddit.com/r/selfhosted/comments/1w2gj0x/reitti_v531_is_out_custom_map_styles_multisegment/)
+- 2026-08-30T11:58:12+00:00 — [VuIO (DLNA/Chromecast/AirPlay) Media Server - 1 Year anniversary](https://www.reddit.com/r/selfhosted/comments/1w2fmy2/vuio_dlnachromecastairplay_media_server_1_year/)
+- 2026-08-29T12:54:15+00:00 — [BentoPDF can edit existing PDF Text and two new engines](https://www.reddit.com/r/selfhosted/comments/1w1ltg9/bentopdf_can_edit_existing_pdf_text_and_two_new/)
+- 2026-08-30T12:23:51+00:00 — [MindSpark: a self-hostable mind-mapping app with zero runtime dependencies, where your maps live in your own GitHub repo (or your own SQLite file)](https://www.reddit.com/r/selfhosted/comments/1w2g6od/mindspark_a_selfhostable_mindmapping_app_with/)
+- 2026-08-30T04:41:34+00:00 — [Opinions on using Podman long term](https://www.reddit.com/r/selfhosted/comments/1w27tjf/opinions_on_using_podman_long_term/)
+- 2026-08-29T22:22:31+00:00 — [Portainer vs. Dockhand, which one do you prefer and why?](https://www.reddit.com/r/selfhosted/comments/1w1zvnz/portainer_vs_dockhand_which_one_do_you_prefer_and/)
+- 2026-08-29T11:14:02+00:00 — [Moving from Tailscale to other VPN, worth it?](https://www.reddit.com/r/selfhosted/comments/1w1jt2k/moving_from_tailscale_to_other_vpn_worth_it/)
 - Sat, 29 Aug 2026 13:00:26 +0000 — [The Pipeline Worked. Then the Research Outgrew It.](https://dev.to/daemonic01/the-pipeline-worked-then-the-research-outgrew-it-pk4)
 - Sat, 29 Aug 2026 13:00:00 +0000 — [Debugging a Network Problem From Another Machine](https://dev.to/heymaikol/debugging-a-network-problem-from-another-machine-1fam)
-- 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
-- 2026-08-29T11:14:02+00:00 — [Moving from Tailscale to other VPN, worth it?](https://www.reddit.com/r/selfhosted/comments/1w1jt2k/moving_from_tailscale_to_other_vpn_worth_it/)
-- 2026-08-29T12:54:15+00:00 — [BentoPDF can edit existing PDF Text and two new engines](https://www.reddit.com/r/selfhosted/comments/1w1ltg9/bentopdf_can_edit_existing_pdf_text_and_two_new/)
 - 2026-08-28T08:24:40+00:00 — [Anyone using NixOS to selfhost?](https://www.reddit.com/r/selfhosted/comments/1w0knhs/anyone_using_nixos_to_selfhost/)
 - 2026-08-28T10:21:15+00:00 — [What are you using to manage Docker ?](https://www.reddit.com/r/selfhosted/comments/1w0mnlz/what_are_you_using_to_manage_docker/)
 - 2026-08-28T06:18:48+00:00 — [Redlib is the GOAT for a debloated Reddit front end](https://www.reddit.com/r/selfhosted/comments/1w0ijy7/redlib_is_the_goat_for_a_debloated_reddit_front/)
@@ -102,9 +107,4 @@ Last update: 2026-08-29 13:25 UTC
 - 2026-08-18T07:16:07+00:00 — [TIL docker restart doesn't re-read your .env](https://www.reddit.com/r/selfhosted/comments/1vri1kw/til_docker_restart_doesnt_reread_your_env/)
 - 2026-08-19T01:38:51+00:00 — [Can Tailscale or Wireguard on Android auto connect somehow?](https://www.reddit.com/r/selfhosted/comments/1vs8k2p/can_tailscale_or_wireguard_on_android_auto/)
 - 2026-08-18T23:26:36+00:00 — [Is this even a thing or possible via ANY self hosted scam/adblocker?](https://www.reddit.com/r/selfhosted/comments/1vs5j73/is_this_even_a_thing_or_possible_via_any_self/)
-- 2026-08-18T18:17:03+00:00 — [OS for k8s cluster](https://www.reddit.com/r/selfhosted/comments/1vrxbau/os_for_k8s_cluster/)
-- 2026-08-18T20:28:48+00:00 — [Hatchdoor v2.5.0: The markdown vault editor now natively multi-vault](https://www.reddit.com/r/selfhosted/comments/1vs10x9/hatchdoor_v250_the_markdown_vault_editor_now/)
-- 2026-08-18T19:39:03+00:00 — [SearXNG queries via WireGuard interface](https://www.reddit.com/r/selfhosted/comments/1vrzn36/searxng_queries_via_wireguard_interface/)
-- 2026-08-18T22:29:44+00:00 — [Homepage (gethomepage) set port in source install](https://www.reddit.com/r/selfhosted/comments/1vs45sx/homepage_gethomepage_set_port_in_source_install/)
-- 2026-08-18T06:58:15+00:00 — [One year later: An update on Poznote](https://www.reddit.com/r/selfhosted/comments/1vrhpta/one_year_later_an_update_on_poznote/)
 <!-- NEWS END -->
