@@ -2,16 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-30 13:21 UTC
+Last update: 2026-08-31 15:33 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 31 Aug 2026 15:24:19 +0000 — [What I Learned Partitioning a Billion-Row Table in Production](https://dev.to/abimwaqas/what-i-learned-partitioning-a-billion-row-table-in-production-j8)
 - 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
+- 2026-08-31T12:46:15+00:00 — [Best practices for hardening Pi & VPS and Docker containers](https://www.reddit.com/r/selfhosted/comments/1w3crhr/best_practices_for_hardening_pi_vps_and_docker/)
+- 2026-08-31T10:18:17+00:00 — [Hardware advise request](https://www.reddit.com/r/selfhosted/comments/1w39lfc/hardware_advise_request/)
+- 2026-08-31T08:56:45+00:00 — [Simple docker management solution needed](https://www.reddit.com/r/selfhosted/comments/1w38488/simple_docker_management_solution_needed/)
 - 2026-08-30T12:40:25+00:00 — [Reitti v5.3.1 is out: custom map styles, multi-segment trips, H3 spatial coverage and more](https://www.reddit.com/r/selfhosted/comments/1w2gj0x/reitti_v531_is_out_custom_map_styles_multisegment/)
+- 2026-08-31T15:03:43+00:00 — [Building a self-hosted CRM – seeking technical input](https://www.reddit.com/r/selfhosted/comments/1w3gf92/building_a_selfhosted_crm_seeking_technical_input/)
+- 2026-08-31T06:10:11+00:00 — [Best way to install podman in Ubuntu 24.04 ARM machine](https://www.reddit.com/r/selfhosted/comments/1w356ob/best_way_to_install_podman_in_ubuntu_2404_arm/)
+- 2026-08-30T17:25:07+00:00 — [DashLit — a new version is now available](https://www.reddit.com/r/selfhosted/comments/1w2nlhp/dashlit_a_new_version_is_now_available/)
+- 2026-08-30T12:23:51+00:00 — [MindSpark: a self-hostable mind-mapping app with zero runtime dependencies, where your maps live in your own GitHub repo (or your own SQLite file)](https://www.reddit.com/r/selfhosted/comments/1w2g6od/mindspark_a_selfhostable_mindmapping_app_with/)
 - 2026-08-30T11:58:12+00:00 — [VuIO (DLNA/Chromecast/AirPlay) Media Server - 1 Year anniversary](https://www.reddit.com/r/selfhosted/comments/1w2fmy2/vuio_dlnachromecastairplay_media_server_1_year/)
 - 2026-08-29T12:54:15+00:00 — [BentoPDF can edit existing PDF Text and two new engines](https://www.reddit.com/r/selfhosted/comments/1w1ltg9/bentopdf_can_edit_existing_pdf_text_and_two_new/)
-- 2026-08-30T12:23:51+00:00 — [MindSpark: a self-hostable mind-mapping app with zero runtime dependencies, where your maps live in your own GitHub repo (or your own SQLite file)](https://www.reddit.com/r/selfhosted/comments/1w2g6od/mindspark_a_selfhostable_mindmapping_app_with/)
 - 2026-08-30T04:41:34+00:00 — [Opinions on using Podman long term](https://www.reddit.com/r/selfhosted/comments/1w27tjf/opinions_on_using_podman_long_term/)
 - 2026-08-29T22:22:31+00:00 — [Portainer vs. Dockhand, which one do you prefer and why?](https://www.reddit.com/r/selfhosted/comments/1w1zvnz/portainer_vs_dockhand_which_one_do_you_prefer_and/)
 - 2026-08-29T11:14:02+00:00 — [Moving from Tailscale to other VPN, worth it?](https://www.reddit.com/r/selfhosted/comments/1w1jt2k/moving_from_tailscale_to_other_vpn_worth_it/)
@@ -100,11 +107,4 @@ Last update: 2026-08-30 13:21 UTC
 - 2026-08-19T20:01:24+00:00 — [Is adding a first auth layer a good idea?](https://www.reddit.com/r/selfhosted/comments/1vsxe70/is_adding_a_first_auth_layer_a_good_idea/)
 - 2026-08-19T14:38:41+00:00 — [Homepage - docker list like in Homarr](https://www.reddit.com/r/selfhosted/comments/1vsob18/homepage_docker_list_like_in_homarr/)
 - 2026-08-19T11:38:15+00:00 — [Help me deciding](https://www.reddit.com/r/selfhosted/comments/1vsjxcs/help_me_deciding/)
-- 2026-08-18T14:44:43+00:00 — [I had a stupid idea: a homelab in my backpack. Then I realized I already had almost everything.](https://www.reddit.com/r/selfhosted/comments/1vrr7t9/i_had_a_stupid_idea_a_homelab_in_my_backpack_then/)
-- 2026-08-19T16:00:09+00:00 — [inboxes - a self-hostable inbox for your Resend domains. Threading, unlimited users, shared aliases, and now an MCP server!](https://www.reddit.com/r/selfhosted/comments/1vsqjms/inboxes_a_selfhostable_inbox_for_your_resend/)
-- 2026-08-19T19:45:21+00:00 — [How do I get a self-hosted Renovate Bot to use the SSH private key I made it?](https://www.reddit.com/r/selfhosted/comments/1vswygf/how_do_i_get_a_selfhosted_renovate_bot_to_use_the/)
-- Wed, 19 Aug 2026 08:14:41 +0000 — [Securing your database connection: TLS, SSH tunnels, and IAM, from the ground up](https://dev.to/flextabledev/securing-your-database-connection-tls-ssh-tunnels-and-iam-from-the-ground-up-3pk8)
-- 2026-08-18T07:16:07+00:00 — [TIL docker restart doesn't re-read your .env](https://www.reddit.com/r/selfhosted/comments/1vri1kw/til_docker_restart_doesnt_reread_your_env/)
-- 2026-08-19T01:38:51+00:00 — [Can Tailscale or Wireguard on Android auto connect somehow?](https://www.reddit.com/r/selfhosted/comments/1vs8k2p/can_tailscale_or_wireguard_on_android_auto/)
-- 2026-08-18T23:26:36+00:00 — [Is this even a thing or possible via ANY self hosted scam/adblocker?](https://www.reddit.com/r/selfhosted/comments/1vs5j73/is_this_even_a_thing_or_possible_via_any_self/)
 <!-- NEWS END -->
