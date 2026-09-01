@@ -2,13 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-08-31 15:33 UTC
+Last update: 2026-09-01 12:49 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 31 Aug 2026 15:24:19 +0000 — [What I Learned Partitioning a Billion-Row Table in Production](https://dev.to/abimwaqas/what-i-learned-partitioning-a-billion-row-table-in-production-j8)
+- Tue, 01 Sep 2026 12:43:48 +0000 — [A memory server remembers your conversation. That is not the same as knowing your code.](https://dev.to/constantinemakoid/a-memory-server-remembers-your-conversation-that-is-not-the-same-as-knowing-your-code-2mjc)
+- Tue, 01 Sep 2026 12:40:21 +0000 — [The Day My Lecture Notes Bot Contradicted Itself](https://dev.to/magickong/the-day-my-lecture-notes-bot-contradicted-itself-1nja)
+- Tue, 01 Sep 2026 12:17:13 +0000 — [Building a Real-Time Dashboard with FastAPI, WebSockets, and MySQL](https://dev.to/dulannithilaliyanarachchi/building-a-real-time-dashboard-with-fastapi-websockets-and-mysql-1494)
 - 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
+- 2026-08-31T21:24:20+00:00 — [How do you balance security-through-updating with security-through-not-updating?](https://www.reddit.com/r/selfhosted/comments/1w3rink/how_do_you_balance_securitythroughupdating_with/)
+- 2026-09-01T08:39:11+00:00 — [Suggestions for alternative apps](https://www.reddit.com/r/selfhosted/comments/1w45zue/suggestions_for_alternative_apps/)
+- 2026-09-01T06:42:24+00:00 — [How do you prefer your apps packaged?](https://www.reddit.com/r/selfhosted/comments/1w43yy0/how_do_you_prefer_your_apps_packaged/)
+- 2026-09-01T08:41:45+00:00 — [self-hosted multi-hop VPN acc worth the hassle??](https://www.reddit.com/r/selfhosted/comments/1w461eb/selfhosted_multihop_vpn_acc_worth_the_hassle/)
+- 2026-08-31T18:36:50+00:00 — [Raspberry PI 8GB running Immich and other stuff with external NAS](https://www.reddit.com/r/selfhosted/comments/1w3mng3/raspberry_pi_8gb_running_immich_and_other_stuff/)
+- Mon, 31 Aug 2026 15:24:19 +0000 — [What I Learned Partitioning a Billion-Row Table in Production](https://dev.to/abimwaqas/what-i-learned-partitioning-a-billion-row-table-in-production-j8)
 - 2026-08-31T12:46:15+00:00 — [Best practices for hardening Pi & VPS and Docker containers](https://www.reddit.com/r/selfhosted/comments/1w3crhr/best_practices_for_hardening_pi_vps_and_docker/)
 - 2026-08-31T10:18:17+00:00 — [Hardware advise request](https://www.reddit.com/r/selfhosted/comments/1w39lfc/hardware_advise_request/)
 - 2026-08-31T08:56:45+00:00 — [Simple docker management solution needed](https://www.reddit.com/r/selfhosted/comments/1w38488/simple_docker_management_solution_needed/)
@@ -99,12 +107,4 @@ Last update: 2026-08-31 15:33 UTC
 - 2026-08-21T07:06:32+00:00 — [Self hosting gets you an API of your own. Mine draws a live cluster card onto my repo's README every 15 minutes](https://www.reddit.com/r/selfhosted/comments/1vu90ef/self_hosting_gets_you_an_api_of_your_own_mine/)
 - 2026-08-20T11:41:19+00:00 — [1 Year into Self-Hosting: Proxmox Setup, LXC vs. Docker Dilemma, and Seeking Advice!](https://www.reddit.com/r/selfhosted/comments/1vth3j1/1_year_into_selfhosting_proxmox_setup_lxc_vs/)
 - 2026-08-21T02:03:20+00:00 — [Setting up custom local URLs for arr-stack with NPM?](https://www.reddit.com/r/selfhosted/comments/1vu346q/setting_up_custom_local_urls_for_arrstack_with_npm/)
-- 2026-08-21T02:00:11+00:00 — [Town / region Community news app?](https://www.reddit.com/r/selfhosted/comments/1vu31j5/town_region_community_news_app/)
-- 2026-08-21T06:44:34+00:00 — [Built a self-hosted AI Video Studio pipeline (React/Node/FFmpeg/Docker) to cut out SaaS markups.](https://www.reddit.com/r/selfhosted/comments/1vu8mna/built_a_selfhosted_ai_video_studio_pipeline/)
-- Thu, 20 Aug 2026 07:34:39 +0000 — [Kubernetes DNS was failing 33% of the time. CoreDNS was fine.](https://dev.to/hilmib/kubernetes-dns-was-failing-33-of-the-time-coredns-was-fine-221e)
-- Thu, 20 Aug 2026 07:11:03 +0000 — [Setting up an IPv6 only VM](https://dev.to/laurencet/setting-up-an-ipv6-only-vm-2dcl)
-- 2026-08-13T22:01:08+00:00 — [New Project Megathread - Week of 13 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vnoqxf/new_project_megathread_week_of_13_aug_2026/)
-- 2026-08-19T20:01:24+00:00 — [Is adding a first auth layer a good idea?](https://www.reddit.com/r/selfhosted/comments/1vsxe70/is_adding_a_first_auth_layer_a_good_idea/)
-- 2026-08-19T14:38:41+00:00 — [Homepage - docker list like in Homarr](https://www.reddit.com/r/selfhosted/comments/1vsob18/homepage_docker_list_like_in_homarr/)
-- 2026-08-19T11:38:15+00:00 — [Help me deciding](https://www.reddit.com/r/selfhosted/comments/1vsjxcs/help_me_deciding/)
 <!-- NEWS END -->
