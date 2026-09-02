@@ -2,17 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-01 12:49 UTC
+Last update: 2026-09-02 12:19 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
+- 2026-09-02T10:24:31+00:00 — [Dawarich 1.14.1 - now rendering millions of points in seconds!](https://www.reddit.com/r/selfhosted/comments/1w56g1u/dawarich_1141_now_rendering_millions_of_points_in/)
+- 2026-09-02T08:44:12+00:00 — [How practical is using a VPN for homelab access?](https://www.reddit.com/r/selfhosted/comments/1w54oiy/how_practical_is_using_a_vpn_for_homelab_access/)
+- 2026-09-02T12:05:10+00:00 — [My self-hosted homelab homepage is finally at the point where I’m actually proud of it](https://www.reddit.com/r/selfhosted/comments/1w58f60/my_selfhosted_homelab_homepage_is_finally_at_the/)
+- 2026-09-02T10:51:18+00:00 — [Alternatives to vanilla WireGuard to access home network](https://www.reddit.com/r/selfhosted/comments/1w56xxq/alternatives_to_vanilla_wireguard_to_access_home/)
+- 2026-09-01T17:24:19+00:00 — [Private DNS on public cloud](https://www.reddit.com/r/selfhosted/comments/1w4imd6/private_dns_on_public_cloud/)
+- 2026-09-01T08:39:11+00:00 — [Suggestions for alternative apps](https://www.reddit.com/r/selfhosted/comments/1w45zue/suggestions_for_alternative_apps/)
+- 2026-08-31T21:24:20+00:00 — [How do you balance security-through-updating with security-through-not-updating?](https://www.reddit.com/r/selfhosted/comments/1w3rink/how_do_you_balance_securitythroughupdating_with/)
 - Tue, 01 Sep 2026 12:43:48 +0000 — [A memory server remembers your conversation. That is not the same as knowing your code.](https://dev.to/constantinemakoid/a-memory-server-remembers-your-conversation-that-is-not-the-same-as-knowing-your-code-2mjc)
 - Tue, 01 Sep 2026 12:40:21 +0000 — [The Day My Lecture Notes Bot Contradicted Itself](https://dev.to/magickong/the-day-my-lecture-notes-bot-contradicted-itself-1nja)
 - Tue, 01 Sep 2026 12:17:13 +0000 — [Building a Real-Time Dashboard with FastAPI, WebSockets, and MySQL](https://dev.to/dulannithilaliyanarachchi/building-a-real-time-dashboard-with-fastapi-websockets-and-mysql-1494)
-- 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
-- 2026-08-31T21:24:20+00:00 — [How do you balance security-through-updating with security-through-not-updating?](https://www.reddit.com/r/selfhosted/comments/1w3rink/how_do_you_balance_securitythroughupdating_with/)
-- 2026-09-01T08:39:11+00:00 — [Suggestions for alternative apps](https://www.reddit.com/r/selfhosted/comments/1w45zue/suggestions_for_alternative_apps/)
 - 2026-09-01T06:42:24+00:00 — [How do you prefer your apps packaged?](https://www.reddit.com/r/selfhosted/comments/1w43yy0/how_do_you_prefer_your_apps_packaged/)
 - 2026-09-01T08:41:45+00:00 — [self-hosted multi-hop VPN acc worth the hassle??](https://www.reddit.com/r/selfhosted/comments/1w461eb/selfhosted_multihop_vpn_acc_worth_the_hassle/)
 - 2026-08-31T18:36:50+00:00 — [Raspberry PI 8GB running Immich and other stuff with external NAS](https://www.reddit.com/r/selfhosted/comments/1w3mng3/raspberry_pi_8gb_running_immich_and_other_stuff/)
@@ -102,9 +107,4 @@ Last update: 2026-09-01 12:49 UTC
 - 2026-08-22T01:38:44+00:00 — [Proxmox alternative?](https://www.reddit.com/r/selfhosted/comments/1vuz0ll/proxmox_alternative/)
 - 2026-08-21T11:49:22+00:00 — [Issue on OMV workbench on PI](https://www.reddit.com/r/selfhosted/comments/1vue51j/issue_on_omv_workbench_on_pi/)
 - 2026-08-21T22:58:19+00:00 — [got 2 apps running on my T470 with Docker](https://www.reddit.com/r/selfhosted/comments/1vuvffn/got_2_apps_running_on_my_t470_with_docker/)
-- Fri, 21 Aug 2026 08:01:14 +0000 — [Don't Let Codex Roam Free: 6 Guardrails I Use for AI-Assisted Coding](https://dev.to/tosane932/dont-let-codex-roam-free-6-guardrails-i-use-for-ai-assisted-coding-4bj4)
-- Fri, 21 Aug 2026 07:29:39 +0000 — [Your Laravel queue worker count is a guess. Here is the math that replaces it.](https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba)
-- 2026-08-21T07:06:32+00:00 — [Self hosting gets you an API of your own. Mine draws a live cluster card onto my repo's README every 15 minutes](https://www.reddit.com/r/selfhosted/comments/1vu90ef/self_hosting_gets_you_an_api_of_your_own_mine/)
-- 2026-08-20T11:41:19+00:00 — [1 Year into Self-Hosting: Proxmox Setup, LXC vs. Docker Dilemma, and Seeking Advice!](https://www.reddit.com/r/selfhosted/comments/1vth3j1/1_year_into_selfhosting_proxmox_setup_lxc_vs/)
-- 2026-08-21T02:03:20+00:00 — [Setting up custom local URLs for arr-stack with NPM?](https://www.reddit.com/r/selfhosted/comments/1vu346q/setting_up_custom_local_urls_for_arrstack_with_npm/)
 <!-- NEWS END -->
