@@ -2,15 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-02 12:19 UTC
+Last update: 2026-09-03 12:17 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 03 Sep 2026 12:05:33 +0000 — [Phantom Capacity: Why Texas Couldn't Tell Real Demand From Noise](https://dev.to/ntctech/phantom-capacity-why-texas-couldnt-tell-real-demand-from-noise-2gib)
 - 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
+- 2026-09-02T12:05:10+00:00 — [My self-hosted homelab homepage is finally at the point where I’m actually proud of it](https://www.reddit.com/r/selfhosted/comments/1w58f60/my_selfhosted_homelab_homepage_is_finally_at_the/)
+- 2026-09-03T08:42:50+00:00 — [Paperless-ngx v3 + Ollama: Best AI model on low-power Intel iGPU?](https://www.reddit.com/r/selfhosted/comments/1w61onv/paperlessngx_v3_ollama_best_ai_model_on_lowpower/)
+- 2026-09-02T21:12:16+00:00 — [How did self-hosting started for you?](https://www.reddit.com/r/selfhosted/comments/1w5ndfl/how_did_selfhosting_started_for_you/)
+- 2026-09-03T03:18:55+00:00 — [Jellyfin/Jellyseerr/media server](https://www.reddit.com/r/selfhosted/comments/1w5vu37/jellyfinjellyseerrmedia_server/)
+- 2026-09-02T14:18:16+00:00 — [CrowdSec v1.8 just Released! Self hosted ids/ips/waf, now with bot detection!](https://www.reddit.com/r/selfhosted/comments/1w5botz/crowdsec_v18_just_released_self_hosted_idsipswaf/)
 - 2026-09-02T10:24:31+00:00 — [Dawarich 1.14.1 - now rendering millions of points in seconds!](https://www.reddit.com/r/selfhosted/comments/1w56g1u/dawarich_1141_now_rendering_millions_of_points_in/)
 - 2026-09-02T08:44:12+00:00 — [How practical is using a VPN for homelab access?](https://www.reddit.com/r/selfhosted/comments/1w54oiy/how_practical_is_using_a_vpn_for_homelab_access/)
-- 2026-09-02T12:05:10+00:00 — [My self-hosted homelab homepage is finally at the point where I’m actually proud of it](https://www.reddit.com/r/selfhosted/comments/1w58f60/my_selfhosted_homelab_homepage_is_finally_at_the/)
+- 2026-09-03T00:43:06+00:00 — [Self Hosting on my phone](https://www.reddit.com/r/selfhosted/comments/1w5si2p/self_hosting_on_my_phone/)
+- 2026-09-02T17:50:30+00:00 — [Which saver of web-pages to use?](https://www.reddit.com/r/selfhosted/comments/1w5hmcb/which_saver_of_webpages_to_use/)
 - 2026-09-02T10:51:18+00:00 — [Alternatives to vanilla WireGuard to access home network](https://www.reddit.com/r/selfhosted/comments/1w56xxq/alternatives_to_vanilla_wireguard_to_access_home/)
 - 2026-09-01T17:24:19+00:00 — [Private DNS on public cloud](https://www.reddit.com/r/selfhosted/comments/1w4imd6/private_dns_on_public_cloud/)
 - 2026-09-01T08:39:11+00:00 — [Suggestions for alternative apps](https://www.reddit.com/r/selfhosted/comments/1w45zue/suggestions_for_alternative_apps/)
@@ -100,11 +107,4 @@ Last update: 2026-09-02 12:19 UTC
 - 2026-08-21T08:49:43+00:00 — [Put Self Hosting on Your CV](https://www.reddit.com/r/selfhosted/comments/1vuaqh5/put_self_hosting_on_your_cv/)
 - 2026-08-21T12:45:03+00:00 — [Get myself a new toy, can I turn this thing into an all in one server?](https://www.reddit.com/r/selfhosted/comments/1vufcur/get_myself_a_new_toy_can_i_turn_this_thing_into/)
 - 2026-08-21T15:46:27+00:00 — [GitHub - eseifert/altero: Self-hosted sync server for Zotero — keep libraries, groups, notes and attachments on your own infrastructure using the unmodified desktop client](https://www.reddit.com/r/selfhosted/comments/1vuk0zg/github_eseifertaltero_selfhosted_sync_server_for/)
-- 2026-08-20T18:14:41+00:00 — [Aurral is about to pass 1 million downloads, and 2.5.0 is a big step toward a real self-hosted music library](https://www.reddit.com/r/selfhosted/comments/1vtr9tr/aurral_is_about_to_pass_1_million_downloads_and/)
-- 2026-08-20T18:32:48+00:00 — [What embarrassingly simple, but genuinely helpful things have you learned about self-hosting that others should know for their own peace of mind or at least to have a chuckle?](https://www.reddit.com/r/selfhosted/comments/1vtrs3t/what_embarrassingly_simple_but_genuinely_helpful/)
-- 2026-08-22T06:36:34+00:00 — [Stop exposing your Docker ports! 🛑 How to properly deploy React & Node.js to Production HTTPS.](https://www.reddit.com/r/selfhosted/comments/1vv4ugu/stop_exposing_your_docker_ports_how_to_properly/)
-- 2026-08-21T14:42:25+00:00 — [Not sure if I should consider going to reverse proxy, or stick with my Cloudflare tunnel](https://www.reddit.com/r/selfhosted/comments/1vuiadt/not_sure_if_i_should_consider_going_to_reverse/)
-- 2026-08-22T01:38:44+00:00 — [Proxmox alternative?](https://www.reddit.com/r/selfhosted/comments/1vuz0ll/proxmox_alternative/)
-- 2026-08-21T11:49:22+00:00 — [Issue on OMV workbench on PI](https://www.reddit.com/r/selfhosted/comments/1vue51j/issue_on_omv_workbench_on_pi/)
-- 2026-08-21T22:58:19+00:00 — [got 2 apps running on my T470 with Docker](https://www.reddit.com/r/selfhosted/comments/1vuvffn/got_2_apps_running_on_my_t470_with_docker/)
 <!-- NEWS END -->
