@@ -2,15 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-03 12:17 UTC
+Last update: 2026-09-04 12:18 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 04 Sep 2026 12:03:32 +0000 — [The True Cost of Game Development Outsourcing](https://dev.to/oceanviewgames/the-true-cost-of-game-development-outsourcing-35p0)
+- Fri, 04 Sep 2026 12:02:05 +0000 — [OB1 Feels Surprisingly Clean, Until Docker Networking Enters the Conversation](https://dev.to/james_lin/ob1-feels-surprisingly-clean-until-docker-networking-enters-the-conversation-47eh)
+- 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
+- 2026-09-04T01:02:06+00:00 — [Successful Migration from Proxmox](https://www.reddit.com/r/selfhosted/comments/1w6puyz/successful_migration_from_proxmox/)
+- 2026-09-04T08:56:28+00:00 — [Migrated 42 workflows from Zapier to self-hosted n8n on Hetzner ($248/mo down to $7.70/mo)](https://www.reddit.com/r/selfhosted/comments/1w6yxnv/migrated_42_workflows_from_zapier_to_selfhosted/)
+- 2026-09-03T19:16:19+00:00 — [Self hosting library - PDF, ePUB, CBZ what's the best method?](https://www.reddit.com/r/selfhosted/comments/1w6h3c4/self_hosting_library_pdf_epub_cbz_whats_the_best/)
+- 2026-09-03T19:54:35+00:00 — [unraid + Tailscale: connect the whole box, or use the option for each container?](https://www.reddit.com/r/selfhosted/comments/1w6i6s4/unraid_tailscale_connect_the_whole_box_or_use_the/)
+- 2026-09-02T12:05:10+00:00 — [My self-hosted homelab homepage is finally at the point where I’m actually proud of it](https://www.reddit.com/r/selfhosted/comments/1w58f60/my_selfhosted_homelab_homepage_is_finally_at_the/)
+- 2026-09-03T23:40:32+00:00 — [Sanity Check - New Server, Config and External Access](https://www.reddit.com/r/selfhosted/comments/1w6o1a8/sanity_check_new_server_config_and_external_access/)
+- 2026-09-03T08:42:50+00:00 — [Paperless-ngx v3 + Ollama: Best AI model on low-power Intel iGPU?](https://www.reddit.com/r/selfhosted/comments/1w61onv/paperlessngx_v3_ollama_best_ai_model_on_lowpower/)
+- 2026-09-04T11:46:02+00:00 — [openGym v. 1.3](https://www.reddit.com/r/selfhosted/comments/1w722q0/opengym_v_13/)
 - Thu, 03 Sep 2026 12:05:33 +0000 — [Phantom Capacity: Why Texas Couldn't Tell Real Demand From Noise](https://dev.to/ntctech/phantom-capacity-why-texas-couldnt-tell-real-demand-from-noise-2gib)
 - 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
-- 2026-09-02T12:05:10+00:00 — [My self-hosted homelab homepage is finally at the point where I’m actually proud of it](https://www.reddit.com/r/selfhosted/comments/1w58f60/my_selfhosted_homelab_homepage_is_finally_at_the/)
-- 2026-09-03T08:42:50+00:00 — [Paperless-ngx v3 + Ollama: Best AI model on low-power Intel iGPU?](https://www.reddit.com/r/selfhosted/comments/1w61onv/paperlessngx_v3_ollama_best_ai_model_on_lowpower/)
 - 2026-09-02T21:12:16+00:00 — [How did self-hosting started for you?](https://www.reddit.com/r/selfhosted/comments/1w5ndfl/how_did_selfhosting_started_for_you/)
 - 2026-09-03T03:18:55+00:00 — [Jellyfin/Jellyseerr/media server](https://www.reddit.com/r/selfhosted/comments/1w5vu37/jellyfinjellyseerrmedia_server/)
 - 2026-09-02T14:18:16+00:00 — [CrowdSec v1.8 just Released! Self hosted ids/ips/waf, now with bot detection!](https://www.reddit.com/r/selfhosted/comments/1w5botz/crowdsec_v18_just_released_self_hosted_idsipswaf/)
@@ -98,13 +107,4 @@ Last update: 2026-09-03 12:17 UTC
 - 2026-08-22T11:31:24+00:00 — [Bookorbit is incredible](https://www.reddit.com/r/selfhosted/comments/1vva03f/bookorbit_is_incredible/)
 - 2026-08-22T12:38:07+00:00 — [It started with a single question...](https://www.reddit.com/r/selfhosted/comments/1vvbcul/it_started_with_a_single_question/)
 - 2026-08-22T14:00:44+00:00 — [assemblrr - Automated media stack setup so you can spend time watching, not configuring](https://www.reddit.com/r/selfhosted/comments/1vvd863/assemblrr_automated_media_stack_setup_so_you_can/)
-- 2026-08-23T03:39:36+00:00 — [Looking for feedback: privacy web analytics you co-host on a small VPS (Docker Compose)](https://www.reddit.com/r/selfhosted/comments/1vvwepz/looking_for_feedback_privacy_web_analytics_you/)
-- 2026-08-23T05:35:32+00:00 — [Running servers on the Steam Machine](https://www.reddit.com/r/selfhosted/comments/1vvyk9q/running_servers_on_the_steam_machine/)
-- 2026-08-23T03:26:15+00:00 — [Looking for some help on setting up Tailscale HTTPS](https://www.reddit.com/r/selfhosted/comments/1vvw5fi/looking_for_some_help_on_setting_up_tailscale/)
-- Mon, 17 Aug 2026 12:02:18 +0000 — [ESP32 Firmware Development with Docker Sandboxes](https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/)
-- Sat, 22 Aug 2026 07:20:40 +0000 — [I Turned the GetBirthChart Astrology Engine Into a Python Package](https://dev.to/getbirthchart/i-turned-the-getbirthchart-astrology-engine-into-a-python-package-1mng)
-- 2026-08-21T21:16:07+00:00 — [If you self-host something you actually rely on, is it a Docker container on a NAS or a service on a plain Linux box?](https://www.reddit.com/r/selfhosted/comments/1vusx56/if_you_selfhost_something_you_actually_rely_on_is/)
-- 2026-08-21T08:49:43+00:00 — [Put Self Hosting on Your CV](https://www.reddit.com/r/selfhosted/comments/1vuaqh5/put_self_hosting_on_your_cv/)
-- 2026-08-21T12:45:03+00:00 — [Get myself a new toy, can I turn this thing into an all in one server?](https://www.reddit.com/r/selfhosted/comments/1vufcur/get_myself_a_new_toy_can_i_turn_this_thing_into/)
-- 2026-08-21T15:46:27+00:00 — [GitHub - eseifert/altero: Self-hosted sync server for Zotero — keep libraries, groups, notes and attachments on your own infrastructure using the unmodified desktop client](https://www.reddit.com/r/selfhosted/comments/1vuk0zg/github_eseifertaltero_selfhosted_sync_server_for/)
 <!-- NEWS END -->
