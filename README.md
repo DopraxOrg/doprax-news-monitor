@@ -2,16 +2,28 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-04 12:18 UTC
+Last update: 2026-09-05 11:25 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 05 Sep 2026 11:02:47 +0000 — [Deploy to EC2 from GitHub Actions without opening port 22](https://dev.to/ankurk91/deploy-to-ec2-from-github-actions-without-opening-port-22-5269)
+- 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
+- 2026-09-04T15:18:36+00:00 — [NetBird 0.78: Draft Mode for the Control Center, build and deploy your network visually](https://www.reddit.com/r/selfhosted/comments/1w77auy/netbird_078_draft_mode_for_the_control_center/)
+- 2026-09-04T20:37:07+00:00 — [Do you run bitwarden-lite on Docker? You can now go rootless+readonly for extra security](https://www.reddit.com/r/selfhosted/comments/1w7g4i5/do_you_run_bitwardenlite_on_docker_you_can_now_go/)
+- 2026-09-04T15:48:47+00:00 — [I built GeoLens: a self-hosted geospatial catalog and map builder (PostGIS, vector tiles, one docker compose)](https://www.reddit.com/r/selfhosted/comments/1w7842j/i_built_geolens_a_selfhosted_geospatial_catalog/)
+- 2026-09-04T22:48:24+00:00 — [One management setup](https://www.reddit.com/r/selfhosted/comments/1w7jgep/one_management_setup/)
+- 2026-09-04T14:39:38+00:00 — [[Project] Issued - Self-hosted comic library server (OPDS + web reader)](https://www.reddit.com/r/selfhosted/comments/1w769b5/project_issued_selfhosted_comic_library_server/)
+- 2026-09-04T18:17:39+00:00 — [Is this a certificate issue? Jellyfin works on browsers, but not apps.](https://www.reddit.com/r/selfhosted/comments/1w7c9wg/is_this_a_certificate_issue_jellyfin_works_on/)
+- 2026-09-04T22:35:34+00:00 — [Intermittent error "Failed to reach OIDC issuer"](https://www.reddit.com/r/selfhosted/comments/1w7j5jb/intermittent_error_failed_to_reach_oidc_issuer/)
+- 2026-09-04T01:02:06+00:00 — [Successful Migration from Proxmox](https://www.reddit.com/r/selfhosted/comments/1w6puyz/successful_migration_from_proxmox/)
+- 2026-09-04T17:58:52+00:00 — [UPS recommendations for N100 + Terramaster on Unraid(France)](https://www.reddit.com/r/selfhosted/comments/1w7bqsn/ups_recommendations_for_n100_terramaster_on/)
+- 2026-09-04T08:56:28+00:00 — [Migrated 42 workflows from Zapier to self-hosted n8n on Hetzner ($248/mo down to $7.70/mo)](https://www.reddit.com/r/selfhosted/comments/1w6yxnv/migrated_42_workflows_from_zapier_to_selfhosted/)
+- 2026-09-04T14:09:34+00:00 — [Open-source ERP for small manufacturing shops](https://www.reddit.com/r/selfhosted/comments/1w75h51/opensource_erp_for_small_manufacturing_shops/)
+- 2026-09-04T14:09:17+00:00 — [Escaping Google's clutches](https://www.reddit.com/r/selfhosted/comments/1w75guq/escaping_googles_clutches/)
+- 2026-09-05T10:36:11+00:00 — [Went away from Proxmox on my homelab, no regrets so far](https://www.reddit.com/r/selfhosted/comments/1w7x7wv/went_away_from_proxmox_on_my_homelab_no_regrets/)
 - Fri, 04 Sep 2026 12:03:32 +0000 — [The True Cost of Game Development Outsourcing](https://dev.to/oceanviewgames/the-true-cost-of-game-development-outsourcing-35p0)
 - Fri, 04 Sep 2026 12:02:05 +0000 — [OB1 Feels Surprisingly Clean, Until Docker Networking Enters the Conversation](https://dev.to/james_lin/ob1-feels-surprisingly-clean-until-docker-networking-enters-the-conversation-47eh)
-- 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
-- 2026-09-04T01:02:06+00:00 — [Successful Migration from Proxmox](https://www.reddit.com/r/selfhosted/comments/1w6puyz/successful_migration_from_proxmox/)
-- 2026-09-04T08:56:28+00:00 — [Migrated 42 workflows from Zapier to self-hosted n8n on Hetzner ($248/mo down to $7.70/mo)](https://www.reddit.com/r/selfhosted/comments/1w6yxnv/migrated_42_workflows_from_zapier_to_selfhosted/)
 - 2026-09-03T19:16:19+00:00 — [Self hosting library - PDF, ePUB, CBZ what's the best method?](https://www.reddit.com/r/selfhosted/comments/1w6h3c4/self_hosting_library_pdf_epub_cbz_whats_the_best/)
 - 2026-09-03T19:54:35+00:00 — [unraid + Tailscale: connect the whole box, or use the option for each container?](https://www.reddit.com/r/selfhosted/comments/1w6i6s4/unraid_tailscale_connect_the_whole_box_or_use_the/)
 - 2026-09-02T12:05:10+00:00 — [My self-hosted homelab homepage is finally at the point where I’m actually proud of it](https://www.reddit.com/r/selfhosted/comments/1w58f60/my_selfhosted_homelab_homepage_is_finally_at_the/)
@@ -95,16 +107,4 @@ Last update: 2026-09-04 12:18 UTC
 - 2026-08-25T07:18:32+00:00 — [I open-sourced my cold-email infrastructure: SMTP verification gate + pattern-based email discovery. Next.js + FastAPI, no third-party contact database.](https://www.reddit.com/r/selfhosted/comments/1vxsqha/i_opensourced_my_coldemail_infrastructure_smtp/)
 - 2026-08-23T18:24:40+00:00 — [Why Proxmox?](https://www.reddit.com/r/selfhosted/comments/1vwet2e/why_proxmox/)
 - 2026-08-24T15:01:23+00:00 — [I've made a "dummy" image](https://www.reddit.com/r/selfhosted/comments/1vx5a5s/ive_made_a_dummy_image/)
-- Mon, 24 Aug 2026 08:29:52 +0000 — [I Built a Real-World Customer Payment Analysis Tool in Python](https://dev.to/bekbrace/i-built-a-real-world-customer-payment-analysis-tool-in-python-2p46)
-- 2026-08-23T08:34:51+00:00 — [Does anyone still run their homelab on plain Linux + Docker Compose ?](https://www.reddit.com/r/selfhosted/comments/1vw1oqz/does_anyone_still_run_their_homelab_on_plain/)
-- 2026-08-24T04:29:01+00:00 — [I am starting to like the idea of gitops and storing my master compose files in git.](https://www.reddit.com/r/selfhosted/comments/1vwspeh/i_am_starting_to_like_the_idea_of_gitops_and/)
-- 2026-08-23T18:24:14+00:00 — [Tinyauth + PocketID Automatic App Login](https://www.reddit.com/r/selfhosted/comments/1vwesn4/tinyauth_pocketid_automatic_app_login/)
-- 2026-08-23T05:05:50+00:00 — [self hosting in an android phone](https://www.reddit.com/r/selfhosted/comments/1vvy16y/self_hosting_in_an_android_phone/)
-- 2026-08-23T15:54:49+00:00 — [Trying to decide what to use for GUI for docker](https://www.reddit.com/r/selfhosted/comments/1vwau48/trying_to_decide_what_to_use_for_gui_for_docker/)
-- 2026-08-24T01:00:54+00:00 — [Need some help setting up ROMM (or suggestions for alternative services)](https://www.reddit.com/r/selfhosted/comments/1vwofxs/need_some_help_setting_up_romm_or_suggestions_for/)
-- 2026-08-23T17:44:22+00:00 — [gh-stats: self-hosted GitHub profile stats cards for your README (MIT, docker compose)](https://www.reddit.com/r/selfhosted/comments/1vwdpke/ghstats_selfhosted_github_profile_stats_cards_for/)
-- 2026-08-22T18:20:28+00:00 — [Do i ACTUALLY need a VPN for torrenting Linux isos?](https://www.reddit.com/r/selfhosted/comments/1vvjr6d/do_i_actually_need_a_vpn_for_torrenting_linux_isos/)
-- 2026-08-22T11:31:24+00:00 — [Bookorbit is incredible](https://www.reddit.com/r/selfhosted/comments/1vva03f/bookorbit_is_incredible/)
-- 2026-08-22T12:38:07+00:00 — [It started with a single question...](https://www.reddit.com/r/selfhosted/comments/1vvbcul/it_started_with_a_single_question/)
-- 2026-08-22T14:00:44+00:00 — [assemblrr - Automated media stack setup so you can spend time watching, not configuring](https://www.reddit.com/r/selfhosted/comments/1vvd863/assemblrr_automated_media_stack_setup_so_you_can/)
 <!-- NEWS END -->
