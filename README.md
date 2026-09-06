@@ -2,13 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-05 11:25 UTC
+Last update: 2026-09-06 11:46 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sat, 05 Sep 2026 11:02:47 +0000 — [Deploy to EC2 from GitHub Actions without opening port 22](https://dev.to/ankurk91/deploy-to-ec2-from-github-actions-without-opening-port-22-5269)
+- Sun, 06 Sep 2026 11:41:08 +0000 — [I load-tested self-hosted n8n on a $0 VM for 5 hours. The worst latency came from apt.](https://dev.to/edifierxuhao/i-load-tested-self-hosted-n8n-on-a-0-vm-for-5-hours-the-worst-latency-came-from-apt-40c1)
+- Sun, 06 Sep 2026 11:11:06 +0000 — [Common Problems Running HashiCorp Vault on Kubernetes (and How to Actually Fix Them)](https://dev.to/whitesama001/common-problems-running-hashicorp-vault-on-kubernetes-and-how-to-actually-fix-them-42bm)
 - 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
+- 2026-09-05T15:52:20+00:00 — [Built a 3-node Kubernetes homelab with Talos Linux](https://www.reddit.com/r/selfhosted/comments/1w84d8c/built_a_3node_kubernetes_homelab_with_talos_linux/)
+- 2026-09-06T06:46:28+00:00 — [How do you Download a Spotify Playlist on slskd?](https://www.reddit.com/r/selfhosted/comments/1w8omz3/how_do_you_download_a_spotify_playlist_on_slskd/)
+- 2026-09-05T19:28:24+00:00 — [Easy S3 backups for self-hosted SQLite apps](https://www.reddit.com/r/selfhosted/comments/1w8a25z/easy_s3_backups_for_selfhosted_sqlite_apps/)
+- 2026-09-05T12:02:27+00:00 — [Traveling to the UAE - trying to verify real-world Tailscale behavior when routing through a personal exit node back home](https://www.reddit.com/r/selfhosted/comments/1w7ywov/traveling_to_the_uae_trying_to_verify_realworld/)
+- Sat, 05 Sep 2026 11:02:47 +0000 — [Deploy to EC2 from GitHub Actions without opening port 22](https://dev.to/ankurk91/deploy-to-ec2-from-github-actions-without-opening-port-22-5269)
 - 2026-09-04T15:18:36+00:00 — [NetBird 0.78: Draft Mode for the Control Center, build and deploy your network visually](https://www.reddit.com/r/selfhosted/comments/1w77auy/netbird_078_draft_mode_for_the_control_center/)
 - 2026-09-04T20:37:07+00:00 — [Do you run bitwarden-lite on Docker? You can now go rootless+readonly for extra security](https://www.reddit.com/r/selfhosted/comments/1w7g4i5/do_you_run_bitwardenlite_on_docker_you_can_now_go/)
 - 2026-09-04T15:48:47+00:00 — [I built GeoLens: a self-hosted geospatial catalog and map builder (PostGIS, vector tiles, one docker compose)](https://www.reddit.com/r/selfhosted/comments/1w7842j/i_built_geolens_a_selfhosted_geospatial_catalog/)
@@ -101,10 +107,4 @@ Last update: 2026-09-05 11:25 UTC
 - 2026-08-25T11:32:30+00:00 — [WebSSH - a self-hosted SSH and SFTP workspace for homelabs and teams](https://www.reddit.com/r/selfhosted/comments/1vxx7vd/webssh_a_selfhosted_ssh_and_sftp_workspace_for/)
 - Tue, 25 Aug 2026 08:12:48 +0000 — [The Model Is a Dependency. The Contract Is the Product.](https://dev.to/kongkong1/the-model-is-a-dependency-the-contract-is-the-product-alb)
 - Tue, 25 Aug 2026 08:03:20 +0000 — [What a 12-Year AWS Engineer Expects to Get Wrong About Google Cloud](https://dev.to/achutharaman/what-a-12-year-aws-engineer-expects-to-get-wrong-about-google-cloud-53gi)
-- Tue, 25 Aug 2026 08:00:00 +0000 — [I built a simplified microservice reference project with guide on how to run locally, using docker-compose or Kubernetes + deployment to AKS](https://dev.to/amrali21/i-built-a-simplified-microservice-reference-project-with-guide-on-how-to-run-locally-using-13f6)
-- 2026-08-24T22:32:58+00:00 — [ARR stack hardware](https://www.reddit.com/r/selfhosted/comments/1vxhrkf/arr_stack_hardware/)
-- 2026-08-25T08:07:29+00:00 — [hmelj - self-hosted email client, why and how](https://www.reddit.com/r/selfhosted/comments/1vxtjue/hmelj_selfhosted_email_client_why_and_how/)
-- 2026-08-25T07:18:32+00:00 — [I open-sourced my cold-email infrastructure: SMTP verification gate + pattern-based email discovery. Next.js + FastAPI, no third-party contact database.](https://www.reddit.com/r/selfhosted/comments/1vxsqha/i_opensourced_my_coldemail_infrastructure_smtp/)
-- 2026-08-23T18:24:40+00:00 — [Why Proxmox?](https://www.reddit.com/r/selfhosted/comments/1vwet2e/why_proxmox/)
-- 2026-08-24T15:01:23+00:00 — [I've made a "dummy" image](https://www.reddit.com/r/selfhosted/comments/1vx5a5s/ive_made_a_dummy_image/)
 <!-- NEWS END -->
