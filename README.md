@@ -2,14 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-06 11:46 UTC
+Last update: 2026-09-07 13:43 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 07 Sep 2026 13:35:22 +0000 — [How to Build a Solo Developer Studio with Composable MCP Servers](https://dev.to/julianbrown/how-to-build-a-solo-developer-studio-with-composable-mcp-servers-462f)
+- 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
+- 2026-09-07T08:15:58+00:00 — [Renewlet — a self-hosted subscription tracker you can run in Docker](https://www.reddit.com/r/selfhosted/comments/1w9m59y/renewlet_a_selfhosted_subscription_tracker_you/)
+- 2026-09-07T02:17:02+00:00 — [I think my brain will explode trying to find a not crappy option help please.](https://www.reddit.com/r/selfhosted/comments/1w9fana/i_think_my_brain_will_explode_trying_to_find_a/)
+- 2026-09-06T19:21:32+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen, now at v0.1.0](https://www.reddit.com/r/selfhosted/comments/1w95hd1/kitchen_board_a_selfhosted_wall_planner_for_the/)
+- 2026-09-07T06:51:39+00:00 — [K3S vs Nomad](https://www.reddit.com/r/selfhosted/comments/1w9knm3/k3s_vs_nomad/)
+- 2026-09-07T13:38:10+00:00 — [DLSite List - a self-hosted personal DLsite library](https://www.reddit.com/r/selfhosted/comments/1w9sfta/dlsite_list_a_selfhosted_personal_dlsite_library/)
+- 2026-09-07T05:15:52+00:00 — [Getting Started](https://www.reddit.com/r/selfhosted/comments/1w9ivk1/getting_started/)
+- 2026-09-07T07:49:27+00:00 — [What are your thoughts on casaOS/zimaOS to simplify your life?](https://www.reddit.com/r/selfhosted/comments/1w9lorf/what_are_your_thoughts_on_casaoszimaos_to/)
+- 2026-09-07T01:24:18+00:00 — [$200 self-built server with 28 CPU cores](https://www.reddit.com/r/selfhosted/comments/1w9e73g/200_selfbuilt_server_with_28_cpu_cores/)
+- 2026-09-07T11:29:43+00:00 — [Need an alternative to Seafile and Nextcloud](https://www.reddit.com/r/selfhosted/comments/1w9pla7/need_an_alternative_to_seafile_and_nextcloud/)
 - Sun, 06 Sep 2026 11:41:08 +0000 — [I load-tested self-hosted n8n on a $0 VM for 5 hours. The worst latency came from apt.](https://dev.to/edifierxuhao/i-load-tested-self-hosted-n8n-on-a-0-vm-for-5-hours-the-worst-latency-came-from-apt-40c1)
 - Sun, 06 Sep 2026 11:11:06 +0000 — [Common Problems Running HashiCorp Vault on Kubernetes (and How to Actually Fix Them)](https://dev.to/whitesama001/common-problems-running-hashicorp-vault-on-kubernetes-and-how-to-actually-fix-them-42bm)
-- 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
 - 2026-09-05T15:52:20+00:00 — [Built a 3-node Kubernetes homelab with Talos Linux](https://www.reddit.com/r/selfhosted/comments/1w84d8c/built_a_3node_kubernetes_homelab_with_talos_linux/)
 - 2026-09-06T06:46:28+00:00 — [How do you Download a Spotify Playlist on slskd?](https://www.reddit.com/r/selfhosted/comments/1w8omz3/how_do_you_download_a_spotify_playlist_on_slskd/)
 - 2026-09-05T19:28:24+00:00 — [Easy S3 backups for self-hosted SQLite apps](https://www.reddit.com/r/selfhosted/comments/1w8a25z/easy_s3_backups_for_selfhosted_sqlite_apps/)
@@ -97,14 +107,4 @@ Last update: 2026-09-06 11:46 UTC
 - 2026-08-26T05:09:37+00:00 — [How do I secure a website / web apps?](https://www.reddit.com/r/selfhosted/comments/1vynlp4/how_do_i_secure_a_website_web_apps/)
 - 2026-08-25T17:38:52+00:00 — [Updating self hosted apps](https://www.reddit.com/r/selfhosted/comments/1vy6ol8/updating_self_hosted_apps/)
 - 2026-08-25T17:54:15+00:00 — [I was looking to maybe try and find 32gb of ram, and wondering lower speed is worth it or not](https://www.reddit.com/r/selfhosted/comments/1vy740g/i_was_looking_to_maybe_try_and_find_32gb_of_ram/)
-- 2026-08-25T20:42:39+00:00 — [Just wanted to share my app Kept, an open source self-hosted Google Keep-style app I've built for people who love how simple Keep is.](https://www.reddit.com/r/selfhosted/comments/1vybxbq/just_wanted_to_share_my_app_kept_an_open_source/)
-- 2026-08-26T07:27:11+00:00 — [Centralized secret management (API, user vault, etc.) options](https://www.reddit.com/r/selfhosted/comments/1vyq33h/centralized_secret_management_api_user_vault_etc/)
-- 2026-08-26T06:40:34+00:00 — [Mobile Android App for Apache Guacamole](https://www.reddit.com/r/selfhosted/comments/1vyp9jv/mobile_android_app_for_apache_guacamole/)
-- 2026-08-24T20:42:04+00:00 — [How do you guys know if anyone’s breaking into your self hosted apps?](https://www.reddit.com/r/selfhosted/comments/1vxeuug/how_do_you_guys_know_if_anyones_breaking_into/)
-- 2026-08-26T03:08:44+00:00 — [Bookmark manager with offline first mobile](https://www.reddit.com/r/selfhosted/comments/1vyl5br/bookmark_manager_with_offline_first_mobile/)
-- 2026-08-25T13:32:09+00:00 — [NoteDiscovery 0.31.4 now tih custom share links and vault zip export](https://www.reddit.com/r/selfhosted/comments/1vxzyyn/notediscovery_0314_now_tih_custom_share_links_and/)
-- 2026-08-25T19:05:19+00:00 — [Issues with qBitTorrent downloads very slow with Gluetun and Tailscale.](https://www.reddit.com/r/selfhosted/comments/1vy95qz/issues_with_qbittorrent_downloads_very_slow_with/)
-- 2026-08-25T11:32:30+00:00 — [WebSSH - a self-hosted SSH and SFTP workspace for homelabs and teams](https://www.reddit.com/r/selfhosted/comments/1vxx7vd/webssh_a_selfhosted_ssh_and_sftp_workspace_for/)
-- Tue, 25 Aug 2026 08:12:48 +0000 — [The Model Is a Dependency. The Contract Is the Product.](https://dev.to/kongkong1/the-model-is-a-dependency-the-contract-is-the-product-alb)
-- Tue, 25 Aug 2026 08:03:20 +0000 — [What a 12-Year AWS Engineer Expects to Get Wrong About Google Cloud](https://dev.to/achutharaman/what-a-12-year-aws-engineer-expects-to-get-wrong-about-google-cloud-53gi)
 <!-- NEWS END -->
