@@ -2,22 +2,28 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-07 13:43 UTC
+Last update: 2026-09-08 12:19 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 07 Sep 2026 13:35:22 +0000 — [How to Build a Solo Developer Studio with Composable MCP Servers](https://dev.to/julianbrown/how-to-build-a-solo-developer-studio-with-composable-mcp-servers-462f)
+- Tue, 08 Sep 2026 12:10:32 +0000 — [Detecting Refresh Token Reuse with Redis (Working Code Included)](https://dev.to/polasamyeng/detecting-refresh-token-reuse-with-redis-working-code-included-fhd)
+- Tue, 08 Sep 2026 12:08:38 +0000 — [Making Refresh Tokens Actually Work in a FastMCP Google OAuth Server](https://dev.to/toyama0919/making-refresh-tokens-actually-work-in-a-fastmcp-google-oauth-server-3bp9)
 - 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
+- 2026-09-08T10:02:35+00:00 — [Arr on proxmox with NFS shares](https://www.reddit.com/r/selfhosted/comments/1wak4fi/arr_on_proxmox_with_nfs_shares/)
+- 2026-09-08T09:38:22+00:00 — [Begginer advice](https://www.reddit.com/r/selfhosted/comments/1wajow4/begginer_advice/)
+- 2026-09-07T13:38:10+00:00 — [DLSite List - a self-hosted personal DLsite library](https://www.reddit.com/r/selfhosted/comments/1w9sfta/dlsite_list_a_selfhosted_personal_dlsite_library/)
+- 2026-09-08T04:27:24+00:00 — [Audiobookshelf <-> Koreader sync through Bookbridge](https://www.reddit.com/r/selfhosted/comments/1wae9i4/audiobookshelf_koreader_sync_through_bookbridge/)
 - 2026-09-07T08:15:58+00:00 — [Renewlet — a self-hosted subscription tracker you can run in Docker](https://www.reddit.com/r/selfhosted/comments/1w9m59y/renewlet_a_selfhosted_subscription_tracker_you/)
+- 2026-09-07T11:29:43+00:00 — [Need an alternative to Seafile and Nextcloud](https://www.reddit.com/r/selfhosted/comments/1w9pla7/need_an_alternative_to_seafile_and_nextcloud/)
+- 2026-09-08T00:05:26+00:00 — [ZimaOS shows me two drives but installs every app on the system drive: my battle with Immich volumes](https://www.reddit.com/r/selfhosted/comments/1wa8rox/zimaos_shows_me_two_drives_but_installs_every_app/)
+- Mon, 07 Sep 2026 13:35:22 +0000 — [How to Build a Solo Developer Studio with Composable MCP Servers](https://dev.to/julianbrown/how-to-build-a-solo-developer-studio-with-composable-mcp-servers-462f)
 - 2026-09-07T02:17:02+00:00 — [I think my brain will explode trying to find a not crappy option help please.](https://www.reddit.com/r/selfhosted/comments/1w9fana/i_think_my_brain_will_explode_trying_to_find_a/)
 - 2026-09-06T19:21:32+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen, now at v0.1.0](https://www.reddit.com/r/selfhosted/comments/1w95hd1/kitchen_board_a_selfhosted_wall_planner_for_the/)
 - 2026-09-07T06:51:39+00:00 — [K3S vs Nomad](https://www.reddit.com/r/selfhosted/comments/1w9knm3/k3s_vs_nomad/)
-- 2026-09-07T13:38:10+00:00 — [DLSite List - a self-hosted personal DLsite library](https://www.reddit.com/r/selfhosted/comments/1w9sfta/dlsite_list_a_selfhosted_personal_dlsite_library/)
 - 2026-09-07T05:15:52+00:00 — [Getting Started](https://www.reddit.com/r/selfhosted/comments/1w9ivk1/getting_started/)
 - 2026-09-07T07:49:27+00:00 — [What are your thoughts on casaOS/zimaOS to simplify your life?](https://www.reddit.com/r/selfhosted/comments/1w9lorf/what_are_your_thoughts_on_casaoszimaos_to/)
 - 2026-09-07T01:24:18+00:00 — [$200 self-built server with 28 CPU cores](https://www.reddit.com/r/selfhosted/comments/1w9e73g/200_selfbuilt_server_with_28_cpu_cores/)
-- 2026-09-07T11:29:43+00:00 — [Need an alternative to Seafile and Nextcloud](https://www.reddit.com/r/selfhosted/comments/1w9pla7/need_an_alternative_to_seafile_and_nextcloud/)
 - Sun, 06 Sep 2026 11:41:08 +0000 — [I load-tested self-hosted n8n on a $0 VM for 5 hours. The worst latency came from apt.](https://dev.to/edifierxuhao/i-load-tested-self-hosted-n8n-on-a-0-vm-for-5-hours-the-worst-latency-came-from-apt-40c1)
 - Sun, 06 Sep 2026 11:11:06 +0000 — [Common Problems Running HashiCorp Vault on Kubernetes (and How to Actually Fix Them)](https://dev.to/whitesama001/common-problems-running-hashicorp-vault-on-kubernetes-and-how-to-actually-fix-them-42bm)
 - 2026-09-05T15:52:20+00:00 — [Built a 3-node Kubernetes homelab with Talos Linux](https://www.reddit.com/r/selfhosted/comments/1w84d8c/built_a_3node_kubernetes_homelab_with_talos_linux/)
@@ -101,10 +107,4 @@ Last update: 2026-09-07 13:43 UTC
 - 2026-08-27T01:39:09+00:00 — [Im running these. What am I missing?](https://www.reddit.com/r/selfhosted/comments/1vzgcdi/im_running_these_what_am_i_missing/)
 - 2026-08-27T18:22:42+00:00 — [Have you moved away from self-hosting towards commercial products or cloud services?](https://www.reddit.com/r/selfhosted/comments/1w01zv8/have_you_moved_away_from_selfhosting_towards/)
 - 2026-08-26T23:39:04+00:00 — [Any suggestions for self hosting games for small kids?](https://www.reddit.com/r/selfhosted/comments/1vzdm2u/any_suggestions_for_self_hosting_games_for_small/)
-- 2026-08-27T12:42:42+00:00 — [using *arr stack while jellyfin is offline?](https://www.reddit.com/r/selfhosted/comments/1vzswfw/using_arr_stack_while_jellyfin_is_offline/)
-- Wed, 26 Aug 2026 08:05:27 +0000 — [LangChain vs Bedrock: Which AI Framework to Choose?](https://dev.to/devtoaaron/langchain-vs-bedrock-which-ai-framework-to-choose-1l4a)
-- 2026-08-26T02:28:18+00:00 — [PSA: Avoid self hosting AppFlowy, they patched a vulnerability in their SaaS but didn't patch the self hosted version.](https://www.reddit.com/r/selfhosted/comments/1vyk94h/psa_avoid_self_hosting_appflowy_they_patched_a/)
-- 2026-08-26T05:09:37+00:00 — [How do I secure a website / web apps?](https://www.reddit.com/r/selfhosted/comments/1vynlp4/how_do_i_secure_a_website_web_apps/)
-- 2026-08-25T17:38:52+00:00 — [Updating self hosted apps](https://www.reddit.com/r/selfhosted/comments/1vy6ol8/updating_self_hosted_apps/)
-- 2026-08-25T17:54:15+00:00 — [I was looking to maybe try and find 32gb of ram, and wondering lower speed is worth it or not](https://www.reddit.com/r/selfhosted/comments/1vy740g/i_was_looking_to_maybe_try_and_find_32gb_of_ram/)
 <!-- NEWS END -->
