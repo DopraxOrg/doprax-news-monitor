@@ -2,15 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-08 12:19 UTC
+Last update: 2026-09-09 12:31 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 09 Sep 2026 12:15:00 +0000 — [Ceph vs RustFS: When to Use What (2026)](https://dev.to/ethan-carter/ceph-vs-rustfs-when-to-use-what-2026-11h8)
+- 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
+- 2026-09-09T08:34:15+00:00 — [Docker UWF security](https://www.reddit.com/r/selfhosted/comments/1wbfrq9/docker_uwf_security/)
+- 2026-09-08T12:17:04+00:00 — [Docker vs Podman](https://www.reddit.com/r/selfhosted/comments/1wamslb/docker_vs_podman/)
+- 2026-09-09T01:53:03+00:00 — [Self-Hosted Music](https://www.reddit.com/r/selfhosted/comments/1wb83mp/selfhosted_music/)
+- 2026-09-09T12:14:34+00:00 — [I gave the Claude phone app read/write access to my Obsidian vault. No laptop, no API key, no plugin. A Raspberry Pi, Obsidian Sync and a 100-line MCP server](https://www.reddit.com/r/selfhosted/comments/1wbjw78/i_gave_the_claude_phone_app_readwrite_access_to/)
+- 2026-09-09T00:46:39+00:00 — [Server for a small business](https://www.reddit.com/r/selfhosted/comments/1wb6lrf/server_for_a_small_business/)
+- 2026-09-08T22:12:45+00:00 — [what OS should i go with? (server)](https://www.reddit.com/r/selfhosted/comments/1wb2xjw/what_os_should_i_go_with_server/)
+- 2026-09-08T17:52:12+00:00 — [Hyvor Blogs, our blogging platform, is now open-source and self-hostable](https://www.reddit.com/r/selfhosted/comments/1wavn7x/hyvor_blogs_our_blogging_platform_is_now/)
+- 2026-09-08T10:02:35+00:00 — [Arr on proxmox with NFS shares](https://www.reddit.com/r/selfhosted/comments/1wak4fi/arr_on_proxmox_with_nfs_shares/)
 - Tue, 08 Sep 2026 12:10:32 +0000 — [Detecting Refresh Token Reuse with Redis (Working Code Included)](https://dev.to/polasamyeng/detecting-refresh-token-reuse-with-redis-working-code-included-fhd)
 - Tue, 08 Sep 2026 12:08:38 +0000 — [Making Refresh Tokens Actually Work in a FastMCP Google OAuth Server](https://dev.to/toyama0919/making-refresh-tokens-actually-work-in-a-fastmcp-google-oauth-server-3bp9)
-- 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
-- 2026-09-08T10:02:35+00:00 — [Arr on proxmox with NFS shares](https://www.reddit.com/r/selfhosted/comments/1wak4fi/arr_on_proxmox_with_nfs_shares/)
 - 2026-09-08T09:38:22+00:00 — [Begginer advice](https://www.reddit.com/r/selfhosted/comments/1wajow4/begginer_advice/)
 - 2026-09-07T13:38:10+00:00 — [DLSite List - a self-hosted personal DLsite library](https://www.reddit.com/r/selfhosted/comments/1w9sfta/dlsite_list_a_selfhosted_personal_dlsite_library/)
 - 2026-09-08T04:27:24+00:00 — [Audiobookshelf <-> Koreader sync through Bookbridge](https://www.reddit.com/r/selfhosted/comments/1wae9i4/audiobookshelf_koreader_sync_through_bookbridge/)
@@ -99,12 +107,4 @@ Last update: 2026-09-08 12:19 UTC
 - 2026-08-28T16:48:29+00:00 — [Easy docker projects for privacy and replacing subscriptions?](https://www.reddit.com/r/selfhosted/comments/1w0vw00/easy_docker_projects_for_privacy_and_replacing/)
 - 2026-08-28T04:31:47+00:00 — [Fighting Zscaler and access control at work with selfhosting. It's difficult.](https://www.reddit.com/r/selfhosted/comments/1w0glyt/fighting_zscaler_and_access_control_at_work_with/)
 - 2026-08-27T18:58:29+00:00 — [I built MTL Explorer to see all my GPS tracks on one map](https://www.reddit.com/r/selfhosted/comments/1w02zpy/i_built_mtl_explorer_to_see_all_my_gps_tracks_on/)
-- Thu, 27 Aug 2026 18:17:36 +0000 — [Serverless and Agentic Coding Are a Match Made in Heaven](https://dev.to/garethmcc/serverless-and-agentic-coding-are-a-match-made-in-heaven-2ah9)
-- Thu, 27 Aug 2026 18:00:46 +0000 — [Beyond the LLM: Why RAG Checklists, Agent Observability, and Lightweight Infrastructure Are the New Developer Stack](https://dev.to/tamizuddin/beyond-the-llm-why-rag-checklists-agent-observability-and-lightweight-infrastructure-are-the-new-3776)
-- 2026-08-20T22:01:05+00:00 — [New Project Megathread - Week of 20 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1vtxgy6/new_project_megathread_week_of_20_aug_2026/)
-- 2026-08-27T17:29:10+00:00 — [IMAP to mirror/sync and become the ongoing access method for new messages.](https://www.reddit.com/r/selfhosted/comments/1w00hbm/imap_to_mirrorsync_and_become_the_ongoing_access/)
-- 2026-08-26T21:12:15+00:00 — [I am the guy who lost all the data the other week](https://www.reddit.com/r/selfhosted/comments/1vz9yup/i_am_the_guy_who_lost_all_the_data_the_other_week/)
-- 2026-08-27T01:39:09+00:00 — [Im running these. What am I missing?](https://www.reddit.com/r/selfhosted/comments/1vzgcdi/im_running_these_what_am_i_missing/)
-- 2026-08-27T18:22:42+00:00 — [Have you moved away from self-hosting towards commercial products or cloud services?](https://www.reddit.com/r/selfhosted/comments/1w01zv8/have_you_moved_away_from_selfhosting_towards/)
-- 2026-08-26T23:39:04+00:00 — [Any suggestions for self hosting games for small kids?](https://www.reddit.com/r/selfhosted/comments/1vzdm2u/any_suggestions_for_self_hosting_games_for_small/)
 <!-- NEWS END -->
