@@ -2,13 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-09 12:31 UTC
+Last update: 2026-09-10 12:24 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 09 Sep 2026 12:15:00 +0000 — [Ceph vs RustFS: When to Use What (2026)](https://dev.to/ethan-carter/ceph-vs-rustfs-when-to-use-what-2026-11h8)
+- Thu, 10 Sep 2026 12:14:14 +0000 — [Best MCP Servers in 2026: One Pick Per Category](https://dev.to/amareswer/best-mcp-servers-in-2026-one-pick-per-category-1mdg)
 - 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
+- 2026-09-09T21:35:15+00:00 — [Homelable v3.4.1 - You can finally document your homelab (properly)](https://www.reddit.com/r/selfhosted/comments/1wbz4s9/homelable_v341_you_can_finally_document_your/)
+- 2026-09-10T03:35:17+00:00 — [Is exposing services to public internet really that complicated?](https://www.reddit.com/r/selfhosted/comments/1wc7mwa/is_exposing_services_to_public_internet_really/)
+- 2026-09-09T14:14:28+00:00 — [Trying to secure my homeserver as a beginner](https://www.reddit.com/r/selfhosted/comments/1wbmsgq/trying_to_secure_my_homeserver_as_a_beginner/)
+- 2026-09-10T00:50:41+00:00 — [When is enough, enough?](https://www.reddit.com/r/selfhosted/comments/1wc3yfo/when_is_enough_enough/)
+- 2026-09-10T08:43:40+00:00 — [My first Homeserver/lab: which distro or setup for my needs?](https://www.reddit.com/r/selfhosted/comments/1wcdehu/my_first_homeserverlab_which_distro_or_setup_for/)
+- Wed, 09 Sep 2026 12:15:00 +0000 — [Ceph vs RustFS: When to Use What (2026)](https://dev.to/ethan-carter/ceph-vs-rustfs-when-to-use-what-2026-11h8)
 - 2026-09-09T08:34:15+00:00 — [Docker UWF security](https://www.reddit.com/r/selfhosted/comments/1wbfrq9/docker_uwf_security/)
 - 2026-09-08T12:17:04+00:00 — [Docker vs Podman](https://www.reddit.com/r/selfhosted/comments/1wamslb/docker_vs_podman/)
 - 2026-09-09T01:53:03+00:00 — [Self-Hosted Music](https://www.reddit.com/r/selfhosted/comments/1wb83mp/selfhosted_music/)
@@ -101,10 +107,4 @@ Last update: 2026-09-09 12:31 UTC
 - 2026-08-28T22:25:22+00:00 — [Best lightway usage? Rebuilding the last time my Server](https://www.reddit.com/r/selfhosted/comments/1w14usc/best_lightway_usage_rebuilding_the_last_time_my/)
 - 2026-08-28T23:00:15+00:00 — [Ntfy setup](https://www.reddit.com/r/selfhosted/comments/1w15p2l/ntfy_setup/)
 - Fri, 28 Aug 2026 19:15:50 +0000 — [Understanding Kubernetes: A Beginner's Guide to Container Orchestration](https://dev.to/bibekkakati/understanding-kubernetes-a-beginners-guide-to-container-orchestration-2dgo)
-- Fri, 28 Aug 2026 19:15:44 +0000 — [CI/CD: From Green Checks to Real Confidence](https://dev.to/motarek08/cicd-from-green-checks-to-real-confidence-12bf)
-- 2026-08-27T14:51:36+00:00 — [Jellyfin but for game emulation](https://www.reddit.com/r/selfhosted/comments/1vzw5tq/jellyfin_but_for_game_emulation/)
-- 2026-08-27T11:26:28+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen (v0.0.18)](https://www.reddit.com/r/selfhosted/comments/1vzr8y7/kitchen_board_a_selfhosted_wall_planner_for_the/)
-- 2026-08-28T16:48:29+00:00 — [Easy docker projects for privacy and replacing subscriptions?](https://www.reddit.com/r/selfhosted/comments/1w0vw00/easy_docker_projects_for_privacy_and_replacing/)
-- 2026-08-28T04:31:47+00:00 — [Fighting Zscaler and access control at work with selfhosting. It's difficult.](https://www.reddit.com/r/selfhosted/comments/1w0glyt/fighting_zscaler_and_access_control_at_work_with/)
-- 2026-08-27T18:58:29+00:00 — [I built MTL Explorer to see all my GPS tracks on one map](https://www.reddit.com/r/selfhosted/comments/1w02zpy/i_built_mtl_explorer_to_see_all_my_gps_tracks_on/)
 <!-- NEWS END -->
