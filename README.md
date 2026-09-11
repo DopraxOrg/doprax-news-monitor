@@ -2,15 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-10 12:24 UTC
+Last update: 2026-09-11 12:23 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Thu, 10 Sep 2026 12:14:14 +0000 — [Best MCP Servers in 2026: One Pick Per Category](https://dev.to/amareswer/best-mcp-servers-in-2026-one-pick-per-category-1mdg)
-- 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
+- Fri, 11 Sep 2026 12:03:40 +0000 — [The Kubernetes 1.37 Deadline That Doesn't Exist — And the One That Does](https://dev.to/ntctech/the-kubernetes-137-deadline-that-doesnt-exist-and-the-one-that-does-1417)
+- Fri, 11 Sep 2026 12:02:35 +0000 — [Beyond the Demo: Engineering Resilient AI Systems Before Production Failure](https://dev.to/tamizuddin/beyond-the-demo-engineering-resilient-ai-systems-before-production-failure-5402)
+- 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
+- 2026-09-11T09:40:26+00:00 — [Portainer 3 Coming Without CE. Pivoting to Kubernetes and Enterprise Focus.](https://www.reddit.com/r/selfhosted/comments/1wdbia2/portainer_3_coming_without_ce_pivoting_to/)
+- 2026-09-11T10:29:44+00:00 — [Vaultisse – a self-hosted app to track a physical book collection (shelf location, lending, ISBN lookup)](https://www.reddit.com/r/selfhosted/comments/1wdcem9/vaultisse_a_selfhosted_app_to_track_a_physical/)
+- 2026-09-10T13:22:50+00:00 — [Two months into self hosting, loving it so far](https://www.reddit.com/r/selfhosted/comments/1wcj3da/two_months_into_self_hosting_loving_it_so_far/)
+- 2026-09-11T06:16:37+00:00 — [How to face security risk of ai attacks and build an zero-trust setup](https://www.reddit.com/r/selfhosted/comments/1wd80g4/how_to_face_security_risk_of_ai_attacks_and_build/)
+- 2026-09-10T17:44:35+00:00 — [TapMap update: application identification, connection history and MQTT notifications](https://www.reddit.com/r/selfhosted/comments/1wcq7tp/tapmap_update_application_identification/)
 - 2026-09-09T21:35:15+00:00 — [Homelable v3.4.1 - You can finally document your homelab (properly)](https://www.reddit.com/r/selfhosted/comments/1wbz4s9/homelable_v341_you_can_finally_document_your/)
 - 2026-09-10T03:35:17+00:00 — [Is exposing services to public internet really that complicated?](https://www.reddit.com/r/selfhosted/comments/1wc7mwa/is_exposing_services_to_public_internet_really/)
+- Thu, 10 Sep 2026 12:14:14 +0000 — [Best MCP Servers in 2026: One Pick Per Category](https://dev.to/amareswer/best-mcp-servers-in-2026-one-pick-per-category-1mdg)
+- 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
 - 2026-09-09T14:14:28+00:00 — [Trying to secure my homeserver as a beginner](https://www.reddit.com/r/selfhosted/comments/1wbmsgq/trying_to_secure_my_homeserver_as_a_beginner/)
 - 2026-09-10T00:50:41+00:00 — [When is enough, enough?](https://www.reddit.com/r/selfhosted/comments/1wc3yfo/when_is_enough_enough/)
 - 2026-09-10T08:43:40+00:00 — [My first Homeserver/lab: which distro or setup for my needs?](https://www.reddit.com/r/selfhosted/comments/1wcdehu/my_first_homeserverlab_which_distro_or_setup_for/)
@@ -99,12 +107,4 @@ Last update: 2026-09-10 12:24 UTC
 - 2026-08-30T04:41:34+00:00 — [Opinions on using Podman long term](https://www.reddit.com/r/selfhosted/comments/1w27tjf/opinions_on_using_podman_long_term/)
 - 2026-08-29T22:22:31+00:00 — [Portainer vs. Dockhand, which one do you prefer and why?](https://www.reddit.com/r/selfhosted/comments/1w1zvnz/portainer_vs_dockhand_which_one_do_you_prefer_and/)
 - 2026-08-29T11:14:02+00:00 — [Moving from Tailscale to other VPN, worth it?](https://www.reddit.com/r/selfhosted/comments/1w1jt2k/moving_from_tailscale_to_other_vpn_worth_it/)
-- Sat, 29 Aug 2026 13:00:26 +0000 — [The Pipeline Worked. Then the Research Outgrew It.](https://dev.to/daemonic01/the-pipeline-worked-then-the-research-outgrew-it-pk4)
-- Sat, 29 Aug 2026 13:00:00 +0000 — [Debugging a Network Problem From Another Machine](https://dev.to/heymaikol/debugging-a-network-problem-from-another-machine-1fam)
-- 2026-08-28T08:24:40+00:00 — [Anyone using NixOS to selfhost?](https://www.reddit.com/r/selfhosted/comments/1w0knhs/anyone_using_nixos_to_selfhost/)
-- 2026-08-28T10:21:15+00:00 — [What are you using to manage Docker ?](https://www.reddit.com/r/selfhosted/comments/1w0mnlz/what_are_you_using_to_manage_docker/)
-- 2026-08-28T06:18:48+00:00 — [Redlib is the GOAT for a debloated Reddit front end](https://www.reddit.com/r/selfhosted/comments/1w0ijy7/redlib_is_the_goat_for_a_debloated_reddit_front/)
-- 2026-08-28T22:25:22+00:00 — [Best lightway usage? Rebuilding the last time my Server](https://www.reddit.com/r/selfhosted/comments/1w14usc/best_lightway_usage_rebuilding_the_last_time_my/)
-- 2026-08-28T23:00:15+00:00 — [Ntfy setup](https://www.reddit.com/r/selfhosted/comments/1w15p2l/ntfy_setup/)
-- Fri, 28 Aug 2026 19:15:50 +0000 — [Understanding Kubernetes: A Beginner's Guide to Container Orchestration](https://dev.to/bibekkakati/understanding-kubernetes-a-beginners-guide-to-container-orchestration-2dgo)
 <!-- NEWS END -->
