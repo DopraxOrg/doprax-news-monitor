@@ -2,16 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-12 11:45 UTC
+Last update: 2026-09-13 12:52 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 13 Sep 2026 12:15:47 +0000 — [The Markdown Blackboard: Zero-Overhead Multi-Agent Orchestration](https://dev.to/varun_agarwal/the-markdown-blackboard-zero-overhead-multi-agent-orchestration-3j7m)
+- 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
+- 2026-09-12T22:51:53+00:00 — [Blockbusterr v2.0.0: self-hosted media discovery with rules, previews, and delivery limits](https://www.reddit.com/r/selfhosted/comments/1weqrz1/blockbusterr_v200_selfhosted_media_discovery_with/)
+- 2026-09-12T22:57:49+00:00 — [BetterShift - a self-hosted shift planner - big v3 redesign](https://www.reddit.com/r/selfhosted/comments/1weqwum/bettershift_a_selfhosted_shift_planner_big_v3/)
+- 2026-09-13T06:25:23+00:00 — [Jetson Nano becomes partially unresponsive every 2-3 days while running Docker, ping works but SSH/apps hang](https://www.reddit.com/r/selfhosted/comments/1wezwu2/jetson_nano_becomes_partially_unresponsive_every/)
+- 2026-09-12T08:02:29+00:00 — [A server backup solution that actually works?](https://www.reddit.com/r/selfhosted/comments/1we6jj9/a_server_backup_solution_that_actually_works/)
+- 2026-09-13T12:05:11+00:00 — [Need help for moonlight access from school](https://www.reddit.com/r/selfhosted/comments/1wf5vpt/need_help_for_moonlight_access_from_school/)
+- 2026-09-12T17:04:44+00:00 — [What are people's thoughts on PaaS providers for Docker containers?](https://www.reddit.com/r/selfhosted/comments/1wehzg2/what_are_peoples_thoughts_on_paas_providers_for/)
+- 2026-09-13T08:03:12+00:00 — [Gmail OAuth 100-user limit — has anyone used multiple Google Cloud projects with EmailEngine/IMAP?](https://www.reddit.com/r/selfhosted/comments/1wf1lge/gmail_oauth_100user_limit_has_anyone_used/)
+- 2026-09-11T21:59:54+00:00 — [Vaultisse – self-hosted physical book collection tracker with shelf location](https://www.reddit.com/r/selfhosted/comments/1wdu5sd/vaultisse_selfhosted_physical_book_collection/)
 - Sat, 12 Sep 2026 11:41:54 +0000 — [Choosing free on-prem git server - Gitea is the winner!](https://dev.to/rosgluk/choosing-free-on-prem-git-server-gitea-is-the-winner-32a7)
 - Sat, 12 Sep 2026 11:30:54 +0000 — [You Don't Need Express to Build a Microservice (Here's the Zero-Dependency Version)](https://dev.to/dev_encyclopedia/you-dont-need-express-to-build-a-microservice-heres-the-zero-dependency-version-921)
-- 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
-- 2026-09-12T08:02:29+00:00 — [A server backup solution that actually works?](https://www.reddit.com/r/selfhosted/comments/1we6jj9/a_server_backup_solution_that_actually_works/)
-- 2026-09-11T21:59:54+00:00 — [Vaultisse – self-hosted physical book collection tracker with shelf location](https://www.reddit.com/r/selfhosted/comments/1wdu5sd/vaultisse_selfhosted_physical_book_collection/)
 - 2026-09-11T09:40:26+00:00 — [Portainer 3 Coming Without CE. Pivoting to Kubernetes and Enterprise Focus.](https://www.reddit.com/r/selfhosted/comments/1wdbia2/portainer_3_coming_without_ce_pivoting_to/)
 - 2026-09-11T14:19:58+00:00 — [GyroidVault v2.0 — Self-hosted 3D model vault & library manager](https://www.reddit.com/r/selfhosted/comments/1wdhnc3/gyroidvault_v20_selfhosted_3d_model_vault_library/)
 - 2026-09-12T07:19:19+00:00 — [Need help with Docker configuration.](https://www.reddit.com/r/selfhosted/comments/1we5sid/need_help_with_docker_configuration/)
@@ -100,11 +107,4 @@ Last update: 2026-09-12 11:45 UTC
 - 2026-09-01T08:39:11+00:00 — [Suggestions for alternative apps](https://www.reddit.com/r/selfhosted/comments/1w45zue/suggestions_for_alternative_apps/)
 - 2026-08-31T21:24:20+00:00 — [How do you balance security-through-updating with security-through-not-updating?](https://www.reddit.com/r/selfhosted/comments/1w3rink/how_do_you_balance_securitythroughupdating_with/)
 - Tue, 01 Sep 2026 12:43:48 +0000 — [A memory server remembers your conversation. That is not the same as knowing your code.](https://dev.to/constantinemakoid/a-memory-server-remembers-your-conversation-that-is-not-the-same-as-knowing-your-code-2mjc)
-- Tue, 01 Sep 2026 12:40:21 +0000 — [The Day My Lecture Notes Bot Contradicted Itself](https://dev.to/magickong/the-day-my-lecture-notes-bot-contradicted-itself-1nja)
-- Tue, 01 Sep 2026 12:17:13 +0000 — [Building a Real-Time Dashboard with FastAPI, WebSockets, and MySQL](https://dev.to/dulannithilaliyanarachchi/building-a-real-time-dashboard-with-fastapi-websockets-and-mysql-1494)
-- 2026-09-01T06:42:24+00:00 — [How do you prefer your apps packaged?](https://www.reddit.com/r/selfhosted/comments/1w43yy0/how_do_you_prefer_your_apps_packaged/)
-- 2026-09-01T08:41:45+00:00 — [self-hosted multi-hop VPN acc worth the hassle??](https://www.reddit.com/r/selfhosted/comments/1w461eb/selfhosted_multihop_vpn_acc_worth_the_hassle/)
-- 2026-08-31T18:36:50+00:00 — [Raspberry PI 8GB running Immich and other stuff with external NAS](https://www.reddit.com/r/selfhosted/comments/1w3mng3/raspberry_pi_8gb_running_immich_and_other_stuff/)
-- Mon, 31 Aug 2026 15:24:19 +0000 — [What I Learned Partitioning a Billion-Row Table in Production](https://dev.to/abimwaqas/what-i-learned-partitioning-a-billion-row-table-in-production-j8)
-- 2026-08-31T12:46:15+00:00 — [Best practices for hardening Pi & VPS and Docker containers](https://www.reddit.com/r/selfhosted/comments/1w3crhr/best_practices_for_hardening_pi_vps_and_docker/)
 <!-- NEWS END -->
