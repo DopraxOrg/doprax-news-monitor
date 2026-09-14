@@ -2,13 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-13 12:52 UTC
+Last update: 2026-09-14 14:29 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sun, 13 Sep 2026 12:15:47 +0000 — [The Markdown Blackboard: Zero-Overhead Multi-Agent Orchestration](https://dev.to/varun_agarwal/the-markdown-blackboard-zero-overhead-multi-agent-orchestration-3j7m)
+- Mon, 14 Sep 2026 14:13:40 +0000 — [How I Built a Verifier Engine That Catches AI Agents Lying About What They Did](https://dev.to/yaminbinyoosuf/how-i-built-a-verifier-engine-that-catches-ai-agents-lying-about-what-they-did-1ppj)
 - 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
+- 2026-09-14T01:46:08+00:00 — [My homelab was compromised. Here is what I learned, and what I need to figure out.](https://www.reddit.com/r/selfhosted/comments/1wfq2vx/my_homelab_was_compromised_here_is_what_i_learned/)
+- 2026-09-14T10:55:18+00:00 — [What self-hosted security tools would you recommend?](https://www.reddit.com/r/selfhosted/comments/1wg04o8/what_selfhosted_security_tools_would_you_recommend/)
+- 2026-09-14T12:37:21+00:00 — [Uptime Kuma SQLite DB keeps growing and won't shrink](https://www.reddit.com/r/selfhosted/comments/1wg289i/uptime_kuma_sqlite_db_keeps_growing_and_wont/)
+- 2026-09-14T06:36:31+00:00 — [Backup storage on proxmox](https://www.reddit.com/r/selfhosted/comments/1wfvs3e/backup_storage_on_proxmox/)
+- 2026-09-13T15:37:19+00:00 — [PSA for those using pinned qmcgaw Gluetun](https://www.reddit.com/r/selfhosted/comments/1wfay9n/psa_for_those_using_pinned_qmcgaw_gluetun/)
+- 2026-09-13T15:56:33+00:00 — [Docker Socket Proxies - enhanced security or just another attack vector? (Arcane + e.g. wollomatic)](https://www.reddit.com/r/selfhosted/comments/1wfbgea/docker_socket_proxies_enhanced_security_or_just/)
+- 2026-09-14T14:02:28+00:00 — [Docker Management Sencho vs Arcane](https://www.reddit.com/r/selfhosted/comments/1wg4b8n/docker_management_sencho_vs_arcane/)
+- 2026-09-14T10:16:00+00:00 — [Hide one service, and one only, behind a VPN WHILE accessing it through a reverse proxy](https://www.reddit.com/r/selfhosted/comments/1wfzf1v/hide_one_service_and_one_only_behind_a_vpn_while/)
+- 2026-09-14T09:11:55+00:00 — [Quick question](https://www.reddit.com/r/selfhosted/comments/1wfyc9p/quick_question/)
+- Sun, 13 Sep 2026 12:15:47 +0000 — [The Markdown Blackboard: Zero-Overhead Multi-Agent Orchestration](https://dev.to/varun_agarwal/the-markdown-blackboard-zero-overhead-multi-agent-orchestration-3j7m)
 - 2026-09-12T22:51:53+00:00 — [Blockbusterr v2.0.0: self-hosted media discovery with rules, previews, and delivery limits](https://www.reddit.com/r/selfhosted/comments/1weqrz1/blockbusterr_v200_selfhosted_media_discovery_with/)
 - 2026-09-12T22:57:49+00:00 — [BetterShift - a self-hosted shift planner - big v3 redesign](https://www.reddit.com/r/selfhosted/comments/1weqwum/bettershift_a_selfhosted_shift_planner_big_v3/)
 - 2026-09-13T06:25:23+00:00 — [Jetson Nano becomes partially unresponsive every 2-3 days while running Docker, ping works but SSH/apps hang](https://www.reddit.com/r/selfhosted/comments/1wezwu2/jetson_nano_becomes_partially_unresponsive_every/)
@@ -97,14 +107,4 @@ Last update: 2026-09-13 12:52 UTC
 - 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
 - 2026-09-02T21:12:16+00:00 — [How did self-hosting started for you?](https://www.reddit.com/r/selfhosted/comments/1w5ndfl/how_did_selfhosting_started_for_you/)
 - 2026-09-03T03:18:55+00:00 — [Jellyfin/Jellyseerr/media server](https://www.reddit.com/r/selfhosted/comments/1w5vu37/jellyfinjellyseerrmedia_server/)
-- 2026-09-02T14:18:16+00:00 — [CrowdSec v1.8 just Released! Self hosted ids/ips/waf, now with bot detection!](https://www.reddit.com/r/selfhosted/comments/1w5botz/crowdsec_v18_just_released_self_hosted_idsipswaf/)
-- 2026-09-02T10:24:31+00:00 — [Dawarich 1.14.1 - now rendering millions of points in seconds!](https://www.reddit.com/r/selfhosted/comments/1w56g1u/dawarich_1141_now_rendering_millions_of_points_in/)
-- 2026-09-02T08:44:12+00:00 — [How practical is using a VPN for homelab access?](https://www.reddit.com/r/selfhosted/comments/1w54oiy/how_practical_is_using_a_vpn_for_homelab_access/)
-- 2026-09-03T00:43:06+00:00 — [Self Hosting on my phone](https://www.reddit.com/r/selfhosted/comments/1w5si2p/self_hosting_on_my_phone/)
-- 2026-09-02T17:50:30+00:00 — [Which saver of web-pages to use?](https://www.reddit.com/r/selfhosted/comments/1w5hmcb/which_saver_of_webpages_to_use/)
-- 2026-09-02T10:51:18+00:00 — [Alternatives to vanilla WireGuard to access home network](https://www.reddit.com/r/selfhosted/comments/1w56xxq/alternatives_to_vanilla_wireguard_to_access_home/)
-- 2026-09-01T17:24:19+00:00 — [Private DNS on public cloud](https://www.reddit.com/r/selfhosted/comments/1w4imd6/private_dns_on_public_cloud/)
-- 2026-09-01T08:39:11+00:00 — [Suggestions for alternative apps](https://www.reddit.com/r/selfhosted/comments/1w45zue/suggestions_for_alternative_apps/)
-- 2026-08-31T21:24:20+00:00 — [How do you balance security-through-updating with security-through-not-updating?](https://www.reddit.com/r/selfhosted/comments/1w3rink/how_do_you_balance_securitythroughupdating_with/)
-- Tue, 01 Sep 2026 12:43:48 +0000 — [A memory server remembers your conversation. That is not the same as knowing your code.](https://dev.to/constantinemakoid/a-memory-server-remembers-your-conversation-that-is-not-the-same-as-knowing-your-code-2mjc)
 <!-- NEWS END -->
