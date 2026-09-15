@@ -2,16 +2,27 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-14 14:29 UTC
+Last update: 2026-09-15 12:55 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 14 Sep 2026 14:13:40 +0000 — [How I Built a Verifier Engine That Catches AI Agents Lying About What They Did](https://dev.to/yaminbinyoosuf/how-i-built-a-verifier-engine-that-catches-ai-agents-lying-about-what-they-did-1ppj)
+- Tue, 15 Sep 2026 12:45:16 +0000 — [Self-Host n8n on AWS EC2 with Docker - Install to First Login](https://dev.to/aws-builders/self-host-n8n-on-aws-ec2-with-docker-install-to-first-login-202n)
+- Tue, 15 Sep 2026 12:38:30 +0000 — [Your AI Has the Memory of a Goldfish. Here's Why That's Finally Changing.](https://dev.to/isha_jain_5df3501f5266794/your-ai-has-the-memory-of-a-goldfish-heres-why-thats-finally-changing-368h)
 - 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
+- 2026-09-15T05:54:00+00:00 — [TV Box for Privacy](https://www.reddit.com/r/selfhosted/comments/1wgru4c/tv_box_for_privacy/)
 - 2026-09-14T01:46:08+00:00 — [My homelab was compromised. Here is what I learned, and what I need to figure out.](https://www.reddit.com/r/selfhosted/comments/1wfq2vx/my_homelab_was_compromised_here_is_what_i_learned/)
+- 2026-09-15T07:44:46+00:00 — [Apple Mac Mini for self hosting?](https://www.reddit.com/r/selfhosted/comments/1wgtr5m/apple_mac_mini_for_self_hosting/)
+- 2026-09-15T08:17:58+00:00 — [Perplexica problem](https://www.reddit.com/r/selfhosted/comments/1wguazi/perplexica_problem/)
 - 2026-09-14T10:55:18+00:00 — [What self-hosted security tools would you recommend?](https://www.reddit.com/r/selfhosted/comments/1wg04o8/what_selfhosted_security_tools_would_you_recommend/)
+- 2026-09-15T10:57:28+00:00 — [whisper will not work no matter what in home assistant docker stack](https://www.reddit.com/r/selfhosted/comments/1wgx3i1/whisper_will_not_work_no_matter_what_in_home/)
+- 2026-09-15T06:06:24+00:00 — [In over my head & looking for advice.](https://www.reddit.com/r/selfhosted/comments/1wgs2c8/in_over_my_head_looking_for_advice/)
+- 2026-09-14T14:38:19+00:00 — [How do you deal with OS updates on servers you can't afford to break?](https://www.reddit.com/r/selfhosted/comments/1wg58zk/how_do_you_deal_with_os_updates_on_servers_you/)
+- 2026-09-15T12:34:59+00:00 — [Lode - your users shouldn't have to understand your media stack](https://www.reddit.com/r/selfhosted/comments/1wgz5h0/lode_your_users_shouldnt_have_to_understand_your/)
 - 2026-09-14T12:37:21+00:00 — [Uptime Kuma SQLite DB keeps growing and won't shrink](https://www.reddit.com/r/selfhosted/comments/1wg289i/uptime_kuma_sqlite_db_keeps_growing_and_wont/)
+- 2026-09-14T15:32:21+00:00 — [Longhorn on Kubernetes: A hands-on guide covering installation, PVC migration, storage classes, and backup](https://www.reddit.com/r/selfhosted/comments/1wg6ox6/longhorn_on_kubernetes_a_handson_guide_covering/)
+- 2026-09-15T09:40:49+00:00 — [IllusionDB - a complete freeware alternative to airtable, nocodb, supabase or directus](https://www.reddit.com/r/selfhosted/comments/1wgvon7/illusiondb_a_complete_freeware_alternative_to/)
+- Mon, 14 Sep 2026 14:13:40 +0000 — [How I Built a Verifier Engine That Catches AI Agents Lying About What They Did](https://dev.to/yaminbinyoosuf/how-i-built-a-verifier-engine-that-catches-ai-agents-lying-about-what-they-did-1ppj)
 - 2026-09-14T06:36:31+00:00 — [Backup storage on proxmox](https://www.reddit.com/r/selfhosted/comments/1wfvs3e/backup_storage_on_proxmox/)
 - 2026-09-13T15:37:19+00:00 — [PSA for those using pinned qmcgaw Gluetun](https://www.reddit.com/r/selfhosted/comments/1wfay9n/psa_for_those_using_pinned_qmcgaw_gluetun/)
 - 2026-09-13T15:56:33+00:00 — [Docker Socket Proxies - enhanced security or just another attack vector? (Arcane + e.g. wollomatic)](https://www.reddit.com/r/selfhosted/comments/1wfbgea/docker_socket_proxies_enhanced_security_or_just/)
@@ -96,15 +107,4 @@ Last update: 2026-09-14 14:29 UTC
 - 2026-09-04T14:09:17+00:00 — [Escaping Google's clutches](https://www.reddit.com/r/selfhosted/comments/1w75guq/escaping_googles_clutches/)
 - 2026-09-05T10:36:11+00:00 — [Went away from Proxmox on my homelab, no regrets so far](https://www.reddit.com/r/selfhosted/comments/1w7x7wv/went_away_from_proxmox_on_my_homelab_no_regrets/)
 - Fri, 04 Sep 2026 12:03:32 +0000 — [The True Cost of Game Development Outsourcing](https://dev.to/oceanviewgames/the-true-cost-of-game-development-outsourcing-35p0)
-- Fri, 04 Sep 2026 12:02:05 +0000 — [OB1 Feels Surprisingly Clean, Until Docker Networking Enters the Conversation](https://dev.to/james_lin/ob1-feels-surprisingly-clean-until-docker-networking-enters-the-conversation-47eh)
-- 2026-09-03T19:16:19+00:00 — [Self hosting library - PDF, ePUB, CBZ what's the best method?](https://www.reddit.com/r/selfhosted/comments/1w6h3c4/self_hosting_library_pdf_epub_cbz_whats_the_best/)
-- 2026-09-03T19:54:35+00:00 — [unraid + Tailscale: connect the whole box, or use the option for each container?](https://www.reddit.com/r/selfhosted/comments/1w6i6s4/unraid_tailscale_connect_the_whole_box_or_use_the/)
-- 2026-09-02T12:05:10+00:00 — [My self-hosted homelab homepage is finally at the point where I’m actually proud of it](https://www.reddit.com/r/selfhosted/comments/1w58f60/my_selfhosted_homelab_homepage_is_finally_at_the/)
-- 2026-09-03T23:40:32+00:00 — [Sanity Check - New Server, Config and External Access](https://www.reddit.com/r/selfhosted/comments/1w6o1a8/sanity_check_new_server_config_and_external_access/)
-- 2026-09-03T08:42:50+00:00 — [Paperless-ngx v3 + Ollama: Best AI model on low-power Intel iGPU?](https://www.reddit.com/r/selfhosted/comments/1w61onv/paperlessngx_v3_ollama_best_ai_model_on_lowpower/)
-- 2026-09-04T11:46:02+00:00 — [openGym v. 1.3](https://www.reddit.com/r/selfhosted/comments/1w722q0/opengym_v_13/)
-- Thu, 03 Sep 2026 12:05:33 +0000 — [Phantom Capacity: Why Texas Couldn't Tell Real Demand From Noise](https://dev.to/ntctech/phantom-capacity-why-texas-couldnt-tell-real-demand-from-noise-2gib)
-- 2026-08-27T22:01:24+00:00 — [New Project Megathread - Week of 27 Aug 2026](https://www.reddit.com/r/selfhosted/comments/1w07yna/new_project_megathread_week_of_27_aug_2026/)
-- 2026-09-02T21:12:16+00:00 — [How did self-hosting started for you?](https://www.reddit.com/r/selfhosted/comments/1w5ndfl/how_did_selfhosting_started_for_you/)
-- 2026-09-03T03:18:55+00:00 — [Jellyfin/Jellyseerr/media server](https://www.reddit.com/r/selfhosted/comments/1w5vu37/jellyfinjellyseerrmedia_server/)
 <!-- NEWS END -->
