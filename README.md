@@ -2,14 +2,20 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-15 12:55 UTC
+Last update: 2026-09-16 12:52 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 16 Sep 2026 12:30:56 +0000 — [Amazon S3 Tables Alternatives for Production Iceberg](https://dev.to/jonisar/amazon-s3-tables-alternatives-for-production-iceberg-3ibp)
+- 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
+- 2026-09-16T04:45:11+00:00 — [I moved my ~150 TB server from Unraid to Debian without moving the data](https://www.reddit.com/r/selfhosted/comments/1whnbd2/i_moved_my_150_tb_server_from_unraid_to_debian/)
+- 2026-09-15T18:43:03+00:00 — [Methods to transfer files between buddies homelab](https://www.reddit.com/r/selfhosted/comments/1wh8zao/methods_to_transfer_files_between_buddies_homelab/)
+- 2026-09-16T05:15:57+00:00 — [TV UI?](https://www.reddit.com/r/selfhosted/comments/1whnw9d/tv_ui/)
+- 2026-09-15T19:06:16+00:00 — [Dropped a Python container from 1.8GB to 60MB with distroless multi-stage builds. How do you handle debugging in prod](https://www.reddit.com/r/selfhosted/comments/1wh9n5y/dropped_a_python_container_from_18gb_to_60mb_with/)
+- 2026-09-16T00:00:49+00:00 — [Screening login attempts for containerized applications](https://www.reddit.com/r/selfhosted/comments/1whh7zz/screening_login_attempts_for_containerized/)
 - Tue, 15 Sep 2026 12:45:16 +0000 — [Self-Host n8n on AWS EC2 with Docker - Install to First Login](https://dev.to/aws-builders/self-host-n8n-on-aws-ec2-with-docker-install-to-first-login-202n)
 - Tue, 15 Sep 2026 12:38:30 +0000 — [Your AI Has the Memory of a Goldfish. Here's Why That's Finally Changing.](https://dev.to/isha_jain_5df3501f5266794/your-ai-has-the-memory-of-a-goldfish-heres-why-thats-finally-changing-368h)
-- 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
 - 2026-09-15T05:54:00+00:00 — [TV Box for Privacy](https://www.reddit.com/r/selfhosted/comments/1wgru4c/tv_box_for_privacy/)
 - 2026-09-14T01:46:08+00:00 — [My homelab was compromised. Here is what I learned, and what I need to figure out.](https://www.reddit.com/r/selfhosted/comments/1wfq2vx/my_homelab_was_compromised_here_is_what_i_learned/)
 - 2026-09-15T07:44:46+00:00 — [Apple Mac Mini for self hosting?](https://www.reddit.com/r/selfhosted/comments/1wgtr5m/apple_mac_mini_for_self_hosting/)
@@ -101,10 +107,4 @@ Last update: 2026-09-15 12:55 UTC
 - 2026-09-04T18:17:39+00:00 — [Is this a certificate issue? Jellyfin works on browsers, but not apps.](https://www.reddit.com/r/selfhosted/comments/1w7c9wg/is_this_a_certificate_issue_jellyfin_works_on/)
 - 2026-09-04T22:35:34+00:00 — [Intermittent error "Failed to reach OIDC issuer"](https://www.reddit.com/r/selfhosted/comments/1w7j5jb/intermittent_error_failed_to_reach_oidc_issuer/)
 - 2026-09-04T01:02:06+00:00 — [Successful Migration from Proxmox](https://www.reddit.com/r/selfhosted/comments/1w6puyz/successful_migration_from_proxmox/)
-- 2026-09-04T17:58:52+00:00 — [UPS recommendations for N100 + Terramaster on Unraid(France)](https://www.reddit.com/r/selfhosted/comments/1w7bqsn/ups_recommendations_for_n100_terramaster_on/)
-- 2026-09-04T08:56:28+00:00 — [Migrated 42 workflows from Zapier to self-hosted n8n on Hetzner ($248/mo down to $7.70/mo)](https://www.reddit.com/r/selfhosted/comments/1w6yxnv/migrated_42_workflows_from_zapier_to_selfhosted/)
-- 2026-09-04T14:09:34+00:00 — [Open-source ERP for small manufacturing shops](https://www.reddit.com/r/selfhosted/comments/1w75h51/opensource_erp_for_small_manufacturing_shops/)
-- 2026-09-04T14:09:17+00:00 — [Escaping Google's clutches](https://www.reddit.com/r/selfhosted/comments/1w75guq/escaping_googles_clutches/)
-- 2026-09-05T10:36:11+00:00 — [Went away from Proxmox on my homelab, no regrets so far](https://www.reddit.com/r/selfhosted/comments/1w7x7wv/went_away_from_proxmox_on_my_homelab_no_regrets/)
-- Fri, 04 Sep 2026 12:03:32 +0000 — [The True Cost of Game Development Outsourcing](https://dev.to/oceanviewgames/the-true-cost-of-game-development-outsourcing-35p0)
 <!-- NEWS END -->
