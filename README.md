@@ -2,14 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-16 12:52 UTC
+Last update: 2026-09-17 12:49 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 16 Sep 2026 12:30:56 +0000 — [Amazon S3 Tables Alternatives for Production Iceberg](https://dev.to/jonisar/amazon-s3-tables-alternatives-for-production-iceberg-3ibp)
 - 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
+- 2026-09-16T17:54:57+00:00 — [A 2012 Mac mini from an e-waste pile runs my whole setup](https://www.reddit.com/r/selfhosted/comments/1wi4jnj/a_2012_mac_mini_from_an_ewaste_pile_runs_my_whole/)
+- 2026-09-16T14:27:08+00:00 — [Pangolin 1.23: High Availability and Clustering for VPN and Reverse Proxy](https://www.reddit.com/r/selfhosted/comments/1whysfj/pangolin_123_high_availability_and_clustering_for/)
+- 2026-09-16T17:53:34+00:00 — [Grimoire v1.7.0 - Building out more TTRPG tools](https://www.reddit.com/r/selfhosted/comments/1wi4iaz/grimoire_v170_building_out_more_ttrpg_tools/)
+- 2026-09-17T08:51:00+00:00 — [I want to get off my cloud sync provider, looking for a simple one with support for many OSes](https://www.reddit.com/r/selfhosted/comments/1wioiqy/i_want_to_get_off_my_cloud_sync_provider_looking/)
+- 2026-09-16T14:30:32+00:00 — [Dispatcharr Release: v0.31.0 - IPTV Stream & EPG Management](https://www.reddit.com/r/selfhosted/comments/1whyvnk/dispatcharr_release_v0310_iptv_stream_epg/)
+- 2026-09-16T17:43:35+00:00 — [Ghee, an iOS and Android companion app for self-hosted Mealie, with offline recipes and shopping lists](https://www.reddit.com/r/selfhosted/comments/1wi48hv/ghee_an_ios_and_android_companion_app_for/)
+- 2026-09-17T09:21:20+00:00 — [Staring my first homelab and need help](https://www.reddit.com/r/selfhosted/comments/1wip1db/staring_my_first_homelab_and_need_help/)
 - 2026-09-16T04:45:11+00:00 — [I moved my ~150 TB server from Unraid to Debian without moving the data](https://www.reddit.com/r/selfhosted/comments/1whnbd2/i_moved_my_150_tb_server_from_unraid_to_debian/)
+- 2026-09-16T21:03:19+00:00 — [NextExplorer for iOS, an iOS app companion for your self-hosted NextExplorer instance](https://www.reddit.com/r/selfhosted/comments/1wi9s0v/nextexplorer_for_ios_an_ios_app_companion_for/)
+- Wed, 16 Sep 2026 12:30:56 +0000 — [Amazon S3 Tables Alternatives for Production Iceberg](https://dev.to/jonisar/amazon-s3-tables-alternatives-for-production-iceberg-3ibp)
 - 2026-09-15T18:43:03+00:00 — [Methods to transfer files between buddies homelab](https://www.reddit.com/r/selfhosted/comments/1wh8zao/methods_to_transfer_files_between_buddies_homelab/)
 - 2026-09-16T05:15:57+00:00 — [TV UI?](https://www.reddit.com/r/selfhosted/comments/1whnw9d/tv_ui/)
 - 2026-09-15T19:06:16+00:00 — [Dropped a Python container from 1.8GB to 60MB with distroless multi-stage builds. How do you handle debugging in prod](https://www.reddit.com/r/selfhosted/comments/1wh9n5y/dropped_a_python_container_from_18gb_to_60mb_with/)
@@ -99,12 +107,4 @@ Last update: 2026-09-16 12:52 UTC
 - 2026-09-05T19:28:24+00:00 — [Easy S3 backups for self-hosted SQLite apps](https://www.reddit.com/r/selfhosted/comments/1w8a25z/easy_s3_backups_for_selfhosted_sqlite_apps/)
 - 2026-09-05T12:02:27+00:00 — [Traveling to the UAE - trying to verify real-world Tailscale behavior when routing through a personal exit node back home](https://www.reddit.com/r/selfhosted/comments/1w7ywov/traveling_to_the_uae_trying_to_verify_realworld/)
 - Sat, 05 Sep 2026 11:02:47 +0000 — [Deploy to EC2 from GitHub Actions without opening port 22](https://dev.to/ankurk91/deploy-to-ec2-from-github-actions-without-opening-port-22-5269)
-- 2026-09-04T15:18:36+00:00 — [NetBird 0.78: Draft Mode for the Control Center, build and deploy your network visually](https://www.reddit.com/r/selfhosted/comments/1w77auy/netbird_078_draft_mode_for_the_control_center/)
-- 2026-09-04T20:37:07+00:00 — [Do you run bitwarden-lite on Docker? You can now go rootless+readonly for extra security](https://www.reddit.com/r/selfhosted/comments/1w7g4i5/do_you_run_bitwardenlite_on_docker_you_can_now_go/)
-- 2026-09-04T15:48:47+00:00 — [I built GeoLens: a self-hosted geospatial catalog and map builder (PostGIS, vector tiles, one docker compose)](https://www.reddit.com/r/selfhosted/comments/1w7842j/i_built_geolens_a_selfhosted_geospatial_catalog/)
-- 2026-09-04T22:48:24+00:00 — [One management setup](https://www.reddit.com/r/selfhosted/comments/1w7jgep/one_management_setup/)
-- 2026-09-04T14:39:38+00:00 — [[Project] Issued - Self-hosted comic library server (OPDS + web reader)](https://www.reddit.com/r/selfhosted/comments/1w769b5/project_issued_selfhosted_comic_library_server/)
-- 2026-09-04T18:17:39+00:00 — [Is this a certificate issue? Jellyfin works on browsers, but not apps.](https://www.reddit.com/r/selfhosted/comments/1w7c9wg/is_this_a_certificate_issue_jellyfin_works_on/)
-- 2026-09-04T22:35:34+00:00 — [Intermittent error "Failed to reach OIDC issuer"](https://www.reddit.com/r/selfhosted/comments/1w7j5jb/intermittent_error_failed_to_reach_oidc_issuer/)
-- 2026-09-04T01:02:06+00:00 — [Successful Migration from Proxmox](https://www.reddit.com/r/selfhosted/comments/1w6puyz/successful_migration_from_proxmox/)
 <!-- NEWS END -->
