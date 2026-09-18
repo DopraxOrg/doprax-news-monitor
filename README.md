@@ -2,15 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-17 12:49 UTC
+Last update: 2026-09-18 12:24 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
+- 2026-09-17T22:01:14+00:00 — [New Project Megathread - Week of 17 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wj7qvy/new_project_megathread_week_of_17_sep_2026/)
+- 2026-09-18T10:16:55+00:00 — [Gluetun restart -> no connection for service:gluetun containers](https://www.reddit.com/r/selfhosted/comments/1wjmach/gluetun_restart_no_connection_for_servicegluetun/)
+- 2026-09-17T14:39:22+00:00 — [tapflow: self-hosted browser access to iOS simulators and Android emulators](https://www.reddit.com/r/selfhosted/comments/1wivule/tapflow_selfhosted_browser_access_to_ios/)
+- 2026-09-17T16:46:46+00:00 — [Relaticle, a self-hosted CRM with Ollama support and a 39-tool MCP server](https://www.reddit.com/r/selfhosted/comments/1wizar6/relaticle_a_selfhosted_crm_with_ollama_support/)
+- 2026-09-17T22:36:14+00:00 — [How I fixed jagged 4×6 AirPrint labels by adding a native-resolution CUPS prefilter](https://www.reddit.com/r/selfhosted/comments/1wj8lcm/how_i_fixed_jagged_46_airprint_labels_by_adding_a/)
 - 2026-09-16T17:54:57+00:00 — [A 2012 Mac mini from an e-waste pile runs my whole setup](https://www.reddit.com/r/selfhosted/comments/1wi4jnj/a_2012_mac_mini_from_an_ewaste_pile_runs_my_whole/)
+- 2026-09-17T17:56:39+00:00 — [Event calendar](https://www.reddit.com/r/selfhosted/comments/1wj17wh/event_calendar/)
+- 2026-09-18T10:22:43+00:00 — [Remote access is easy enough. Sharing just one service gets trickier.](https://www.reddit.com/r/selfhosted/comments/1wjme0r/remote_access_is_easy_enough_sharing_just_one/)
 - 2026-09-16T14:27:08+00:00 — [Pangolin 1.23: High Availability and Clustering for VPN and Reverse Proxy](https://www.reddit.com/r/selfhosted/comments/1whysfj/pangolin_123_high_availability_and_clustering_for/)
 - 2026-09-16T17:53:34+00:00 — [Grimoire v1.7.0 - Building out more TTRPG tools](https://www.reddit.com/r/selfhosted/comments/1wi4iaz/grimoire_v170_building_out_more_ttrpg_tools/)
+- 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
 - 2026-09-17T08:51:00+00:00 — [I want to get off my cloud sync provider, looking for a simple one with support for many OSes](https://www.reddit.com/r/selfhosted/comments/1wioiqy/i_want_to_get_off_my_cloud_sync_provider_looking/)
 - 2026-09-16T14:30:32+00:00 — [Dispatcharr Release: v0.31.0 - IPTV Stream & EPG Management](https://www.reddit.com/r/selfhosted/comments/1whyvnk/dispatcharr_release_v0310_iptv_stream_epg/)
 - 2026-09-16T17:43:35+00:00 — [Ghee, an iOS and Android companion app for self-hosted Mealie, with offline recipes and shopping lists](https://www.reddit.com/r/selfhosted/comments/1wi48hv/ghee_an_ios_and_android_companion_app_for/)
@@ -100,11 +107,4 @@ Last update: 2026-09-17 12:49 UTC
 - 2026-09-07T05:15:52+00:00 — [Getting Started](https://www.reddit.com/r/selfhosted/comments/1w9ivk1/getting_started/)
 - 2026-09-07T07:49:27+00:00 — [What are your thoughts on casaOS/zimaOS to simplify your life?](https://www.reddit.com/r/selfhosted/comments/1w9lorf/what_are_your_thoughts_on_casaoszimaos_to/)
 - 2026-09-07T01:24:18+00:00 — [$200 self-built server with 28 CPU cores](https://www.reddit.com/r/selfhosted/comments/1w9e73g/200_selfbuilt_server_with_28_cpu_cores/)
-- Sun, 06 Sep 2026 11:41:08 +0000 — [I load-tested self-hosted n8n on a $0 VM for 5 hours. The worst latency came from apt.](https://dev.to/edifierxuhao/i-load-tested-self-hosted-n8n-on-a-0-vm-for-5-hours-the-worst-latency-came-from-apt-40c1)
-- Sun, 06 Sep 2026 11:11:06 +0000 — [Common Problems Running HashiCorp Vault on Kubernetes (and How to Actually Fix Them)](https://dev.to/whitesama001/common-problems-running-hashicorp-vault-on-kubernetes-and-how-to-actually-fix-them-42bm)
-- 2026-09-05T15:52:20+00:00 — [Built a 3-node Kubernetes homelab with Talos Linux](https://www.reddit.com/r/selfhosted/comments/1w84d8c/built_a_3node_kubernetes_homelab_with_talos_linux/)
-- 2026-09-06T06:46:28+00:00 — [How do you Download a Spotify Playlist on slskd?](https://www.reddit.com/r/selfhosted/comments/1w8omz3/how_do_you_download_a_spotify_playlist_on_slskd/)
-- 2026-09-05T19:28:24+00:00 — [Easy S3 backups for self-hosted SQLite apps](https://www.reddit.com/r/selfhosted/comments/1w8a25z/easy_s3_backups_for_selfhosted_sqlite_apps/)
-- 2026-09-05T12:02:27+00:00 — [Traveling to the UAE - trying to verify real-world Tailscale behavior when routing through a personal exit node back home](https://www.reddit.com/r/selfhosted/comments/1w7ywov/traveling_to_the_uae_trying_to_verify_realworld/)
-- Sat, 05 Sep 2026 11:02:47 +0000 — [Deploy to EC2 from GitHub Actions without opening port 22](https://dev.to/ankurk91/deploy-to-ec2-from-github-actions-without-opening-port-22-5269)
 <!-- NEWS END -->
