@@ -2,12 +2,20 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-18 12:24 UTC
+Last update: 2026-09-19 12:05 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 19 Sep 2026 12:03:01 +0000 — [Your self-hosted AI stack probably needs one process, not six](https://dev.to/itxtayab/your-self-hosted-ai-stack-probably-needs-one-process-not-six-3h53)
+- Sat, 19 Sep 2026 12:02:03 +0000 — [Beyond the Hype: Practical Spec-Driven Development with AI Agents for Traceable Code Delivery](https://dev.to/tamizuddin/beyond-the-hype-practical-spec-driven-development-with-ai-agents-for-traceable-code-delivery-4hjo)
+- Sat, 19 Sep 2026 12:01:18 +0000 — [LLM Observability 2026: Why Traditional Monitoring Is Blind to AI Systems](https://dev.to/saaro_net/llm-observability-2026-why-traditional-monitoring-is-blind-to-ai-systems-jck)
 - 2026-09-17T22:01:14+00:00 — [New Project Megathread - Week of 17 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wj7qvy/new_project_megathread_week_of_17_sep_2026/)
+- 2026-09-19T06:52:06+00:00 — [Cheap Setup: Help a Noob Understand Networking](https://www.reddit.com/r/selfhosted/comments/1wkey68/cheap_setup_help_a_noob_understand_networking/)
+- 2026-09-19T09:01:52+00:00 — [qBittorrent refusing to use NFS share](https://www.reddit.com/r/selfhosted/comments/1wkh6qm/qbittorrent_refusing_to_use_nfs_share/)
+- 2026-09-19T10:29:22+00:00 — [NutriTrace v1.3.0 Released! CookTrace recipe and pantry import, diary day completion, and more!](https://www.reddit.com/r/selfhosted/comments/1wkioi2/nutritrace_v130_released_cooktrace_recipe_and/)
+- 2026-09-18T16:23:11+00:00 — [Want to get started with Self-Hosting and learn it before putting all of my stuff into this.](https://www.reddit.com/r/selfhosted/comments/1wjutua/want_to_get_started_with_selfhosting_and_learn_it/)
+- 2026-09-18T17:06:58+00:00 — [Risks of Cloudflared / WARP vs WireGuard for Personal Web Server](https://www.reddit.com/r/selfhosted/comments/1wjw0i4/risks_of_cloudflared_warp_vs_wireguard_for/)
 - 2026-09-18T10:16:55+00:00 — [Gluetun restart -> no connection for service:gluetun containers](https://www.reddit.com/r/selfhosted/comments/1wjmach/gluetun_restart_no_connection_for_servicegluetun/)
 - 2026-09-17T14:39:22+00:00 — [tapflow: self-hosted browser access to iOS simulators and Android emulators](https://www.reddit.com/r/selfhosted/comments/1wivule/tapflow_selfhosted_browser_access_to_ios/)
 - 2026-09-17T16:46:46+00:00 — [Relaticle, a self-hosted CRM with Ollama support and a 39-tool MCP server](https://www.reddit.com/r/selfhosted/comments/1wizar6/relaticle_a_selfhosted_crm_with_ollama_support/)
@@ -99,12 +107,4 @@ Last update: 2026-09-18 12:24 UTC
 - 2026-09-08T04:27:24+00:00 — [Audiobookshelf <-> Koreader sync through Bookbridge](https://www.reddit.com/r/selfhosted/comments/1wae9i4/audiobookshelf_koreader_sync_through_bookbridge/)
 - 2026-09-07T08:15:58+00:00 — [Renewlet — a self-hosted subscription tracker you can run in Docker](https://www.reddit.com/r/selfhosted/comments/1w9m59y/renewlet_a_selfhosted_subscription_tracker_you/)
 - 2026-09-07T11:29:43+00:00 — [Need an alternative to Seafile and Nextcloud](https://www.reddit.com/r/selfhosted/comments/1w9pla7/need_an_alternative_to_seafile_and_nextcloud/)
-- 2026-09-08T00:05:26+00:00 — [ZimaOS shows me two drives but installs every app on the system drive: my battle with Immich volumes](https://www.reddit.com/r/selfhosted/comments/1wa8rox/zimaos_shows_me_two_drives_but_installs_every_app/)
-- Mon, 07 Sep 2026 13:35:22 +0000 — [How to Build a Solo Developer Studio with Composable MCP Servers](https://dev.to/julianbrown/how-to-build-a-solo-developer-studio-with-composable-mcp-servers-462f)
-- 2026-09-07T02:17:02+00:00 — [I think my brain will explode trying to find a not crappy option help please.](https://www.reddit.com/r/selfhosted/comments/1w9fana/i_think_my_brain_will_explode_trying_to_find_a/)
-- 2026-09-06T19:21:32+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen, now at v0.1.0](https://www.reddit.com/r/selfhosted/comments/1w95hd1/kitchen_board_a_selfhosted_wall_planner_for_the/)
-- 2026-09-07T06:51:39+00:00 — [K3S vs Nomad](https://www.reddit.com/r/selfhosted/comments/1w9knm3/k3s_vs_nomad/)
-- 2026-09-07T05:15:52+00:00 — [Getting Started](https://www.reddit.com/r/selfhosted/comments/1w9ivk1/getting_started/)
-- 2026-09-07T07:49:27+00:00 — [What are your thoughts on casaOS/zimaOS to simplify your life?](https://www.reddit.com/r/selfhosted/comments/1w9lorf/what_are_your_thoughts_on_casaoszimaos_to/)
-- 2026-09-07T01:24:18+00:00 — [$200 self-built server with 28 CPU cores](https://www.reddit.com/r/selfhosted/comments/1w9e73g/200_selfbuilt_server_with_28_cpu_cores/)
 <!-- NEWS END -->
