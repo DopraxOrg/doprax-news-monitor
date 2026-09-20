@@ -2,15 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-19 12:05 UTC
+Last update: 2026-09-20 12:41 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-09-17T22:01:14+00:00 — [New Project Megathread - Week of 17 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wj7qvy/new_project_megathread_week_of_17_sep_2026/)
+- 2026-09-20T11:58:03+00:00 — [LiftTrace v1.3.0 released: multiple sessions per day, timed sets, and more](https://www.reddit.com/r/selfhosted/comments/1wlf5w2/lifttrace_v130_released_multiple_sessions_per_day/)
+- 2026-09-19T16:58:59+00:00 — [Youtarr update (v1.84.0): watched status from Plex/Jellyfin/Emby, automatic cleanup, and whole-channel downloads](https://www.reddit.com/r/selfhosted/comments/1wkrduz/youtarr_update_v1840_watched_status_from/)
+- 2026-09-19T16:30:13+00:00 — [Self-hosted Whispersync: keep your place between an ebook and its audiobook](https://www.reddit.com/r/selfhosted/comments/1wkqnyv/selfhosted_whispersync_keep_your_place_between_an/)
+- 2026-09-20T01:27:35+00:00 — [Portainer - potential global.env workaround?](https://www.reddit.com/r/selfhosted/comments/1wl3hnd/portainer_potential_globalenv_workaround/)
+- 2026-09-19T08:41:17+00:00 — [Any YACReader users? I'm the develop](https://www.reddit.com/r/selfhosted/comments/1wkgu5n/any_yacreader_users_im_the_develop/)
+- 2026-09-20T03:45:28+00:00 — [DoComposer-Docker Compose Generator](https://www.reddit.com/r/selfhosted/comments/1wl68db/docomposerdocker_compose_generator/)
 - Sat, 19 Sep 2026 12:03:01 +0000 — [Your self-hosted AI stack probably needs one process, not six](https://dev.to/itxtayab/your-self-hosted-ai-stack-probably-needs-one-process-not-six-3h53)
 - Sat, 19 Sep 2026 12:02:03 +0000 — [Beyond the Hype: Practical Spec-Driven Development with AI Agents for Traceable Code Delivery](https://dev.to/tamizuddin/beyond-the-hype-practical-spec-driven-development-with-ai-agents-for-traceable-code-delivery-4hjo)
 - Sat, 19 Sep 2026 12:01:18 +0000 — [LLM Observability 2026: Why Traditional Monitoring Is Blind to AI Systems](https://dev.to/saaro_net/llm-observability-2026-why-traditional-monitoring-is-blind-to-ai-systems-jck)
-- 2026-09-17T22:01:14+00:00 — [New Project Megathread - Week of 17 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wj7qvy/new_project_megathread_week_of_17_sep_2026/)
 - 2026-09-19T06:52:06+00:00 — [Cheap Setup: Help a Noob Understand Networking](https://www.reddit.com/r/selfhosted/comments/1wkey68/cheap_setup_help_a_noob_understand_networking/)
 - 2026-09-19T09:01:52+00:00 — [qBittorrent refusing to use NFS share](https://www.reddit.com/r/selfhosted/comments/1wkh6qm/qbittorrent_refusing_to_use_nfs_share/)
 - 2026-09-19T10:29:22+00:00 — [NutriTrace v1.3.0 Released! CookTrace recipe and pantry import, diary day completion, and more!](https://www.reddit.com/r/selfhosted/comments/1wkioi2/nutritrace_v130_released_cooktrace_recipe_and/)
@@ -101,10 +107,4 @@ Last update: 2026-09-19 12:05 UTC
 - 2026-09-08T17:52:12+00:00 — [Hyvor Blogs, our blogging platform, is now open-source and self-hostable](https://www.reddit.com/r/selfhosted/comments/1wavn7x/hyvor_blogs_our_blogging_platform_is_now/)
 - 2026-09-08T10:02:35+00:00 — [Arr on proxmox with NFS shares](https://www.reddit.com/r/selfhosted/comments/1wak4fi/arr_on_proxmox_with_nfs_shares/)
 - Tue, 08 Sep 2026 12:10:32 +0000 — [Detecting Refresh Token Reuse with Redis (Working Code Included)](https://dev.to/polasamyeng/detecting-refresh-token-reuse-with-redis-working-code-included-fhd)
-- Tue, 08 Sep 2026 12:08:38 +0000 — [Making Refresh Tokens Actually Work in a FastMCP Google OAuth Server](https://dev.to/toyama0919/making-refresh-tokens-actually-work-in-a-fastmcp-google-oauth-server-3bp9)
-- 2026-09-08T09:38:22+00:00 — [Begginer advice](https://www.reddit.com/r/selfhosted/comments/1wajow4/begginer_advice/)
-- 2026-09-07T13:38:10+00:00 — [DLSite List - a self-hosted personal DLsite library](https://www.reddit.com/r/selfhosted/comments/1w9sfta/dlsite_list_a_selfhosted_personal_dlsite_library/)
-- 2026-09-08T04:27:24+00:00 — [Audiobookshelf <-> Koreader sync through Bookbridge](https://www.reddit.com/r/selfhosted/comments/1wae9i4/audiobookshelf_koreader_sync_through_bookbridge/)
-- 2026-09-07T08:15:58+00:00 — [Renewlet — a self-hosted subscription tracker you can run in Docker](https://www.reddit.com/r/selfhosted/comments/1w9m59y/renewlet_a_selfhosted_subscription_tracker_you/)
-- 2026-09-07T11:29:43+00:00 — [Need an alternative to Seafile and Nextcloud](https://www.reddit.com/r/selfhosted/comments/1w9pla7/need_an_alternative_to_seafile_and_nextcloud/)
 <!-- NEWS END -->
