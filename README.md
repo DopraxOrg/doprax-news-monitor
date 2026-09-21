@@ -2,14 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-20 12:41 UTC
+Last update: 2026-09-21 14:36 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 21 Sep 2026 14:32:06 +0000 — [Are there any free API alternatives to Gemini or Groq with higher rate limits for a FastAPI backend?](https://dev.to/josequevedov08/are-there-any-free-api-alternatives-to-gemini-or-groq-with-higher-rate-limits-for-a-fastapi-backend-2m3n)
+- Mon, 21 Sep 2026 14:26:31 +0000 — [Optimizing Immich: mobile backup, multilingual AI search & family setup (Part 2)](https://dev.to/serverkueche/optimizing-immich-mobile-backup-multilingual-ai-search-family-setup-part-2-3ej3)
+- Mon, 21 Sep 2026 14:26:08 +0000 — [Understanding systemd: Units, Journal & Timers (instead of Cron)](https://dev.to/serverkueche/understanding-systemd-units-journal-timers-instead-of-cron-3gff)
+- Mon, 21 Sep 2026 14:26:01 +0000 — [An Agent That Counts My Receipts, Not My Claims](https://dev.to/kenielzep97/an-agent-that-counts-my-receipts-not-my-claims-a3h)
 - 2026-09-17T22:01:14+00:00 — [New Project Megathread - Week of 17 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wj7qvy/new_project_megathread_week_of_17_sep_2026/)
+- 2026-09-20T20:57:09+00:00 — [The effort to learn basic Ansible is not that much more than learning Chezmoi or other dotfile managers but far more useful](https://www.reddit.com/r/selfhosted/comments/1wlsp6o/the_effort_to_learn_basic_ansible_is_not_that/)
+- 2026-09-20T14:38:43+00:00 — [GameAP: Open-Source Platform for Managing Game Servers](https://www.reddit.com/r/selfhosted/comments/1wlis6x/gameap_opensource_platform_for_managing_game/)
+- 2026-09-20T23:23:49+00:00 — [New to CrowdSec, are real-time traffic logs visible? and it's not catching everything from Traefik](https://www.reddit.com/r/selfhosted/comments/1wlw85a/new_to_crowdsec_are_realtime_traffic_logs_visible/)
+- 2026-09-21T05:10:20+00:00 — [Looking to reduce complexity and consolidate](https://www.reddit.com/r/selfhosted/comments/1wm3g1j/looking_to_reduce_complexity_and_consolidate/)
 - 2026-09-20T11:58:03+00:00 — [LiftTrace v1.3.0 released: multiple sessions per day, timed sets, and more](https://www.reddit.com/r/selfhosted/comments/1wlf5w2/lifttrace_v130_released_multiple_sessions_per_day/)
+- 2026-09-20T20:43:21+00:00 — [Today I published Plume RC1, my side-project for a self-hosted, flat-file publishing platform built to simplify independent publishing](https://www.reddit.com/r/selfhosted/comments/1wlscec/today_i_published_plume_rc1_my_sideproject_for_a/)
+- 2026-09-21T12:33:44+00:00 — [I made a simple dashboard for my home server 😊](https://www.reddit.com/r/selfhosted/comments/1wmbi8s/i_made_a_simple_dashboard_for_my_home_server/)
 - 2026-09-19T16:58:59+00:00 — [Youtarr update (v1.84.0): watched status from Plex/Jellyfin/Emby, automatic cleanup, and whole-channel downloads](https://www.reddit.com/r/selfhosted/comments/1wkrduz/youtarr_update_v1840_watched_status_from/)
+- 2026-09-21T09:40:57+00:00 — [I made a simple dashboard for my homelab, so I decided to open source it](https://www.reddit.com/r/selfhosted/comments/1wm84j9/i_made_a_simple_dashboard_for_my_homelab_so_i/)
 - 2026-09-19T16:30:13+00:00 — [Self-hosted Whispersync: keep your place between an ebook and its audiobook](https://www.reddit.com/r/selfhosted/comments/1wkqnyv/selfhosted_whispersync_keep_your_place_between_an/)
 - 2026-09-20T01:27:35+00:00 — [Portainer - potential global.env workaround?](https://www.reddit.com/r/selfhosted/comments/1wl3hnd/portainer_potential_globalenv_workaround/)
 - 2026-09-19T08:41:17+00:00 — [Any YACReader users? I'm the develop](https://www.reddit.com/r/selfhosted/comments/1wkgu5n/any_yacreader_users_im_the_develop/)
@@ -96,15 +107,4 @@ Last update: 2026-09-20 12:41 UTC
 - 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
 - 2026-09-09T14:14:28+00:00 — [Trying to secure my homeserver as a beginner](https://www.reddit.com/r/selfhosted/comments/1wbmsgq/trying_to_secure_my_homeserver_as_a_beginner/)
 - 2026-09-10T00:50:41+00:00 — [When is enough, enough?](https://www.reddit.com/r/selfhosted/comments/1wc3yfo/when_is_enough_enough/)
-- 2026-09-10T08:43:40+00:00 — [My first Homeserver/lab: which distro or setup for my needs?](https://www.reddit.com/r/selfhosted/comments/1wcdehu/my_first_homeserverlab_which_distro_or_setup_for/)
-- Wed, 09 Sep 2026 12:15:00 +0000 — [Ceph vs RustFS: When to Use What (2026)](https://dev.to/ethan-carter/ceph-vs-rustfs-when-to-use-what-2026-11h8)
-- 2026-09-09T08:34:15+00:00 — [Docker UWF security](https://www.reddit.com/r/selfhosted/comments/1wbfrq9/docker_uwf_security/)
-- 2026-09-08T12:17:04+00:00 — [Docker vs Podman](https://www.reddit.com/r/selfhosted/comments/1wamslb/docker_vs_podman/)
-- 2026-09-09T01:53:03+00:00 — [Self-Hosted Music](https://www.reddit.com/r/selfhosted/comments/1wb83mp/selfhosted_music/)
-- 2026-09-09T12:14:34+00:00 — [I gave the Claude phone app read/write access to my Obsidian vault. No laptop, no API key, no plugin. A Raspberry Pi, Obsidian Sync and a 100-line MCP server](https://www.reddit.com/r/selfhosted/comments/1wbjw78/i_gave_the_claude_phone_app_readwrite_access_to/)
-- 2026-09-09T00:46:39+00:00 — [Server for a small business](https://www.reddit.com/r/selfhosted/comments/1wb6lrf/server_for_a_small_business/)
-- 2026-09-08T22:12:45+00:00 — [what OS should i go with? (server)](https://www.reddit.com/r/selfhosted/comments/1wb2xjw/what_os_should_i_go_with_server/)
-- 2026-09-08T17:52:12+00:00 — [Hyvor Blogs, our blogging platform, is now open-source and self-hostable](https://www.reddit.com/r/selfhosted/comments/1wavn7x/hyvor_blogs_our_blogging_platform_is_now/)
-- 2026-09-08T10:02:35+00:00 — [Arr on proxmox with NFS shares](https://www.reddit.com/r/selfhosted/comments/1wak4fi/arr_on_proxmox_with_nfs_shares/)
-- Tue, 08 Sep 2026 12:10:32 +0000 — [Detecting Refresh Token Reuse with Redis (Working Code Included)](https://dev.to/polasamyeng/detecting-refresh-token-reuse-with-redis-working-code-included-fhd)
 <!-- NEWS END -->
