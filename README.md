@@ -2,16 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-21 14:36 UTC
+Last update: 2026-09-22 12:52 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 22 Sep 2026 12:33:54 +0000 — [Why Go Is a Great Choice for High-Traffic Companies](https://dev.to/hanayo/why-go-is-a-great-choice-for-high-traffic-companies-52c9)
+- 2026-09-17T22:01:14+00:00 — [New Project Megathread - Week of 17 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wj7qvy/new_project_megathread_week_of_17_sep_2026/)
+- 2026-09-22T04:33:15+00:00 — [Self hosted Bitwarden vs Vaultwarden](https://www.reddit.com/r/selfhosted/comments/1wmzltu/self_hosted_bitwarden_vs_vaultwarden/)
+- 2026-09-22T08:19:34+00:00 — [Hardening Security for Public Services - What should I improve?](https://www.reddit.com/r/selfhosted/comments/1wn3ju7/hardening_security_for_public_services_what/)
+- 2026-09-22T03:29:11+00:00 — [I switched over to a reverse proxy from cloudflare tunnels for my public facing services](https://www.reddit.com/r/selfhosted/comments/1wmycjp/i_switched_over_to_a_reverse_proxy_from/)
+- 2026-09-22T09:51:40+00:00 — [Looking for my first server. What providers offer the best value for money?](https://www.reddit.com/r/selfhosted/comments/1wn52yj/looking_for_my_first_server_what_providers_offer/)
+- 2026-09-22T03:07:27+00:00 — [Seeking Selfhosted Must Have Advice](https://www.reddit.com/r/selfhosted/comments/1wmxwbd/seeking_selfhosted_must_have_advice/)
+- 2026-09-22T06:39:59+00:00 — [Backing up persistent data and config of my selfhosted data](https://www.reddit.com/r/selfhosted/comments/1wn1wfh/backing_up_persistent_data_and_config_of_my/)
+- 2026-09-22T10:16:38+00:00 — [Comics / Manga metadata manager](https://www.reddit.com/r/selfhosted/comments/1wn5ioy/comics_manga_metadata_manager/)
+- 2026-09-21T20:50:54+00:00 — [Polarsteps... But selfhosted!](https://www.reddit.com/r/selfhosted/comments/1wmp1mx/polarsteps_but_selfhosted/)
+- 2026-09-21T14:58:21+00:00 — [Static Website Deployment Recommendations Needed](https://www.reddit.com/r/selfhosted/comments/1wmf6gl/static_website_deployment_recommendations_needed/)
 - Mon, 21 Sep 2026 14:32:06 +0000 — [Are there any free API alternatives to Gemini or Groq with higher rate limits for a FastAPI backend?](https://dev.to/josequevedov08/are-there-any-free-api-alternatives-to-gemini-or-groq-with-higher-rate-limits-for-a-fastapi-backend-2m3n)
 - Mon, 21 Sep 2026 14:26:31 +0000 — [Optimizing Immich: mobile backup, multilingual AI search & family setup (Part 2)](https://dev.to/serverkueche/optimizing-immich-mobile-backup-multilingual-ai-search-family-setup-part-2-3ej3)
 - Mon, 21 Sep 2026 14:26:08 +0000 — [Understanding systemd: Units, Journal & Timers (instead of Cron)](https://dev.to/serverkueche/understanding-systemd-units-journal-timers-instead-of-cron-3gff)
 - Mon, 21 Sep 2026 14:26:01 +0000 — [An Agent That Counts My Receipts, Not My Claims](https://dev.to/kenielzep97/an-agent-that-counts-my-receipts-not-my-claims-a3h)
-- 2026-09-17T22:01:14+00:00 — [New Project Megathread - Week of 17 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wj7qvy/new_project_megathread_week_of_17_sep_2026/)
 - 2026-09-20T20:57:09+00:00 — [The effort to learn basic Ansible is not that much more than learning Chezmoi or other dotfile managers but far more useful](https://www.reddit.com/r/selfhosted/comments/1wlsp6o/the_effort_to_learn_basic_ansible_is_not_that/)
 - 2026-09-20T14:38:43+00:00 — [GameAP: Open-Source Platform for Managing Game Servers](https://www.reddit.com/r/selfhosted/comments/1wlis6x/gameap_opensource_platform_for_managing_game/)
 - 2026-09-20T23:23:49+00:00 — [New to CrowdSec, are real-time traffic logs visible? and it's not catching everything from Traefik](https://www.reddit.com/r/selfhosted/comments/1wlw85a/new_to_crowdsec_are_realtime_traffic_logs_visible/)
@@ -97,14 +107,4 @@ Last update: 2026-09-21 14:36 UTC
 - 2026-09-12T10:07:42+00:00 — [Mochi 1.0 released](https://www.reddit.com/r/selfhosted/comments/1we8npk/mochi_10_released/)
 - 2026-09-11T18:47:02+00:00 — [Live sports hosting](https://www.reddit.com/r/selfhosted/comments/1wdoysk/live_sports_hosting/)
 - Fri, 11 Sep 2026 12:03:40 +0000 — [The Kubernetes 1.37 Deadline That Doesn't Exist — And the One That Does](https://dev.to/ntctech/the-kubernetes-137-deadline-that-doesnt-exist-and-the-one-that-does-1417)
-- Fri, 11 Sep 2026 12:02:35 +0000 — [Beyond the Demo: Engineering Resilient AI Systems Before Production Failure](https://dev.to/tamizuddin/beyond-the-demo-engineering-resilient-ai-systems-before-production-failure-5402)
-- 2026-09-11T10:29:44+00:00 — [Vaultisse – a self-hosted app to track a physical book collection (shelf location, lending, ISBN lookup)](https://www.reddit.com/r/selfhosted/comments/1wdcem9/vaultisse_a_selfhosted_app_to_track_a_physical/)
-- 2026-09-11T06:16:37+00:00 — [How to face security risk of ai attacks and build an zero-trust setup](https://www.reddit.com/r/selfhosted/comments/1wd80g4/how_to_face_security_risk_of_ai_attacks_and_build/)
-- 2026-09-10T17:44:35+00:00 — [TapMap update: application identification, connection history and MQTT notifications](https://www.reddit.com/r/selfhosted/comments/1wcq7tp/tapmap_update_application_identification/)
-- 2026-09-09T21:35:15+00:00 — [Homelable v3.4.1 - You can finally document your homelab (properly)](https://www.reddit.com/r/selfhosted/comments/1wbz4s9/homelable_v341_you_can_finally_document_your/)
-- 2026-09-10T03:35:17+00:00 — [Is exposing services to public internet really that complicated?](https://www.reddit.com/r/selfhosted/comments/1wc7mwa/is_exposing_services_to_public_internet_really/)
-- Thu, 10 Sep 2026 12:14:14 +0000 — [Best MCP Servers in 2026: One Pick Per Category](https://dev.to/amareswer/best-mcp-servers-in-2026-one-pick-per-category-1mdg)
-- 2026-09-03T22:01:09+00:00 — [New Project Megathread - Week of 03 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1w6lmbj/new_project_megathread_week_of_03_sep_2026/)
-- 2026-09-09T14:14:28+00:00 — [Trying to secure my homeserver as a beginner](https://www.reddit.com/r/selfhosted/comments/1wbmsgq/trying_to_secure_my_homeserver_as_a_beginner/)
-- 2026-09-10T00:50:41+00:00 — [When is enough, enough?](https://www.reddit.com/r/selfhosted/comments/1wc3yfo/when_is_enough_enough/)
 <!-- NEWS END -->
