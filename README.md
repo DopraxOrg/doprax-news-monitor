@@ -2,14 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-22 12:52 UTC
+Last update: 2026-09-23 13:04 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Tue, 22 Sep 2026 12:33:54 +0000 — [Why Go Is a Great Choice for High-Traffic Companies](https://dev.to/hanayo/why-go-is-a-great-choice-for-high-traffic-companies-52c9)
+- Wed, 23 Sep 2026 12:31:33 +0000 — [Technical Training on Common Red Team Attack Scenarios During Major Event Security Assurance](https://dev.to/excalibra/technical-training-on-common-red-team-attack-scenarios-during-major-event-security-assurance-268)
 - 2026-09-17T22:01:14+00:00 — [New Project Megathread - Week of 17 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wj7qvy/new_project_megathread_week_of_17_sep_2026/)
+- 2026-09-23T11:09:13+00:00 — [autobrr team just announced Librarry. replacement for sonarr and radarr](https://www.reddit.com/r/selfhosted/comments/1wo2yxg/autobrr_team_just_announced_librarry_replacement/)
+- 2026-09-22T23:04:02+00:00 — [New to self hosting](https://www.reddit.com/r/selfhosted/comments/1wnoy01/new_to_self_hosting/)
+- 2026-09-23T12:02:56+00:00 — [absolute beginner level.](https://www.reddit.com/r/selfhosted/comments/1wo42sd/absolute_beginner_level/)
+- 2026-09-23T02:49:44+00:00 — [K.I.S.S MFA for homelab](https://www.reddit.com/r/selfhosted/comments/1wntztp/kiss_mfa_for_homelab/)
+- 2026-09-23T11:31:06+00:00 — [Newish To Self Hosting](https://www.reddit.com/r/selfhosted/comments/1wo3er3/newish_to_self_hosting/)
+- 2026-09-22T19:52:05+00:00 — [Best container security tools for about thirty self hosted images?](https://www.reddit.com/r/selfhosted/comments/1wnjzqb/best_container_security_tools_for_about_thirty/)
+- 2026-09-23T05:33:17+00:00 — [How are you handling YouTube bot detection with yt-dlp on a cloud server/Railway?](https://www.reddit.com/r/selfhosted/comments/1wnx6fx/how_are_you_handling_youtube_bot_detection_with/)
+- 2026-09-23T08:02:45+00:00 — [Newbie looking to check in on current progress and questions about restricting access](https://www.reddit.com/r/selfhosted/comments/1wnzqol/newbie_looking_to_check_in_on_current_progress/)
 - 2026-09-22T04:33:15+00:00 — [Self hosted Bitwarden vs Vaultwarden](https://www.reddit.com/r/selfhosted/comments/1wmzltu/self_hosted_bitwarden_vs_vaultwarden/)
+- Tue, 22 Sep 2026 12:33:54 +0000 — [Why Go Is a Great Choice for High-Traffic Companies](https://dev.to/hanayo/why-go-is-a-great-choice-for-high-traffic-companies-52c9)
 - 2026-09-22T08:19:34+00:00 — [Hardening Security for Public Services - What should I improve?](https://www.reddit.com/r/selfhosted/comments/1wn3ju7/hardening_security_for_public_services_what/)
 - 2026-09-22T03:29:11+00:00 — [I switched over to a reverse proxy from cloudflare tunnels for my public facing services](https://www.reddit.com/r/selfhosted/comments/1wmycjp/i_switched_over_to_a_reverse_proxy_from/)
 - 2026-09-22T09:51:40+00:00 — [Looking for my first server. What providers offer the best value for money?](https://www.reddit.com/r/selfhosted/comments/1wn52yj/looking_for_my_first_server_what_providers_offer/)
@@ -98,13 +107,4 @@ Last update: 2026-09-22 12:52 UTC
 - Sat, 12 Sep 2026 11:30:54 +0000 — [You Don't Need Express to Build a Microservice (Here's the Zero-Dependency Version)](https://dev.to/dev_encyclopedia/you-dont-need-express-to-build-a-microservice-heres-the-zero-dependency-version-921)
 - 2026-09-11T09:40:26+00:00 — [Portainer 3 Coming Without CE. Pivoting to Kubernetes and Enterprise Focus.](https://www.reddit.com/r/selfhosted/comments/1wdbia2/portainer_3_coming_without_ce_pivoting_to/)
 - 2026-09-11T14:19:58+00:00 — [GyroidVault v2.0 — Self-hosted 3D model vault & library manager](https://www.reddit.com/r/selfhosted/comments/1wdhnc3/gyroidvault_v20_selfhosted_3d_model_vault_library/)
-- 2026-09-12T07:19:19+00:00 — [Need help with Docker configuration.](https://www.reddit.com/r/selfhosted/comments/1we5sid/need_help_with_docker_configuration/)
-- 2026-09-12T09:25:12+00:00 — [Api on a ubuntu mini computer, Admin dashboard on a mac, what do you recommend to handle docker containers, automatic updates and metrics/logging](https://www.reddit.com/r/selfhosted/comments/1we7xzm/api_on_a_ubuntu_mini_computer_admin_dashboard_on/)
-- 2026-09-11T22:06:50+00:00 — [Samba over vpn alternatives](https://www.reddit.com/r/selfhosted/comments/1wduc58/samba_over_vpn_alternatives/)
-- 2026-09-11T17:56:03+00:00 — [Pi-hole with DHCP / without network mode: host ???](https://www.reddit.com/r/selfhosted/comments/1wdnjin/pihole_with_dhcp_without_network_mode_host/)
-- 2026-09-10T13:22:50+00:00 — [Two months into self hosting, loving it so far](https://www.reddit.com/r/selfhosted/comments/1wcj3da/two_months_into_self_hosting_loving_it_so_far/)
-- 2026-09-11T12:35:37+00:00 — [Self-hosting hardware dilemma: NAS, Mini PC, or Zimaboard for my multi-phase setup](https://www.reddit.com/r/selfhosted/comments/1wdf1x8/selfhosting_hardware_dilemma_nas_mini_pc_or/)
-- 2026-09-12T10:07:42+00:00 — [Mochi 1.0 released](https://www.reddit.com/r/selfhosted/comments/1we8npk/mochi_10_released/)
-- 2026-09-11T18:47:02+00:00 — [Live sports hosting](https://www.reddit.com/r/selfhosted/comments/1wdoysk/live_sports_hosting/)
-- Fri, 11 Sep 2026 12:03:40 +0000 — [The Kubernetes 1.37 Deadline That Doesn't Exist — And the One That Does](https://dev.to/ntctech/the-kubernetes-137-deadline-that-doesnt-exist-and-the-one-that-does-1417)
 <!-- NEWS END -->
