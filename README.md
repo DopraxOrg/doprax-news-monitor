@@ -2,14 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-23 13:04 UTC
+Last update: 2026-09-24 12:56 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 23 Sep 2026 12:31:33 +0000 — [Technical Training on Common Red Team Attack Scenarios During Major Event Security Assurance](https://dev.to/excalibra/technical-training-on-common-red-team-attack-scenarios-during-major-event-security-assurance-268)
+- Thu, 24 Sep 2026 12:56:32 +0000 — [AdGuard Home: network-wide ad and tracking blocker](https://dev.to/serverkueche/adguard-home-network-wide-ad-and-tracking-blocker-2bji)
+- Thu, 24 Sep 2026 12:56:20 +0000 — [How HTTPS actually works (and what Traefik does for you)](https://dev.to/serverkueche/how-https-actually-works-and-what-traefik-does-for-you-2all)
+- Thu, 24 Sep 2026 12:55:15 +0000 — [FreshRSS: Your Own RSS Reader](https://dev.to/serverkueche/freshrss-your-own-rss-reader-5gin)
+- Thu, 24 Sep 2026 12:55:05 +0000 — [Understanding Linux Users, Groups & File Permissions](https://dev.to/serverkueche/understanding-linux-users-groups-file-permissions-db8)
+- Thu, 24 Sep 2026 12:47:05 +0000 — [Your agent framework stops at the demo. This open-source stack ships to production.](https://dev.to/anis_meziani_52aab42304a8/your-agent-framework-stops-at-the-demo-this-open-source-stack-ships-to-production-3ogd)
 - 2026-09-17T22:01:14+00:00 — [New Project Megathread - Week of 17 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wj7qvy/new_project_megathread_week_of_17_sep_2026/)
 - 2026-09-23T11:09:13+00:00 — [autobrr team just announced Librarry. replacement for sonarr and radarr](https://www.reddit.com/r/selfhosted/comments/1wo2yxg/autobrr_team_just_announced_librarry_replacement/)
+- 2026-09-23T14:01:26+00:00 — [MiniPC / N100 - Worth it compared to my DS1520? Options?](https://www.reddit.com/r/selfhosted/comments/1wo6uvp/minipc_n100_worth_it_compared_to_my_ds1520_options/)
+- 2026-09-23T19:23:52+00:00 — [Photo sharing with friends](https://www.reddit.com/r/selfhosted/comments/1wofkt9/photo_sharing_with_friends/)
+- Wed, 23 Sep 2026 12:31:33 +0000 — [Technical Training on Common Red Team Attack Scenarios During Major Event Security Assurance](https://dev.to/excalibra/technical-training-on-common-red-team-attack-scenarios-during-major-event-security-assurance-268)
 - 2026-09-22T23:04:02+00:00 — [New to self hosting](https://www.reddit.com/r/selfhosted/comments/1wnoy01/new_to_self_hosting/)
 - 2026-09-23T12:02:56+00:00 — [absolute beginner level.](https://www.reddit.com/r/selfhosted/comments/1wo42sd/absolute_beginner_level/)
 - 2026-09-23T02:49:44+00:00 — [K.I.S.S MFA for homelab](https://www.reddit.com/r/selfhosted/comments/1wntztp/kiss_mfa_for_homelab/)
@@ -100,11 +107,4 @@ Last update: 2026-09-23 13:04 UTC
 - 2026-09-13T06:25:23+00:00 — [Jetson Nano becomes partially unresponsive every 2-3 days while running Docker, ping works but SSH/apps hang](https://www.reddit.com/r/selfhosted/comments/1wezwu2/jetson_nano_becomes_partially_unresponsive_every/)
 - 2026-09-12T08:02:29+00:00 — [A server backup solution that actually works?](https://www.reddit.com/r/selfhosted/comments/1we6jj9/a_server_backup_solution_that_actually_works/)
 - 2026-09-13T12:05:11+00:00 — [Need help for moonlight access from school](https://www.reddit.com/r/selfhosted/comments/1wf5vpt/need_help_for_moonlight_access_from_school/)
-- 2026-09-12T17:04:44+00:00 — [What are people's thoughts on PaaS providers for Docker containers?](https://www.reddit.com/r/selfhosted/comments/1wehzg2/what_are_peoples_thoughts_on_paas_providers_for/)
-- 2026-09-13T08:03:12+00:00 — [Gmail OAuth 100-user limit — has anyone used multiple Google Cloud projects with EmailEngine/IMAP?](https://www.reddit.com/r/selfhosted/comments/1wf1lge/gmail_oauth_100user_limit_has_anyone_used/)
-- 2026-09-11T21:59:54+00:00 — [Vaultisse – self-hosted physical book collection tracker with shelf location](https://www.reddit.com/r/selfhosted/comments/1wdu5sd/vaultisse_selfhosted_physical_book_collection/)
-- Sat, 12 Sep 2026 11:41:54 +0000 — [Choosing free on-prem git server - Gitea is the winner!](https://dev.to/rosgluk/choosing-free-on-prem-git-server-gitea-is-the-winner-32a7)
-- Sat, 12 Sep 2026 11:30:54 +0000 — [You Don't Need Express to Build a Microservice (Here's the Zero-Dependency Version)](https://dev.to/dev_encyclopedia/you-dont-need-express-to-build-a-microservice-heres-the-zero-dependency-version-921)
-- 2026-09-11T09:40:26+00:00 — [Portainer 3 Coming Without CE. Pivoting to Kubernetes and Enterprise Focus.](https://www.reddit.com/r/selfhosted/comments/1wdbia2/portainer_3_coming_without_ce_pivoting_to/)
-- 2026-09-11T14:19:58+00:00 — [GyroidVault v2.0 — Self-hosted 3D model vault & library manager](https://www.reddit.com/r/selfhosted/comments/1wdhnc3/gyroidvault_v20_selfhosted_3d_model_vault_library/)
 <!-- NEWS END -->
