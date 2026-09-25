@@ -2,11 +2,16 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-24 12:56 UTC
+Last update: 2026-09-25 13:03 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-09-24T22:01:09+00:00 — [New Project Megathread - Week of 24 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wpezgu/new_project_megathread_week_of_24_sep_2026/)
+- 2026-09-24T21:28:43+00:00 — [FSAtlas v2.1.1: A Real-World Flight Route Finder Inspired by FlightConnections](https://www.reddit.com/r/selfhosted/comments/1wpe6we/fsatlas_v211_a_realworld_flight_route_finder/)
+- 2026-09-25T01:34:11+00:00 — [Self Hosted Gameservers w/ masked IP & minimal latency](https://www.reddit.com/r/selfhosted/comments/1wpjjiz/self_hosted_gameservers_w_masked_ip_minimal/)
+- 2026-09-24T17:13:55+00:00 — [Self hosted docker container best network security practices?](https://www.reddit.com/r/selfhosted/comments/1wp7jkc/self_hosted_docker_container_best_network/)
+- 2026-09-25T01:27:49+00:00 — [Dashflex - Dashboard and Docker Container Manager](https://www.reddit.com/r/selfhosted/comments/1wpjeys/dashflex_dashboard_and_docker_container_manager/)
 - Thu, 24 Sep 2026 12:56:32 +0000 — [AdGuard Home: network-wide ad and tracking blocker](https://dev.to/serverkueche/adguard-home-network-wide-ad-and-tracking-blocker-2bji)
 - Thu, 24 Sep 2026 12:56:20 +0000 — [How HTTPS actually works (and what Traefik does for you)](https://dev.to/serverkueche/how-https-actually-works-and-what-traefik-does-for-you-2all)
 - Thu, 24 Sep 2026 12:55:15 +0000 — [FreshRSS: Your Own RSS Reader](https://dev.to/serverkueche/freshrss-your-own-rss-reader-5gin)
@@ -102,9 +107,4 @@ Last update: 2026-09-24 12:56 UTC
 - 2026-09-14T10:16:00+00:00 — [Hide one service, and one only, behind a VPN WHILE accessing it through a reverse proxy](https://www.reddit.com/r/selfhosted/comments/1wfzf1v/hide_one_service_and_one_only_behind_a_vpn_while/)
 - 2026-09-14T09:11:55+00:00 — [Quick question](https://www.reddit.com/r/selfhosted/comments/1wfyc9p/quick_question/)
 - Sun, 13 Sep 2026 12:15:47 +0000 — [The Markdown Blackboard: Zero-Overhead Multi-Agent Orchestration](https://dev.to/varun_agarwal/the-markdown-blackboard-zero-overhead-multi-agent-orchestration-3j7m)
-- 2026-09-12T22:51:53+00:00 — [Blockbusterr v2.0.0: self-hosted media discovery with rules, previews, and delivery limits](https://www.reddit.com/r/selfhosted/comments/1weqrz1/blockbusterr_v200_selfhosted_media_discovery_with/)
-- 2026-09-12T22:57:49+00:00 — [BetterShift - a self-hosted shift planner - big v3 redesign](https://www.reddit.com/r/selfhosted/comments/1weqwum/bettershift_a_selfhosted_shift_planner_big_v3/)
-- 2026-09-13T06:25:23+00:00 — [Jetson Nano becomes partially unresponsive every 2-3 days while running Docker, ping works but SSH/apps hang](https://www.reddit.com/r/selfhosted/comments/1wezwu2/jetson_nano_becomes_partially_unresponsive_every/)
-- 2026-09-12T08:02:29+00:00 — [A server backup solution that actually works?](https://www.reddit.com/r/selfhosted/comments/1we6jj9/a_server_backup_solution_that_actually_works/)
-- 2026-09-13T12:05:11+00:00 — [Need help for moonlight access from school](https://www.reddit.com/r/selfhosted/comments/1wf5vpt/need_help_for_moonlight_access_from_school/)
 <!-- NEWS END -->
