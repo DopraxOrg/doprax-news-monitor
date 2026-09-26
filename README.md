@@ -2,14 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-25 13:03 UTC
+Last update: 2026-09-26 12:31 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 26 Sep 2026 12:00:39 +0000 — [prompts.chat: The World's Largest Open-Source Prompt Library (167,000 Stars)](https://dev.to/saaro_net/promptschat-the-worlds-largest-open-source-prompt-library-167000-stars-461g)
 - 2026-09-24T22:01:09+00:00 — [New Project Megathread - Week of 24 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wpezgu/new_project_megathread_week_of_24_sep_2026/)
-- 2026-09-24T21:28:43+00:00 — [FSAtlas v2.1.1: A Real-World Flight Route Finder Inspired by FlightConnections](https://www.reddit.com/r/selfhosted/comments/1wpe6we/fsatlas_v211_a_realworld_flight_route_finder/)
+- 2026-09-25T18:48:40+00:00 — [Humble little home-lab made with a Pi that was just sitting around.](https://www.reddit.com/r/selfhosted/comments/1wq4gvi/humble_little_homelab_made_with_a_pi_that_was/)
+- 2026-09-26T05:27:06+00:00 — [Been working on a universal tts finetuner for a bit so far works for 17 tts engines (xtts,coqui stuff, piper,etc), docker or cli](https://www.reddit.com/r/selfhosted/comments/1wqi8re/been_working_on_a_universal_tts_finetuner_for_a/)
+- 2026-09-26T00:58:26+00:00 — [Easy, lightweight option to access my Jellyfin server remotely on a TV](https://www.reddit.com/r/selfhosted/comments/1wqd4gg/easy_lightweight_option_to_access_my_jellyfin/)
+- 2026-09-26T02:53:06+00:00 — [How I turned an old broken laptop into a silent $0 24/7 home server (Linux, Nextcloud, Docker)](https://www.reddit.com/r/selfhosted/comments/1wqfe12/how_i_turned_an_old_broken_laptop_into_a_silent_0/)
+- 2026-09-26T10:26:52+00:00 — [self-hosted conversational analytics layer for databases](https://www.reddit.com/r/selfhosted/comments/1wqn4gl/selfhosted_conversational_analytics_layer_for/)
+- 2026-09-26T04:10:33+00:00 — [QueryAPIGate - self-hosted service that turns saved SQL queries into REST endpoints with per-key access control (source-available)](https://www.reddit.com/r/selfhosted/comments/1wqgusv/queryapigate_selfhosted_service_that_turns_saved/)
+- 2026-09-25T13:05:14+00:00 — [HortusFox turns 3 - Happy 3rd Anniversary 💚](https://www.reddit.com/r/selfhosted/comments/1wpvu5w/hortusfox_turns_3_happy_3rd_anniversary/)
+- 2026-09-26T04:13:10+00:00 — [Tiyi: website protection in one binary, with AI Copilot and Skills for operations](https://www.reddit.com/r/selfhosted/comments/1wqgwn3/tiyi_website_protection_in_one_binary_with_ai/)
 - 2026-09-25T01:34:11+00:00 — [Self Hosted Gameservers w/ masked IP & minimal latency](https://www.reddit.com/r/selfhosted/comments/1wpjjiz/self_hosted_gameservers_w_masked_ip_minimal/)
+- 2026-09-24T21:28:43+00:00 — [FSAtlas v2.1.1: A Real-World Flight Route Finder Inspired by FlightConnections](https://www.reddit.com/r/selfhosted/comments/1wpe6we/fsatlas_v211_a_realworld_flight_route_finder/)
 - 2026-09-24T17:13:55+00:00 — [Self hosted docker container best network security practices?](https://www.reddit.com/r/selfhosted/comments/1wp7jkc/self_hosted_docker_container_best_network/)
 - 2026-09-25T01:27:49+00:00 — [Dashflex - Dashboard and Docker Container Manager](https://www.reddit.com/r/selfhosted/comments/1wpjeys/dashflex_dashboard_and_docker_container_manager/)
 - Thu, 24 Sep 2026 12:56:32 +0000 — [AdGuard Home: network-wide ad and tracking blocker](https://dev.to/serverkueche/adguard-home-network-wide-ad-and-tracking-blocker-2bji)
@@ -98,13 +107,4 @@ Last update: 2026-09-25 13:03 UTC
 - 2026-09-15T12:34:59+00:00 — [Lode - your users shouldn't have to understand your media stack](https://www.reddit.com/r/selfhosted/comments/1wgz5h0/lode_your_users_shouldnt_have_to_understand_your/)
 - 2026-09-14T12:37:21+00:00 — [Uptime Kuma SQLite DB keeps growing and won't shrink](https://www.reddit.com/r/selfhosted/comments/1wg289i/uptime_kuma_sqlite_db_keeps_growing_and_wont/)
 - 2026-09-14T15:32:21+00:00 — [Longhorn on Kubernetes: A hands-on guide covering installation, PVC migration, storage classes, and backup](https://www.reddit.com/r/selfhosted/comments/1wg6ox6/longhorn_on_kubernetes_a_handson_guide_covering/)
-- 2026-09-15T09:40:49+00:00 — [IllusionDB - a complete freeware alternative to airtable, nocodb, supabase or directus](https://www.reddit.com/r/selfhosted/comments/1wgvon7/illusiondb_a_complete_freeware_alternative_to/)
-- Mon, 14 Sep 2026 14:13:40 +0000 — [How I Built a Verifier Engine That Catches AI Agents Lying About What They Did](https://dev.to/yaminbinyoosuf/how-i-built-a-verifier-engine-that-catches-ai-agents-lying-about-what-they-did-1ppj)
-- 2026-09-14T06:36:31+00:00 — [Backup storage on proxmox](https://www.reddit.com/r/selfhosted/comments/1wfvs3e/backup_storage_on_proxmox/)
-- 2026-09-13T15:37:19+00:00 — [PSA for those using pinned qmcgaw Gluetun](https://www.reddit.com/r/selfhosted/comments/1wfay9n/psa_for_those_using_pinned_qmcgaw_gluetun/)
-- 2026-09-13T15:56:33+00:00 — [Docker Socket Proxies - enhanced security or just another attack vector? (Arcane + e.g. wollomatic)](https://www.reddit.com/r/selfhosted/comments/1wfbgea/docker_socket_proxies_enhanced_security_or_just/)
-- 2026-09-14T14:02:28+00:00 — [Docker Management Sencho vs Arcane](https://www.reddit.com/r/selfhosted/comments/1wg4b8n/docker_management_sencho_vs_arcane/)
-- 2026-09-14T10:16:00+00:00 — [Hide one service, and one only, behind a VPN WHILE accessing it through a reverse proxy](https://www.reddit.com/r/selfhosted/comments/1wfzf1v/hide_one_service_and_one_only_behind_a_vpn_while/)
-- 2026-09-14T09:11:55+00:00 — [Quick question](https://www.reddit.com/r/selfhosted/comments/1wfyc9p/quick_question/)
-- Sun, 13 Sep 2026 12:15:47 +0000 — [The Markdown Blackboard: Zero-Overhead Multi-Agent Orchestration](https://dev.to/varun_agarwal/the-markdown-blackboard-zero-overhead-multi-agent-orchestration-3j7m)
 <!-- NEWS END -->
