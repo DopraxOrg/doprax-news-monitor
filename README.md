@@ -2,15 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-26 12:31 UTC
+Last update: 2026-09-27 13:21 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sat, 26 Sep 2026 12:00:39 +0000 — [prompts.chat: The World's Largest Open-Source Prompt Library (167,000 Stars)](https://dev.to/saaro_net/promptschat-the-worlds-largest-open-source-prompt-library-167000-stars-461g)
+- Sun, 27 Sep 2026 12:51:32 +0000 — [Building an Open-Source AI Workspace: Cross-Tool Vector Search & Real-Time Sync with Next.js 14 and pgvector](https://dev.to/marowa_labs/building-an-open-source-ai-workspace-cross-tool-vector-search-real-time-sync-with-nextjs-14-and-3p93)
 - 2026-09-24T22:01:09+00:00 — [New Project Megathread - Week of 24 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wpezgu/new_project_megathread_week_of_24_sep_2026/)
+- 2026-09-27T12:15:31+00:00 — [EdgeEver: An open-source, AI-native Evernote alternative that runs zero-cost on Cloudflare or Docker (with native MCP & full cross-platform apps)](https://www.reddit.com/r/selfhosted/comments/1wriqhk/edgeever_an_opensource_ainative_evernote/)
+- 2026-09-27T11:26:31+00:00 — [Recommended budget setup for a home server.](https://www.reddit.com/r/selfhosted/comments/1wrhtdm/recommended_budget_setup_for_a_home_server/)
+- 2026-09-26T15:40:46+00:00 — [Portabase (OSS backup/restore platform) now supports rclone as storage connector](https://www.reddit.com/r/selfhosted/comments/1wqtng8/portabase_oss_backuprestore_platform_now_supports/)
+- 2026-09-26T12:54:30+00:00 — [Revive of GitSave](https://www.reddit.com/r/selfhosted/comments/1wqptzw/revive_of_gitsave/)
 - 2026-09-25T18:48:40+00:00 — [Humble little home-lab made with a Pi that was just sitting around.](https://www.reddit.com/r/selfhosted/comments/1wq4gvi/humble_little_homelab_made_with_a_pi_that_was/)
+- 2026-09-26T18:36:12+00:00 — [Dockhand v1.0.49 "prune unused" images working no more till recent past updates](https://www.reddit.com/r/selfhosted/comments/1wqxzox/dockhand_v1049_prune_unused_images_working_no/)
 - 2026-09-26T05:27:06+00:00 — [Been working on a universal tts finetuner for a bit so far works for 17 tts engines (xtts,coqui stuff, piper,etc), docker or cli](https://www.reddit.com/r/selfhosted/comments/1wqi8re/been_working_on_a_universal_tts_finetuner_for_a/)
+- Sat, 26 Sep 2026 12:00:39 +0000 — [prompts.chat: The World's Largest Open-Source Prompt Library (167,000 Stars)](https://dev.to/saaro_net/promptschat-the-worlds-largest-open-source-prompt-library-167000-stars-461g)
 - 2026-09-26T00:58:26+00:00 — [Easy, lightweight option to access my Jellyfin server remotely on a TV](https://www.reddit.com/r/selfhosted/comments/1wqd4gg/easy_lightweight_option_to_access_my_jellyfin/)
 - 2026-09-26T02:53:06+00:00 — [How I turned an old broken laptop into a silent $0 24/7 home server (Linux, Nextcloud, Docker)](https://www.reddit.com/r/selfhosted/comments/1wqfe12/how_i_turned_an_old_broken_laptop_into_a_silent_0/)
 - 2026-09-26T10:26:52+00:00 — [self-hosted conversational analytics layer for databases](https://www.reddit.com/r/selfhosted/comments/1wqn4gl/selfhosted_conversational_analytics_layer_for/)
@@ -101,10 +107,4 @@ Last update: 2026-09-26 12:31 UTC
 - 2026-09-15T07:44:46+00:00 — [Apple Mac Mini for self hosting?](https://www.reddit.com/r/selfhosted/comments/1wgtr5m/apple_mac_mini_for_self_hosting/)
 - 2026-09-15T08:17:58+00:00 — [Perplexica problem](https://www.reddit.com/r/selfhosted/comments/1wguazi/perplexica_problem/)
 - 2026-09-14T10:55:18+00:00 — [What self-hosted security tools would you recommend?](https://www.reddit.com/r/selfhosted/comments/1wg04o8/what_selfhosted_security_tools_would_you_recommend/)
-- 2026-09-15T10:57:28+00:00 — [whisper will not work no matter what in home assistant docker stack](https://www.reddit.com/r/selfhosted/comments/1wgx3i1/whisper_will_not_work_no_matter_what_in_home/)
-- 2026-09-15T06:06:24+00:00 — [In over my head & looking for advice.](https://www.reddit.com/r/selfhosted/comments/1wgs2c8/in_over_my_head_looking_for_advice/)
-- 2026-09-14T14:38:19+00:00 — [How do you deal with OS updates on servers you can't afford to break?](https://www.reddit.com/r/selfhosted/comments/1wg58zk/how_do_you_deal_with_os_updates_on_servers_you/)
-- 2026-09-15T12:34:59+00:00 — [Lode - your users shouldn't have to understand your media stack](https://www.reddit.com/r/selfhosted/comments/1wgz5h0/lode_your_users_shouldnt_have_to_understand_your/)
-- 2026-09-14T12:37:21+00:00 — [Uptime Kuma SQLite DB keeps growing and won't shrink](https://www.reddit.com/r/selfhosted/comments/1wg289i/uptime_kuma_sqlite_db_keeps_growing_and_wont/)
-- 2026-09-14T15:32:21+00:00 — [Longhorn on Kubernetes: A hands-on guide covering installation, PVC migration, storage classes, and backup](https://www.reddit.com/r/selfhosted/comments/1wg6ox6/longhorn_on_kubernetes_a_handson_guide_covering/)
 <!-- NEWS END -->
