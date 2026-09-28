@@ -2,13 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-27 13:21 UTC
+Last update: 2026-09-28 16:08 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sun, 27 Sep 2026 12:51:32 +0000 — [Building an Open-Source AI Workspace: Cross-Tool Vector Search & Real-Time Sync with Next.js 14 and pgvector](https://dev.to/marowa_labs/building-an-open-source-ai-workspace-cross-tool-vector-search-real-time-sync-with-nextjs-14-and-3p93)
+- Mon, 28 Sep 2026 16:01:45 +0000 — [An AI agent built this CKA Anki deck — and a script checked every card against the docs](https://dev.to/driftbuilder/an-ai-agent-built-this-cka-anki-deck-and-a-script-checked-every-card-against-the-docs-3k2b)
+- Mon, 28 Sep 2026 15:56:34 +0000 — [ECHOLESS: Turning Organizational Near-Misses into AI-Powered Institutional Memory](https://dev.to/harshith_ram_8085c2d1334f/echoless-turning-organizational-near-misses-into-ai-powered-institutional-memory-l2c)
 - 2026-09-24T22:01:09+00:00 — [New Project Megathread - Week of 24 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wpezgu/new_project_megathread_week_of_24_sep_2026/)
+- 2026-09-28T15:17:02+00:00 — [Self-host your own Roborock cloud without rooting or hardware modification](https://www.reddit.com/r/selfhosted/comments/1wshdpo/selfhost_your_own_roborock_cloud_without_rooting/)
+- 2026-09-27T19:29:08+00:00 — [Feature overlap across your homelab tools](https://www.reddit.com/r/selfhosted/comments/1wrt7ha/feature_overlap_across_your_homelab_tools/)
+- 2026-09-28T01:31:33+00:00 — [How many of you guys self-host on VPS providers?](https://www.reddit.com/r/selfhosted/comments/1ws1iw3/how_many_of_you_guys_selfhost_on_vps_providers/)
+- 2026-09-27T22:39:30+00:00 — [Why are Quadlets seemingly unheard of in the self host communities?](https://www.reddit.com/r/selfhosted/comments/1wrxvhr/why_are_quadlets_seemingly_unheard_of_in_the_self/)
+- 2026-09-28T11:47:47+00:00 — [Need some help with drive pools in proxmox](https://www.reddit.com/r/selfhosted/comments/1wscego/need_some_help_with_drive_pools_in_proxmox/)
+- 2026-09-28T14:59:27+00:00 — [Audiobook and Ebook management app](https://www.reddit.com/r/selfhosted/comments/1wsgx4b/audiobook_and_ebook_management_app/)
+- 2026-09-28T14:50:29+00:00 — [Dokploy vs docker-compose](https://www.reddit.com/r/selfhosted/comments/1wsgoq7/dokploy_vs_dockercompose/)
+- 2026-09-28T09:06:23+00:00 — [I want my first server rack, but need help building it (personal+family/friend use)](https://www.reddit.com/r/selfhosted/comments/1ws9low/i_want_my_first_server_rack_but_need_help/)
+- 2026-09-28T05:01:32+00:00 — [Ngnix reverse proxy for game server using sub-domain](https://www.reddit.com/r/selfhosted/comments/1ws5jzk/ngnix_reverse_proxy_for_game_server_using/)
+- Sun, 27 Sep 2026 12:51:32 +0000 — [Building an Open-Source AI Workspace: Cross-Tool Vector Search & Real-Time Sync with Next.js 14 and pgvector](https://dev.to/marowa_labs/building-an-open-source-ai-workspace-cross-tool-vector-search-real-time-sync-with-nextjs-14-and-3p93)
 - 2026-09-27T12:15:31+00:00 — [EdgeEver: An open-source, AI-native Evernote alternative that runs zero-cost on Cloudflare or Docker (with native MCP & full cross-platform apps)](https://www.reddit.com/r/selfhosted/comments/1wriqhk/edgeever_an_opensource_ainative_evernote/)
 - 2026-09-27T11:26:31+00:00 — [Recommended budget setup for a home server.](https://www.reddit.com/r/selfhosted/comments/1wrhtdm/recommended_budget_setup_for_a_home_server/)
 - 2026-09-26T15:40:46+00:00 — [Portabase (OSS backup/restore platform) now supports rclone as storage connector](https://www.reddit.com/r/selfhosted/comments/1wqtng8/portabase_oss_backuprestore_platform_now_supports/)
@@ -96,15 +107,4 @@ Last update: 2026-09-27 13:21 UTC
 - 2026-09-16T04:45:11+00:00 — [I moved my ~150 TB server from Unraid to Debian without moving the data](https://www.reddit.com/r/selfhosted/comments/1whnbd2/i_moved_my_150_tb_server_from_unraid_to_debian/)
 - 2026-09-16T21:03:19+00:00 — [NextExplorer for iOS, an iOS app companion for your self-hosted NextExplorer instance](https://www.reddit.com/r/selfhosted/comments/1wi9s0v/nextexplorer_for_ios_an_ios_app_companion_for/)
 - Wed, 16 Sep 2026 12:30:56 +0000 — [Amazon S3 Tables Alternatives for Production Iceberg](https://dev.to/jonisar/amazon-s3-tables-alternatives-for-production-iceberg-3ibp)
-- 2026-09-15T18:43:03+00:00 — [Methods to transfer files between buddies homelab](https://www.reddit.com/r/selfhosted/comments/1wh8zao/methods_to_transfer_files_between_buddies_homelab/)
-- 2026-09-16T05:15:57+00:00 — [TV UI?](https://www.reddit.com/r/selfhosted/comments/1whnw9d/tv_ui/)
-- 2026-09-15T19:06:16+00:00 — [Dropped a Python container from 1.8GB to 60MB with distroless multi-stage builds. How do you handle debugging in prod](https://www.reddit.com/r/selfhosted/comments/1wh9n5y/dropped_a_python_container_from_18gb_to_60mb_with/)
-- 2026-09-16T00:00:49+00:00 — [Screening login attempts for containerized applications](https://www.reddit.com/r/selfhosted/comments/1whh7zz/screening_login_attempts_for_containerized/)
-- Tue, 15 Sep 2026 12:45:16 +0000 — [Self-Host n8n on AWS EC2 with Docker - Install to First Login](https://dev.to/aws-builders/self-host-n8n-on-aws-ec2-with-docker-install-to-first-login-202n)
-- Tue, 15 Sep 2026 12:38:30 +0000 — [Your AI Has the Memory of a Goldfish. Here's Why That's Finally Changing.](https://dev.to/isha_jain_5df3501f5266794/your-ai-has-the-memory-of-a-goldfish-heres-why-thats-finally-changing-368h)
-- 2026-09-15T05:54:00+00:00 — [TV Box for Privacy](https://www.reddit.com/r/selfhosted/comments/1wgru4c/tv_box_for_privacy/)
-- 2026-09-14T01:46:08+00:00 — [My homelab was compromised. Here is what I learned, and what I need to figure out.](https://www.reddit.com/r/selfhosted/comments/1wfq2vx/my_homelab_was_compromised_here_is_what_i_learned/)
-- 2026-09-15T07:44:46+00:00 — [Apple Mac Mini for self hosting?](https://www.reddit.com/r/selfhosted/comments/1wgtr5m/apple_mac_mini_for_self_hosting/)
-- 2026-09-15T08:17:58+00:00 — [Perplexica problem](https://www.reddit.com/r/selfhosted/comments/1wguazi/perplexica_problem/)
-- 2026-09-14T10:55:18+00:00 — [What self-hosted security tools would you recommend?](https://www.reddit.com/r/selfhosted/comments/1wg04o8/what_selfhosted_security_tools_would_you_recommend/)
 <!-- NEWS END -->
