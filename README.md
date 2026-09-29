@@ -2,15 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-28 16:08 UTC
+Last update: 2026-09-29 14:23 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-09-24T22:01:09+00:00 — [New Project Megathread - Week of 24 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wpezgu/new_project_megathread_week_of_24_sep_2026/)
+- 2026-09-29T13:30:33+00:00 — [My Homelab](https://www.reddit.com/r/selfhosted/comments/1wta69u/my_homelab/)
+- 2026-09-28T15:17:02+00:00 — [Self-host your own Roborock cloud without rooting or hardware modification](https://www.reddit.com/r/selfhosted/comments/1wshdpo/selfhost_your_own_roborock_cloud_without_rooting/)
+- 2026-09-28T16:07:30+00:00 — [Apprise v2.0 Released](https://www.reddit.com/r/selfhosted/comments/1wsirgx/apprise_v20_released/)
+- 2026-09-28T18:46:01+00:00 — [Homelab Beginner - This is my setup so far... advancing quickly](https://www.reddit.com/r/selfhosted/comments/1wsn3d4/homelab_beginner_this_is_my_setup_so_far/)
+- 2026-09-29T07:06:23+00:00 — [Audiobookshelf remote downloading slow](https://www.reddit.com/r/selfhosted/comments/1wt3b9c/audiobookshelf_remote_downloading_slow/)
 - Mon, 28 Sep 2026 16:01:45 +0000 — [An AI agent built this CKA Anki deck — and a script checked every card against the docs](https://dev.to/driftbuilder/an-ai-agent-built-this-cka-anki-deck-and-a-script-checked-every-card-against-the-docs-3k2b)
 - Mon, 28 Sep 2026 15:56:34 +0000 — [ECHOLESS: Turning Organizational Near-Misses into AI-Powered Institutional Memory](https://dev.to/harshith_ram_8085c2d1334f/echoless-turning-organizational-near-misses-into-ai-powered-institutional-memory-l2c)
-- 2026-09-24T22:01:09+00:00 — [New Project Megathread - Week of 24 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wpezgu/new_project_megathread_week_of_24_sep_2026/)
-- 2026-09-28T15:17:02+00:00 — [Self-host your own Roborock cloud without rooting or hardware modification](https://www.reddit.com/r/selfhosted/comments/1wshdpo/selfhost_your_own_roborock_cloud_without_rooting/)
 - 2026-09-27T19:29:08+00:00 — [Feature overlap across your homelab tools](https://www.reddit.com/r/selfhosted/comments/1wrt7ha/feature_overlap_across_your_homelab_tools/)
 - 2026-09-28T01:31:33+00:00 — [How many of you guys self-host on VPS providers?](https://www.reddit.com/r/selfhosted/comments/1ws1iw3/how_many_of_you_guys_selfhost_on_vps_providers/)
 - 2026-09-27T22:39:30+00:00 — [Why are Quadlets seemingly unheard of in the self host communities?](https://www.reddit.com/r/selfhosted/comments/1wrxvhr/why_are_quadlets_seemingly_unheard_of_in_the_self/)
@@ -103,8 +107,4 @@ Last update: 2026-09-28 16:08 UTC
 - 2026-09-17T08:51:00+00:00 — [I want to get off my cloud sync provider, looking for a simple one with support for many OSes](https://www.reddit.com/r/selfhosted/comments/1wioiqy/i_want_to_get_off_my_cloud_sync_provider_looking/)
 - 2026-09-16T14:30:32+00:00 — [Dispatcharr Release: v0.31.0 - IPTV Stream & EPG Management](https://www.reddit.com/r/selfhosted/comments/1whyvnk/dispatcharr_release_v0310_iptv_stream_epg/)
 - 2026-09-16T17:43:35+00:00 — [Ghee, an iOS and Android companion app for self-hosted Mealie, with offline recipes and shopping lists](https://www.reddit.com/r/selfhosted/comments/1wi48hv/ghee_an_ios_and_android_companion_app_for/)
-- 2026-09-17T09:21:20+00:00 — [Staring my first homelab and need help](https://www.reddit.com/r/selfhosted/comments/1wip1db/staring_my_first_homelab_and_need_help/)
-- 2026-09-16T04:45:11+00:00 — [I moved my ~150 TB server from Unraid to Debian without moving the data](https://www.reddit.com/r/selfhosted/comments/1whnbd2/i_moved_my_150_tb_server_from_unraid_to_debian/)
-- 2026-09-16T21:03:19+00:00 — [NextExplorer for iOS, an iOS app companion for your self-hosted NextExplorer instance](https://www.reddit.com/r/selfhosted/comments/1wi9s0v/nextexplorer_for_ios_an_ios_app_companion_for/)
-- Wed, 16 Sep 2026 12:30:56 +0000 — [Amazon S3 Tables Alternatives for Production Iceberg](https://dev.to/jonisar/amazon-s3-tables-alternatives-for-production-iceberg-3ibp)
 <!-- NEWS END -->
