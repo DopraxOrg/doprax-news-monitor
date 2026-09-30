@@ -2,13 +2,18 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-29 14:23 UTC
+Last update: 2026-09-30 14:18 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 30 Sep 2026 14:07:30 +0000 — [AI Assistance Helps User Overcome Technical Hurdles to Successfully Set Up Self-Hosted Media Server](https://dev.to/elenbit/ai-assistance-helps-user-overcome-technical-hurdles-to-successfully-set-up-self-hosted-media-server-4eed)
 - 2026-09-24T22:01:09+00:00 — [New Project Megathread - Week of 24 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wpezgu/new_project_megathread_week_of_24_sep_2026/)
+- 2026-09-29T22:22:05+00:00 — [I made a mattermost fork without the BS](https://www.reddit.com/r/selfhosted/comments/1wto0z7/i_made_a_mattermost_fork_without_the_bs/)
 - 2026-09-29T13:30:33+00:00 — [My Homelab](https://www.reddit.com/r/selfhosted/comments/1wta69u/my_homelab/)
+- 2026-09-30T11:41:24+00:00 — [Too much fun, or too much work? (an essay 😜)](https://www.reddit.com/r/selfhosted/comments/1wu2nzu/too_much_fun_or_too_much_work_an_essay/)
+- 2026-09-30T11:09:38+00:00 — [How do you self-host webhook-based automation?](https://www.reddit.com/r/selfhosted/comments/1wu238g/how_do_you_selfhost_webhookbased_automation/)
+- 2026-09-30T08:40:01+00:00 — [Docker management over multiple VM/LXC](https://www.reddit.com/r/selfhosted/comments/1wtzobt/docker_management_over_multiple_vmlxc/)
 - 2026-09-28T15:17:02+00:00 — [Self-host your own Roborock cloud without rooting or hardware modification](https://www.reddit.com/r/selfhosted/comments/1wshdpo/selfhost_your_own_roborock_cloud_without_rooting/)
 - 2026-09-28T16:07:30+00:00 — [Apprise v2.0 Released](https://www.reddit.com/r/selfhosted/comments/1wsirgx/apprise_v20_released/)
 - 2026-09-28T18:46:01+00:00 — [Homelab Beginner - This is my setup so far... advancing quickly](https://www.reddit.com/r/selfhosted/comments/1wsn3d4/homelab_beginner_this_is_my_setup_so_far/)
@@ -102,9 +107,4 @@ Last update: 2026-09-29 14:23 UTC
 - 2026-09-17T17:56:39+00:00 — [Event calendar](https://www.reddit.com/r/selfhosted/comments/1wj17wh/event_calendar/)
 - 2026-09-18T10:22:43+00:00 — [Remote access is easy enough. Sharing just one service gets trickier.](https://www.reddit.com/r/selfhosted/comments/1wjme0r/remote_access_is_easy_enough_sharing_just_one/)
 - 2026-09-16T14:27:08+00:00 — [Pangolin 1.23: High Availability and Clustering for VPN and Reverse Proxy](https://www.reddit.com/r/selfhosted/comments/1whysfj/pangolin_123_high_availability_and_clustering_for/)
-- 2026-09-16T17:53:34+00:00 — [Grimoire v1.7.0 - Building out more TTRPG tools](https://www.reddit.com/r/selfhosted/comments/1wi4iaz/grimoire_v170_building_out_more_ttrpg_tools/)
-- 2026-09-10T22:01:15+00:00 — [New Project Megathread - Week of 10 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wcxa5u/new_project_megathread_week_of_10_sep_2026/)
-- 2026-09-17T08:51:00+00:00 — [I want to get off my cloud sync provider, looking for a simple one with support for many OSes](https://www.reddit.com/r/selfhosted/comments/1wioiqy/i_want_to_get_off_my_cloud_sync_provider_looking/)
-- 2026-09-16T14:30:32+00:00 — [Dispatcharr Release: v0.31.0 - IPTV Stream & EPG Management](https://www.reddit.com/r/selfhosted/comments/1whyvnk/dispatcharr_release_v0310_iptv_stream_epg/)
-- 2026-09-16T17:43:35+00:00 — [Ghee, an iOS and Android companion app for self-hosted Mealie, with offline recipes and shopping lists](https://www.reddit.com/r/selfhosted/comments/1wi48hv/ghee_an_ios_and_android_companion_app_for/)
 <!-- NEWS END -->
