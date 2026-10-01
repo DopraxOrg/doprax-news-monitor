@@ -2,13 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-09-30 14:18 UTC
+Last update: 2026-10-01 14:51 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 30 Sep 2026 14:07:30 +0000 — [AI Assistance Helps User Overcome Technical Hurdles to Successfully Set Up Self-Hosted Media Server](https://dev.to/elenbit/ai-assistance-helps-user-overcome-technical-hurdles-to-successfully-set-up-self-hosted-media-server-4eed)
+- Thu, 01 Oct 2026 14:46:10 +0000 — [I built a Sovereign, Self-Hosted Personal AI Agent Workspace: Meet Poka 🤖🛡️](https://dev.to/slayer_king_03c5f3ade7305/i-built-a-sovereign-self-hosted-personal-ai-agent-workspace-meet-poka-o07)
+- Thu, 01 Oct 2026 14:41:18 +0000 — [I built Deception Mesh: an open-source Rust MVP for defensive cybersecurity telemetry](https://dev.to/tu_codigocotidiano_f173d/i-built-deception-mesh-an-open-source-rust-mvp-for-defensive-cybersecurity-telemetry-4bka)
+- Thu, 01 Oct 2026 14:41:00 +0000 — [Can a Good Web Development Course Get You Job-Ready?](https://dev.to/srdan_borovi_584c6b1d773/can-a-good-web-development-course-get-you-job-ready-2607)
 - 2026-09-24T22:01:09+00:00 — [New Project Megathread - Week of 24 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wpezgu/new_project_megathread_week_of_24_sep_2026/)
+- 2026-10-01T13:39:24+00:00 — [Pangolin 1.24: Exit Nodes and Improved Client Apps (New UI)](https://www.reddit.com/r/selfhosted/comments/1wuzp8w/pangolin_124_exit_nodes_and_improved_client_apps/)
+- 2026-10-01T10:52:22+00:00 — [Cloud-native Linktree alternative for k8s](https://www.reddit.com/r/selfhosted/comments/1wuwao6/cloudnative_linktree_alternative_for_k8s/)
+- 2026-10-01T07:19:48+00:00 — [Unifying OneDrive and Google Photos into a local backup in preparation to self host](https://www.reddit.com/r/selfhosted/comments/1wusypb/unifying_onedrive_and_google_photos_into_a_local/)
+- 2026-10-01T11:51:44+00:00 — [Radarr/Sonarr access via nginx proxy manager & Authentik suddenly broken](https://www.reddit.com/r/selfhosted/comments/1wuxe55/radarrsonarr_access_via_nginx_proxy_manager/)
+- 2026-10-01T11:26:11+00:00 — [Getting USB printers on network with Raspberry](https://www.reddit.com/r/selfhosted/comments/1wuwwsy/getting_usb_printers_on_network_with_raspberry/)
+- 2026-09-30T17:40:09+00:00 — [Wireguard or OpenVPN?](https://www.reddit.com/r/selfhosted/comments/1wubfm4/wireguard_or_openvpn/)
+- Wed, 30 Sep 2026 14:07:30 +0000 — [AI Assistance Helps User Overcome Technical Hurdles to Successfully Set Up Self-Hosted Media Server](https://dev.to/elenbit/ai-assistance-helps-user-overcome-technical-hurdles-to-successfully-set-up-self-hosted-media-server-4eed)
 - 2026-09-29T22:22:05+00:00 — [I made a mattermost fork without the BS](https://www.reddit.com/r/selfhosted/comments/1wto0z7/i_made_a_mattermost_fork_without_the_bs/)
 - 2026-09-29T13:30:33+00:00 — [My Homelab](https://www.reddit.com/r/selfhosted/comments/1wta69u/my_homelab/)
 - 2026-09-30T11:41:24+00:00 — [Too much fun, or too much work? (an essay 😜)](https://www.reddit.com/r/selfhosted/comments/1wu2nzu/too_much_fun_or_too_much_work_an_essay/)
@@ -98,13 +107,4 @@ Last update: 2026-09-30 14:18 UTC
 - 2026-09-19T09:01:52+00:00 — [qBittorrent refusing to use NFS share](https://www.reddit.com/r/selfhosted/comments/1wkh6qm/qbittorrent_refusing_to_use_nfs_share/)
 - 2026-09-19T10:29:22+00:00 — [NutriTrace v1.3.0 Released! CookTrace recipe and pantry import, diary day completion, and more!](https://www.reddit.com/r/selfhosted/comments/1wkioi2/nutritrace_v130_released_cooktrace_recipe_and/)
 - 2026-09-18T16:23:11+00:00 — [Want to get started with Self-Hosting and learn it before putting all of my stuff into this.](https://www.reddit.com/r/selfhosted/comments/1wjutua/want_to_get_started_with_selfhosting_and_learn_it/)
-- 2026-09-18T17:06:58+00:00 — [Risks of Cloudflared / WARP vs WireGuard for Personal Web Server](https://www.reddit.com/r/selfhosted/comments/1wjw0i4/risks_of_cloudflared_warp_vs_wireguard_for/)
-- 2026-09-18T10:16:55+00:00 — [Gluetun restart -> no connection for service:gluetun containers](https://www.reddit.com/r/selfhosted/comments/1wjmach/gluetun_restart_no_connection_for_servicegluetun/)
-- 2026-09-17T14:39:22+00:00 — [tapflow: self-hosted browser access to iOS simulators and Android emulators](https://www.reddit.com/r/selfhosted/comments/1wivule/tapflow_selfhosted_browser_access_to_ios/)
-- 2026-09-17T16:46:46+00:00 — [Relaticle, a self-hosted CRM with Ollama support and a 39-tool MCP server](https://www.reddit.com/r/selfhosted/comments/1wizar6/relaticle_a_selfhosted_crm_with_ollama_support/)
-- 2026-09-17T22:36:14+00:00 — [How I fixed jagged 4×6 AirPrint labels by adding a native-resolution CUPS prefilter](https://www.reddit.com/r/selfhosted/comments/1wj8lcm/how_i_fixed_jagged_46_airprint_labels_by_adding_a/)
-- 2026-09-16T17:54:57+00:00 — [A 2012 Mac mini from an e-waste pile runs my whole setup](https://www.reddit.com/r/selfhosted/comments/1wi4jnj/a_2012_mac_mini_from_an_ewaste_pile_runs_my_whole/)
-- 2026-09-17T17:56:39+00:00 — [Event calendar](https://www.reddit.com/r/selfhosted/comments/1wj17wh/event_calendar/)
-- 2026-09-18T10:22:43+00:00 — [Remote access is easy enough. Sharing just one service gets trickier.](https://www.reddit.com/r/selfhosted/comments/1wjme0r/remote_access_is_easy_enough_sharing_just_one/)
-- 2026-09-16T14:27:08+00:00 — [Pangolin 1.23: High Availability and Clustering for VPN and Reverse Proxy](https://www.reddit.com/r/selfhosted/comments/1whysfj/pangolin_123_high_availability_and_clustering_for/)
 <!-- NEWS END -->
