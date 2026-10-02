@@ -2,16 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-01 14:51 UTC
+Last update: 2026-10-02 14:13 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 01 Oct 2026 16:01:56 +0000 — [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
+- 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
+- 2026-10-02T08:42:56+00:00 — [Did your family also thinks that you are doing something pointless?](https://www.reddit.com/r/selfhosted/comments/1wvomp6/did_your_family_also_thinks_that_you_are_doing/)
+- 2026-10-01T13:39:24+00:00 — [Pangolin 1.24: Exit Nodes and Improved Client Apps (New UI)](https://www.reddit.com/r/selfhosted/comments/1wuzp8w/pangolin_124_exit_nodes_and_improved_client_apps/)
+- 2026-10-02T07:55:50+00:00 — [CF Tunnel OAuth and Services](https://www.reddit.com/r/selfhosted/comments/1wvnxal/cf_tunnel_oauth_and_services/)
+- 2026-10-02T11:03:28+00:00 — [ZakApp v1.0.0: a self-hosted Zakat tracker](https://www.reddit.com/r/selfhosted/comments/1wvqwm3/zakapp_v100_a_selfhosted_zakat_tracker/)
+- 2026-10-02T12:41:52+00:00 — [Visiban — a self-hosted visual workflow platform](https://www.reddit.com/r/selfhosted/comments/1wvssb3/visiban_a_selfhosted_visual_workflow_platform/)
+- 2026-10-02T06:30:43+00:00 — [15 client servers on 3 panels. Worth consolidating?](https://www.reddit.com/r/selfhosted/comments/1wvmlze/15_client_servers_on_3_panels_worth_consolidating/)
+- 2026-10-01T15:15:11+00:00 — [Multiple Docker VMs or a Single Docker VM?](https://www.reddit.com/r/selfhosted/comments/1wv241g/multiple_docker_vms_or_a_single_docker_vm/)
+- 2026-10-02T09:49:59+00:00 — [Uptime Kotlin: self-hosted uptime monitoring with status pages and an optional worker cluster mode](https://www.reddit.com/r/selfhosted/comments/1wvpnz8/uptime_kotlin_selfhosted_uptime_monitoring_with/)
 - Thu, 01 Oct 2026 14:46:10 +0000 — [I built a Sovereign, Self-Hosted Personal AI Agent Workspace: Meet Poka 🤖🛡️](https://dev.to/slayer_king_03c5f3ade7305/i-built-a-sovereign-self-hosted-personal-ai-agent-workspace-meet-poka-o07)
 - Thu, 01 Oct 2026 14:41:18 +0000 — [I built Deception Mesh: an open-source Rust MVP for defensive cybersecurity telemetry](https://dev.to/tu_codigocotidiano_f173d/i-built-deception-mesh-an-open-source-rust-mvp-for-defensive-cybersecurity-telemetry-4bka)
 - Thu, 01 Oct 2026 14:41:00 +0000 — [Can a Good Web Development Course Get You Job-Ready?](https://dev.to/srdan_borovi_584c6b1d773/can-a-good-web-development-course-get-you-job-ready-2607)
 - 2026-09-24T22:01:09+00:00 — [New Project Megathread - Week of 24 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wpezgu/new_project_megathread_week_of_24_sep_2026/)
-- 2026-10-01T13:39:24+00:00 — [Pangolin 1.24: Exit Nodes and Improved Client Apps (New UI)](https://www.reddit.com/r/selfhosted/comments/1wuzp8w/pangolin_124_exit_nodes_and_improved_client_apps/)
 - 2026-10-01T10:52:22+00:00 — [Cloud-native Linktree alternative for k8s](https://www.reddit.com/r/selfhosted/comments/1wuwao6/cloudnative_linktree_alternative_for_k8s/)
 - 2026-10-01T07:19:48+00:00 — [Unifying OneDrive and Google Photos into a local backup in preparation to self host](https://www.reddit.com/r/selfhosted/comments/1wusypb/unifying_onedrive_and_google_photos_into_a_local/)
 - 2026-10-01T11:51:44+00:00 — [Radarr/Sonarr access via nginx proxy manager & Authentik suddenly broken](https://www.reddit.com/r/selfhosted/comments/1wuxe55/radarrsonarr_access_via_nginx_proxy_manager/)
@@ -98,13 +107,4 @@ Last update: 2026-10-01 14:51 UTC
 - 2026-09-21T09:40:57+00:00 — [I made a simple dashboard for my homelab, so I decided to open source it](https://www.reddit.com/r/selfhosted/comments/1wm84j9/i_made_a_simple_dashboard_for_my_homelab_so_i/)
 - 2026-09-19T16:30:13+00:00 — [Self-hosted Whispersync: keep your place between an ebook and its audiobook](https://www.reddit.com/r/selfhosted/comments/1wkqnyv/selfhosted_whispersync_keep_your_place_between_an/)
 - 2026-09-20T01:27:35+00:00 — [Portainer - potential global.env workaround?](https://www.reddit.com/r/selfhosted/comments/1wl3hnd/portainer_potential_globalenv_workaround/)
-- 2026-09-19T08:41:17+00:00 — [Any YACReader users? I'm the develop](https://www.reddit.com/r/selfhosted/comments/1wkgu5n/any_yacreader_users_im_the_develop/)
-- 2026-09-20T03:45:28+00:00 — [DoComposer-Docker Compose Generator](https://www.reddit.com/r/selfhosted/comments/1wl68db/docomposerdocker_compose_generator/)
-- Sat, 19 Sep 2026 12:03:01 +0000 — [Your self-hosted AI stack probably needs one process, not six](https://dev.to/itxtayab/your-self-hosted-ai-stack-probably-needs-one-process-not-six-3h53)
-- Sat, 19 Sep 2026 12:02:03 +0000 — [Beyond the Hype: Practical Spec-Driven Development with AI Agents for Traceable Code Delivery](https://dev.to/tamizuddin/beyond-the-hype-practical-spec-driven-development-with-ai-agents-for-traceable-code-delivery-4hjo)
-- Sat, 19 Sep 2026 12:01:18 +0000 — [LLM Observability 2026: Why Traditional Monitoring Is Blind to AI Systems](https://dev.to/saaro_net/llm-observability-2026-why-traditional-monitoring-is-blind-to-ai-systems-jck)
-- 2026-09-19T06:52:06+00:00 — [Cheap Setup: Help a Noob Understand Networking](https://www.reddit.com/r/selfhosted/comments/1wkey68/cheap_setup_help_a_noob_understand_networking/)
-- 2026-09-19T09:01:52+00:00 — [qBittorrent refusing to use NFS share](https://www.reddit.com/r/selfhosted/comments/1wkh6qm/qbittorrent_refusing_to_use_nfs_share/)
-- 2026-09-19T10:29:22+00:00 — [NutriTrace v1.3.0 Released! CookTrace recipe and pantry import, diary day completion, and more!](https://www.reddit.com/r/selfhosted/comments/1wkioi2/nutritrace_v130_released_cooktrace_recipe_and/)
-- 2026-09-18T16:23:11+00:00 — [Want to get started with Self-Hosting and learn it before putting all of my stuff into this.](https://www.reddit.com/r/selfhosted/comments/1wjutua/want_to_get_started_with_selfhosting_and_learn_it/)
 <!-- NEWS END -->
