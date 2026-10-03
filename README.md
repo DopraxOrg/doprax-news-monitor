@@ -2,14 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-02 14:13 UTC
+Last update: 2026-10-03 12:47 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Thu, 01 Oct 2026 16:01:56 +0000 — [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
+- Thu, 01 Oct 2026 22:23:07 +0000 — [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+- Sat, 03 Oct 2026 12:37:47 +0000 — [WordPress SEO Plugins Compared: Yoast to Local AI](https://dev.to/rosgluk/wordpress-seo-plugins-compared-yoast-to-local-ai-2l33)
 - 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
+- 2026-10-03T11:38:24+00:00 — [Dockhand changed its license model: Instead of going Apache 2.0 on January 1, 2029, each version gets converted to Apache 2.0 *four* years after release. Aditionally, a business now requires a commercial license.](https://www.reddit.com/r/selfhosted/comments/1wwl40o/dockhand_changed_its_license_model_instead_of/)
+- 2026-10-03T07:06:11+00:00 — [MusicGrabber v4.3.0 is in the wild](https://www.reddit.com/r/selfhosted/comments/1wwgr3v/musicgrabber_v430_is_in_the_wild/)
+- 2026-10-02T22:32:24+00:00 — [Homelab Preview](https://www.reddit.com/r/selfhosted/comments/1ww77p9/homelab_preview/)
+- 2026-10-02T19:22:00+00:00 — [Homarr v2 is out: The front-door to your homelab](https://www.reddit.com/r/selfhosted/comments/1ww2oeq/homarr_v2_is_out_the_frontdoor_to_your_homelab/)
+- 2026-10-03T06:34:11+00:00 — [Voltis: A self-hosted comic, manga and book reader in beta](https://www.reddit.com/r/selfhosted/comments/1wwg84b/voltis_a_selfhosted_comic_manga_and_book_reader/)
+- 2026-10-03T08:22:26+00:00 — [Is this normal?](https://www.reddit.com/r/selfhosted/comments/1wwhygf/is_this_normal/)
+- 2026-10-02T21:28:03+00:00 — [Am I paranoid about security?](https://www.reddit.com/r/selfhosted/comments/1ww5qmu/am_i_paranoid_about_security/)
+- 2026-10-03T11:40:19+00:00 — [Beyond websites: what do you host on Tor onion services?](https://www.reddit.com/r/selfhosted/comments/1wwl58r/beyond_websites_what_do_you_host_on_tor_onion/)
+- 2026-10-02T18:41:15+00:00 — [Self hosting 100+ domains and 8000+ mailboxes with a twist](https://www.reddit.com/r/selfhosted/comments/1ww1mm7/self_hosting_100_domains_and_8000_mailboxes_with/)
+- 2026-10-03T09:45:34+00:00 — [Local DNS vs devices/browsers settings](https://www.reddit.com/r/selfhosted/comments/1wwj9a3/local_dns_vs_devicesbrowsers_settings/)
+- 2026-10-03T12:28:49+00:00 — [A small request to developers of self-hosted applications](https://www.reddit.com/r/selfhosted/comments/1wwm1xa/a_small_request_to_developers_of_selfhosted/)
 - 2026-10-02T08:42:56+00:00 — [Did your family also thinks that you are doing something pointless?](https://www.reddit.com/r/selfhosted/comments/1wvomp6/did_your_family_also_thinks_that_you_are_doing/)
+- 2026-10-03T06:07:20+00:00 — [I maintain ShopClass, a free self-hosted classifieds CMS (the Osclass 5.x successor). 6.4 is out so I benchmarked it against Osclass 8.4 and HivePress](https://www.reddit.com/r/selfhosted/comments/1wwfs2j/i_maintain_shopclass_a_free_selfhosted/)
+- 2026-10-03T02:18:48+00:00 — [Question regarding DXP2800](https://www.reddit.com/r/selfhosted/comments/1wwbqdu/question_regarding_dxp2800/)
+- Thu, 01 Oct 2026 16:01:56 +0000 — [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
 - 2026-10-01T13:39:24+00:00 — [Pangolin 1.24: Exit Nodes and Improved Client Apps (New UI)](https://www.reddit.com/r/selfhosted/comments/1wuzp8w/pangolin_124_exit_nodes_and_improved_client_apps/)
 - 2026-10-02T07:55:50+00:00 — [CF Tunnel OAuth and Services](https://www.reddit.com/r/selfhosted/comments/1wvnxal/cf_tunnel_oauth_and_services/)
 - 2026-10-02T11:03:28+00:00 — [ZakApp v1.0.0: a self-hosted Zakat tracker](https://www.reddit.com/r/selfhosted/comments/1wvqwm3/zakapp_v100_a_selfhosted_zakat_tracker/)
@@ -92,19 +107,4 @@ Last update: 2026-10-02 14:13 UTC
 - 2026-09-22T10:16:38+00:00 — [Comics / Manga metadata manager](https://www.reddit.com/r/selfhosted/comments/1wn5ioy/comics_manga_metadata_manager/)
 - 2026-09-21T20:50:54+00:00 — [Polarsteps... But selfhosted!](https://www.reddit.com/r/selfhosted/comments/1wmp1mx/polarsteps_but_selfhosted/)
 - 2026-09-21T14:58:21+00:00 — [Static Website Deployment Recommendations Needed](https://www.reddit.com/r/selfhosted/comments/1wmf6gl/static_website_deployment_recommendations_needed/)
-- Mon, 21 Sep 2026 14:32:06 +0000 — [Are there any free API alternatives to Gemini or Groq with higher rate limits for a FastAPI backend?](https://dev.to/josequevedov08/are-there-any-free-api-alternatives-to-gemini-or-groq-with-higher-rate-limits-for-a-fastapi-backend-2m3n)
-- Mon, 21 Sep 2026 14:26:31 +0000 — [Optimizing Immich: mobile backup, multilingual AI search & family setup (Part 2)](https://dev.to/serverkueche/optimizing-immich-mobile-backup-multilingual-ai-search-family-setup-part-2-3ej3)
-- Mon, 21 Sep 2026 14:26:08 +0000 — [Understanding systemd: Units, Journal & Timers (instead of Cron)](https://dev.to/serverkueche/understanding-systemd-units-journal-timers-instead-of-cron-3gff)
-- Mon, 21 Sep 2026 14:26:01 +0000 — [An Agent That Counts My Receipts, Not My Claims](https://dev.to/kenielzep97/an-agent-that-counts-my-receipts-not-my-claims-a3h)
-- 2026-09-20T20:57:09+00:00 — [The effort to learn basic Ansible is not that much more than learning Chezmoi or other dotfile managers but far more useful](https://www.reddit.com/r/selfhosted/comments/1wlsp6o/the_effort_to_learn_basic_ansible_is_not_that/)
-- 2026-09-20T14:38:43+00:00 — [GameAP: Open-Source Platform for Managing Game Servers](https://www.reddit.com/r/selfhosted/comments/1wlis6x/gameap_opensource_platform_for_managing_game/)
-- 2026-09-20T23:23:49+00:00 — [New to CrowdSec, are real-time traffic logs visible? and it's not catching everything from Traefik](https://www.reddit.com/r/selfhosted/comments/1wlw85a/new_to_crowdsec_are_realtime_traffic_logs_visible/)
-- 2026-09-21T05:10:20+00:00 — [Looking to reduce complexity and consolidate](https://www.reddit.com/r/selfhosted/comments/1wm3g1j/looking_to_reduce_complexity_and_consolidate/)
-- 2026-09-20T11:58:03+00:00 — [LiftTrace v1.3.0 released: multiple sessions per day, timed sets, and more](https://www.reddit.com/r/selfhosted/comments/1wlf5w2/lifttrace_v130_released_multiple_sessions_per_day/)
-- 2026-09-20T20:43:21+00:00 — [Today I published Plume RC1, my side-project for a self-hosted, flat-file publishing platform built to simplify independent publishing](https://www.reddit.com/r/selfhosted/comments/1wlscec/today_i_published_plume_rc1_my_sideproject_for_a/)
-- 2026-09-21T12:33:44+00:00 — [I made a simple dashboard for my home server 😊](https://www.reddit.com/r/selfhosted/comments/1wmbi8s/i_made_a_simple_dashboard_for_my_home_server/)
-- 2026-09-19T16:58:59+00:00 — [Youtarr update (v1.84.0): watched status from Plex/Jellyfin/Emby, automatic cleanup, and whole-channel downloads](https://www.reddit.com/r/selfhosted/comments/1wkrduz/youtarr_update_v1840_watched_status_from/)
-- 2026-09-21T09:40:57+00:00 — [I made a simple dashboard for my homelab, so I decided to open source it](https://www.reddit.com/r/selfhosted/comments/1wm84j9/i_made_a_simple_dashboard_for_my_homelab_so_i/)
-- 2026-09-19T16:30:13+00:00 — [Self-hosted Whispersync: keep your place between an ebook and its audiobook](https://www.reddit.com/r/selfhosted/comments/1wkqnyv/selfhosted_whispersync_keep_your_place_between_an/)
-- 2026-09-20T01:27:35+00:00 — [Portainer - potential global.env workaround?](https://www.reddit.com/r/selfhosted/comments/1wl3hnd/portainer_potential_globalenv_workaround/)
 <!-- NEWS END -->
