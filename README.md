@@ -2,17 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-03 12:47 UTC
+Last update: 2026-10-04 13:30 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 04 Oct 2026 13:29:22 +0000 — [Organize Me - Turning Student Chaos into a Plan with Gemma](https://dev.to/bishtmayank205/organize-me-turning-student-chaos-into-a-plan-with-gemma-50o5)
+- Sun, 04 Oct 2026 13:28:19 +0000 — [The Architecture of a Zero-Backend Website: How I Run 18 Tools With No Server Code](https://dev.to/mou1z/the-architecture-of-a-zero-backend-website-how-i-run-18-tools-with-no-server-code-5djo)
+- 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
+- 2026-10-04T04:03:57+00:00 — [PSA: Critical Docker Hub Vulnerability and Remediation](https://www.reddit.com/r/selfhosted/comments/1wx678u/psa_critical_docker_hub_vulnerability_and/)
+- 2026-10-03T11:38:24+00:00 — [Dockhand changed its license model: Instead of going Apache 2.0 on January 1, 2029, each version gets converted to Apache 2.0 *four* years after release. Aditionally, a business now requires a commercial license.](https://www.reddit.com/r/selfhosted/comments/1wwl40o/dockhand_changed_its_license_model_instead_of/)
+- 2026-10-03T11:47:36+00:00 — [CookTrace v1.4.0 released: self-hosted recipes, pantry and shopping list, now offline and on your watch](https://www.reddit.com/r/selfhosted/comments/1wwl9qm/cooktrace_v140_released_selfhosted_recipes_pantry/)
+- 2026-10-03T19:17:53+00:00 — [Delivr: A Modern Open Source Mail Client that actually works](https://www.reddit.com/r/selfhosted/comments/1wwvh4k/delivr_a_modern_open_source_mail_client_that/)
+- 2026-10-03T07:06:11+00:00 — [MusicGrabber v4.3.0 is in the wild](https://www.reddit.com/r/selfhosted/comments/1wwgr3v/musicgrabber_v430_is_in_the_wild/)
+- 2026-10-03T16:00:10+00:00 — [Self-hosted SIP Portal for VoIP.ms DIDs](https://www.reddit.com/r/selfhosted/comments/1wwqr5f/selfhosted_sip_portal_for_voipms_dids/)
+- 2026-10-02T22:32:24+00:00 — [Homelab Preview](https://www.reddit.com/r/selfhosted/comments/1ww77p9/homelab_preview/)
+- 2026-10-03T19:37:52+00:00 — [Help Setting Up iCloudpd on NAS](https://www.reddit.com/r/selfhosted/comments/1wwvy5n/help_setting_up_icloudpd_on_nas/)
 - Thu, 01 Oct 2026 22:23:07 +0000 — [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
 - Sat, 03 Oct 2026 12:37:47 +0000 — [WordPress SEO Plugins Compared: Yoast to Local AI](https://dev.to/rosgluk/wordpress-seo-plugins-compared-yoast-to-local-ai-2l33)
-- 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
-- 2026-10-03T11:38:24+00:00 — [Dockhand changed its license model: Instead of going Apache 2.0 on January 1, 2029, each version gets converted to Apache 2.0 *four* years after release. Aditionally, a business now requires a commercial license.](https://www.reddit.com/r/selfhosted/comments/1wwl40o/dockhand_changed_its_license_model_instead_of/)
-- 2026-10-03T07:06:11+00:00 — [MusicGrabber v4.3.0 is in the wild](https://www.reddit.com/r/selfhosted/comments/1wwgr3v/musicgrabber_v430_is_in_the_wild/)
-- 2026-10-02T22:32:24+00:00 — [Homelab Preview](https://www.reddit.com/r/selfhosted/comments/1ww77p9/homelab_preview/)
 - 2026-10-02T19:22:00+00:00 — [Homarr v2 is out: The front-door to your homelab](https://www.reddit.com/r/selfhosted/comments/1ww2oeq/homarr_v2_is_out_the_frontdoor_to_your_homelab/)
 - 2026-10-03T06:34:11+00:00 — [Voltis: A self-hosted comic, manga and book reader in beta](https://www.reddit.com/r/selfhosted/comments/1wwg84b/voltis_a_selfhosted_comic_manga_and_book_reader/)
 - 2026-10-03T08:22:26+00:00 — [Is this normal?](https://www.reddit.com/r/selfhosted/comments/1wwhygf/is_this_normal/)
@@ -100,11 +107,4 @@ Last update: 2026-10-03 12:47 UTC
 - 2026-09-22T04:33:15+00:00 — [Self hosted Bitwarden vs Vaultwarden](https://www.reddit.com/r/selfhosted/comments/1wmzltu/self_hosted_bitwarden_vs_vaultwarden/)
 - Tue, 22 Sep 2026 12:33:54 +0000 — [Why Go Is a Great Choice for High-Traffic Companies](https://dev.to/hanayo/why-go-is-a-great-choice-for-high-traffic-companies-52c9)
 - 2026-09-22T08:19:34+00:00 — [Hardening Security for Public Services - What should I improve?](https://www.reddit.com/r/selfhosted/comments/1wn3ju7/hardening_security_for_public_services_what/)
-- 2026-09-22T03:29:11+00:00 — [I switched over to a reverse proxy from cloudflare tunnels for my public facing services](https://www.reddit.com/r/selfhosted/comments/1wmycjp/i_switched_over_to_a_reverse_proxy_from/)
-- 2026-09-22T09:51:40+00:00 — [Looking for my first server. What providers offer the best value for money?](https://www.reddit.com/r/selfhosted/comments/1wn52yj/looking_for_my_first_server_what_providers_offer/)
-- 2026-09-22T03:07:27+00:00 — [Seeking Selfhosted Must Have Advice](https://www.reddit.com/r/selfhosted/comments/1wmxwbd/seeking_selfhosted_must_have_advice/)
-- 2026-09-22T06:39:59+00:00 — [Backing up persistent data and config of my selfhosted data](https://www.reddit.com/r/selfhosted/comments/1wn1wfh/backing_up_persistent_data_and_config_of_my/)
-- 2026-09-22T10:16:38+00:00 — [Comics / Manga metadata manager](https://www.reddit.com/r/selfhosted/comments/1wn5ioy/comics_manga_metadata_manager/)
-- 2026-09-21T20:50:54+00:00 — [Polarsteps... But selfhosted!](https://www.reddit.com/r/selfhosted/comments/1wmp1mx/polarsteps_but_selfhosted/)
-- 2026-09-21T14:58:21+00:00 — [Static Website Deployment Recommendations Needed](https://www.reddit.com/r/selfhosted/comments/1wmf6gl/static_website_deployment_recommendations_needed/)
 <!-- NEWS END -->
