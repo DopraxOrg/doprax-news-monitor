@@ -2,15 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-04 13:30 UTC
+Last update: 2026-10-05 16:29 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 05 Oct 2026 16:28:06 +0000 — [Game of Prompts](https://dev.to/shaharyar_hafeez/game-of-prompts-91h)
+- 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
+- 2026-10-05T10:46:45+00:00 — [What are some good projects to start out?](https://www.reddit.com/r/selfhosted/comments/1wy5dh2/what_are_some_good_projects_to_start_out/)
+- 2026-10-05T15:00:04+00:00 — [Tired of explaining configs to non-tech users, so I built a custom client generator for self-hosted Remnawave panels [Demo]](https://www.reddit.com/r/selfhosted/comments/1wyarih/tired_of_explaining_configs_to_nontech_users_so_i/)
+- 2026-10-05T06:56:34+00:00 — [Wireguard - Bare metal Vs Docker](https://www.reddit.com/r/selfhosted/comments/1wy1unr/wireguard_bare_metal_vs_docker/)
+- 2026-10-05T11:16:14+00:00 — [tududi 1.7.0: Web Push notifications, skipping a recurring occurrence, linked notes, Postgres support and a security fix](https://www.reddit.com/r/selfhosted/comments/1wy5w62/tududi_170_web_push_notifications_skipping_a/)
+- 2026-10-04T19:34:02+00:00 — [Need guidance migrating to a new minipc server](https://www.reddit.com/r/selfhosted/comments/1wxoeg0/need_guidance_migrating_to_a_new_minipc_server/)
+- 2026-10-04T04:03:57+00:00 — [PSA: Critical Docker Hub Vulnerability and Remediation](https://www.reddit.com/r/selfhosted/comments/1wx678u/psa_critical_docker_hub_vulnerability_and/)
+- 2026-10-05T15:20:00+00:00 — [GlacierVault- UI and orchestrator for dirt cheap Glacier tier S3 backups](https://www.reddit.com/r/selfhosted/comments/1wyba1r/glaciervault_ui_and_orchestrator_for_dirt_cheap/)
+- 2026-10-04T18:32:10+00:00 — [Sharing my journey as a self hosted](https://www.reddit.com/r/selfhosted/comments/1wxmvcv/sharing_my_journey_as_a_self_hosted/)
 - Sun, 04 Oct 2026 13:29:22 +0000 — [Organize Me - Turning Student Chaos into a Plan with Gemma](https://dev.to/bishtmayank205/organize-me-turning-student-chaos-into-a-plan-with-gemma-50o5)
 - Sun, 04 Oct 2026 13:28:19 +0000 — [The Architecture of a Zero-Backend Website: How I Run 18 Tools With No Server Code](https://dev.to/mou1z/the-architecture-of-a-zero-backend-website-how-i-run-18-tools-with-no-server-code-5djo)
-- 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
-- 2026-10-04T04:03:57+00:00 — [PSA: Critical Docker Hub Vulnerability and Remediation](https://www.reddit.com/r/selfhosted/comments/1wx678u/psa_critical_docker_hub_vulnerability_and/)
 - 2026-10-03T11:38:24+00:00 — [Dockhand changed its license model: Instead of going Apache 2.0 on January 1, 2029, each version gets converted to Apache 2.0 *four* years after release. Aditionally, a business now requires a commercial license.](https://www.reddit.com/r/selfhosted/comments/1wwl40o/dockhand_changed_its_license_model_instead_of/)
 - 2026-10-03T11:47:36+00:00 — [CookTrace v1.4.0 released: self-hosted recipes, pantry and shopping list, now offline and on your watch](https://www.reddit.com/r/selfhosted/comments/1wwl9qm/cooktrace_v140_released_selfhosted_recipes_pantry/)
 - 2026-10-03T19:17:53+00:00 — [Delivr: A Modern Open Source Mail Client that actually works](https://www.reddit.com/r/selfhosted/comments/1wwvh4k/delivr_a_modern_open_source_mail_client_that/)
@@ -99,12 +107,4 @@ Last update: 2026-10-04 13:30 UTC
 - Wed, 23 Sep 2026 12:31:33 +0000 — [Technical Training on Common Red Team Attack Scenarios During Major Event Security Assurance](https://dev.to/excalibra/technical-training-on-common-red-team-attack-scenarios-during-major-event-security-assurance-268)
 - 2026-09-22T23:04:02+00:00 — [New to self hosting](https://www.reddit.com/r/selfhosted/comments/1wnoy01/new_to_self_hosting/)
 - 2026-09-23T12:02:56+00:00 — [absolute beginner level.](https://www.reddit.com/r/selfhosted/comments/1wo42sd/absolute_beginner_level/)
-- 2026-09-23T02:49:44+00:00 — [K.I.S.S MFA for homelab](https://www.reddit.com/r/selfhosted/comments/1wntztp/kiss_mfa_for_homelab/)
-- 2026-09-23T11:31:06+00:00 — [Newish To Self Hosting](https://www.reddit.com/r/selfhosted/comments/1wo3er3/newish_to_self_hosting/)
-- 2026-09-22T19:52:05+00:00 — [Best container security tools for about thirty self hosted images?](https://www.reddit.com/r/selfhosted/comments/1wnjzqb/best_container_security_tools_for_about_thirty/)
-- 2026-09-23T05:33:17+00:00 — [How are you handling YouTube bot detection with yt-dlp on a cloud server/Railway?](https://www.reddit.com/r/selfhosted/comments/1wnx6fx/how_are_you_handling_youtube_bot_detection_with/)
-- 2026-09-23T08:02:45+00:00 — [Newbie looking to check in on current progress and questions about restricting access](https://www.reddit.com/r/selfhosted/comments/1wnzqol/newbie_looking_to_check_in_on_current_progress/)
-- 2026-09-22T04:33:15+00:00 — [Self hosted Bitwarden vs Vaultwarden](https://www.reddit.com/r/selfhosted/comments/1wmzltu/self_hosted_bitwarden_vs_vaultwarden/)
-- Tue, 22 Sep 2026 12:33:54 +0000 — [Why Go Is a Great Choice for High-Traffic Companies](https://dev.to/hanayo/why-go-is-a-great-choice-for-high-traffic-companies-52c9)
-- 2026-09-22T08:19:34+00:00 — [Hardening Security for Public Services - What should I improve?](https://www.reddit.com/r/selfhosted/comments/1wn3ju7/hardening_security_for_public_services_what/)
 <!-- NEWS END -->
