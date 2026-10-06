@@ -2,14 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-05 16:29 UTC
+Last update: 2026-10-06 14:32 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 05 Oct 2026 16:28:06 +0000 — [Game of Prompts](https://dev.to/shaharyar_hafeez/game-of-prompts-91h)
+- Tue, 06 Oct 2026 14:20:53 +0000 — [How Much Does a RAG Chatbot Cost to Run?](https://dev.to/dharanidharan_d_tech/how-much-does-a-rag-chatbot-cost-to-run-27al)
 - 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
+- 2026-10-06T10:38:19+00:00 — [Sanity-check my setup, please](https://www.reddit.com/r/selfhosted/comments/1wyz9ye/sanitycheck_my_setup_please/)
+- 2026-10-05T20:49:25+00:00 — [Anyone considering just moving to wireguard access instead of reverse proxy?](https://www.reddit.com/r/selfhosted/comments/1wyjvsk/anyone_considering_just_moving_to_wireguard/)
+- 2026-10-06T12:24:48+00:00 — [Borg UI update: file history, restore checks, and guided backups for self-hosted apps](https://www.reddit.com/r/selfhosted/comments/1wz18di/borg_ui_update_file_history_restore_checks_and/)
+- 2026-10-06T14:09:55+00:00 — [Unable to expose my homelab service to the Internet over IPv6](https://www.reddit.com/r/selfhosted/comments/1wz3lal/unable_to_expose_my_homelab_service_to_the/)
+- 2026-10-06T02:58:10+00:00 — [Komodo 2.3.3 on Debian 12 failing to update](https://www.reddit.com/r/selfhosted/comments/1wyrtoo/komodo_233_on_debian_12_failing_to_update/)
+- 2026-10-06T00:50:36+00:00 — [cronstable: a feature-rich job scheduler with web, terminal, and native iOS dashboards](https://www.reddit.com/r/selfhosted/comments/1wypb1z/cronstable_a_featurerich_job_scheduler_with_web/)
+- 2026-10-06T12:21:52+00:00 — [We’ve built a self-hosted team workspace that keeps chat, forum and kanban on one Windows or Linux server](https://www.reddit.com/r/selfhosted/comments/1wz16al/weve_built_a_selfhosted_team_workspace_that_keeps/)
 - 2026-10-05T10:46:45+00:00 — [What are some good projects to start out?](https://www.reddit.com/r/selfhosted/comments/1wy5dh2/what_are_some_good_projects_to_start_out/)
+- 2026-10-05T22:06:49+00:00 — [Ugreen NAS Security & Backup Options](https://www.reddit.com/r/selfhosted/comments/1wylrn9/ugreen_nas_security_backup_options/)
+- Mon, 05 Oct 2026 16:28:06 +0000 — [Game of Prompts](https://dev.to/shaharyar_hafeez/game-of-prompts-91h)
 - 2026-10-05T15:00:04+00:00 — [Tired of explaining configs to non-tech users, so I built a custom client generator for self-hosted Remnawave panels [Demo]](https://www.reddit.com/r/selfhosted/comments/1wyarih/tired_of_explaining_configs_to_nontech_users_so_i/)
 - 2026-10-05T06:56:34+00:00 — [Wireguard - Bare metal Vs Docker](https://www.reddit.com/r/selfhosted/comments/1wy1unr/wireguard_bare_metal_vs_docker/)
 - 2026-10-05T11:16:14+00:00 — [tududi 1.7.0: Web Push notifications, skipping a recurring occurrence, linked notes, Postgres support and a security fix](https://www.reddit.com/r/selfhosted/comments/1wy5w62/tududi_170_web_push_notifications_skipping_a/)
@@ -98,13 +107,4 @@ Last update: 2026-10-05 16:29 UTC
 - Thu, 24 Sep 2026 12:56:32 +0000 — [AdGuard Home: network-wide ad and tracking blocker](https://dev.to/serverkueche/adguard-home-network-wide-ad-and-tracking-blocker-2bji)
 - Thu, 24 Sep 2026 12:56:20 +0000 — [How HTTPS actually works (and what Traefik does for you)](https://dev.to/serverkueche/how-https-actually-works-and-what-traefik-does-for-you-2all)
 - Thu, 24 Sep 2026 12:55:15 +0000 — [FreshRSS: Your Own RSS Reader](https://dev.to/serverkueche/freshrss-your-own-rss-reader-5gin)
-- Thu, 24 Sep 2026 12:55:05 +0000 — [Understanding Linux Users, Groups & File Permissions](https://dev.to/serverkueche/understanding-linux-users-groups-file-permissions-db8)
-- Thu, 24 Sep 2026 12:47:05 +0000 — [Your agent framework stops at the demo. This open-source stack ships to production.](https://dev.to/anis_meziani_52aab42304a8/your-agent-framework-stops-at-the-demo-this-open-source-stack-ships-to-production-3ogd)
-- 2026-09-17T22:01:14+00:00 — [New Project Megathread - Week of 17 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wj7qvy/new_project_megathread_week_of_17_sep_2026/)
-- 2026-09-23T11:09:13+00:00 — [autobrr team just announced Librarry. replacement for sonarr and radarr](https://www.reddit.com/r/selfhosted/comments/1wo2yxg/autobrr_team_just_announced_librarry_replacement/)
-- 2026-09-23T14:01:26+00:00 — [MiniPC / N100 - Worth it compared to my DS1520? Options?](https://www.reddit.com/r/selfhosted/comments/1wo6uvp/minipc_n100_worth_it_compared_to_my_ds1520_options/)
-- 2026-09-23T19:23:52+00:00 — [Photo sharing with friends](https://www.reddit.com/r/selfhosted/comments/1wofkt9/photo_sharing_with_friends/)
-- Wed, 23 Sep 2026 12:31:33 +0000 — [Technical Training on Common Red Team Attack Scenarios During Major Event Security Assurance](https://dev.to/excalibra/technical-training-on-common-red-team-attack-scenarios-during-major-event-security-assurance-268)
-- 2026-09-22T23:04:02+00:00 — [New to self hosting](https://www.reddit.com/r/selfhosted/comments/1wnoy01/new_to_self_hosting/)
-- 2026-09-23T12:02:56+00:00 — [absolute beginner level.](https://www.reddit.com/r/selfhosted/comments/1wo42sd/absolute_beginner_level/)
 <!-- NEWS END -->
