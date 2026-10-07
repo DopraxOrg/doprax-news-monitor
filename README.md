@@ -2,13 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-06 14:32 UTC
+Last update: 2026-10-07 14:48 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Tue, 06 Oct 2026 14:20:53 +0000 — [How Much Does a RAG Chatbot Cost to Run?](https://dev.to/dharanidharan_d_tech/how-much-does-a-rag-chatbot-cost-to-run-27al)
+- Wed, 07 Oct 2026 14:32:52 +0000 — [What can this pod actually do? Where I start with EKS security](https://dev.to/geovane_oliveira/what-can-this-pod-actually-do-where-i-start-with-eks-security-pj0)
 - 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
+- 2026-10-07T04:32:37+00:00 — [What I run - Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wzngic/what_i_run_oct_2026/)
+- 2026-10-07T11:07:57+00:00 — [SilverBullet deserves a look if you want a self-hosted alternative to Obsidian](https://www.reddit.com/r/selfhosted/comments/1wztosy/silverbullet_deserves_a_look_if_you_want_a/)
+- 2026-10-07T00:28:33+00:00 — [Quartermaster: a client only app for running your self hosted stack from iPhone, iPad and Mac (60+ services, no account, no backend)](https://www.reddit.com/r/selfhosted/comments/1wzisoy/quartermaster_a_client_only_app_for_running_your/)
+- 2026-10-07T07:50:44+00:00 — [altero, the self-hosted Zotero sync server, is now in beta](https://www.reddit.com/r/selfhosted/comments/1wzqmci/altero_the_selfhosted_zotero_sync_server_is_now/)
+- 2026-10-06T19:36:28+00:00 — [Holm – a self-hosted start page for the whole household/org, with SSO and Raycast-style search inside your apps](https://www.reddit.com/r/selfhosted/comments/1wzc0g2/holm_a_selfhosted_start_page_for_the_whole/)
+- 2026-10-07T11:20:23+00:00 — [Reverse Proxy and Cloudflare](https://www.reddit.com/r/selfhosted/comments/1wztwuf/reverse_proxy_and_cloudflare/)
+- 2026-10-07T14:07:30+00:00 — [Updating FreshRSS Without Losing Everything?](https://www.reddit.com/r/selfhosted/comments/1wzxh86/updating_freshrss_without_losing_everything/)
+- 2026-10-07T08:18:41+00:00 — [Would love some suggestions on the stack I run and what I can tinker further](https://www.reddit.com/r/selfhosted/comments/1wzr18b/would_love_some_suggestions_on_the_stack_i_run/)
+- 2026-10-06T17:24:35+00:00 — [ScreenTinker v2.4 - open-source digital signage, now with one-click updates and HQ/store playlist control](https://www.reddit.com/r/selfhosted/comments/1wz8je1/screentinker_v24_opensource_digital_signage_now/)
+- Tue, 06 Oct 2026 14:20:53 +0000 — [How Much Does a RAG Chatbot Cost to Run?](https://dev.to/dharanidharan_d_tech/how-much-does-a-rag-chatbot-cost-to-run-27al)
 - 2026-10-06T10:38:19+00:00 — [Sanity-check my setup, please](https://www.reddit.com/r/selfhosted/comments/1wyz9ye/sanitycheck_my_setup_please/)
 - 2026-10-05T20:49:25+00:00 — [Anyone considering just moving to wireguard access instead of reverse proxy?](https://www.reddit.com/r/selfhosted/comments/1wyjvsk/anyone_considering_just_moving_to_wireguard/)
 - 2026-10-06T12:24:48+00:00 — [Borg UI update: file history, restore checks, and guided backups for self-hosted apps](https://www.reddit.com/r/selfhosted/comments/1wz18di/borg_ui_update_file_history_restore_checks_and/)
@@ -97,14 +107,4 @@ Last update: 2026-10-06 14:32 UTC
 - 2026-09-26T00:58:26+00:00 — [Easy, lightweight option to access my Jellyfin server remotely on a TV](https://www.reddit.com/r/selfhosted/comments/1wqd4gg/easy_lightweight_option_to_access_my_jellyfin/)
 - 2026-09-26T02:53:06+00:00 — [How I turned an old broken laptop into a silent $0 24/7 home server (Linux, Nextcloud, Docker)](https://www.reddit.com/r/selfhosted/comments/1wqfe12/how_i_turned_an_old_broken_laptop_into_a_silent_0/)
 - 2026-09-26T10:26:52+00:00 — [self-hosted conversational analytics layer for databases](https://www.reddit.com/r/selfhosted/comments/1wqn4gl/selfhosted_conversational_analytics_layer_for/)
-- 2026-09-26T04:10:33+00:00 — [QueryAPIGate - self-hosted service that turns saved SQL queries into REST endpoints with per-key access control (source-available)](https://www.reddit.com/r/selfhosted/comments/1wqgusv/queryapigate_selfhosted_service_that_turns_saved/)
-- 2026-09-25T13:05:14+00:00 — [HortusFox turns 3 - Happy 3rd Anniversary 💚](https://www.reddit.com/r/selfhosted/comments/1wpvu5w/hortusfox_turns_3_happy_3rd_anniversary/)
-- 2026-09-26T04:13:10+00:00 — [Tiyi: website protection in one binary, with AI Copilot and Skills for operations](https://www.reddit.com/r/selfhosted/comments/1wqgwn3/tiyi_website_protection_in_one_binary_with_ai/)
-- 2026-09-25T01:34:11+00:00 — [Self Hosted Gameservers w/ masked IP & minimal latency](https://www.reddit.com/r/selfhosted/comments/1wpjjiz/self_hosted_gameservers_w_masked_ip_minimal/)
-- 2026-09-24T21:28:43+00:00 — [FSAtlas v2.1.1: A Real-World Flight Route Finder Inspired by FlightConnections](https://www.reddit.com/r/selfhosted/comments/1wpe6we/fsatlas_v211_a_realworld_flight_route_finder/)
-- 2026-09-24T17:13:55+00:00 — [Self hosted docker container best network security practices?](https://www.reddit.com/r/selfhosted/comments/1wp7jkc/self_hosted_docker_container_best_network/)
-- 2026-09-25T01:27:49+00:00 — [Dashflex - Dashboard and Docker Container Manager](https://www.reddit.com/r/selfhosted/comments/1wpjeys/dashflex_dashboard_and_docker_container_manager/)
-- Thu, 24 Sep 2026 12:56:32 +0000 — [AdGuard Home: network-wide ad and tracking blocker](https://dev.to/serverkueche/adguard-home-network-wide-ad-and-tracking-blocker-2bji)
-- Thu, 24 Sep 2026 12:56:20 +0000 — [How HTTPS actually works (and what Traefik does for you)](https://dev.to/serverkueche/how-https-actually-works-and-what-traefik-does-for-you-2all)
-- Thu, 24 Sep 2026 12:55:15 +0000 — [FreshRSS: Your Own RSS Reader](https://dev.to/serverkueche/freshrss-your-own-rss-reader-5gin)
 <!-- NEWS END -->
