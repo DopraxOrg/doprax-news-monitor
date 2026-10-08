@@ -2,15 +2,20 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-07 14:48 UTC
+Last update: 2026-10-08 14:59 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 07 Oct 2026 14:32:52 +0000 — [What can this pod actually do? Where I start with EKS security](https://dev.to/geovane_oliveira/what-can-this-pod-actually-do-where-i-start-with-eks-security-pj0)
+- Wed, 07 Oct 2026 17:48:38 +0000 — [Docker Agent](https://github.com/docker/docker-agent)
+- Thu, 08 Oct 2026 14:53:26 +0000 — [5 Common Mistakes Beginners Make When Learning DevOps](https://dev.to/itbasesolutions/5-common-mistakes-beginners-make-when-learning-devops-1970)
 - 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
+- 2026-10-08T07:08:19+00:00 — [Is there a free to self host app like Photopea?](https://www.reddit.com/r/selfhosted/comments/1x0kbid/is_there_a_free_to_self_host_app_like_photopea/)
+- 2026-10-07T20:32:11+00:00 — [Scared of port forwarding.](https://www.reddit.com/r/selfhosted/comments/1x07g2i/scared_of_port_forwarding/)
 - 2026-10-07T04:32:37+00:00 — [What I run - Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wzngic/what_i_run_oct_2026/)
 - 2026-10-07T11:07:57+00:00 — [SilverBullet deserves a look if you want a self-hosted alternative to Obsidian](https://www.reddit.com/r/selfhosted/comments/1wztosy/silverbullet_deserves_a_look_if_you_want_a/)
+- 2026-10-08T07:07:32+00:00 — [A fixed public URL for a service behind CGNAT, with just ssh + systemd](https://www.reddit.com/r/selfhosted/comments/1x0kb3r/a_fixed_public_url_for_a_service_behind_cgnat/)
+- Wed, 07 Oct 2026 14:32:52 +0000 — [What can this pod actually do? Where I start with EKS security](https://dev.to/geovane_oliveira/what-can-this-pod-actually-do-where-i-start-with-eks-security-pj0)
 - 2026-10-07T00:28:33+00:00 — [Quartermaster: a client only app for running your self hosted stack from iPhone, iPad and Mac (60+ services, no account, no backend)](https://www.reddit.com/r/selfhosted/comments/1wzisoy/quartermaster_a_client_only_app_for_running_your/)
 - 2026-10-07T07:50:44+00:00 — [altero, the self-hosted Zotero sync server, is now in beta](https://www.reddit.com/r/selfhosted/comments/1wzqmci/altero_the_selfhosted_zotero_sync_server_is_now/)
 - 2026-10-06T19:36:28+00:00 — [Holm – a self-hosted start page for the whole household/org, with SSO and Raycast-style search inside your apps](https://www.reddit.com/r/selfhosted/comments/1wzc0g2/holm_a_selfhosted_start_page_for_the_whole/)
@@ -102,9 +107,4 @@ Last update: 2026-10-07 14:48 UTC
 - 2026-09-26T12:54:30+00:00 — [Revive of GitSave](https://www.reddit.com/r/selfhosted/comments/1wqptzw/revive_of_gitsave/)
 - 2026-09-25T18:48:40+00:00 — [Humble little home-lab made with a Pi that was just sitting around.](https://www.reddit.com/r/selfhosted/comments/1wq4gvi/humble_little_homelab_made_with_a_pi_that_was/)
 - 2026-09-26T18:36:12+00:00 — [Dockhand v1.0.49 "prune unused" images working no more till recent past updates](https://www.reddit.com/r/selfhosted/comments/1wqxzox/dockhand_v1049_prune_unused_images_working_no/)
-- 2026-09-26T05:27:06+00:00 — [Been working on a universal tts finetuner for a bit so far works for 17 tts engines (xtts,coqui stuff, piper,etc), docker or cli](https://www.reddit.com/r/selfhosted/comments/1wqi8re/been_working_on_a_universal_tts_finetuner_for_a/)
-- Sat, 26 Sep 2026 12:00:39 +0000 — [prompts.chat: The World's Largest Open-Source Prompt Library (167,000 Stars)](https://dev.to/saaro_net/promptschat-the-worlds-largest-open-source-prompt-library-167000-stars-461g)
-- 2026-09-26T00:58:26+00:00 — [Easy, lightweight option to access my Jellyfin server remotely on a TV](https://www.reddit.com/r/selfhosted/comments/1wqd4gg/easy_lightweight_option_to_access_my_jellyfin/)
-- 2026-09-26T02:53:06+00:00 — [How I turned an old broken laptop into a silent $0 24/7 home server (Linux, Nextcloud, Docker)](https://www.reddit.com/r/selfhosted/comments/1wqfe12/how_i_turned_an_old_broken_laptop_into_a_silent_0/)
-- 2026-09-26T10:26:52+00:00 — [self-hosted conversational analytics layer for databases](https://www.reddit.com/r/selfhosted/comments/1wqn4gl/selfhosted_conversational_analytics_layer_for/)
 <!-- NEWS END -->
