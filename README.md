@@ -2,11 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-08 14:59 UTC
+Last update: 2026-10-09 14:44 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
+- 2026-10-09T08:33:38+00:00 — [plMail: a self-hosted, Gmail like webmail client for all your Email accounts](https://www.reddit.com/r/selfhosted/comments/1x1fzg2/plmail_a_selfhosted_gmail_like_webmail_client_for/)
+- 2026-10-09T08:32:30+00:00 — [Joulenap: keeps a Proxmox backup server powered off and wakes it only for the backups (open source)](https://www.reddit.com/r/selfhosted/comments/1x1fysd/joulenap_keeps_a_proxmox_backup_server_powered/)
+- 2026-10-09T12:01:07+00:00 — [service ingress/egress control - easier options?](https://www.reddit.com/r/selfhosted/comments/1x1jijm/service_ingressegress_control_easier_options/)
+- 2026-10-09T11:37:47+00:00 — [Self Hostable Route53 Alternative](https://www.reddit.com/r/selfhosted/comments/1x1j28s/self_hostable_route53_alternative/)
+- 2026-10-09T13:40:56+00:00 — [Started self-hosting bootstrapped projects on Mac Mini (and moved away from AWS)](https://www.reddit.com/r/selfhosted/comments/1x1lo1s/started_selfhosting_bootstrapped_projects_on_mac/)
+- 2026-10-09T13:04:30+00:00 — [Expose a local TCP/UDP service to exactly one peer, no port forwarding, access expires automatically (open source, Rust)](https://www.reddit.com/r/selfhosted/comments/1x1ku1f/expose_a_local_tcpudp_service_to_exactly_one_peer/)
+- 2026-10-09T04:36:12+00:00 — [How do you handle stuck imports in Sonarr/Radarr without constantly checking them?](https://www.reddit.com/r/selfhosted/comments/1x1c51z/how_do_you_handle_stuck_imports_in_sonarrradarr/)
+- 2026-10-08T18:48:27+00:00 — [Free Mobile Ways To Get Started](https://www.reddit.com/r/selfhosted/comments/1x0z7d2/free_mobile_ways_to_get_started/)
+- 2026-10-08T14:55:02+00:00 — [Tailscale Reliability and Alternatives? Should I Switch?](https://www.reddit.com/r/selfhosted/comments/1x0t1yq/tailscale_reliability_and_alternatives_should_i/)
+- 2026-10-08T20:59:57+00:00 — [Multi user backup](https://www.reddit.com/r/selfhosted/comments/1x12nag/multi_user_backup/)
 - Wed, 07 Oct 2026 17:48:38 +0000 — [Docker Agent](https://github.com/docker/docker-agent)
 - Thu, 08 Oct 2026 14:53:26 +0000 — [5 Common Mistakes Beginners Make When Learning DevOps](https://dev.to/itbasesolutions/5-common-mistakes-beginners-make-when-learning-devops-1970)
 - 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
@@ -96,15 +107,4 @@ Last update: 2026-10-08 14:59 UTC
 - 2026-09-28T01:31:33+00:00 — [How many of you guys self-host on VPS providers?](https://www.reddit.com/r/selfhosted/comments/1ws1iw3/how_many_of_you_guys_selfhost_on_vps_providers/)
 - 2026-09-27T22:39:30+00:00 — [Why are Quadlets seemingly unheard of in the self host communities?](https://www.reddit.com/r/selfhosted/comments/1wrxvhr/why_are_quadlets_seemingly_unheard_of_in_the_self/)
 - 2026-09-28T11:47:47+00:00 — [Need some help with drive pools in proxmox](https://www.reddit.com/r/selfhosted/comments/1wscego/need_some_help_with_drive_pools_in_proxmox/)
-- 2026-09-28T14:59:27+00:00 — [Audiobook and Ebook management app](https://www.reddit.com/r/selfhosted/comments/1wsgx4b/audiobook_and_ebook_management_app/)
-- 2026-09-28T14:50:29+00:00 — [Dokploy vs docker-compose](https://www.reddit.com/r/selfhosted/comments/1wsgoq7/dokploy_vs_dockercompose/)
-- 2026-09-28T09:06:23+00:00 — [I want my first server rack, but need help building it (personal+family/friend use)](https://www.reddit.com/r/selfhosted/comments/1ws9low/i_want_my_first_server_rack_but_need_help/)
-- 2026-09-28T05:01:32+00:00 — [Ngnix reverse proxy for game server using sub-domain](https://www.reddit.com/r/selfhosted/comments/1ws5jzk/ngnix_reverse_proxy_for_game_server_using/)
-- Sun, 27 Sep 2026 12:51:32 +0000 — [Building an Open-Source AI Workspace: Cross-Tool Vector Search & Real-Time Sync with Next.js 14 and pgvector](https://dev.to/marowa_labs/building-an-open-source-ai-workspace-cross-tool-vector-search-real-time-sync-with-nextjs-14-and-3p93)
-- 2026-09-27T12:15:31+00:00 — [EdgeEver: An open-source, AI-native Evernote alternative that runs zero-cost on Cloudflare or Docker (with native MCP & full cross-platform apps)](https://www.reddit.com/r/selfhosted/comments/1wriqhk/edgeever_an_opensource_ainative_evernote/)
-- 2026-09-27T11:26:31+00:00 — [Recommended budget setup for a home server.](https://www.reddit.com/r/selfhosted/comments/1wrhtdm/recommended_budget_setup_for_a_home_server/)
-- 2026-09-26T15:40:46+00:00 — [Portabase (OSS backup/restore platform) now supports rclone as storage connector](https://www.reddit.com/r/selfhosted/comments/1wqtng8/portabase_oss_backuprestore_platform_now_supports/)
-- 2026-09-26T12:54:30+00:00 — [Revive of GitSave](https://www.reddit.com/r/selfhosted/comments/1wqptzw/revive_of_gitsave/)
-- 2026-09-25T18:48:40+00:00 — [Humble little home-lab made with a Pi that was just sitting around.](https://www.reddit.com/r/selfhosted/comments/1wq4gvi/humble_little_homelab_made_with_a_pi_that_was/)
-- 2026-09-26T18:36:12+00:00 — [Dockhand v1.0.49 "prune unused" images working no more till recent past updates](https://www.reddit.com/r/selfhosted/comments/1wqxzox/dockhand_v1049_prune_unused_images_working_no/)
 <!-- NEWS END -->
