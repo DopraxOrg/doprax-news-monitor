@@ -2,13 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-09 14:44 UTC
+Last update: 2026-10-10 14:01 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 10 Oct 2026 13:58:32 +0000 — [StrideCast](https://dev.to/krishna_bharadwaj_bd2818d/stridecast-3nj)
+- Sat, 10 Oct 2026 13:56:24 +0000 — [JobiGo — An AI Football Coach That Wants You Off the Screen](https://dev.to/rudraksh_karmakar_28/jobigo-an-ai-football-coach-that-wants-you-off-the-screen-38kn)
 - 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
+- 2026-10-10T10:09:55+00:00 — [My first server was a free PC from school. Now I have 52 services. What did you start with ?](https://www.reddit.com/r/selfhosted/comments/1x2bna2/my_first_server_was_a_free_pc_from_school_now_i/)
+- 2026-10-10T12:16:06+00:00 — [NutriTrace v1.4.0 released: offline mode in the browser, foldable support, and more](https://www.reddit.com/r/selfhosted/comments/1x2dvj4/nutritrace_v140_released_offline_mode_in_the/)
 - 2026-10-09T08:33:38+00:00 — [plMail: a self-hosted, Gmail like webmail client for all your Email accounts](https://www.reddit.com/r/selfhosted/comments/1x1fzg2/plmail_a_selfhosted_gmail_like_webmail_client_for/)
+- 2026-10-09T19:59:49+00:00 — [FlyBudget: a free, open-source, self-hosted budgeting app (inspired by Monarch/YNAB). First week: 28 stars, a first contributor, and a new release!](https://www.reddit.com/r/selfhosted/comments/1x1vdab/flybudget_a_free_opensource_selfhosted_budgeting/)
+- 2026-10-10T11:47:43+00:00 — [How to backup my NAS and its Containers?](https://www.reddit.com/r/selfhosted/comments/1x2dbze/how_to_backup_my_nas_and_its_containers/)
+- 2026-10-09T22:44:40+00:00 — [My browser Gaming Server setup!](https://www.reddit.com/r/selfhosted/comments/1x1za34/my_browser_gaming_server_setup/)
+- 2026-10-10T06:07:54+00:00 — [Bandstand: chord charts, setlists and rehearsal scheduling for bands (Docker, AGPL)](https://www.reddit.com/r/selfhosted/comments/1x27r5a/bandstand_chord_charts_setlists_and_rehearsal/)
+- 2026-10-09T20:54:56+00:00 — [Building a self-hosted “boat management system” Baserow or something else? Looking for an architecture sanity check.](https://www.reddit.com/r/selfhosted/comments/1x1wqxh/building_a_selfhosted_boat_management_system/)
 - 2026-10-09T08:32:30+00:00 — [Joulenap: keeps a Proxmox backup server powered off and wakes it only for the backups (open source)](https://www.reddit.com/r/selfhosted/comments/1x1fysd/joulenap_keeps_a_proxmox_backup_server_powered/)
 - 2026-10-09T12:01:07+00:00 — [service ingress/egress control - easier options?](https://www.reddit.com/r/selfhosted/comments/1x1jijm/service_ingressegress_control_easier_options/)
 - 2026-10-09T11:37:47+00:00 — [Self Hostable Route53 Alternative](https://www.reddit.com/r/selfhosted/comments/1x1j28s/self_hostable_route53_alternative/)
@@ -98,13 +107,4 @@ Last update: 2026-10-09 14:44 UTC
 - 2026-09-30T11:09:38+00:00 — [How do you self-host webhook-based automation?](https://www.reddit.com/r/selfhosted/comments/1wu238g/how_do_you_selfhost_webhookbased_automation/)
 - 2026-09-30T08:40:01+00:00 — [Docker management over multiple VM/LXC](https://www.reddit.com/r/selfhosted/comments/1wtzobt/docker_management_over_multiple_vmlxc/)
 - 2026-09-28T15:17:02+00:00 — [Self-host your own Roborock cloud without rooting or hardware modification](https://www.reddit.com/r/selfhosted/comments/1wshdpo/selfhost_your_own_roborock_cloud_without_rooting/)
-- 2026-09-28T16:07:30+00:00 — [Apprise v2.0 Released](https://www.reddit.com/r/selfhosted/comments/1wsirgx/apprise_v20_released/)
-- 2026-09-28T18:46:01+00:00 — [Homelab Beginner - This is my setup so far... advancing quickly](https://www.reddit.com/r/selfhosted/comments/1wsn3d4/homelab_beginner_this_is_my_setup_so_far/)
-- 2026-09-29T07:06:23+00:00 — [Audiobookshelf remote downloading slow](https://www.reddit.com/r/selfhosted/comments/1wt3b9c/audiobookshelf_remote_downloading_slow/)
-- Mon, 28 Sep 2026 16:01:45 +0000 — [An AI agent built this CKA Anki deck — and a script checked every card against the docs](https://dev.to/driftbuilder/an-ai-agent-built-this-cka-anki-deck-and-a-script-checked-every-card-against-the-docs-3k2b)
-- Mon, 28 Sep 2026 15:56:34 +0000 — [ECHOLESS: Turning Organizational Near-Misses into AI-Powered Institutional Memory](https://dev.to/harshith_ram_8085c2d1334f/echoless-turning-organizational-near-misses-into-ai-powered-institutional-memory-l2c)
-- 2026-09-27T19:29:08+00:00 — [Feature overlap across your homelab tools](https://www.reddit.com/r/selfhosted/comments/1wrt7ha/feature_overlap_across_your_homelab_tools/)
-- 2026-09-28T01:31:33+00:00 — [How many of you guys self-host on VPS providers?](https://www.reddit.com/r/selfhosted/comments/1ws1iw3/how_many_of_you_guys_selfhost_on_vps_providers/)
-- 2026-09-27T22:39:30+00:00 — [Why are Quadlets seemingly unheard of in the self host communities?](https://www.reddit.com/r/selfhosted/comments/1wrxvhr/why_are_quadlets_seemingly_unheard_of_in_the_self/)
-- 2026-09-28T11:47:47+00:00 — [Need some help with drive pools in proxmox](https://www.reddit.com/r/selfhosted/comments/1wscego/need_some_help_with_drive_pools_in_proxmox/)
 <!-- NEWS END -->
