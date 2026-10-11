@@ -2,16 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-10 14:01 UTC
+Last update: 2026-10-11 14:26 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sat, 10 Oct 2026 13:58:32 +0000 — [StrideCast](https://dev.to/krishna_bharadwaj_bd2818d/stridecast-3nj)
-- Sat, 10 Oct 2026 13:56:24 +0000 — [JobiGo — An AI Football Coach That Wants You Off the Screen](https://dev.to/rudraksh_karmakar_28/jobigo-an-ai-football-coach-that-wants-you-off-the-screen-38kn)
+- Sun, 11 Oct 2026 14:15:03 +0000 — [Longhorn vs Rook-Ceph: Kubernetes Storage Compared](https://dev.to/hugovalters/longhorn-vs-rook-ceph-kubernetes-storage-compared-44oh)
+- Sun, 11 Oct 2026 14:14:41 +0000 — [Touch Grass Planner: A local Gemma model that picks your next 30 minutes outside](https://dev.to/swasti2004/touch-grass-planner-a-local-gemma-model-that-picks-your-next-30-minutes-outside-3mhi)
 - 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
 - 2026-10-10T10:09:55+00:00 — [My first server was a free PC from school. Now I have 52 services. What did you start with ?](https://www.reddit.com/r/selfhosted/comments/1x2bna2/my_first_server_was_a_free_pc_from_school_now_i/)
+- 2026-10-11T06:18:53+00:00 — [Is my setup safe? (Caddy + docker + mTLS)](https://www.reddit.com/r/selfhosted/comments/1x30qx0/is_my_setup_safe_caddy_docker_mtls/)
+- 2026-10-11T13:16:20+00:00 — [Nextcloud on Proxmox: AIO VM, LXC, or community script. What fits my setup?](https://www.reddit.com/r/selfhosted/comments/1x37z52/nextcloud_on_proxmox_aio_vm_lxc_or_community/)
+- 2026-10-10T18:40:32+00:00 — [From Dockerhand to Komodo or Arcane? OpenBao support?](https://www.reddit.com/r/selfhosted/comments/1x2mnzt/from_dockerhand_to_komodo_or_arcane_openbao/)
 - 2026-10-10T12:16:06+00:00 — [NutriTrace v1.4.0 released: offline mode in the browser, foldable support, and more](https://www.reddit.com/r/selfhosted/comments/1x2dvj4/nutritrace_v140_released_offline_mode_in_the/)
+- 2026-10-11T04:28:19+00:00 — [tiny desktop HUD that shows docker + k8s health for whatever app you're focused on](https://www.reddit.com/r/selfhosted/comments/1x2yveu/tiny_desktop_hud_that_shows_docker_k8s_health_for/)
+- Sat, 10 Oct 2026 13:58:32 +0000 — [StrideCast](https://dev.to/krishna_bharadwaj_bd2818d/stridecast-3nj)
+- Sat, 10 Oct 2026 13:56:24 +0000 — [JobiGo — An AI Football Coach That Wants You Off the Screen](https://dev.to/rudraksh_karmakar_28/jobigo-an-ai-football-coach-that-wants-you-off-the-screen-38kn)
 - 2026-10-09T08:33:38+00:00 — [plMail: a self-hosted, Gmail like webmail client for all your Email accounts](https://www.reddit.com/r/selfhosted/comments/1x1fzg2/plmail_a_selfhosted_gmail_like_webmail_client_for/)
 - 2026-10-09T19:59:49+00:00 — [FlyBudget: a free, open-source, self-hosted budgeting app (inspired by Monarch/YNAB). First week: 28 stars, a first contributor, and a new release!](https://www.reddit.com/r/selfhosted/comments/1x1vdab/flybudget_a_free_opensource_selfhosted_budgeting/)
 - 2026-10-10T11:47:43+00:00 — [How to backup my NAS and its Containers?](https://www.reddit.com/r/selfhosted/comments/1x2dbze/how_to_backup_my_nas_and_its_containers/)
@@ -101,10 +107,4 @@ Last update: 2026-10-10 14:01 UTC
 - 2026-10-01T11:26:11+00:00 — [Getting USB printers on network with Raspberry](https://www.reddit.com/r/selfhosted/comments/1wuwwsy/getting_usb_printers_on_network_with_raspberry/)
 - 2026-09-30T17:40:09+00:00 — [Wireguard or OpenVPN?](https://www.reddit.com/r/selfhosted/comments/1wubfm4/wireguard_or_openvpn/)
 - Wed, 30 Sep 2026 14:07:30 +0000 — [AI Assistance Helps User Overcome Technical Hurdles to Successfully Set Up Self-Hosted Media Server](https://dev.to/elenbit/ai-assistance-helps-user-overcome-technical-hurdles-to-successfully-set-up-self-hosted-media-server-4eed)
-- 2026-09-29T22:22:05+00:00 — [I made a mattermost fork without the BS](https://www.reddit.com/r/selfhosted/comments/1wto0z7/i_made_a_mattermost_fork_without_the_bs/)
-- 2026-09-29T13:30:33+00:00 — [My Homelab](https://www.reddit.com/r/selfhosted/comments/1wta69u/my_homelab/)
-- 2026-09-30T11:41:24+00:00 — [Too much fun, or too much work? (an essay 😜)](https://www.reddit.com/r/selfhosted/comments/1wu2nzu/too_much_fun_or_too_much_work_an_essay/)
-- 2026-09-30T11:09:38+00:00 — [How do you self-host webhook-based automation?](https://www.reddit.com/r/selfhosted/comments/1wu238g/how_do_you_selfhost_webhookbased_automation/)
-- 2026-09-30T08:40:01+00:00 — [Docker management over multiple VM/LXC](https://www.reddit.com/r/selfhosted/comments/1wtzobt/docker_management_over_multiple_vmlxc/)
-- 2026-09-28T15:17:02+00:00 — [Self-host your own Roborock cloud without rooting or hardware modification](https://www.reddit.com/r/selfhosted/comments/1wshdpo/selfhost_your_own_roborock_cloud_without_rooting/)
 <!-- NEWS END -->
