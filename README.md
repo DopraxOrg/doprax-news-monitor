@@ -2,14 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-11 14:26 UTC
+Last update: 2026-10-12 17:03 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 12 Oct 2026 16:54:12 +0000 — [How many tasks at once? Count the cores you are given](https://dev.to/vzn-vx/how-many-tasks-at-once-count-the-cores-you-are-given-1ial)
+- 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
+- 2026-10-12T07:40:21+00:00 — [CyberSecurity Paranoia](https://www.reddit.com/r/selfhosted/comments/1x3vo2d/cybersecurity_paranoia/)
+- 2026-10-12T07:36:42+00:00 — [Which image for shared web hosting w/ Traefik?](https://www.reddit.com/r/selfhosted/comments/1x3vm24/which_image_for_shared_web_hosting_w_traefik/)
+- 2026-10-11T20:41:59+00:00 — [NSFW Sherlock: local image moderation over HTTP/gRPC, with a CPU Docker image](https://www.reddit.com/r/selfhosted/comments/1x3ixl7/nsfw_sherlock_local_image_moderation_over/)
+- 2026-10-12T13:55:58+00:00 — [What is your dream use-case?](https://www.reddit.com/r/selfhosted/comments/1x42j35/what_is_your_dream_usecase/)
+- 2026-10-12T02:05:44+00:00 — [thoughts on cloud photo storage](https://www.reddit.com/r/selfhosted/comments/1x3psux/thoughts_on_cloud_photo_storage/)
+- 2026-10-12T11:37:12+00:00 — [RetroGemini: self-hosted Scrum retrospectives used by around 30 teams at the State of Geneva](https://www.reddit.com/r/selfhosted/comments/1x3ziy7/retrogemini_selfhosted_scrum_retrospectives_used/)
+- 2026-10-12T05:36:17+00:00 — [Minimus alternatives that wont mean rewriting every compose file I have](https://www.reddit.com/r/selfhosted/comments/1x3tn67/minimus_alternatives_that_wont_mean_rewriting/)
+- 2026-10-12T14:01:37+00:00 — [self-hosting invoicing sounded great until my invoices stopped reaching clients](https://www.reddit.com/r/selfhosted/comments/1x42o8y/selfhosting_invoicing_sounded_great_until_my/)
 - Sun, 11 Oct 2026 14:15:03 +0000 — [Longhorn vs Rook-Ceph: Kubernetes Storage Compared](https://dev.to/hugovalters/longhorn-vs-rook-ceph-kubernetes-storage-compared-44oh)
 - Sun, 11 Oct 2026 14:14:41 +0000 — [Touch Grass Planner: A local Gemma model that picks your next 30 minutes outside](https://dev.to/swasti2004/touch-grass-planner-a-local-gemma-model-that-picks-your-next-30-minutes-outside-3mhi)
-- 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
 - 2026-10-10T10:09:55+00:00 — [My first server was a free PC from school. Now I have 52 services. What did you start with ?](https://www.reddit.com/r/selfhosted/comments/1x2bna2/my_first_server_was_a_free_pc_from_school_now_i/)
 - 2026-10-11T06:18:53+00:00 — [Is my setup safe? (Caddy + docker + mTLS)](https://www.reddit.com/r/selfhosted/comments/1x30qx0/is_my_setup_safe_caddy_docker_mtls/)
 - 2026-10-11T13:16:20+00:00 — [Nextcloud on Proxmox: AIO VM, LXC, or community script. What fits my setup?](https://www.reddit.com/r/selfhosted/comments/1x37z52/nextcloud_on_proxmox_aio_vm_lxc_or_community/)
@@ -98,13 +107,4 @@ Last update: 2026-10-11 14:26 UTC
 - 2026-10-01T15:15:11+00:00 — [Multiple Docker VMs or a Single Docker VM?](https://www.reddit.com/r/selfhosted/comments/1wv241g/multiple_docker_vms_or_a_single_docker_vm/)
 - 2026-10-02T09:49:59+00:00 — [Uptime Kotlin: self-hosted uptime monitoring with status pages and an optional worker cluster mode](https://www.reddit.com/r/selfhosted/comments/1wvpnz8/uptime_kotlin_selfhosted_uptime_monitoring_with/)
 - Thu, 01 Oct 2026 14:46:10 +0000 — [I built a Sovereign, Self-Hosted Personal AI Agent Workspace: Meet Poka 🤖🛡️](https://dev.to/slayer_king_03c5f3ade7305/i-built-a-sovereign-self-hosted-personal-ai-agent-workspace-meet-poka-o07)
-- Thu, 01 Oct 2026 14:41:18 +0000 — [I built Deception Mesh: an open-source Rust MVP for defensive cybersecurity telemetry](https://dev.to/tu_codigocotidiano_f173d/i-built-deception-mesh-an-open-source-rust-mvp-for-defensive-cybersecurity-telemetry-4bka)
-- Thu, 01 Oct 2026 14:41:00 +0000 — [Can a Good Web Development Course Get You Job-Ready?](https://dev.to/srdan_borovi_584c6b1d773/can-a-good-web-development-course-get-you-job-ready-2607)
-- 2026-09-24T22:01:09+00:00 — [New Project Megathread - Week of 24 Sep 2026](https://www.reddit.com/r/selfhosted/comments/1wpezgu/new_project_megathread_week_of_24_sep_2026/)
-- 2026-10-01T10:52:22+00:00 — [Cloud-native Linktree alternative for k8s](https://www.reddit.com/r/selfhosted/comments/1wuwao6/cloudnative_linktree_alternative_for_k8s/)
-- 2026-10-01T07:19:48+00:00 — [Unifying OneDrive and Google Photos into a local backup in preparation to self host](https://www.reddit.com/r/selfhosted/comments/1wusypb/unifying_onedrive_and_google_photos_into_a_local/)
-- 2026-10-01T11:51:44+00:00 — [Radarr/Sonarr access via nginx proxy manager & Authentik suddenly broken](https://www.reddit.com/r/selfhosted/comments/1wuxe55/radarrsonarr_access_via_nginx_proxy_manager/)
-- 2026-10-01T11:26:11+00:00 — [Getting USB printers on network with Raspberry](https://www.reddit.com/r/selfhosted/comments/1wuwwsy/getting_usb_printers_on_network_with_raspberry/)
-- 2026-09-30T17:40:09+00:00 — [Wireguard or OpenVPN?](https://www.reddit.com/r/selfhosted/comments/1wubfm4/wireguard_or_openvpn/)
-- Wed, 30 Sep 2026 14:07:30 +0000 — [AI Assistance Helps User Overcome Technical Hurdles to Successfully Set Up Self-Hosted Media Server](https://dev.to/elenbit/ai-assistance-helps-user-overcome-technical-hurdles-to-successfully-set-up-self-hosted-media-server-4eed)
 <!-- NEWS END -->
