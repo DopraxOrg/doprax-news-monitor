@@ -2,13 +2,20 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-12 17:03 UTC
+Last update: 2026-10-13 15:20 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 12 Oct 2026 16:54:12 +0000 — [How many tasks at once? Count the cores you are given](https://dev.to/vzn-vx/how-many-tasks-at-once-count-the-cores-you-are-given-1ial)
+- Tue, 13 Oct 2026 15:15:23 +0000 — [Cara Bypass Rate Limit API Secara Etis Pakai Local Proxy](https://dev.to/kielltampubolon/cara-bypass-rate-limit-api-secara-etis-pakai-local-proxy-1mk2)
+- Tue, 13 Oct 2026 15:15:22 +0000 — [Ferrite: self-hosted file storage in Laravel, Livewire and Flux UI (open source, with a live demo)](https://dev.to/zhoorta/ferrite-self-hosted-file-storage-in-laravel-livewire-and-flux-ui-open-source-with-a-live-demo-8ld)
+- Tue, 13 Oct 2026 15:14:02 +0000 — [Amnesia and déjà vu: how our AI agents failed after every restart (and how we fixed it)](https://dev.to/anis_meziani_52aab42304a8/amnesia-and-deja-vu-how-our-ai-agents-failed-after-every-restart-and-how-we-fixed-it-5c80)
 - 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
+- 2026-10-13T11:02:14+00:00 — [Termix v26.10.1 - Plugins (official + community) self-hosted server management (SSH, remote desktop, file management, docker, host metrics, etc.)](https://www.reddit.com/r/selfhosted/comments/1x4tn0i/termix_v26101_plugins_official_community/)
+- 2026-10-13T08:58:59+00:00 — [NoteDiscovery v0.32.0 can now serve MCP itself over HTTP](https://www.reddit.com/r/selfhosted/comments/1x4rlyv/notediscovery_v0320_can_now_serve_mcp_itself_over/)
+- 2026-10-13T09:38:33+00:00 — [Arc B60 or 9060 XT 16GB for server](https://www.reddit.com/r/selfhosted/comments/1x4s82x/arc_b60_or_9060_xt_16gb_for_server/)
+- 2026-10-13T11:59:20+00:00 — [I'm thinking about switching to bitwarden cloud solution but how does it have a free plan?](https://www.reddit.com/r/selfhosted/comments/1x4uoyo/im_thinking_about_switching_to_bitwarden_cloud/)
+- Mon, 12 Oct 2026 16:54:12 +0000 — [How many tasks at once? Count the cores you are given](https://dev.to/vzn-vx/how-many-tasks-at-once-count-the-cores-you-are-given-1ial)
 - 2026-10-12T07:40:21+00:00 — [CyberSecurity Paranoia](https://www.reddit.com/r/selfhosted/comments/1x3vo2d/cybersecurity_paranoia/)
 - 2026-10-12T07:36:42+00:00 — [Which image for shared web hosting w/ Traefik?](https://www.reddit.com/r/selfhosted/comments/1x3vm24/which_image_for_shared_web_hosting_w_traefik/)
 - 2026-10-11T20:41:59+00:00 — [NSFW Sherlock: local image moderation over HTTP/gRPC, with a CPU Docker image](https://www.reddit.com/r/selfhosted/comments/1x3ixl7/nsfw_sherlock_local_image_moderation_over/)
@@ -100,11 +107,4 @@ Last update: 2026-10-12 17:03 UTC
 - 2026-10-03T02:18:48+00:00 — [Question regarding DXP2800](https://www.reddit.com/r/selfhosted/comments/1wwbqdu/question_regarding_dxp2800/)
 - Thu, 01 Oct 2026 16:01:56 +0000 — [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
 - 2026-10-01T13:39:24+00:00 — [Pangolin 1.24: Exit Nodes and Improved Client Apps (New UI)](https://www.reddit.com/r/selfhosted/comments/1wuzp8w/pangolin_124_exit_nodes_and_improved_client_apps/)
-- 2026-10-02T07:55:50+00:00 — [CF Tunnel OAuth and Services](https://www.reddit.com/r/selfhosted/comments/1wvnxal/cf_tunnel_oauth_and_services/)
-- 2026-10-02T11:03:28+00:00 — [ZakApp v1.0.0: a self-hosted Zakat tracker](https://www.reddit.com/r/selfhosted/comments/1wvqwm3/zakapp_v100_a_selfhosted_zakat_tracker/)
-- 2026-10-02T12:41:52+00:00 — [Visiban — a self-hosted visual workflow platform](https://www.reddit.com/r/selfhosted/comments/1wvssb3/visiban_a_selfhosted_visual_workflow_platform/)
-- 2026-10-02T06:30:43+00:00 — [15 client servers on 3 panels. Worth consolidating?](https://www.reddit.com/r/selfhosted/comments/1wvmlze/15_client_servers_on_3_panels_worth_consolidating/)
-- 2026-10-01T15:15:11+00:00 — [Multiple Docker VMs or a Single Docker VM?](https://www.reddit.com/r/selfhosted/comments/1wv241g/multiple_docker_vms_or_a_single_docker_vm/)
-- 2026-10-02T09:49:59+00:00 — [Uptime Kotlin: self-hosted uptime monitoring with status pages and an optional worker cluster mode](https://www.reddit.com/r/selfhosted/comments/1wvpnz8/uptime_kotlin_selfhosted_uptime_monitoring_with/)
-- Thu, 01 Oct 2026 14:46:10 +0000 — [I built a Sovereign, Self-Hosted Personal AI Agent Workspace: Meet Poka 🤖🛡️](https://dev.to/slayer_king_03c5f3ade7305/i-built-a-sovereign-self-hosted-personal-ai-agent-workspace-meet-poka-o07)
 <!-- NEWS END -->
