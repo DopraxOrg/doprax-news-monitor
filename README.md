@@ -2,16 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-13 15:20 UTC
+Last update: 2026-10-14 13:08 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 14 Oct 2026 13:04:16 +0000 — [# LocalLead AI: Finding Business Opportunities with Open-Weight AI](https://dev.to/adityabhaskarme/-locallead-ai-finding-business-opportunities-with-open-weight-ai-4ngg)
+- 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
+- 2026-10-14T09:25:52+00:00 — [Selfhosted inventory manager - OpenInvento](https://www.reddit.com/r/selfhosted/comments/1x5morb/selfhosted_inventory_manager_openinvento/)
+- 2026-10-13T11:02:14+00:00 — [Termix v26.10.1 - Plugins (official + community) self-hosted server management (SSH, remote desktop, file management, docker, host metrics, etc.)](https://www.reddit.com/r/selfhosted/comments/1x4tn0i/termix_v26101_plugins_official_community/)
+- 2026-10-14T04:00:39+00:00 — [WyrmRSS 0.27: self-hosted RSS reader, now with a mobile UI and a live demo](https://www.reddit.com/r/selfhosted/comments/1x5hi1i/wyrmrss_027_selfhosted_rss_reader_now_with_a/)
 - Tue, 13 Oct 2026 15:15:23 +0000 — [Cara Bypass Rate Limit API Secara Etis Pakai Local Proxy](https://dev.to/kielltampubolon/cara-bypass-rate-limit-api-secara-etis-pakai-local-proxy-1mk2)
 - Tue, 13 Oct 2026 15:15:22 +0000 — [Ferrite: self-hosted file storage in Laravel, Livewire and Flux UI (open source, with a live demo)](https://dev.to/zhoorta/ferrite-self-hosted-file-storage-in-laravel-livewire-and-flux-ui-open-source-with-a-live-demo-8ld)
 - Tue, 13 Oct 2026 15:14:02 +0000 — [Amnesia and déjà vu: how our AI agents failed after every restart (and how we fixed it)](https://dev.to/anis_meziani_52aab42304a8/amnesia-and-deja-vu-how-our-ai-agents-failed-after-every-restart-and-how-we-fixed-it-5c80)
-- 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
-- 2026-10-13T11:02:14+00:00 — [Termix v26.10.1 - Plugins (official + community) self-hosted server management (SSH, remote desktop, file management, docker, host metrics, etc.)](https://www.reddit.com/r/selfhosted/comments/1x4tn0i/termix_v26101_plugins_official_community/)
 - 2026-10-13T08:58:59+00:00 — [NoteDiscovery v0.32.0 can now serve MCP itself over HTTP](https://www.reddit.com/r/selfhosted/comments/1x4rlyv/notediscovery_v0320_can_now_serve_mcp_itself_over/)
 - 2026-10-13T09:38:33+00:00 — [Arc B60 or 9060 XT 16GB for server](https://www.reddit.com/r/selfhosted/comments/1x4s82x/arc_b60_or_9060_xt_16gb_for_server/)
 - 2026-10-13T11:59:20+00:00 — [I'm thinking about switching to bitwarden cloud solution but how does it have a free plan?](https://www.reddit.com/r/selfhosted/comments/1x4uoyo/im_thinking_about_switching_to_bitwarden_cloud/)
@@ -104,7 +107,4 @@ Last update: 2026-10-13 15:20 UTC
 - 2026-10-03T12:28:49+00:00 — [A small request to developers of self-hosted applications](https://www.reddit.com/r/selfhosted/comments/1wwm1xa/a_small_request_to_developers_of_selfhosted/)
 - 2026-10-02T08:42:56+00:00 — [Did your family also thinks that you are doing something pointless?](https://www.reddit.com/r/selfhosted/comments/1wvomp6/did_your_family_also_thinks_that_you_are_doing/)
 - 2026-10-03T06:07:20+00:00 — [I maintain ShopClass, a free self-hosted classifieds CMS (the Osclass 5.x successor). 6.4 is out so I benchmarked it against Osclass 8.4 and HivePress](https://www.reddit.com/r/selfhosted/comments/1wwfs2j/i_maintain_shopclass_a_free_selfhosted/)
-- 2026-10-03T02:18:48+00:00 — [Question regarding DXP2800](https://www.reddit.com/r/selfhosted/comments/1wwbqdu/question_regarding_dxp2800/)
-- Thu, 01 Oct 2026 16:01:56 +0000 — [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
-- 2026-10-01T13:39:24+00:00 — [Pangolin 1.24: Exit Nodes and Improved Client Apps (New UI)](https://www.reddit.com/r/selfhosted/comments/1wuzp8w/pangolin_124_exit_nodes_and_improved_client_apps/)
 <!-- NEWS END -->
