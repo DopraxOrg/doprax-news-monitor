@@ -2,14 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-14 13:08 UTC
+Last update: 2026-10-15 12:54 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 14 Oct 2026 13:04:16 +0000 — [# LocalLead AI: Finding Business Opportunities with Open-Weight AI](https://dev.to/adityabhaskarme/-locallead-ai-finding-business-opportunities-with-open-weight-ai-4ngg)
+- Thu, 15 Oct 2026 12:38:43 +0000 — [How to Trigger AI Agents from Webhooks: Signature Verification, Retries, and Idempotency](https://dev.to/corsairdev/how-to-trigger-ai-agents-from-webhooks-signature-verification-retries-and-idempotency-49la)
+- Thu, 15 Oct 2026 12:37:20 +0000 — [Cilium mTLS ztunnel: Sidecar-Free Encryption Explained](https://dev.to/amareswer/cilium-mtls-ztunnel-sidecar-free-encryption-explained-nke)
 - 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
+- 2026-10-14T13:14:21+00:00 — [My homelab dashboard is a biblically accurate angel watching my containers](https://www.reddit.com/r/selfhosted/comments/1x5qx11/my_homelab_dashboard_is_a_biblically_accurate/)
+- 2026-10-14T17:06:49+00:00 — [Apparently Dockge is dead. How do I migrate to Arcane?](https://www.reddit.com/r/selfhosted/comments/1x5wv5w/apparently_dockge_is_dead_how_do_i_migrate_to/)
+- 2026-10-14T13:42:45+00:00 — [HyCanvas: a self-hosted Canva and Genspark alternative, with AI decks you can edit by hand](https://www.reddit.com/r/selfhosted/comments/1x5rkjo/hycanvas_a_selfhosted_canva_and_genspark/)
+- 2026-10-15T06:49:13+00:00 — [Self hosted ntfy notifications and deploying that server on Render Free tier: A bad or good Idea?](https://www.reddit.com/r/selfhosted/comments/1x6emx9/self_hosted_ntfy_notifications_and_deploying_that/)
 - 2026-10-14T09:25:52+00:00 — [Selfhosted inventory manager - OpenInvento](https://www.reddit.com/r/selfhosted/comments/1x5morb/selfhosted_inventory_manager_openinvento/)
+- 2026-10-14T15:54:42+00:00 — [Migrate files from nextcloud to opencloud](https://www.reddit.com/r/selfhosted/comments/1x5uxgt/migrate_files_from_nextcloud_to_opencloud/)
+- Wed, 14 Oct 2026 13:04:16 +0000 — [# LocalLead AI: Finding Business Opportunities with Open-Weight AI](https://dev.to/adityabhaskarme/-locallead-ai-finding-business-opportunities-with-open-weight-ai-4ngg)
 - 2026-10-13T11:02:14+00:00 — [Termix v26.10.1 - Plugins (official + community) self-hosted server management (SSH, remote desktop, file management, docker, host metrics, etc.)](https://www.reddit.com/r/selfhosted/comments/1x4tn0i/termix_v26101_plugins_official_community/)
 - 2026-10-14T04:00:39+00:00 — [WyrmRSS 0.27: self-hosted RSS reader, now with a mobile UI and a live demo](https://www.reddit.com/r/selfhosted/comments/1x5hi1i/wyrmrss_027_selfhosted_rss_reader_now_with_a/)
 - Tue, 13 Oct 2026 15:15:23 +0000 — [Cara Bypass Rate Limit API Secara Etis Pakai Local Proxy](https://dev.to/kielltampubolon/cara-bypass-rate-limit-api-secara-etis-pakai-local-proxy-1mk2)
@@ -100,11 +107,4 @@ Last update: 2026-10-14 13:08 UTC
 - 2026-10-02T19:22:00+00:00 — [Homarr v2 is out: The front-door to your homelab](https://www.reddit.com/r/selfhosted/comments/1ww2oeq/homarr_v2_is_out_the_frontdoor_to_your_homelab/)
 - 2026-10-03T06:34:11+00:00 — [Voltis: A self-hosted comic, manga and book reader in beta](https://www.reddit.com/r/selfhosted/comments/1wwg84b/voltis_a_selfhosted_comic_manga_and_book_reader/)
 - 2026-10-03T08:22:26+00:00 — [Is this normal?](https://www.reddit.com/r/selfhosted/comments/1wwhygf/is_this_normal/)
-- 2026-10-02T21:28:03+00:00 — [Am I paranoid about security?](https://www.reddit.com/r/selfhosted/comments/1ww5qmu/am_i_paranoid_about_security/)
-- 2026-10-03T11:40:19+00:00 — [Beyond websites: what do you host on Tor onion services?](https://www.reddit.com/r/selfhosted/comments/1wwl58r/beyond_websites_what_do_you_host_on_tor_onion/)
-- 2026-10-02T18:41:15+00:00 — [Self hosting 100+ domains and 8000+ mailboxes with a twist](https://www.reddit.com/r/selfhosted/comments/1ww1mm7/self_hosting_100_domains_and_8000_mailboxes_with/)
-- 2026-10-03T09:45:34+00:00 — [Local DNS vs devices/browsers settings](https://www.reddit.com/r/selfhosted/comments/1wwj9a3/local_dns_vs_devicesbrowsers_settings/)
-- 2026-10-03T12:28:49+00:00 — [A small request to developers of self-hosted applications](https://www.reddit.com/r/selfhosted/comments/1wwm1xa/a_small_request_to_developers_of_selfhosted/)
-- 2026-10-02T08:42:56+00:00 — [Did your family also thinks that you are doing something pointless?](https://www.reddit.com/r/selfhosted/comments/1wvomp6/did_your_family_also_thinks_that_you_are_doing/)
-- 2026-10-03T06:07:20+00:00 — [I maintain ShopClass, a free self-hosted classifieds CMS (the Osclass 5.x successor). 6.4 is out so I benchmarked it against Osclass 8.4 and HivePress](https://www.reddit.com/r/selfhosted/comments/1wwfs2j/i_maintain_shopclass_a_free_selfhosted/)
 <!-- NEWS END -->
