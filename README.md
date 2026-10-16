@@ -2,11 +2,20 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-15 12:54 UTC
+Last update: 2026-10-16 12:46 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 16 Oct 2026 12:36:53 +0000 — [10 Production AI Prompts That 10x My Coding Speed as a Full-Stack Engineer](https://dev.to/johnapollos/10-production-ai-prompts-that-10x-my-coding-speed-as-a-full-stack-engineer-2bl9)
+- 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
+- 2026-10-15T20:47:26+00:00 — [Do you not patch your docker images against CVEs?](https://www.reddit.com/r/selfhosted/comments/1x6x5c0/do_you_not_patch_your_docker_images_against_cves/)
+- 2026-10-15T15:06:40+00:00 — [Kuvasz Uptime 4.5.0 is out, the biggest release in a while](https://www.reddit.com/r/selfhosted/comments/1x6o5dn/kuvasz_uptime_450_is_out_the_biggest_release_in_a/)
+- 2026-10-15T13:33:04+00:00 — [GPT-Load: a self-hosted AI gateway with reversible text redaction](https://www.reddit.com/r/selfhosted/comments/1x6lrll/gptload_a_selfhosted_ai_gateway_with_reversible/)
+- 2026-10-15T19:43:55+00:00 — [ScreenTinker v3.0 - open-source digital signage, now with a guided setup, content requests and screen share](https://www.reddit.com/r/selfhosted/comments/1x6viet/screentinker_v30_opensource_digital_signage_now/)
+- 2026-10-16T06:59:15+00:00 — [I built a self-hosted library-cover tool for Jellyfin and Emby, with a community template store](https://www.reddit.com/r/selfhosted/comments/1x79aus/i_built_a_selfhosted_librarycover_tool_for/)
+- 2026-10-15T20:27:07+00:00 — [New to self hosting](https://www.reddit.com/r/selfhosted/comments/1x6wmvx/new_to_self_hosting/)
+- 2026-10-15T20:22:16+00:00 — [Custom NVR / Camera system build plan , i'd appreciate some feedback](https://www.reddit.com/r/selfhosted/comments/1x6wiiq/custom_nvr_camera_system_build_plan_id_appreciate/)
 - Thu, 15 Oct 2026 12:38:43 +0000 — [How to Trigger AI Agents from Webhooks: Signature Verification, Retries, and Idempotency](https://dev.to/corsairdev/how-to-trigger-ai-agents-from-webhooks-signature-verification-retries-and-idempotency-49la)
 - Thu, 15 Oct 2026 12:37:20 +0000 — [Cilium mTLS ztunnel: Sidecar-Free Encryption Explained](https://dev.to/amareswer/cilium-mtls-ztunnel-sidecar-free-encryption-explained-nke)
 - 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
@@ -98,13 +107,4 @@ Last update: 2026-10-15 12:54 UTC
 - 2026-10-03T11:38:24+00:00 — [Dockhand changed its license model: Instead of going Apache 2.0 on January 1, 2029, each version gets converted to Apache 2.0 *four* years after release. Aditionally, a business now requires a commercial license.](https://www.reddit.com/r/selfhosted/comments/1wwl40o/dockhand_changed_its_license_model_instead_of/)
 - 2026-10-03T11:47:36+00:00 — [CookTrace v1.4.0 released: self-hosted recipes, pantry and shopping list, now offline and on your watch](https://www.reddit.com/r/selfhosted/comments/1wwl9qm/cooktrace_v140_released_selfhosted_recipes_pantry/)
 - 2026-10-03T19:17:53+00:00 — [Delivr: A Modern Open Source Mail Client that actually works](https://www.reddit.com/r/selfhosted/comments/1wwvh4k/delivr_a_modern_open_source_mail_client_that/)
-- 2026-10-03T07:06:11+00:00 — [MusicGrabber v4.3.0 is in the wild](https://www.reddit.com/r/selfhosted/comments/1wwgr3v/musicgrabber_v430_is_in_the_wild/)
-- 2026-10-03T16:00:10+00:00 — [Self-hosted SIP Portal for VoIP.ms DIDs](https://www.reddit.com/r/selfhosted/comments/1wwqr5f/selfhosted_sip_portal_for_voipms_dids/)
-- 2026-10-02T22:32:24+00:00 — [Homelab Preview](https://www.reddit.com/r/selfhosted/comments/1ww77p9/homelab_preview/)
-- 2026-10-03T19:37:52+00:00 — [Help Setting Up iCloudpd on NAS](https://www.reddit.com/r/selfhosted/comments/1wwvy5n/help_setting_up_icloudpd_on_nas/)
-- Thu, 01 Oct 2026 22:23:07 +0000 — [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
-- Sat, 03 Oct 2026 12:37:47 +0000 — [WordPress SEO Plugins Compared: Yoast to Local AI](https://dev.to/rosgluk/wordpress-seo-plugins-compared-yoast-to-local-ai-2l33)
-- 2026-10-02T19:22:00+00:00 — [Homarr v2 is out: The front-door to your homelab](https://www.reddit.com/r/selfhosted/comments/1ww2oeq/homarr_v2_is_out_the_frontdoor_to_your_homelab/)
-- 2026-10-03T06:34:11+00:00 — [Voltis: A self-hosted comic, manga and book reader in beta](https://www.reddit.com/r/selfhosted/comments/1wwg84b/voltis_a_selfhosted_comic_manga_and_book_reader/)
-- 2026-10-03T08:22:26+00:00 — [Is this normal?](https://www.reddit.com/r/selfhosted/comments/1wwhygf/is_this_normal/)
 <!-- NEWS END -->
