@@ -2,14 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-16 12:46 UTC
+Last update: 2026-10-17 11:47 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Fri, 16 Oct 2026 12:36:53 +0000 — [10 Production AI Prompts That 10x My Coding Speed as a Full-Stack Engineer](https://dev.to/johnapollos/10-production-ai-prompts-that-10x-my-coding-speed-as-a-full-stack-engineer-2bl9)
+- Sat, 17 Oct 2026 11:31:59 +0000 — [Overcoming Lack of Direct DevOps Experience: Strategies for Securing a First DevOps Role](https://dev.to/maricode/overcoming-lack-of-direct-devops-experience-strategies-for-securing-a-first-devops-role-95m)
+- Sat, 17 Oct 2026 11:30:03 +0000 — [ai-pos-bill-generator](https://dev.to/john_gnanprakashmatta_c/ai-pos-bill-generator-3ih2)
+- Sat, 17 Oct 2026 11:30:00 +0000 — [Computer Vision with .NET](https://dev.to/rhuturaj_takle/computer-vision-with-net-24gg)
 - 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
+- 2026-10-17T09:12:33+00:00 — [I built an open-source CRM for Italian small-medium businesses (quotes, VAT invoices, e-invoicing) – live read-only demo](https://www.reddit.com/r/selfhosted/comments/1x85p99/i_built_an_opensource_crm_for_italian_smallmedium/)
+- 2026-10-16T21:28:56+00:00 — [Cheapest way to access Navidrome remotely without exposing my home IP?](https://www.reddit.com/r/selfhosted/comments/1x7skls/cheapest_way_to_access_navidrome_remotely_without/)
+- 2026-10-16T19:43:28+00:00 — [what would be the most confortable and less overhead aproach to deployingconstantly new sites to a server with docker-compose/swarm](https://www.reddit.com/r/selfhosted/comments/1x7py60/what_would_be_the_most_confortable_and_less/)
+- 2026-10-16T21:53:12+00:00 — [Is this a bad idea? Home assistant Nabu linked on a personal subdomain, with local network access through home assistant' Firefox integration?](https://www.reddit.com/r/selfhosted/comments/1x7t4vf/is_this_a_bad_idea_home_assistant_nabu_linked_on/)
+- 2026-10-16T14:39:40+00:00 — [BetterStatusPage: self-hosted monitoring + status page in one container (SQLite, OIDC SSO, YAML config)](https://www.reddit.com/r/selfhosted/comments/1x7i007/betterstatuspage_selfhosted_monitoring_status/)
+- 2026-10-16T12:07:47+00:00 — [Getting started](https://www.reddit.com/r/selfhosted/comments/1x7egfl/getting_started/)
+- 2026-10-17T09:27:36+00:00 — [LiftTrace v1.4.0 released: a Wear OS app, offline mode, coaching with set videos, and more](https://www.reddit.com/r/selfhosted/comments/1x85xj3/lifttrace_v140_released_a_wear_os_app_offline/)
 - 2026-10-15T20:47:26+00:00 — [Do you not patch your docker images against CVEs?](https://www.reddit.com/r/selfhosted/comments/1x6x5c0/do_you_not_patch_your_docker_images_against_cves/)
+- 2026-10-16T13:35:15+00:00 — [Spliit Cloud now imports Tricount and Settle Up — self-hosted expense sharing without starting over](https://www.reddit.com/r/selfhosted/comments/1x7gehc/spliit_cloud_now_imports_tricount_and_settle_up/)
+- 2026-10-17T06:15:41+00:00 — [Once i just wanted to redesign an open-source URL shortener, but somehow ended up building an entire platform](https://www.reddit.com/r/selfhosted/comments/1x82uaa/once_i_just_wanted_to_redesign_an_opensource_url/)
+- Fri, 16 Oct 2026 12:36:53 +0000 — [10 Production AI Prompts That 10x My Coding Speed as a Full-Stack Engineer](https://dev.to/johnapollos/10-production-ai-prompts-that-10x-my-coding-speed-as-a-full-stack-engineer-2bl9)
 - 2026-10-15T15:06:40+00:00 — [Kuvasz Uptime 4.5.0 is out, the biggest release in a while](https://www.reddit.com/r/selfhosted/comments/1x6o5dn/kuvasz_uptime_450_is_out_the_biggest_release_in_a/)
 - 2026-10-15T13:33:04+00:00 — [GPT-Load: a self-hosted AI gateway with reversible text redaction](https://www.reddit.com/r/selfhosted/comments/1x6lrll/gptload_a_selfhosted_ai_gateway_with_reversible/)
 - 2026-10-15T19:43:55+00:00 — [ScreenTinker v3.0 - open-source digital signage, now with a guided setup, content requests and screen share](https://www.reddit.com/r/selfhosted/comments/1x6viet/screentinker_v30_opensource_digital_signage_now/)
@@ -95,16 +107,4 @@ Last update: 2026-10-16 12:46 UTC
 - 2026-10-05T10:46:45+00:00 — [What are some good projects to start out?](https://www.reddit.com/r/selfhosted/comments/1wy5dh2/what_are_some_good_projects_to_start_out/)
 - 2026-10-05T22:06:49+00:00 — [Ugreen NAS Security & Backup Options](https://www.reddit.com/r/selfhosted/comments/1wylrn9/ugreen_nas_security_backup_options/)
 - Mon, 05 Oct 2026 16:28:06 +0000 — [Game of Prompts](https://dev.to/shaharyar_hafeez/game-of-prompts-91h)
-- 2026-10-05T15:00:04+00:00 — [Tired of explaining configs to non-tech users, so I built a custom client generator for self-hosted Remnawave panels [Demo]](https://www.reddit.com/r/selfhosted/comments/1wyarih/tired_of_explaining_configs_to_nontech_users_so_i/)
-- 2026-10-05T06:56:34+00:00 — [Wireguard - Bare metal Vs Docker](https://www.reddit.com/r/selfhosted/comments/1wy1unr/wireguard_bare_metal_vs_docker/)
-- 2026-10-05T11:16:14+00:00 — [tududi 1.7.0: Web Push notifications, skipping a recurring occurrence, linked notes, Postgres support and a security fix](https://www.reddit.com/r/selfhosted/comments/1wy5w62/tududi_170_web_push_notifications_skipping_a/)
-- 2026-10-04T19:34:02+00:00 — [Need guidance migrating to a new minipc server](https://www.reddit.com/r/selfhosted/comments/1wxoeg0/need_guidance_migrating_to_a_new_minipc_server/)
-- 2026-10-04T04:03:57+00:00 — [PSA: Critical Docker Hub Vulnerability and Remediation](https://www.reddit.com/r/selfhosted/comments/1wx678u/psa_critical_docker_hub_vulnerability_and/)
-- 2026-10-05T15:20:00+00:00 — [GlacierVault- UI and orchestrator for dirt cheap Glacier tier S3 backups](https://www.reddit.com/r/selfhosted/comments/1wyba1r/glaciervault_ui_and_orchestrator_for_dirt_cheap/)
-- 2026-10-04T18:32:10+00:00 — [Sharing my journey as a self hosted](https://www.reddit.com/r/selfhosted/comments/1wxmvcv/sharing_my_journey_as_a_self_hosted/)
-- Sun, 04 Oct 2026 13:29:22 +0000 — [Organize Me - Turning Student Chaos into a Plan with Gemma](https://dev.to/bishtmayank205/organize-me-turning-student-chaos-into-a-plan-with-gemma-50o5)
-- Sun, 04 Oct 2026 13:28:19 +0000 — [The Architecture of a Zero-Backend Website: How I Run 18 Tools With No Server Code](https://dev.to/mou1z/the-architecture-of-a-zero-backend-website-how-i-run-18-tools-with-no-server-code-5djo)
-- 2026-10-03T11:38:24+00:00 — [Dockhand changed its license model: Instead of going Apache 2.0 on January 1, 2029, each version gets converted to Apache 2.0 *four* years after release. Aditionally, a business now requires a commercial license.](https://www.reddit.com/r/selfhosted/comments/1wwl40o/dockhand_changed_its_license_model_instead_of/)
-- 2026-10-03T11:47:36+00:00 — [CookTrace v1.4.0 released: self-hosted recipes, pantry and shopping list, now offline and on your watch](https://www.reddit.com/r/selfhosted/comments/1wwl9qm/cooktrace_v140_released_selfhosted_recipes_pantry/)
-- 2026-10-03T19:17:53+00:00 — [Delivr: A Modern Open Source Mail Client that actually works](https://www.reddit.com/r/selfhosted/comments/1wwvh4k/delivr_a_modern_open_source_mail_client_that/)
 <!-- NEWS END -->
