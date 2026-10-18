@@ -2,15 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-17 11:47 UTC
+Last update: 2026-10-18 12:12 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 18 Oct 2026 12:01:37 +0000 — [SneakPeek: the Claude Code bug that lived in the preview, not the agent](https://dev.to/urion/sneakpeek-the-claude-code-bug-that-lived-in-the-preview-not-the-agent-15bm)
+- Sun, 18 Oct 2026 12:01:22 +0000 — [Everything You Need to Know About Agents](https://dev.to/mynameis0d3c53a3/everything-you-need-to-know-about-agents-1f74)
+- Sun, 18 Oct 2026 11:58:37 +0000 — [Introduction to Docker Compose: one file, one command](https://dev.to/fj_palacios/introduction-to-docker-compose-one-file-one-command-1jpo)
+- 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
+- 2026-10-18T10:45:47+00:00 — [Exactly one year ago, I shared AltSendme here. Your encouragement helped me take it from 50 to almost 10,000 GitHub stars. Here's what's new.](https://www.reddit.com/r/selfhosted/comments/1x906fd/exactly_one_year_ago_i_shared_altsendme_here_your/)
+- 2026-10-18T00:36:04+00:00 — [Best Docker management tool?](https://www.reddit.com/r/selfhosted/comments/1x8ppmr/best_docker_management_tool/)
+- 2026-10-18T11:08:51+00:00 — [Good Bye SaaS - Hello Home Lab](https://www.reddit.com/r/selfhosted/comments/1x90ktl/good_bye_saas_hello_home_lab/)
+- 2026-10-17T18:50:17+00:00 — [What's the safest way to expose self-hosted apps to the internet?](https://www.reddit.com/r/selfhosted/comments/1x8i002/whats_the_safest_way_to_expose_selfhosted_apps_to/)
+- 2026-10-17T13:00:47+00:00 — [Moving from Komodo: Do Dockhand or Arcane Support Two-Way Git deployment for Docker Stacks?](https://www.reddit.com/r/selfhosted/comments/1x89ouq/moving_from_komodo_do_dockhand_or_arcane_support/)
+- 2026-10-18T02:43:53+00:00 — [I am new to self hosting and just want to know whats out there for me to discover](https://www.reddit.com/r/selfhosted/comments/1x8s59l/i_am_new_to_self_hosting_and_just_want_to_know/)
 - Sat, 17 Oct 2026 11:31:59 +0000 — [Overcoming Lack of Direct DevOps Experience: Strategies for Securing a First DevOps Role](https://dev.to/maricode/overcoming-lack-of-direct-devops-experience-strategies-for-securing-a-first-devops-role-95m)
 - Sat, 17 Oct 2026 11:30:03 +0000 — [ai-pos-bill-generator](https://dev.to/john_gnanprakashmatta_c/ai-pos-bill-generator-3ih2)
 - Sat, 17 Oct 2026 11:30:00 +0000 — [Computer Vision with .NET](https://dev.to/rhuturaj_takle/computer-vision-with-net-24gg)
-- 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
 - 2026-10-17T09:12:33+00:00 — [I built an open-source CRM for Italian small-medium businesses (quotes, VAT invoices, e-invoicing) – live read-only demo](https://www.reddit.com/r/selfhosted/comments/1x85p99/i_built_an_opensource_crm_for_italian_smallmedium/)
 - 2026-10-16T21:28:56+00:00 — [Cheapest way to access Navidrome remotely without exposing my home IP?](https://www.reddit.com/r/selfhosted/comments/1x7skls/cheapest_way_to_access_navidrome_remotely_without/)
 - 2026-10-16T19:43:28+00:00 — [what would be the most confortable and less overhead aproach to deployingconstantly new sites to a server with docker-compose/swarm](https://www.reddit.com/r/selfhosted/comments/1x7py60/what_would_be_the_most_confortable_and_less/)
@@ -98,13 +107,4 @@ Last update: 2026-10-17 11:47 UTC
 - 2026-10-06T17:24:35+00:00 — [ScreenTinker v2.4 - open-source digital signage, now with one-click updates and HQ/store playlist control](https://www.reddit.com/r/selfhosted/comments/1wz8je1/screentinker_v24_opensource_digital_signage_now/)
 - Tue, 06 Oct 2026 14:20:53 +0000 — [How Much Does a RAG Chatbot Cost to Run?](https://dev.to/dharanidharan_d_tech/how-much-does-a-rag-chatbot-cost-to-run-27al)
 - 2026-10-06T10:38:19+00:00 — [Sanity-check my setup, please](https://www.reddit.com/r/selfhosted/comments/1wyz9ye/sanitycheck_my_setup_please/)
-- 2026-10-05T20:49:25+00:00 — [Anyone considering just moving to wireguard access instead of reverse proxy?](https://www.reddit.com/r/selfhosted/comments/1wyjvsk/anyone_considering_just_moving_to_wireguard/)
-- 2026-10-06T12:24:48+00:00 — [Borg UI update: file history, restore checks, and guided backups for self-hosted apps](https://www.reddit.com/r/selfhosted/comments/1wz18di/borg_ui_update_file_history_restore_checks_and/)
-- 2026-10-06T14:09:55+00:00 — [Unable to expose my homelab service to the Internet over IPv6](https://www.reddit.com/r/selfhosted/comments/1wz3lal/unable_to_expose_my_homelab_service_to_the/)
-- 2026-10-06T02:58:10+00:00 — [Komodo 2.3.3 on Debian 12 failing to update](https://www.reddit.com/r/selfhosted/comments/1wyrtoo/komodo_233_on_debian_12_failing_to_update/)
-- 2026-10-06T00:50:36+00:00 — [cronstable: a feature-rich job scheduler with web, terminal, and native iOS dashboards](https://www.reddit.com/r/selfhosted/comments/1wypb1z/cronstable_a_featurerich_job_scheduler_with_web/)
-- 2026-10-06T12:21:52+00:00 — [We’ve built a self-hosted team workspace that keeps chat, forum and kanban on one Windows or Linux server](https://www.reddit.com/r/selfhosted/comments/1wz16al/weve_built_a_selfhosted_team_workspace_that_keeps/)
-- 2026-10-05T10:46:45+00:00 — [What are some good projects to start out?](https://www.reddit.com/r/selfhosted/comments/1wy5dh2/what_are_some_good_projects_to_start_out/)
-- 2026-10-05T22:06:49+00:00 — [Ugreen NAS Security & Backup Options](https://www.reddit.com/r/selfhosted/comments/1wylrn9/ugreen_nas_security_backup_options/)
-- Mon, 05 Oct 2026 16:28:06 +0000 — [Game of Prompts](https://dev.to/shaharyar_hafeez/game-of-prompts-91h)
 <!-- NEWS END -->
