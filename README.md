@@ -2,18 +2,27 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-18 12:12 UTC
+Last update: 2026-10-19 15:03 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 19 Oct 2026 15:00:14 +0000 — [Postiz Self Host Bluesky Python Client](https://dev.to/apexgridtech/postiz-self-host-bluesky-python-client-32gn)
+- 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
+- 2026-10-19T08:10:31+00:00 — [My €1,000 used-hardware rack runs my home services, production apps and local inference](https://www.reddit.com/r/selfhosted/comments/1x9r11n/my_1000_usedhardware_rack_runs_my_home_services/)
+- 2026-10-18T18:05:03+00:00 — [Doska: open source self-hosted kanban with Markdown cards (Trello alternative with an Obsidian concept)](https://www.reddit.com/r/selfhosted/comments/1x99we1/doska_open_source_selfhosted_kanban_with_markdown/)
+- 2026-10-18T19:18:26+00:00 — [What do you use to get notified about outdated Docker containers (Docker Compose setup)?](https://www.reddit.com/r/selfhosted/comments/1x9br0p/what_do_you_use_to_get_notified_about_outdated/)
+- 2026-10-18T10:45:47+00:00 — [Exactly one year ago, I shared AltSendme here. Your encouragement helped me take it from 50 to almost 10,000 GitHub stars. Here's what's new.](https://www.reddit.com/r/selfhosted/comments/1x906fd/exactly_one_year_ago_i_shared_altsendme_here_your/)
+- 2026-10-19T14:40:25+00:00 — [I got tired of SaaS vendor lock-in for AI web apps, so I built an open-core Agent Management System (v3.0.8 MIT) with Full-Duplex Git<=>DB sync and zero-downtime updates](https://www.reddit.com/r/selfhosted/comments/1x9yp3w/i_got_tired_of_saas_vendor_lockin_for_ai_web_apps/)
+- 2026-10-18T14:13:48+00:00 — [Setting up my own family cloud drive for the first time - Nextcloud or Opencloud?](https://www.reddit.com/r/selfhosted/comments/1x948yr/setting_up_my_own_family_cloud_drive_for_the/)
+- 2026-10-19T00:09:35+00:00 — [Steam Headless docker and split gpus, would love to discuss successes and failures..](https://www.reddit.com/r/selfhosted/comments/1x9ifid/steam_headless_docker_and_split_gpus_would_love/)
+- 2026-10-18T11:08:51+00:00 — [Good Bye SaaS - Hello Home Lab](https://www.reddit.com/r/selfhosted/comments/1x90ktl/good_bye_saas_hello_home_lab/)
+- 2026-10-19T07:25:43+00:00 — [arrstack help](https://www.reddit.com/r/selfhosted/comments/1x9qbz8/arrstack_help/)
+- 2026-10-19T13:48:34+00:00 — [OneMemory – self-hosted shared memory for all your AI agents (Docker one-liner)](https://www.reddit.com/r/selfhosted/comments/1x9xdor/onememory_selfhosted_shared_memory_for_all_your/)
 - Sun, 18 Oct 2026 12:01:37 +0000 — [SneakPeek: the Claude Code bug that lived in the preview, not the agent](https://dev.to/urion/sneakpeek-the-claude-code-bug-that-lived-in-the-preview-not-the-agent-15bm)
 - Sun, 18 Oct 2026 12:01:22 +0000 — [Everything You Need to Know About Agents](https://dev.to/mynameis0d3c53a3/everything-you-need-to-know-about-agents-1f74)
 - Sun, 18 Oct 2026 11:58:37 +0000 — [Introduction to Docker Compose: one file, one command](https://dev.to/fj_palacios/introduction-to-docker-compose-one-file-one-command-1jpo)
-- 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
-- 2026-10-18T10:45:47+00:00 — [Exactly one year ago, I shared AltSendme here. Your encouragement helped me take it from 50 to almost 10,000 GitHub stars. Here's what's new.](https://www.reddit.com/r/selfhosted/comments/1x906fd/exactly_one_year_ago_i_shared_altsendme_here_your/)
 - 2026-10-18T00:36:04+00:00 — [Best Docker management tool?](https://www.reddit.com/r/selfhosted/comments/1x8ppmr/best_docker_management_tool/)
-- 2026-10-18T11:08:51+00:00 — [Good Bye SaaS - Hello Home Lab](https://www.reddit.com/r/selfhosted/comments/1x90ktl/good_bye_saas_hello_home_lab/)
 - 2026-10-17T18:50:17+00:00 — [What's the safest way to expose self-hosted apps to the internet?](https://www.reddit.com/r/selfhosted/comments/1x8i002/whats_the_safest_way_to_expose_selfhosted_apps_to/)
 - 2026-10-17T13:00:47+00:00 — [Moving from Komodo: Do Dockhand or Arcane Support Two-Way Git deployment for Docker Stacks?](https://www.reddit.com/r/selfhosted/comments/1x89ouq/moving_from_komodo_do_dockhand_or_arcane_support/)
 - 2026-10-18T02:43:53+00:00 — [I am new to self hosting and just want to know whats out there for me to discover](https://www.reddit.com/r/selfhosted/comments/1x8s59l/i_am_new_to_self_hosting_and_just_want_to_know/)
@@ -98,13 +107,4 @@ Last update: 2026-10-18 12:12 UTC
 - 2026-10-07T11:07:57+00:00 — [SilverBullet deserves a look if you want a self-hosted alternative to Obsidian](https://www.reddit.com/r/selfhosted/comments/1wztosy/silverbullet_deserves_a_look_if_you_want_a/)
 - 2026-10-08T07:07:32+00:00 — [A fixed public URL for a service behind CGNAT, with just ssh + systemd](https://www.reddit.com/r/selfhosted/comments/1x0kb3r/a_fixed_public_url_for_a_service_behind_cgnat/)
 - Wed, 07 Oct 2026 14:32:52 +0000 — [What can this pod actually do? Where I start with EKS security](https://dev.to/geovane_oliveira/what-can-this-pod-actually-do-where-i-start-with-eks-security-pj0)
-- 2026-10-07T00:28:33+00:00 — [Quartermaster: a client only app for running your self hosted stack from iPhone, iPad and Mac (60+ services, no account, no backend)](https://www.reddit.com/r/selfhosted/comments/1wzisoy/quartermaster_a_client_only_app_for_running_your/)
-- 2026-10-07T07:50:44+00:00 — [altero, the self-hosted Zotero sync server, is now in beta](https://www.reddit.com/r/selfhosted/comments/1wzqmci/altero_the_selfhosted_zotero_sync_server_is_now/)
-- 2026-10-06T19:36:28+00:00 — [Holm – a self-hosted start page for the whole household/org, with SSO and Raycast-style search inside your apps](https://www.reddit.com/r/selfhosted/comments/1wzc0g2/holm_a_selfhosted_start_page_for_the_whole/)
-- 2026-10-07T11:20:23+00:00 — [Reverse Proxy and Cloudflare](https://www.reddit.com/r/selfhosted/comments/1wztwuf/reverse_proxy_and_cloudflare/)
-- 2026-10-07T14:07:30+00:00 — [Updating FreshRSS Without Losing Everything?](https://www.reddit.com/r/selfhosted/comments/1wzxh86/updating_freshrss_without_losing_everything/)
-- 2026-10-07T08:18:41+00:00 — [Would love some suggestions on the stack I run and what I can tinker further](https://www.reddit.com/r/selfhosted/comments/1wzr18b/would_love_some_suggestions_on_the_stack_i_run/)
-- 2026-10-06T17:24:35+00:00 — [ScreenTinker v2.4 - open-source digital signage, now with one-click updates and HQ/store playlist control](https://www.reddit.com/r/selfhosted/comments/1wz8je1/screentinker_v24_opensource_digital_signage_now/)
-- Tue, 06 Oct 2026 14:20:53 +0000 — [How Much Does a RAG Chatbot Cost to Run?](https://dev.to/dharanidharan_d_tech/how-much-does-a-rag-chatbot-cost-to-run-27al)
-- 2026-10-06T10:38:19+00:00 — [Sanity-check my setup, please](https://www.reddit.com/r/selfhosted/comments/1wyz9ye/sanitycheck_my_setup_please/)
 <!-- NEWS END -->
