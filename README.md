@@ -2,16 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-19 15:03 UTC
+Last update: 2026-10-20 13:05 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Mon, 19 Oct 2026 15:00:14 +0000 — [Postiz Self Host Bluesky Python Client](https://dev.to/apexgridtech/postiz-self-host-bluesky-python-client-32gn)
 - 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
+- 2026-10-19T20:28:59+00:00 — [OpenMW-Web 1.6.2: self-hosted Morrowind in the browser, with an admin dashboard and multiplayer in alpha](https://www.reddit.com/r/selfhosted/comments/1xa8452/openmwweb_162_selfhosted_morrowind_in_the_browser/)
+- 2026-10-20T09:54:49+00:00 — [BYOT self-hosted tool that runs your existing tests as production monitors (MIT)](https://www.reddit.com/r/selfhosted/comments/1xanycr/byot_selfhosted_tool_that_runs_your_existing/)
 - 2026-10-19T08:10:31+00:00 — [My €1,000 used-hardware rack runs my home services, production apps and local inference](https://www.reddit.com/r/selfhosted/comments/1x9r11n/my_1000_usedhardware_rack_runs_my_home_services/)
+- 2026-10-19T20:03:21+00:00 — [Best practices and practical solutions for backups?](https://www.reddit.com/r/selfhosted/comments/1xa7fl7/best_practices_and_practical_solutions_for_backups/)
+- 2026-10-20T05:21:11+00:00 — [I made a self-hosted Discord music bot for my friends' server. Looking for feedback before I take it further](https://www.reddit.com/r/selfhosted/comments/1xajlcw/i_made_a_selfhosted_discord_music_bot_for_my/)
+- 2026-10-20T07:14:15+00:00 — [ByteChef: open-source workflow automation platform (1k+ GitHub stars, 150+ forks)](https://www.reddit.com/r/selfhosted/comments/1xalgp5/bytechef_opensource_workflow_automation_platform/)
 - 2026-10-18T18:05:03+00:00 — [Doska: open source self-hosted kanban with Markdown cards (Trello alternative with an Obsidian concept)](https://www.reddit.com/r/selfhosted/comments/1x99we1/doska_open_source_selfhosted_kanban_with_markdown/)
 - 2026-10-18T19:18:26+00:00 — [What do you use to get notified about outdated Docker containers (Docker Compose setup)?](https://www.reddit.com/r/selfhosted/comments/1x9br0p/what_do_you_use_to_get_notified_about_outdated/)
+- Mon, 19 Oct 2026 15:00:14 +0000 — [Postiz Self Host Bluesky Python Client](https://dev.to/apexgridtech/postiz-self-host-bluesky-python-client-32gn)
 - 2026-10-18T10:45:47+00:00 — [Exactly one year ago, I shared AltSendme here. Your encouragement helped me take it from 50 to almost 10,000 GitHub stars. Here's what's new.](https://www.reddit.com/r/selfhosted/comments/1x906fd/exactly_one_year_ago_i_shared_altsendme_here_your/)
 - 2026-10-19T14:40:25+00:00 — [I got tired of SaaS vendor lock-in for AI web apps, so I built an open-core Agent Management System (v3.0.8 MIT) with Full-Duplex Git<=>DB sync and zero-downtime updates](https://www.reddit.com/r/selfhosted/comments/1x9yp3w/i_got_tired_of_saas_vendor_lockin_for_ai_web_apps/)
 - 2026-10-18T14:13:48+00:00 — [Setting up my own family cloud drive for the first time - Nextcloud or Opencloud?](https://www.reddit.com/r/selfhosted/comments/1x948yr/setting_up_my_own_family_cloud_drive_for_the/)
@@ -102,9 +107,4 @@ Last update: 2026-10-19 15:03 UTC
 - Thu, 08 Oct 2026 14:53:26 +0000 — [5 Common Mistakes Beginners Make When Learning DevOps](https://dev.to/itbasesolutions/5-common-mistakes-beginners-make-when-learning-devops-1970)
 - 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
 - 2026-10-08T07:08:19+00:00 — [Is there a free to self host app like Photopea?](https://www.reddit.com/r/selfhosted/comments/1x0kbid/is_there_a_free_to_self_host_app_like_photopea/)
-- 2026-10-07T20:32:11+00:00 — [Scared of port forwarding.](https://www.reddit.com/r/selfhosted/comments/1x07g2i/scared_of_port_forwarding/)
-- 2026-10-07T04:32:37+00:00 — [What I run - Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wzngic/what_i_run_oct_2026/)
-- 2026-10-07T11:07:57+00:00 — [SilverBullet deserves a look if you want a self-hosted alternative to Obsidian](https://www.reddit.com/r/selfhosted/comments/1wztosy/silverbullet_deserves_a_look_if_you_want_a/)
-- 2026-10-08T07:07:32+00:00 — [A fixed public URL for a service behind CGNAT, with just ssh + systemd](https://www.reddit.com/r/selfhosted/comments/1x0kb3r/a_fixed_public_url_for_a_service_behind_cgnat/)
-- Wed, 07 Oct 2026 14:32:52 +0000 — [What can this pod actually do? Where I start with EKS security](https://dev.to/geovane_oliveira/what-can-this-pod-actually-do-where-i-start-with-eks-security-pj0)
 <!-- NEWS END -->
