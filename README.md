@@ -2,13 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-20 13:05 UTC
+Last update: 2026-10-21 13:16 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 21 Oct 2026 13:06:14 +0000 — [SlothLog: Why I Built an Offline, AI-Powered Timesheet Generator for Lazy Developers](https://dev.to/alessio_bianchini/slothlog-why-i-built-an-offline-ai-powered-timesheet-generator-for-lazy-developers-2mak)
+- Wed, 21 Oct 2026 13:05:09 +0000 — [Managed PostgreSQL for Kubernetes apps | Kupe Cloud](https://dev.to/kupecloud/managed-postgresql-for-kubernetes-apps-kupe-cloud-2165)
 - 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
+- 2026-10-20T14:55:55+00:00 — [Leaked SSL Certificates: no https connection can be trusted](https://www.reddit.com/r/selfhosted/comments/1xaubjf/leaked_ssl_certificates_no_https_connection_can/)
+- 2026-10-21T09:09:45+00:00 — [How do you handle access to docker socket?](https://www.reddit.com/r/selfhosted/comments/1xbi7mb/how_do_you_handle_access_to_docker_socket/)
+- 2026-10-21T08:11:17+00:00 — [Ka-Ching! v3.4 – self-hosted tracker for what your collecting costs (comics, cards, figures, vinyl…)](https://www.reddit.com/r/selfhosted/comments/1xbhafq/kaching_v34_selfhosted_tracker_for_what_your/)
 - 2026-10-19T20:28:59+00:00 — [OpenMW-Web 1.6.2: self-hosted Morrowind in the browser, with an admin dashboard and multiplayer in alpha](https://www.reddit.com/r/selfhosted/comments/1xa8452/openmwweb_162_selfhosted_morrowind_in_the_browser/)
+- 2026-10-21T08:37:31+00:00 — [MVault: a self-hosted music video manager/downloader (Docker, works with Jellyfin/Kodi/Emby/Plex) - WIP](https://www.reddit.com/r/selfhosted/comments/1xbhp2m/mvault_a_selfhosted_music_video_managerdownloader/)
 - 2026-10-20T09:54:49+00:00 — [BYOT self-hosted tool that runs your existing tests as production monitors (MIT)](https://www.reddit.com/r/selfhosted/comments/1xanycr/byot_selfhosted_tool_that_runs_your_existing/)
 - 2026-10-19T08:10:31+00:00 — [My €1,000 used-hardware rack runs my home services, production apps and local inference](https://www.reddit.com/r/selfhosted/comments/1x9r11n/my_1000_usedhardware_rack_runs_my_home_services/)
 - 2026-10-19T20:03:21+00:00 — [Best practices and practical solutions for backups?](https://www.reddit.com/r/selfhosted/comments/1xa7fl7/best_practices_and_practical_solutions_for_backups/)
@@ -101,10 +107,4 @@ Last update: 2026-10-20 13:05 UTC
 - 2026-10-09T13:04:30+00:00 — [Expose a local TCP/UDP service to exactly one peer, no port forwarding, access expires automatically (open source, Rust)](https://www.reddit.com/r/selfhosted/comments/1x1ku1f/expose_a_local_tcpudp_service_to_exactly_one_peer/)
 - 2026-10-09T04:36:12+00:00 — [How do you handle stuck imports in Sonarr/Radarr without constantly checking them?](https://www.reddit.com/r/selfhosted/comments/1x1c51z/how_do_you_handle_stuck_imports_in_sonarrradarr/)
 - 2026-10-08T18:48:27+00:00 — [Free Mobile Ways To Get Started](https://www.reddit.com/r/selfhosted/comments/1x0z7d2/free_mobile_ways_to_get_started/)
-- 2026-10-08T14:55:02+00:00 — [Tailscale Reliability and Alternatives? Should I Switch?](https://www.reddit.com/r/selfhosted/comments/1x0t1yq/tailscale_reliability_and_alternatives_should_i/)
-- 2026-10-08T20:59:57+00:00 — [Multi user backup](https://www.reddit.com/r/selfhosted/comments/1x12nag/multi_user_backup/)
-- Wed, 07 Oct 2026 17:48:38 +0000 — [Docker Agent](https://github.com/docker/docker-agent)
-- Thu, 08 Oct 2026 14:53:26 +0000 — [5 Common Mistakes Beginners Make When Learning DevOps](https://dev.to/itbasesolutions/5-common-mistakes-beginners-make-when-learning-devops-1970)
-- 2026-10-01T22:01:03+00:00 — [New Project Megathread - Week of 01 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1wvclw4/new_project_megathread_week_of_01_oct_2026/)
-- 2026-10-08T07:08:19+00:00 — [Is there a free to self host app like Photopea?](https://www.reddit.com/r/selfhosted/comments/1x0kbid/is_there_a_free_to_self_host_app_like_photopea/)
 <!-- NEWS END -->
