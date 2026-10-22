@@ -2,14 +2,20 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-21 13:16 UTC
+Last update: 2026-10-22 13:14 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 22 Oct 2026 13:02:49 +0000 — [kubectl Troubleshooting & Daily Commands Cheat Sheet](https://dev.to/vladguran/kubectl-troubleshooting-daily-commands-cheat-sheet-3597)
+- 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
+- 2026-10-21T17:47:58+00:00 — [Heads up if you self-host LiteLLM: the 1.107.0 Docker image (and the latest/main-latest/main-stable tags) shipped a credential stealer](https://www.reddit.com/r/selfhosted/comments/1xbu3qr/heads_up_if_you_selfhost_litellm_the_11070_docker/)
+- 2026-10-22T12:24:14+00:00 — [Cheap VPS for Pangolin. Which hardware and is it safe to use it also for other purposes ?](https://www.reddit.com/r/selfhosted/comments/1xch4db/cheap_vps_for_pangolin_which_hardware_and_is_it/)
+- 2026-10-21T14:50:11+00:00 — [Portabase (OSS backup/restore platform) now supports file and directory backups](https://www.reddit.com/r/selfhosted/comments/1xbp8ua/portabase_oss_backuprestore_platform_now_supports/)
+- 2026-10-22T00:29:06+00:00 — [Arcane: Why so many images?!?](https://www.reddit.com/r/selfhosted/comments/1xc45n8/arcane_why_so_many_images/)
+- 2026-10-22T10:09:02+00:00 — [UGREEN UGOS: Tailscale 1.104+ (Go 1.27) crashes at start because UGOS exports GODEBUG=tlskyber=0 to every service — plus broken apt and a hidden policy-rc.d](https://www.reddit.com/r/selfhosted/comments/1xcejsq/ugreen_ugos_tailscale_1104_go_127_crashes_at/)
 - Wed, 21 Oct 2026 13:06:14 +0000 — [SlothLog: Why I Built an Offline, AI-Powered Timesheet Generator for Lazy Developers](https://dev.to/alessio_bianchini/slothlog-why-i-built-an-offline-ai-powered-timesheet-generator-for-lazy-developers-2mak)
 - Wed, 21 Oct 2026 13:05:09 +0000 — [Managed PostgreSQL for Kubernetes apps | Kupe Cloud](https://dev.to/kupecloud/managed-postgresql-for-kubernetes-apps-kupe-cloud-2165)
-- 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
 - 2026-10-20T14:55:55+00:00 — [Leaked SSL Certificates: no https connection can be trusted](https://www.reddit.com/r/selfhosted/comments/1xaubjf/leaked_ssl_certificates_no_https_connection_can/)
 - 2026-10-21T09:09:45+00:00 — [How do you handle access to docker socket?](https://www.reddit.com/r/selfhosted/comments/1xbi7mb/how_do_you_handle_access_to_docker_socket/)
 - 2026-10-21T08:11:17+00:00 — [Ka-Ching! v3.4 – self-hosted tracker for what your collecting costs (comics, cards, figures, vinyl…)](https://www.reddit.com/r/selfhosted/comments/1xbhafq/kaching_v34_selfhosted_tracker_for_what_your/)
@@ -101,10 +107,4 @@ Last update: 2026-10-21 13:16 UTC
 - 2026-10-10T06:07:54+00:00 — [Bandstand: chord charts, setlists and rehearsal scheduling for bands (Docker, AGPL)](https://www.reddit.com/r/selfhosted/comments/1x27r5a/bandstand_chord_charts_setlists_and_rehearsal/)
 - 2026-10-09T20:54:56+00:00 — [Building a self-hosted “boat management system” Baserow or something else? Looking for an architecture sanity check.](https://www.reddit.com/r/selfhosted/comments/1x1wqxh/building_a_selfhosted_boat_management_system/)
 - 2026-10-09T08:32:30+00:00 — [Joulenap: keeps a Proxmox backup server powered off and wakes it only for the backups (open source)](https://www.reddit.com/r/selfhosted/comments/1x1fysd/joulenap_keeps_a_proxmox_backup_server_powered/)
-- 2026-10-09T12:01:07+00:00 — [service ingress/egress control - easier options?](https://www.reddit.com/r/selfhosted/comments/1x1jijm/service_ingressegress_control_easier_options/)
-- 2026-10-09T11:37:47+00:00 — [Self Hostable Route53 Alternative](https://www.reddit.com/r/selfhosted/comments/1x1j28s/self_hostable_route53_alternative/)
-- 2026-10-09T13:40:56+00:00 — [Started self-hosting bootstrapped projects on Mac Mini (and moved away from AWS)](https://www.reddit.com/r/selfhosted/comments/1x1lo1s/started_selfhosting_bootstrapped_projects_on_mac/)
-- 2026-10-09T13:04:30+00:00 — [Expose a local TCP/UDP service to exactly one peer, no port forwarding, access expires automatically (open source, Rust)](https://www.reddit.com/r/selfhosted/comments/1x1ku1f/expose_a_local_tcpudp_service_to_exactly_one_peer/)
-- 2026-10-09T04:36:12+00:00 — [How do you handle stuck imports in Sonarr/Radarr without constantly checking them?](https://www.reddit.com/r/selfhosted/comments/1x1c51z/how_do_you_handle_stuck_imports_in_sonarrradarr/)
-- 2026-10-08T18:48:27+00:00 — [Free Mobile Ways To Get Started](https://www.reddit.com/r/selfhosted/comments/1x0z7d2/free_mobile_ways_to_get_started/)
 <!-- NEWS END -->
