@@ -2,15 +2,27 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-22 13:14 UTC
+Last update: 2026-10-23 12:54 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Thu, 22 Oct 2026 13:02:49 +0000 — [kubectl Troubleshooting & Daily Commands Cheat Sheet](https://dev.to/vladguran/kubectl-troubleshooting-daily-commands-cheat-sheet-3597)
-- 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
+- Thu, 22 Oct 2026 23:45:56 +0000 — [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- Fri, 23 Oct 2026 12:45:24 +0000 — [TaskZen AI: A Smarter Way to Handle Everyday Tasks](https://dev.to/pardeep_gir_6d77/taskzen-ai-a-smarter-way-to-handle-everyday-tasks-2m1b)
+- Fri, 23 Oct 2026 12:41:51 +0000 — [OpenHands: The 91k-Star Open-Source Devin Alternative That Runs Fully Local](https://dev.to/syed_anzar/openhands-the-91k-star-open-source-devin-alternative-that-runs-fully-local-15k7)
+- 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
+- 2026-10-22T14:53:57+00:00 — [Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)](https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/)
+- 2026-10-22T17:14:02+00:00 — [Anyone else moving their services exposed to internet in?](https://www.reddit.com/r/selfhosted/comments/1xcol4j/anyone_else_moving_their_services_exposed_to/)
+- 2026-10-23T09:13:26+00:00 — [Open-source DDoS detection and mitigation for Linux, with Prometheus metrics and Discord alerts](https://www.reddit.com/r/selfhosted/comments/1xd934v/opensource_ddos_detection_and_mitigation_for/)
+- 2026-10-22T16:56:17+00:00 — [Docker Container php2shell audit script](https://www.reddit.com/r/selfhosted/comments/1xco3g9/docker_container_php2shell_audit_script/)
+- 2026-10-22T21:07:42+00:00 — [Help: Radarr, jellyfin, Plex in NAS](https://www.reddit.com/r/selfhosted/comments/1xcuv81/help_radarr_jellyfin_plex_in_nas/)
+- 2026-10-22T14:49:13+00:00 — [GyroidVault v2.3.0 Released: Self-hosted 3D model manager now has customizable themes, OIDC SSO, NAS drive spin-down support & Creality Print integration](https://www.reddit.com/r/selfhosted/comments/1xcknfs/gyroidvault_v230_released_selfhosted_3d_model/)
+- 2026-10-22T18:51:17+00:00 — [Smart Drink Fridge: a self-hosted drink inventory with barcode scanning and Home Assistant shopping lists](https://www.reddit.com/r/selfhosted/comments/1xcr8pw/smart_drink_fridge_a_selfhosted_drink_inventory/)
+- 2026-10-22T17:31:26+00:00 — [Help me deploy Crowdsec's WAF with Traefik](https://www.reddit.com/r/selfhosted/comments/1xcp2bf/help_me_deploy_crowdsecs_waf_with_traefik/)
 - 2026-10-21T17:47:58+00:00 — [Heads up if you self-host LiteLLM: the 1.107.0 Docker image (and the latest/main-latest/main-stable tags) shipped a credential stealer](https://www.reddit.com/r/selfhosted/comments/1xbu3qr/heads_up_if_you_selfhost_litellm_the_11070_docker/)
 - 2026-10-22T12:24:14+00:00 — [Cheap VPS for Pangolin. Which hardware and is it safe to use it also for other purposes ?](https://www.reddit.com/r/selfhosted/comments/1xch4db/cheap_vps_for_pangolin_which_hardware_and_is_it/)
+- Thu, 22 Oct 2026 13:02:49 +0000 — [kubectl Troubleshooting & Daily Commands Cheat Sheet](https://dev.to/vladguran/kubectl-troubleshooting-daily-commands-cheat-sheet-3597)
+- 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
 - 2026-10-21T14:50:11+00:00 — [Portabase (OSS backup/restore platform) now supports file and directory backups](https://www.reddit.com/r/selfhosted/comments/1xbp8ua/portabase_oss_backuprestore_platform_now_supports/)
 - 2026-10-22T00:29:06+00:00 — [Arcane: Why so many images?!?](https://www.reddit.com/r/selfhosted/comments/1xc45n8/arcane_why_so_many_images/)
 - 2026-10-22T10:09:02+00:00 — [UGREEN UGOS: Tailscale 1.104+ (Go 1.27) crashes at start because UGOS exports GODEBUG=tlskyber=0 to every service — plus broken apt and a hidden policy-rc.d](https://www.reddit.com/r/selfhosted/comments/1xcejsq/ugreen_ugos_tailscale_1104_go_127_crashes_at/)
@@ -95,16 +107,4 @@ Last update: 2026-10-22 13:14 UTC
 - 2026-10-10T10:09:55+00:00 — [My first server was a free PC from school. Now I have 52 services. What did you start with ?](https://www.reddit.com/r/selfhosted/comments/1x2bna2/my_first_server_was_a_free_pc_from_school_now_i/)
 - 2026-10-11T06:18:53+00:00 — [Is my setup safe? (Caddy + docker + mTLS)](https://www.reddit.com/r/selfhosted/comments/1x30qx0/is_my_setup_safe_caddy_docker_mtls/)
 - 2026-10-11T13:16:20+00:00 — [Nextcloud on Proxmox: AIO VM, LXC, or community script. What fits my setup?](https://www.reddit.com/r/selfhosted/comments/1x37z52/nextcloud_on_proxmox_aio_vm_lxc_or_community/)
-- 2026-10-10T18:40:32+00:00 — [From Dockerhand to Komodo or Arcane? OpenBao support?](https://www.reddit.com/r/selfhosted/comments/1x2mnzt/from_dockerhand_to_komodo_or_arcane_openbao/)
-- 2026-10-10T12:16:06+00:00 — [NutriTrace v1.4.0 released: offline mode in the browser, foldable support, and more](https://www.reddit.com/r/selfhosted/comments/1x2dvj4/nutritrace_v140_released_offline_mode_in_the/)
-- 2026-10-11T04:28:19+00:00 — [tiny desktop HUD that shows docker + k8s health for whatever app you're focused on](https://www.reddit.com/r/selfhosted/comments/1x2yveu/tiny_desktop_hud_that_shows_docker_k8s_health_for/)
-- Sat, 10 Oct 2026 13:58:32 +0000 — [StrideCast](https://dev.to/krishna_bharadwaj_bd2818d/stridecast-3nj)
-- Sat, 10 Oct 2026 13:56:24 +0000 — [JobiGo — An AI Football Coach That Wants You Off the Screen](https://dev.to/rudraksh_karmakar_28/jobigo-an-ai-football-coach-that-wants-you-off-the-screen-38kn)
-- 2026-10-09T08:33:38+00:00 — [plMail: a self-hosted, Gmail like webmail client for all your Email accounts](https://www.reddit.com/r/selfhosted/comments/1x1fzg2/plmail_a_selfhosted_gmail_like_webmail_client_for/)
-- 2026-10-09T19:59:49+00:00 — [FlyBudget: a free, open-source, self-hosted budgeting app (inspired by Monarch/YNAB). First week: 28 stars, a first contributor, and a new release!](https://www.reddit.com/r/selfhosted/comments/1x1vdab/flybudget_a_free_opensource_selfhosted_budgeting/)
-- 2026-10-10T11:47:43+00:00 — [How to backup my NAS and its Containers?](https://www.reddit.com/r/selfhosted/comments/1x2dbze/how_to_backup_my_nas_and_its_containers/)
-- 2026-10-09T22:44:40+00:00 — [My browser Gaming Server setup!](https://www.reddit.com/r/selfhosted/comments/1x1za34/my_browser_gaming_server_setup/)
-- 2026-10-10T06:07:54+00:00 — [Bandstand: chord charts, setlists and rehearsal scheduling for bands (Docker, AGPL)](https://www.reddit.com/r/selfhosted/comments/1x27r5a/bandstand_chord_charts_setlists_and_rehearsal/)
-- 2026-10-09T20:54:56+00:00 — [Building a self-hosted “boat management system” Baserow or something else? Looking for an architecture sanity check.](https://www.reddit.com/r/selfhosted/comments/1x1wqxh/building_a_selfhosted_boat_management_system/)
-- 2026-10-09T08:32:30+00:00 — [Joulenap: keeps a Proxmox backup server powered off and wakes it only for the backups (open source)](https://www.reddit.com/r/selfhosted/comments/1x1fysd/joulenap_keeps_a_proxmox_backup_server_powered/)
 <!-- NEWS END -->
