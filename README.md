@@ -2,16 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-23 12:54 UTC
+Last update: 2026-10-24 12:17 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 24 Oct 2026 12:08:41 +0000 — [Signing Netlify Webhooks with HMAC and Timestamps for a Home Automation Server](https://dev.to/the_bomber_f1e42beb1feaec/signing-netlify-webhooks-with-hmac-and-timestamps-for-a-home-automation-server-58j1)
+- Sat, 24 Oct 2026 12:08:40 +0000 — [leantext: up to 99% fewer tokens when your coding agent reads the web](https://dev.to/shouvik12/leantext-up-to-99-fewer-tokens-when-your-coding-agent-reads-the-web-4gk1)
+- Sat, 24 Oct 2026 12:02:34 +0000 — [Dockerfile security mistakes companies keep making](https://dev.to/openrouting_si/dockerfile-security-mistakes-companies-keep-making-2djf)
+- 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
+- 2026-10-23T13:56:24+00:00 — [Locking down family-facing self-hosted services, how are you handling the current exploit pace?](https://www.reddit.com/r/selfhosted/comments/1xder5x/locking_down_familyfacing_selfhosted_services_how/)
+- 2026-10-24T11:21:00+00:00 — [retrieving data from restic.](https://www.reddit.com/r/selfhosted/comments/1xe63to/retrieving_data_from_restic/)
+- 2026-10-24T10:27:33+00:00 — [Hardware: what & where to buy](https://www.reddit.com/r/selfhosted/comments/1xe56tp/hardware_what_where_to_buy/)
+- 2026-10-23T16:18:23+00:00 — [Should I have a bunch of docker containers and a docker manager or a bunch of LXCs with their own docker containers?](https://www.reddit.com/r/selfhosted/comments/1xdijie/should_i_have_a_bunch_of_docker_containers_and_a/)
+- 2026-10-23T20:24:13+00:00 — [Running all my Docker services in one LXC on Proxmox. Thinking of moving to a Talos VM, thoughts?](https://www.reddit.com/r/selfhosted/comments/1xdp1c2/running_all_my_docker_services_in_one_lxc_on/)
+- 2026-10-24T08:28:18+00:00 — [Review my Jellyfin + *arr plan](https://www.reddit.com/r/selfhosted/comments/1xe39tb/review_my_jellyfin_arr_plan/)
+- 2026-10-22T14:53:57+00:00 — [Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)](https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/)
 - Thu, 22 Oct 2026 23:45:56 +0000 — [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 - Fri, 23 Oct 2026 12:45:24 +0000 — [TaskZen AI: A Smarter Way to Handle Everyday Tasks](https://dev.to/pardeep_gir_6d77/taskzen-ai-a-smarter-way-to-handle-everyday-tasks-2m1b)
 - Fri, 23 Oct 2026 12:41:51 +0000 — [OpenHands: The 91k-Star Open-Source Devin Alternative That Runs Fully Local](https://dev.to/syed_anzar/openhands-the-91k-star-open-source-devin-alternative-that-runs-fully-local-15k7)
-- 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
-- 2026-10-22T14:53:57+00:00 — [Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)](https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/)
 - 2026-10-22T17:14:02+00:00 — [Anyone else moving their services exposed to internet in?](https://www.reddit.com/r/selfhosted/comments/1xcol4j/anyone_else_moving_their_services_exposed_to/)
 - 2026-10-23T09:13:26+00:00 — [Open-source DDoS detection and mitigation for Linux, with Prometheus metrics and Discord alerts](https://www.reddit.com/r/selfhosted/comments/1xd934v/opensource_ddos_detection_and_mitigation_for/)
 - 2026-10-22T16:56:17+00:00 — [Docker Container php2shell audit script](https://www.reddit.com/r/selfhosted/comments/1xco3g9/docker_container_php2shell_audit_script/)
@@ -98,13 +107,4 @@ Last update: 2026-10-23 12:54 UTC
 - 2026-10-12T07:36:42+00:00 — [Which image for shared web hosting w/ Traefik?](https://www.reddit.com/r/selfhosted/comments/1x3vm24/which_image_for_shared_web_hosting_w_traefik/)
 - 2026-10-11T20:41:59+00:00 — [NSFW Sherlock: local image moderation over HTTP/gRPC, with a CPU Docker image](https://www.reddit.com/r/selfhosted/comments/1x3ixl7/nsfw_sherlock_local_image_moderation_over/)
 - 2026-10-12T13:55:58+00:00 — [What is your dream use-case?](https://www.reddit.com/r/selfhosted/comments/1x42j35/what_is_your_dream_usecase/)
-- 2026-10-12T02:05:44+00:00 — [thoughts on cloud photo storage](https://www.reddit.com/r/selfhosted/comments/1x3psux/thoughts_on_cloud_photo_storage/)
-- 2026-10-12T11:37:12+00:00 — [RetroGemini: self-hosted Scrum retrospectives used by around 30 teams at the State of Geneva](https://www.reddit.com/r/selfhosted/comments/1x3ziy7/retrogemini_selfhosted_scrum_retrospectives_used/)
-- 2026-10-12T05:36:17+00:00 — [Minimus alternatives that wont mean rewriting every compose file I have](https://www.reddit.com/r/selfhosted/comments/1x3tn67/minimus_alternatives_that_wont_mean_rewriting/)
-- 2026-10-12T14:01:37+00:00 — [self-hosting invoicing sounded great until my invoices stopped reaching clients](https://www.reddit.com/r/selfhosted/comments/1x42o8y/selfhosting_invoicing_sounded_great_until_my/)
-- Sun, 11 Oct 2026 14:15:03 +0000 — [Longhorn vs Rook-Ceph: Kubernetes Storage Compared](https://dev.to/hugovalters/longhorn-vs-rook-ceph-kubernetes-storage-compared-44oh)
-- Sun, 11 Oct 2026 14:14:41 +0000 — [Touch Grass Planner: A local Gemma model that picks your next 30 minutes outside](https://dev.to/swasti2004/touch-grass-planner-a-local-gemma-model-that-picks-your-next-30-minutes-outside-3mhi)
-- 2026-10-10T10:09:55+00:00 — [My first server was a free PC from school. Now I have 52 services. What did you start with ?](https://www.reddit.com/r/selfhosted/comments/1x2bna2/my_first_server_was_a_free_pc_from_school_now_i/)
-- 2026-10-11T06:18:53+00:00 — [Is my setup safe? (Caddy + docker + mTLS)](https://www.reddit.com/r/selfhosted/comments/1x30qx0/is_my_setup_safe_caddy_docker_mtls/)
-- 2026-10-11T13:16:20+00:00 — [Nextcloud on Proxmox: AIO VM, LXC, or community script. What fits my setup?](https://www.reddit.com/r/selfhosted/comments/1x37z52/nextcloud_on_proxmox_aio_vm_lxc_or_community/)
 <!-- NEWS END -->
