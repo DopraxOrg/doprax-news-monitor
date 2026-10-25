@@ -2,15 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-24 12:17 UTC
+Last update: 2026-10-25 12:48 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 25 Oct 2026 12:46:20 +0000 — [Charta | Make Folders Intelligent](https://dev.to/mirshah12/charta-make-folders-intelligent-5ck4)
+- Sun, 25 Oct 2026 12:45:32 +0000 — [PocketBase: The Open-Source Firebase Alternative That Runs in a Single Go Binary](https://dev.to/syed_anzar/pocketbase-the-open-source-firebase-alternative-that-runs-in-a-single-go-binary-5h57)
+- 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
+- 2026-10-25T11:55:09+00:00 — [TREK 5.0: the only travel app you will ever need to self-host. Plan the trip, route the hike, split the costs, print the photo book, and more](https://www.reddit.com/r/selfhosted/comments/1xf0g6j/trek_50_the_only_travel_app_you_will_ever_need_to/)
+- 2026-10-24T15:47:41+00:00 — [One year in, still extremely happy with my selfhosting journey](https://www.reddit.com/r/selfhosted/comments/1xec0wd/one_year_in_still_extremely_happy_with_my/)
+- 2026-10-24T20:41:39+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen, now at v1.5](https://www.reddit.com/r/selfhosted/comments/1xejb0k/kitchen_board_a_selfhosted_wall_planner_for_the/)
+- 2026-10-24T16:47:45+00:00 — [Is exposing services via reverse proxy still secure enough?](https://www.reddit.com/r/selfhosted/comments/1xedisk/is_exposing_services_via_reverse_proxy_still/)
+- 2026-10-25T02:42:21+00:00 — [Is self-signed cert sufficient?](https://www.reddit.com/r/selfhosted/comments/1xeqwud/is_selfsigned_cert_sufficient/)
+- 2026-10-25T10:01:41+00:00 — [Where to store databases and configs?](https://www.reddit.com/r/selfhosted/comments/1xeygfw/where_to_store_databases_and_configs/)
+- 2026-10-25T11:18:57+00:00 — [Somnaura: self-hosted Discord bot that loops your own ambient audio files (rain, white noise, sleep sounds)](https://www.reddit.com/r/selfhosted/comments/1xezsw3/somnaura_selfhosted_discord_bot_that_loops_your/)
+- 2026-10-24T12:13:48+00:00 — [What tools do you use to keep your containers up to date?](https://www.reddit.com/r/selfhosted/comments/1xe73gj/what_tools_do_you_use_to_keep_your_containers_up/)
+- 2026-10-25T10:09:42+00:00 — [are SMTP gateways good to fix email server on blacklisted IP problem](https://www.reddit.com/r/selfhosted/comments/1xeyldq/are_smtp_gateways_good_to_fix_email_server_on/)
+- 2026-10-25T09:35:13+00:00 — [NPM 403's with Filebrowser Quantam; everything else is fine, please help?](https://www.reddit.com/r/selfhosted/comments/1xey0vb/npm_403s_with_filebrowser_quantam_everything_else/)
+- 2026-10-24T16:09:11+00:00 — [JLTamp, a self-hosted music server with its own Android/iOS apps, CarPlay/Android Auto and a Subsonic API (MIT, one Docker container)](https://www.reddit.com/r/selfhosted/comments/1xeck9x/jltamp_a_selfhosted_music_server_with_its_own/)
+- 2026-10-25T00:49:04+00:00 — [How to restore containers, settings, etc.](https://www.reddit.com/r/selfhosted/comments/1xeoonv/how_to_restore_containers_settings_etc/)
+- 2026-10-25T11:16:46+00:00 — [AgentSwarms 1.6.0 – A complete source-available AI Data platform (Lakehouse + ETL + BI) built natively for multi-agent AI](https://www.reddit.com/r/selfhosted/comments/1xezri2/agentswarms_160_a_complete_sourceavailable_ai/)
 - Sat, 24 Oct 2026 12:08:41 +0000 — [Signing Netlify Webhooks with HMAC and Timestamps for a Home Automation Server](https://dev.to/the_bomber_f1e42beb1feaec/signing-netlify-webhooks-with-hmac-and-timestamps-for-a-home-automation-server-58j1)
 - Sat, 24 Oct 2026 12:08:40 +0000 — [leantext: up to 99% fewer tokens when your coding agent reads the web](https://dev.to/shouvik12/leantext-up-to-99-fewer-tokens-when-your-coding-agent-reads-the-web-4gk1)
 - Sat, 24 Oct 2026 12:02:34 +0000 — [Dockerfile security mistakes companies keep making](https://dev.to/openrouting_si/dockerfile-security-mistakes-companies-keep-making-2djf)
-- 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
 - 2026-10-23T13:56:24+00:00 — [Locking down family-facing self-hosted services, how are you handling the current exploit pace?](https://www.reddit.com/r/selfhosted/comments/1xder5x/locking_down_familyfacing_selfhosted_services_how/)
 - 2026-10-24T11:21:00+00:00 — [retrieving data from restic.](https://www.reddit.com/r/selfhosted/comments/1xe63to/retrieving_data_from_restic/)
 - 2026-10-24T10:27:33+00:00 — [Hardware: what & where to buy](https://www.reddit.com/r/selfhosted/comments/1xe56tp/hardware_what_where_to_buy/)
@@ -92,19 +107,4 @@ Last update: 2026-10-24 12:17 UTC
 - 2026-10-14T13:42:45+00:00 — [HyCanvas: a self-hosted Canva and Genspark alternative, with AI decks you can edit by hand](https://www.reddit.com/r/selfhosted/comments/1x5rkjo/hycanvas_a_selfhosted_canva_and_genspark/)
 - 2026-10-15T06:49:13+00:00 — [Self hosted ntfy notifications and deploying that server on Render Free tier: A bad or good Idea?](https://www.reddit.com/r/selfhosted/comments/1x6emx9/self_hosted_ntfy_notifications_and_deploying_that/)
 - 2026-10-14T09:25:52+00:00 — [Selfhosted inventory manager - OpenInvento](https://www.reddit.com/r/selfhosted/comments/1x5morb/selfhosted_inventory_manager_openinvento/)
-- 2026-10-14T15:54:42+00:00 — [Migrate files from nextcloud to opencloud](https://www.reddit.com/r/selfhosted/comments/1x5uxgt/migrate_files_from_nextcloud_to_opencloud/)
-- Wed, 14 Oct 2026 13:04:16 +0000 — [# LocalLead AI: Finding Business Opportunities with Open-Weight AI](https://dev.to/adityabhaskarme/-locallead-ai-finding-business-opportunities-with-open-weight-ai-4ngg)
-- 2026-10-13T11:02:14+00:00 — [Termix v26.10.1 - Plugins (official + community) self-hosted server management (SSH, remote desktop, file management, docker, host metrics, etc.)](https://www.reddit.com/r/selfhosted/comments/1x4tn0i/termix_v26101_plugins_official_community/)
-- 2026-10-14T04:00:39+00:00 — [WyrmRSS 0.27: self-hosted RSS reader, now with a mobile UI and a live demo](https://www.reddit.com/r/selfhosted/comments/1x5hi1i/wyrmrss_027_selfhosted_rss_reader_now_with_a/)
-- Tue, 13 Oct 2026 15:15:23 +0000 — [Cara Bypass Rate Limit API Secara Etis Pakai Local Proxy](https://dev.to/kielltampubolon/cara-bypass-rate-limit-api-secara-etis-pakai-local-proxy-1mk2)
-- Tue, 13 Oct 2026 15:15:22 +0000 — [Ferrite: self-hosted file storage in Laravel, Livewire and Flux UI (open source, with a live demo)](https://dev.to/zhoorta/ferrite-self-hosted-file-storage-in-laravel-livewire-and-flux-ui-open-source-with-a-live-demo-8ld)
-- Tue, 13 Oct 2026 15:14:02 +0000 — [Amnesia and déjà vu: how our AI agents failed after every restart (and how we fixed it)](https://dev.to/anis_meziani_52aab42304a8/amnesia-and-deja-vu-how-our-ai-agents-failed-after-every-restart-and-how-we-fixed-it-5c80)
-- 2026-10-13T08:58:59+00:00 — [NoteDiscovery v0.32.0 can now serve MCP itself over HTTP](https://www.reddit.com/r/selfhosted/comments/1x4rlyv/notediscovery_v0320_can_now_serve_mcp_itself_over/)
-- 2026-10-13T09:38:33+00:00 — [Arc B60 or 9060 XT 16GB for server](https://www.reddit.com/r/selfhosted/comments/1x4s82x/arc_b60_or_9060_xt_16gb_for_server/)
-- 2026-10-13T11:59:20+00:00 — [I'm thinking about switching to bitwarden cloud solution but how does it have a free plan?](https://www.reddit.com/r/selfhosted/comments/1x4uoyo/im_thinking_about_switching_to_bitwarden_cloud/)
-- Mon, 12 Oct 2026 16:54:12 +0000 — [How many tasks at once? Count the cores you are given](https://dev.to/vzn-vx/how-many-tasks-at-once-count-the-cores-you-are-given-1ial)
-- 2026-10-12T07:40:21+00:00 — [CyberSecurity Paranoia](https://www.reddit.com/r/selfhosted/comments/1x3vo2d/cybersecurity_paranoia/)
-- 2026-10-12T07:36:42+00:00 — [Which image for shared web hosting w/ Traefik?](https://www.reddit.com/r/selfhosted/comments/1x3vm24/which_image_for_shared_web_hosting_w_traefik/)
-- 2026-10-11T20:41:59+00:00 — [NSFW Sherlock: local image moderation over HTTP/gRPC, with a CPU Docker image](https://www.reddit.com/r/selfhosted/comments/1x3ixl7/nsfw_sherlock_local_image_moderation_over/)
-- 2026-10-12T13:55:58+00:00 — [What is your dream use-case?](https://www.reddit.com/r/selfhosted/comments/1x42j35/what_is_your_dream_usecase/)
 <!-- NEWS END -->
