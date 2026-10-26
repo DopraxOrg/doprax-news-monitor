@@ -2,16 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-25 12:48 UTC
+Last update: 2026-10-26 14:37 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
+- 2026-10-26T12:26:07+00:00 — [Rebuilt my media server from scratch](https://www.reddit.com/r/selfhosted/comments/1xfvdtz/rebuilt_my_media_server_from_scratch/)
+- 2026-10-26T13:52:25+00:00 — [eMudhra Crisis: What self-hosters should check on their reverse proxies and containers](https://www.reddit.com/r/selfhosted/comments/1xfxf8v/emudhra_crisis_what_selfhosters_should_check_on/)
+- 2026-10-26T09:48:26+00:00 — [Intrusion detection/prevention on your homelab](https://www.reddit.com/r/selfhosted/comments/1xfsedu/intrusion_detectionprevention_on_your_homelab/)
+- 2026-10-25T13:54:52+00:00 — [What are your selfhosting gems](https://www.reddit.com/r/selfhosted/comments/1xf2zcl/what_are_your_selfhosting_gems/)
+- 2026-10-25T11:55:09+00:00 — [TREK 5.0: the only travel app you will ever need to self-host. Plan the trip, route the hike, split the costs, print the photo book, and more](https://www.reddit.com/r/selfhosted/comments/1xf0g6j/trek_50_the_only_travel_app_you_will_ever_need_to/)
+- 2026-10-26T08:02:49+00:00 — [How do you handle backing up databases (Docker + Backrest/Restic setup)?](https://www.reddit.com/r/selfhosted/comments/1xfqpq5/how_do_you_handle_backing_up_databases_docker/)
+- 2026-10-25T22:52:06+00:00 — [My Proxmox homelab: Caddy was the hardest part, and IPv6 Router Advertisements were to blame](https://www.reddit.com/r/selfhosted/comments/1xfgaoq/my_proxmox_homelab_caddy_was_the_hardest_part_and/)
+- 2026-10-26T14:27:35+00:00 — [SpeedKetchup: a 0.23 MB container image that runs a speed test every 10 minutes and charts the results](https://www.reddit.com/r/selfhosted/comments/1xfyclz/speedketchup_a_023_mb_container_image_that_runs_a/)
+- 2026-10-26T13:39:19+00:00 — [NoteDiscovery 0.33.0, wikilink autocomplete and a few important fixes](https://www.reddit.com/r/selfhosted/comments/1xfx38c/notediscovery_0330_wikilink_autocomplete_and_a/)
+- 2026-10-26T00:39:07+00:00 — [Traefik and Authelia help (please, this is killing me)](https://www.reddit.com/r/selfhosted/comments/1xfiogb/traefik_and_authelia_help_please_this_is_killing/)
+- 2026-10-26T03:47:03+00:00 — [From Apple One to NAS – self-hosted media and alternatives?](https://www.reddit.com/r/selfhosted/comments/1xfmhkv/from_apple_one_to_nas_selfhosted_media_and/)
+- 2026-10-26T01:28:28+00:00 — [YAMLResume v0.17 update: new kami HTML template, with accent color support for all engines and slimmed docker image.](https://www.reddit.com/r/selfhosted/comments/1xfjqan/yamlresume_v017_update_new_kami_html_template/)
+- 2026-10-26T07:20:18+00:00 — [CogniCore — self-hosted memory layer for AI agents: SQLite, in-process retrieval, no vector DB, no external service](https://www.reddit.com/r/selfhosted/comments/1xfq2cq/cognicore_selfhosted_memory_layer_for_ai_agents/)
+- 2026-10-25T20:54:20+00:00 — [Dual-node architecture for airgapped private RAG + 24/7 smart home agent (5090 Workstation + M6 Mac Mini)](https://www.reddit.com/r/selfhosted/comments/1xfdjib/dualnode_architecture_for_airgapped_private_rag/)
+- 2026-10-24T15:47:41+00:00 — [One year in, still extremely happy with my selfhosting journey](https://www.reddit.com/r/selfhosted/comments/1xec0wd/one_year_in_still_extremely_happy_with_my/)
 - Sun, 25 Oct 2026 12:46:20 +0000 — [Charta | Make Folders Intelligent](https://dev.to/mirshah12/charta-make-folders-intelligent-5ck4)
 - Sun, 25 Oct 2026 12:45:32 +0000 — [PocketBase: The Open-Source Firebase Alternative That Runs in a Single Go Binary](https://dev.to/syed_anzar/pocketbase-the-open-source-firebase-alternative-that-runs-in-a-single-go-binary-5h57)
-- 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
-- 2026-10-25T11:55:09+00:00 — [TREK 5.0: the only travel app you will ever need to self-host. Plan the trip, route the hike, split the costs, print the photo book, and more](https://www.reddit.com/r/selfhosted/comments/1xf0g6j/trek_50_the_only_travel_app_you_will_ever_need_to/)
-- 2026-10-24T15:47:41+00:00 — [One year in, still extremely happy with my selfhosting journey](https://www.reddit.com/r/selfhosted/comments/1xec0wd/one_year_in_still_extremely_happy_with_my/)
 - 2026-10-24T20:41:39+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen, now at v1.5](https://www.reddit.com/r/selfhosted/comments/1xejb0k/kitchen_board_a_selfhosted_wall_planner_for_the/)
 - 2026-10-24T16:47:45+00:00 — [Is exposing services via reverse proxy still secure enough?](https://www.reddit.com/r/selfhosted/comments/1xedisk/is_exposing_services_via_reverse_proxy_still/)
 - 2026-10-25T02:42:21+00:00 — [Is self-signed cert sufficient?](https://www.reddit.com/r/selfhosted/comments/1xeqwud/is_selfsigned_cert_sufficient/)
@@ -94,17 +107,4 @@ Last update: 2026-10-25 12:48 UTC
 - 2026-10-17T06:15:41+00:00 — [Once i just wanted to redesign an open-source URL shortener, but somehow ended up building an entire platform](https://www.reddit.com/r/selfhosted/comments/1x82uaa/once_i_just_wanted_to_redesign_an_opensource_url/)
 - Fri, 16 Oct 2026 12:36:53 +0000 — [10 Production AI Prompts That 10x My Coding Speed as a Full-Stack Engineer](https://dev.to/johnapollos/10-production-ai-prompts-that-10x-my-coding-speed-as-a-full-stack-engineer-2bl9)
 - 2026-10-15T15:06:40+00:00 — [Kuvasz Uptime 4.5.0 is out, the biggest release in a while](https://www.reddit.com/r/selfhosted/comments/1x6o5dn/kuvasz_uptime_450_is_out_the_biggest_release_in_a/)
-- 2026-10-15T13:33:04+00:00 — [GPT-Load: a self-hosted AI gateway with reversible text redaction](https://www.reddit.com/r/selfhosted/comments/1x6lrll/gptload_a_selfhosted_ai_gateway_with_reversible/)
-- 2026-10-15T19:43:55+00:00 — [ScreenTinker v3.0 - open-source digital signage, now with a guided setup, content requests and screen share](https://www.reddit.com/r/selfhosted/comments/1x6viet/screentinker_v30_opensource_digital_signage_now/)
-- 2026-10-16T06:59:15+00:00 — [I built a self-hosted library-cover tool for Jellyfin and Emby, with a community template store](https://www.reddit.com/r/selfhosted/comments/1x79aus/i_built_a_selfhosted_librarycover_tool_for/)
-- 2026-10-15T20:27:07+00:00 — [New to self hosting](https://www.reddit.com/r/selfhosted/comments/1x6wmvx/new_to_self_hosting/)
-- 2026-10-15T20:22:16+00:00 — [Custom NVR / Camera system build plan , i'd appreciate some feedback](https://www.reddit.com/r/selfhosted/comments/1x6wiiq/custom_nvr_camera_system_build_plan_id_appreciate/)
-- Thu, 15 Oct 2026 12:38:43 +0000 — [How to Trigger AI Agents from Webhooks: Signature Verification, Retries, and Idempotency](https://dev.to/corsairdev/how-to-trigger-ai-agents-from-webhooks-signature-verification-retries-and-idempotency-49la)
-- Thu, 15 Oct 2026 12:37:20 +0000 — [Cilium mTLS ztunnel: Sidecar-Free Encryption Explained](https://dev.to/amareswer/cilium-mtls-ztunnel-sidecar-free-encryption-explained-nke)
-- 2026-10-08T22:01:08+00:00 — [New Project Megathread - Week of 08 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x145j7/new_project_megathread_week_of_08_oct_2026/)
-- 2026-10-14T13:14:21+00:00 — [My homelab dashboard is a biblically accurate angel watching my containers](https://www.reddit.com/r/selfhosted/comments/1x5qx11/my_homelab_dashboard_is_a_biblically_accurate/)
-- 2026-10-14T17:06:49+00:00 — [Apparently Dockge is dead. How do I migrate to Arcane?](https://www.reddit.com/r/selfhosted/comments/1x5wv5w/apparently_dockge_is_dead_how_do_i_migrate_to/)
-- 2026-10-14T13:42:45+00:00 — [HyCanvas: a self-hosted Canva and Genspark alternative, with AI decks you can edit by hand](https://www.reddit.com/r/selfhosted/comments/1x5rkjo/hycanvas_a_selfhosted_canva_and_genspark/)
-- 2026-10-15T06:49:13+00:00 — [Self hosted ntfy notifications and deploying that server on Render Free tier: A bad or good Idea?](https://www.reddit.com/r/selfhosted/comments/1x6emx9/self_hosted_ntfy_notifications_and_deploying_that/)
-- 2026-10-14T09:25:52+00:00 — [Selfhosted inventory manager - OpenInvento](https://www.reddit.com/r/selfhosted/comments/1x5morb/selfhosted_inventory_manager_openinvento/)
 <!-- NEWS END -->
