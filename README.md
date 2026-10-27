@@ -2,15 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-26 14:37 UTC
+Last update: 2026-10-27 13:40 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 27 Oct 2026 13:30:47 +0000 — [NVIDIA OpenShell คืออะไร? "ห้องกักตัว" ของ AI agent ที่คุมสิทธิ์ถึงระดับเคอร์เนล](https://dev.to/sarantoon/nvidia-openshell-khuueaair-hngkaktaw-khng-ai-agent-thiikhumsiththithuengradabekhrenl-1d9i)
+- Tue, 27 Oct 2026 13:30:01 +0000 — [Is Qwen Safe to Run Locally? Cohere Caught Qwen3.8 Trying to Upload to Beijing](https://dev.to/alanwest/is-qwen-safe-to-run-locally-cohere-caught-qwen38-trying-to-upload-to-beijing-hao)
 - 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
-- 2026-10-26T12:26:07+00:00 — [Rebuilt my media server from scratch](https://www.reddit.com/r/selfhosted/comments/1xfvdtz/rebuilt_my_media_server_from_scratch/)
+- 2026-10-27T02:57:52+00:00 — [Version control for docker compose environment](https://www.reddit.com/r/selfhosted/comments/1xghbex/version_control_for_docker_compose_environment/)
+- 2026-10-27T12:24:10+00:00 — [First homelab: WireGuard vs. Headscale/NetBird, plus a tricky VPN situation](https://www.reddit.com/r/selfhosted/comments/1xgr3b3/first_homelab_wireguard_vs_headscalenetbird_plus/)
+- 2026-10-27T06:46:46+00:00 — [Did a dry run of the Stalwart 0.16 -> 1.0 migration with a copy of my server. Went fine, but heads up if you use the admin API](https://www.reddit.com/r/selfhosted/comments/1xgldsw/did_a_dry_run_of_the_stalwart_016_10_migration/)
 - 2026-10-26T13:52:25+00:00 — [eMudhra Crisis: What self-hosters should check on their reverse proxies and containers](https://www.reddit.com/r/selfhosted/comments/1xfxf8v/emudhra_crisis_what_selfhosters_should_check_on/)
+- 2026-10-27T12:31:38+00:00 — [Quantixy "v2" – Schrödinger's Proxy, now rewritten in Go](https://www.reddit.com/r/selfhosted/comments/1xgr91n/quantixy_v2_schrödingers_proxy_now_rewritten_in_go/)
+- 2026-10-27T11:16:43+00:00 — [Is it safe to run my commercial servers with my personal self-hosted apps (dockerized) on one VPS?](https://www.reddit.com/r/selfhosted/comments/1xgpr8y/is_it_safe_to_run_my_commercial_servers_with_my/)
+- 2026-10-27T09:11:19+00:00 — [Setup Review](https://www.reddit.com/r/selfhosted/comments/1xgnlb8/setup_review/)
+- 2026-10-26T10:47:07+00:00 — [Finally jumped on the Tailscale bandwagon, and wow… it just works.](https://www.reddit.com/r/selfhosted/comments/1xftfhm/finally_jumped_on_the_tailscale_bandwagon_and_wow/)
 - 2026-10-26T09:48:26+00:00 — [Intrusion detection/prevention on your homelab](https://www.reddit.com/r/selfhosted/comments/1xfsedu/intrusion_detectionprevention_on_your_homelab/)
+- 2026-10-26T21:46:29+00:00 — [Docker image version tracker?](https://www.reddit.com/r/selfhosted/comments/1xga8mf/docker_image_version_tracker/)
+- 2026-10-26T12:26:07+00:00 — [Rebuilt my media server from scratch](https://www.reddit.com/r/selfhosted/comments/1xfvdtz/rebuilt_my_media_server_from_scratch/)
 - 2026-10-25T13:54:52+00:00 — [What are your selfhosting gems](https://www.reddit.com/r/selfhosted/comments/1xf2zcl/what_are_your_selfhosting_gems/)
 - 2026-10-25T11:55:09+00:00 — [TREK 5.0: the only travel app you will ever need to self-host. Plan the trip, route the hike, split the costs, print the photo book, and more](https://www.reddit.com/r/selfhosted/comments/1xf0g6j/trek_50_the_only_travel_app_you_will_ever_need_to/)
 - 2026-10-26T08:02:49+00:00 — [How do you handle backing up databases (Docker + Backrest/Restic setup)?](https://www.reddit.com/r/selfhosted/comments/1xfqpq5/how_do_you_handle_backing_up_databases_docker/)
@@ -97,14 +107,4 @@ Last update: 2026-10-26 14:37 UTC
 - Sat, 17 Oct 2026 11:30:00 +0000 — [Computer Vision with .NET](https://dev.to/rhuturaj_takle/computer-vision-with-net-24gg)
 - 2026-10-17T09:12:33+00:00 — [I built an open-source CRM for Italian small-medium businesses (quotes, VAT invoices, e-invoicing) – live read-only demo](https://www.reddit.com/r/selfhosted/comments/1x85p99/i_built_an_opensource_crm_for_italian_smallmedium/)
 - 2026-10-16T21:28:56+00:00 — [Cheapest way to access Navidrome remotely without exposing my home IP?](https://www.reddit.com/r/selfhosted/comments/1x7skls/cheapest_way_to_access_navidrome_remotely_without/)
-- 2026-10-16T19:43:28+00:00 — [what would be the most confortable and less overhead aproach to deployingconstantly new sites to a server with docker-compose/swarm](https://www.reddit.com/r/selfhosted/comments/1x7py60/what_would_be_the_most_confortable_and_less/)
-- 2026-10-16T21:53:12+00:00 — [Is this a bad idea? Home assistant Nabu linked on a personal subdomain, with local network access through home assistant' Firefox integration?](https://www.reddit.com/r/selfhosted/comments/1x7t4vf/is_this_a_bad_idea_home_assistant_nabu_linked_on/)
-- 2026-10-16T14:39:40+00:00 — [BetterStatusPage: self-hosted monitoring + status page in one container (SQLite, OIDC SSO, YAML config)](https://www.reddit.com/r/selfhosted/comments/1x7i007/betterstatuspage_selfhosted_monitoring_status/)
-- 2026-10-16T12:07:47+00:00 — [Getting started](https://www.reddit.com/r/selfhosted/comments/1x7egfl/getting_started/)
-- 2026-10-17T09:27:36+00:00 — [LiftTrace v1.4.0 released: a Wear OS app, offline mode, coaching with set videos, and more](https://www.reddit.com/r/selfhosted/comments/1x85xj3/lifttrace_v140_released_a_wear_os_app_offline/)
-- 2026-10-15T20:47:26+00:00 — [Do you not patch your docker images against CVEs?](https://www.reddit.com/r/selfhosted/comments/1x6x5c0/do_you_not_patch_your_docker_images_against_cves/)
-- 2026-10-16T13:35:15+00:00 — [Spliit Cloud now imports Tricount and Settle Up — self-hosted expense sharing without starting over](https://www.reddit.com/r/selfhosted/comments/1x7gehc/spliit_cloud_now_imports_tricount_and_settle_up/)
-- 2026-10-17T06:15:41+00:00 — [Once i just wanted to redesign an open-source URL shortener, but somehow ended up building an entire platform](https://www.reddit.com/r/selfhosted/comments/1x82uaa/once_i_just_wanted_to_redesign_an_opensource_url/)
-- Fri, 16 Oct 2026 12:36:53 +0000 — [10 Production AI Prompts That 10x My Coding Speed as a Full-Stack Engineer](https://dev.to/johnapollos/10-production-ai-prompts-that-10x-my-coding-speed-as-a-full-stack-engineer-2bl9)
-- 2026-10-15T15:06:40+00:00 — [Kuvasz Uptime 4.5.0 is out, the biggest release in a while](https://www.reddit.com/r/selfhosted/comments/1x6o5dn/kuvasz_uptime_450_is_out_the_biggest_release_in_a/)
 <!-- NEWS END -->
