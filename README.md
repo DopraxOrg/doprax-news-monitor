@@ -2,22 +2,30 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-28 14:35 UTC
+Last update: 2026-10-29 14:42 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 29 Oct 2026 14:30:50 +0000 — [CVE-2026-115920: CVE-2026-115920: Out-of-Bounds Read in ONNX ConvTranspose Shape Inference](https://dev.to/cverports/cve-2026-115920-cve-2026-115920-out-of-bounds-read-in-onnx-convtranspose-shape-inference-3lbp)
+- Thu, 29 Oct 2026 14:29:55 +0000 — [I Let My AI Agent Create Its Own Databases. Here's How the Passwords Stay Locked Up.](https://dev.to/dennisonbertram/i-let-my-ai-agent-create-its-own-databases-heres-how-the-passwords-stay-locked-up-b8o)
+- Thu, 29 Oct 2026 14:27:28 +0000 — [Build a Process Documentation App With ToolJet MCP](https://dev.to/tooljet/build-a-process-documentation-app-with-tooljet-mcp-3hed)
+- Thu, 29 Oct 2026 14:27:28 +0000 — [Illusory Cloud Backups: Actually Testing Your DR Plan with Velero and a Timed Restore](https://dev.to/florient_4262fab5463a691/illusory-cloud-backups-actually-testing-your-dr-plan-with-velero-and-a-timed-restore-1811)
+- 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
+- 2026-10-28T22:43:31+00:00 — [My journey after six months... and my thoughts..](https://www.reddit.com/r/selfhosted/comments/1xi306l/my_journey_after_six_months_and_my_thoughts/)
+- 2026-10-29T00:51:42+00:00 — [Guide - Use docker to operate legacy scanner hardware on Windows 11](https://www.reddit.com/r/selfhosted/comments/1xi5z2k/guide_use_docker_to_operate_legacy_scanner/)
+- 2026-10-29T05:51:41+00:00 — [Chore management app request](https://www.reddit.com/r/selfhosted/comments/1xibsu2/chore_management_app_request/)
+- 2026-10-28T17:41:51+00:00 — [FiestaBoard v10: a self-hosted dashboard for Vestaboard and Pixoo 64](https://www.reddit.com/r/selfhosted/comments/1xhuyqm/fiestaboard_v10_a_selfhosted_dashboard_for/)
+- 2026-10-28T04:58:35+00:00 — [Sablier, 4 years later: start your apps on demand, now with Podman, Proxmox LXC, Nomad, ECS and more](https://www.reddit.com/r/selfhosted/comments/1xhf3z7/sablier_4_years_later_start_your_apps_on_demand/)
+- 2026-10-28T13:30:19+00:00 — [Looking for a self-hosted music setup: personal archive + online discovery + temporary FLAC cache. Is this realistic?](https://www.reddit.com/r/selfhosted/comments/1xho4fs/looking_for_a_selfhosted_music_setup_personal/)
 - Wed, 28 Oct 2026 14:27:20 +0000 — [Building a test management tool where AI agents are first-class citizens, not an afterthought](https://dev.to/miguel_angelalonsoprez/building-a-test-management-tool-where-ai-agents-are-first-class-citizens-not-an-afterthought-1ek2)
 - Wed, 28 Oct 2026 14:26:45 +0000 — [Reporte: macOS 27.2 revierte el parche manual contra eMudhra](https://dev.to/lu1tr0n/reporte-macos-272-revierte-el-parche-manual-contra-emudhra-3ej7)
 - Wed, 28 Oct 2026 14:24:30 +0000 — [FastAPI Token Streaming Without Blocking the Event Loop](https://dev.to/leo_martinez/fastapi-token-streaming-without-blocking-the-event-loop-5bgc)
 - Wed, 28 Oct 2026 14:22:42 +0000 — [Open Source Radar · 2026-10-28: Approval moves from the prompt into the pipeline](https://dev.to/widechaos/open-source-radar-2026-10-28-approval-moves-from-the-prompt-into-the-pipeline-4kpp)
-- 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
-- 2026-10-28T04:58:35+00:00 — [Sablier, 4 years later: start your apps on demand, now with Podman, Proxmox LXC, Nomad, ECS and more](https://www.reddit.com/r/selfhosted/comments/1xhf3z7/sablier_4_years_later_start_your_apps_on_demand/)
 - 2026-10-27T23:45:36+00:00 — [SETTLE - an IETF proposal that will revolutionize private network trust](https://www.reddit.com/r/selfhosted/comments/1xh8pv7/settle_an_ietf_proposal_that_will_revolutionize/)
 - 2026-10-27T16:31:21+00:00 — [Pangolin now supports mTLS client certificates, great for hardening externally exposed services](https://www.reddit.com/r/selfhosted/comments/1xgxbnb/pangolin_now_supports_mtls_client_certificates/)
 - 2026-10-27T16:31:15+00:00 — [[FOSS] A tool to shrink Immich libraries 20-50% by converting originals to JPEG-XL / AV1 in place while keeping albums and metadata intact.](https://www.reddit.com/r/selfhosted/comments/1xgxbju/foss_a_tool_to_shrink_immich_libraries_2050_by/)
 - 2026-10-28T13:40:05+00:00 — [Need help with Self Hosted VPN](https://www.reddit.com/r/selfhosted/comments/1xhod1c/need_help_with_self_hosted_vpn/)
-- 2026-10-28T13:30:19+00:00 — [Looking for a self-hosted music setup: personal archive + online discovery + temporary FLAC cache. Is this realistic?](https://www.reddit.com/r/selfhosted/comments/1xho4fs/looking_for_a_selfhosted_music_setup_personal/)
 - 2026-10-28T04:02:30+00:00 — [New to self hosting and need some guidance](https://www.reddit.com/r/selfhosted/comments/1xhe41b/new_to_self_hosting_and_need_some_guidance/)
 - 2026-10-28T09:56:12+00:00 — [NAS (DXP2800) owners: stick with UGOS or jump to ZimaOS (or something else entirely)?](https://www.reddit.com/r/selfhosted/comments/1xhjtgv/nas_dxp2800_owners_stick_with_ugos_or_jump_to/)
 - 2026-10-28T08:53:57+00:00 — [Tool for convenient LLM agent interface](https://www.reddit.com/r/selfhosted/comments/1xhittt/tool_for_convenient_llm_agent_interface/)
@@ -99,12 +107,4 @@ Last update: 2026-10-28 14:35 UTC
 - 2026-10-20T05:21:11+00:00 — [I made a self-hosted Discord music bot for my friends' server. Looking for feedback before I take it further](https://www.reddit.com/r/selfhosted/comments/1xajlcw/i_made_a_selfhosted_discord_music_bot_for_my/)
 - 2026-10-20T07:14:15+00:00 — [ByteChef: open-source workflow automation platform (1k+ GitHub stars, 150+ forks)](https://www.reddit.com/r/selfhosted/comments/1xalgp5/bytechef_opensource_workflow_automation_platform/)
 - 2026-10-18T18:05:03+00:00 — [Doska: open source self-hosted kanban with Markdown cards (Trello alternative with an Obsidian concept)](https://www.reddit.com/r/selfhosted/comments/1x99we1/doska_open_source_selfhosted_kanban_with_markdown/)
-- 2026-10-18T19:18:26+00:00 — [What do you use to get notified about outdated Docker containers (Docker Compose setup)?](https://www.reddit.com/r/selfhosted/comments/1x9br0p/what_do_you_use_to_get_notified_about_outdated/)
-- Mon, 19 Oct 2026 15:00:14 +0000 — [Postiz Self Host Bluesky Python Client](https://dev.to/apexgridtech/postiz-self-host-bluesky-python-client-32gn)
-- 2026-10-18T10:45:47+00:00 — [Exactly one year ago, I shared AltSendme here. Your encouragement helped me take it from 50 to almost 10,000 GitHub stars. Here's what's new.](https://www.reddit.com/r/selfhosted/comments/1x906fd/exactly_one_year_ago_i_shared_altsendme_here_your/)
-- 2026-10-19T14:40:25+00:00 — [I got tired of SaaS vendor lock-in for AI web apps, so I built an open-core Agent Management System (v3.0.8 MIT) with Full-Duplex Git<=>DB sync and zero-downtime updates](https://www.reddit.com/r/selfhosted/comments/1x9yp3w/i_got_tired_of_saas_vendor_lockin_for_ai_web_apps/)
-- 2026-10-18T14:13:48+00:00 — [Setting up my own family cloud drive for the first time - Nextcloud or Opencloud?](https://www.reddit.com/r/selfhosted/comments/1x948yr/setting_up_my_own_family_cloud_drive_for_the/)
-- 2026-10-19T00:09:35+00:00 — [Steam Headless docker and split gpus, would love to discuss successes and failures..](https://www.reddit.com/r/selfhosted/comments/1x9ifid/steam_headless_docker_and_split_gpus_would_love/)
-- 2026-10-18T11:08:51+00:00 — [Good Bye SaaS - Hello Home Lab](https://www.reddit.com/r/selfhosted/comments/1x90ktl/good_bye_saas_hello_home_lab/)
-- 2026-10-19T07:25:43+00:00 — [arrstack help](https://www.reddit.com/r/selfhosted/comments/1x9qbz8/arrstack_help/)
 <!-- NEWS END -->
