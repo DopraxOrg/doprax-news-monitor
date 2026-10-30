@@ -2,17 +2,29 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-29 14:42 UTC
+Last update: 2026-10-30 14:38 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 30 Oct 2026 14:29:20 +0000 — [Odysseus: a Self-Hosted AI Workspace With a Model Cookbook That Reads Your Hardware First](https://dev.to/automatadotsale/odysseus-a-self-hosted-ai-workspace-with-a-model-cookbook-that-reads-your-hardware-first-4nnl)
+- Fri, 30 Oct 2026 14:28:23 +0000 — [I Built an AI Séance to Bring Dead Codebases Back to Life 👻](https://dev.to/anurag_karmakar_7f8add067/i-built-an-ai-seance-to-bring-dead-codebases-back-to-life-fhc)
+- 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
+- 2026-10-30T13:41:52+00:00 — [sora-to-ki: a self-hosted personal site where every page is part of one night sky](https://www.reddit.com/r/selfhosted/comments/1xjfpko/soratoki_a_selfhosted_personal_site_where_every/)
+- 2026-10-29T17:39:59+00:00 — [Playmat: a self-hosted Magic: The Gathering server you can play from the browser (Docker Compose, ARM + x86)](https://www.reddit.com/r/selfhosted/comments/1xiqq8c/playmat_a_selfhosted_magic_the_gathering_server/)
+- 2026-10-29T19:24:09+00:00 — [Grimoire v1.10.0 - Character sheets, share links for your VTT, and six weeks of updates to the self-hosted TTRPG library](https://www.reddit.com/r/selfhosted/comments/1xitik9/grimoire_v1100_character_sheets_share_links_for/)
+- 2026-10-29T14:32:00+00:00 — [PSA: Synology NAS owners, there has been a recent uptick in C3RB3R Ransomware attacks](https://www.reddit.com/r/selfhosted/comments/1xilmkv/psa_synology_nas_owners_there_has_been_a_recent/)
+- 2026-10-29T21:58:19+00:00 — [Safety of Cloudflare Access/Zero Trust compared to Tailscale?](https://www.reddit.com/r/selfhosted/comments/1xixjnb/safety_of_cloudflare_accesszero_trust_compared_to/)
+- 2026-10-30T13:17:58+00:00 — [CloudFree Address – an iOS address book that lives on your own FRITZ!Box / FTPS server instead of iCloud. Looking for beta testers](https://www.reddit.com/r/selfhosted/comments/1xjf5b7/cloudfree_address_an_ios_address_book_that_lives/)
+- 2026-10-29T20:29:43+00:00 — [Self-hosted Family tracking app](https://www.reddit.com/r/selfhosted/comments/1xivaak/selfhosted_family_tracking_app/)
+- 2026-10-29T22:00:59+00:00 — [Apache guacamole best approach?](https://www.reddit.com/r/selfhosted/comments/1xixmax/apache_guacamole_best_approach/)
+- 2026-10-28T22:43:31+00:00 — [My journey after six months... and my thoughts..](https://www.reddit.com/r/selfhosted/comments/1xi306l/my_journey_after_six_months_and_my_thoughts/)
+- 2026-10-29T23:01:03+00:00 — [Self-hosted P2P Networking Platform](https://www.reddit.com/r/selfhosted/comments/1xiz2fm/selfhosted_p2p_networking_platform/)
 - Thu, 29 Oct 2026 14:30:50 +0000 — [CVE-2026-115920: CVE-2026-115920: Out-of-Bounds Read in ONNX ConvTranspose Shape Inference](https://dev.to/cverports/cve-2026-115920-cve-2026-115920-out-of-bounds-read-in-onnx-convtranspose-shape-inference-3lbp)
 - Thu, 29 Oct 2026 14:29:55 +0000 — [I Let My AI Agent Create Its Own Databases. Here's How the Passwords Stay Locked Up.](https://dev.to/dennisonbertram/i-let-my-ai-agent-create-its-own-databases-heres-how-the-passwords-stay-locked-up-b8o)
 - Thu, 29 Oct 2026 14:27:28 +0000 — [Build a Process Documentation App With ToolJet MCP](https://dev.to/tooljet/build-a-process-documentation-app-with-tooljet-mcp-3hed)
 - Thu, 29 Oct 2026 14:27:28 +0000 — [Illusory Cloud Backups: Actually Testing Your DR Plan with Velero and a Timed Restore](https://dev.to/florient_4262fab5463a691/illusory-cloud-backups-actually-testing-your-dr-plan-with-velero-and-a-timed-restore-1811)
 - 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
-- 2026-10-28T22:43:31+00:00 — [My journey after six months... and my thoughts..](https://www.reddit.com/r/selfhosted/comments/1xi306l/my_journey_after_six_months_and_my_thoughts/)
 - 2026-10-29T00:51:42+00:00 — [Guide - Use docker to operate legacy scanner hardware on Windows 11](https://www.reddit.com/r/selfhosted/comments/1xi5z2k/guide_use_docker_to_operate_legacy_scanner/)
 - 2026-10-29T05:51:41+00:00 — [Chore management app request](https://www.reddit.com/r/selfhosted/comments/1xibsu2/chore_management_app_request/)
 - 2026-10-28T17:41:51+00:00 — [FiestaBoard v10: a self-hosted dashboard for Vestaboard and Pixoo 64](https://www.reddit.com/r/selfhosted/comments/1xhuyqm/fiestaboard_v10_a_selfhosted_dashboard_for/)
@@ -95,16 +107,4 @@ Last update: 2026-10-29 14:42 UTC
 - 2026-10-22T00:29:06+00:00 — [Arcane: Why so many images?!?](https://www.reddit.com/r/selfhosted/comments/1xc45n8/arcane_why_so_many_images/)
 - 2026-10-22T10:09:02+00:00 — [UGREEN UGOS: Tailscale 1.104+ (Go 1.27) crashes at start because UGOS exports GODEBUG=tlskyber=0 to every service — plus broken apt and a hidden policy-rc.d](https://www.reddit.com/r/selfhosted/comments/1xcejsq/ugreen_ugos_tailscale_1104_go_127_crashes_at/)
 - Wed, 21 Oct 2026 13:06:14 +0000 — [SlothLog: Why I Built an Offline, AI-Powered Timesheet Generator for Lazy Developers](https://dev.to/alessio_bianchini/slothlog-why-i-built-an-offline-ai-powered-timesheet-generator-for-lazy-developers-2mak)
-- Wed, 21 Oct 2026 13:05:09 +0000 — [Managed PostgreSQL for Kubernetes apps | Kupe Cloud](https://dev.to/kupecloud/managed-postgresql-for-kubernetes-apps-kupe-cloud-2165)
-- 2026-10-20T14:55:55+00:00 — [Leaked SSL Certificates: no https connection can be trusted](https://www.reddit.com/r/selfhosted/comments/1xaubjf/leaked_ssl_certificates_no_https_connection_can/)
-- 2026-10-21T09:09:45+00:00 — [How do you handle access to docker socket?](https://www.reddit.com/r/selfhosted/comments/1xbi7mb/how_do_you_handle_access_to_docker_socket/)
-- 2026-10-21T08:11:17+00:00 — [Ka-Ching! v3.4 – self-hosted tracker for what your collecting costs (comics, cards, figures, vinyl…)](https://www.reddit.com/r/selfhosted/comments/1xbhafq/kaching_v34_selfhosted_tracker_for_what_your/)
-- 2026-10-19T20:28:59+00:00 — [OpenMW-Web 1.6.2: self-hosted Morrowind in the browser, with an admin dashboard and multiplayer in alpha](https://www.reddit.com/r/selfhosted/comments/1xa8452/openmwweb_162_selfhosted_morrowind_in_the_browser/)
-- 2026-10-21T08:37:31+00:00 — [MVault: a self-hosted music video manager/downloader (Docker, works with Jellyfin/Kodi/Emby/Plex) - WIP](https://www.reddit.com/r/selfhosted/comments/1xbhp2m/mvault_a_selfhosted_music_video_managerdownloader/)
-- 2026-10-20T09:54:49+00:00 — [BYOT self-hosted tool that runs your existing tests as production monitors (MIT)](https://www.reddit.com/r/selfhosted/comments/1xanycr/byot_selfhosted_tool_that_runs_your_existing/)
-- 2026-10-19T08:10:31+00:00 — [My €1,000 used-hardware rack runs my home services, production apps and local inference](https://www.reddit.com/r/selfhosted/comments/1x9r11n/my_1000_usedhardware_rack_runs_my_home_services/)
-- 2026-10-19T20:03:21+00:00 — [Best practices and practical solutions for backups?](https://www.reddit.com/r/selfhosted/comments/1xa7fl7/best_practices_and_practical_solutions_for_backups/)
-- 2026-10-20T05:21:11+00:00 — [I made a self-hosted Discord music bot for my friends' server. Looking for feedback before I take it further](https://www.reddit.com/r/selfhosted/comments/1xajlcw/i_made_a_selfhosted_discord_music_bot_for_my/)
-- 2026-10-20T07:14:15+00:00 — [ByteChef: open-source workflow automation platform (1k+ GitHub stars, 150+ forks)](https://www.reddit.com/r/selfhosted/comments/1xalgp5/bytechef_opensource_workflow_automation_platform/)
-- 2026-10-18T18:05:03+00:00 — [Doska: open source self-hosted kanban with Markdown cards (Trello alternative with an Obsidian concept)](https://www.reddit.com/r/selfhosted/comments/1x99we1/doska_open_source_selfhosted_kanban_with_markdown/)
 <!-- NEWS END -->
