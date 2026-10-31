@@ -2,15 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-30 14:38 UTC
+Last update: 2026-10-31 13:56 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
+- 2026-10-31T10:23:51+00:00 — [plMail Update: PGP, S/MIME, JMAP, POP3, CardDAV Contacts and more](https://www.reddit.com/r/selfhosted/comments/1xk6o7g/plmail_update_pgp_smime_jmap_pop3_carddav/)
+- 2026-10-31T07:17:18+00:00 — [Foldergram v1.3.0: self-hosted photo/video gallery, now with carousels and folder sharing](https://www.reddit.com/r/selfhosted/comments/1xk3q86/foldergram_v130_selfhosted_photovideo_gallery_now/)
+- 2026-10-31T11:44:23+00:00 — [Is it possible to have an AI agent safely help me with my home network?](https://www.reddit.com/r/selfhosted/comments/1xk836r/is_it_possible_to_have_an_ai_agent_safely_help_me/)
+- 2026-10-31T01:40:34+00:00 — [Local LLM Hosting Harness?](https://www.reddit.com/r/selfhosted/comments/1xjxo3v/local_llm_hosting_harness/)
+- 2026-10-30T13:41:52+00:00 — [sora-to-ki: a self-hosted personal site where every page is part of one night sky](https://www.reddit.com/r/selfhosted/comments/1xjfpko/soratoki_a_selfhosted_personal_site_where_every/)
+- 2026-10-30T18:56:21+00:00 — [A TUI to get into self-hosting](https://www.reddit.com/r/selfhosted/comments/1xjo1xq/a_tui_to_get_into_selfhosting/)
+- 2026-10-31T11:08:55+00:00 — [How to best scan docker compose files?](https://www.reddit.com/r/selfhosted/comments/1xk7ghp/how_to_best_scan_docker_compose_files/)
+- 2026-10-30T22:52:22+00:00 — [Loomkeep: one self-hosted library for everything you watch, read, play and listen to](https://www.reddit.com/r/selfhosted/comments/1xjtxmo/loomkeep_one_selfhosted_library_for_everything/)
 - Fri, 30 Oct 2026 14:29:20 +0000 — [Odysseus: a Self-Hosted AI Workspace With a Model Cookbook That Reads Your Hardware First](https://dev.to/automatadotsale/odysseus-a-self-hosted-ai-workspace-with-a-model-cookbook-that-reads-your-hardware-first-4nnl)
 - Fri, 30 Oct 2026 14:28:23 +0000 — [I Built an AI Séance to Bring Dead Codebases Back to Life 👻](https://dev.to/anurag_karmakar_7f8add067/i-built-an-ai-seance-to-bring-dead-codebases-back-to-life-fhc)
-- 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
-- 2026-10-30T13:41:52+00:00 — [sora-to-ki: a self-hosted personal site where every page is part of one night sky](https://www.reddit.com/r/selfhosted/comments/1xjfpko/soratoki_a_selfhosted_personal_site_where_every/)
 - 2026-10-29T17:39:59+00:00 — [Playmat: a self-hosted Magic: The Gathering server you can play from the browser (Docker Compose, ARM + x86)](https://www.reddit.com/r/selfhosted/comments/1xiqq8c/playmat_a_selfhosted_magic_the_gathering_server/)
 - 2026-10-29T19:24:09+00:00 — [Grimoire v1.10.0 - Character sheets, share links for your VTT, and six weeks of updates to the self-hosted TTRPG library](https://www.reddit.com/r/selfhosted/comments/1xitik9/grimoire_v1100_character_sheets_share_links_for/)
 - 2026-10-29T14:32:00+00:00 — [PSA: Synology NAS owners, there has been a recent uptick in C3RB3R Ransomware attacks](https://www.reddit.com/r/selfhosted/comments/1xilmkv/psa_synology_nas_owners_there_has_been_a_recent/)
@@ -100,11 +107,4 @@ Last update: 2026-10-30 14:38 UTC
 - 2026-10-22T18:51:17+00:00 — [Smart Drink Fridge: a self-hosted drink inventory with barcode scanning and Home Assistant shopping lists](https://www.reddit.com/r/selfhosted/comments/1xcr8pw/smart_drink_fridge_a_selfhosted_drink_inventory/)
 - 2026-10-22T17:31:26+00:00 — [Help me deploy Crowdsec's WAF with Traefik](https://www.reddit.com/r/selfhosted/comments/1xcp2bf/help_me_deploy_crowdsecs_waf_with_traefik/)
 - 2026-10-21T17:47:58+00:00 — [Heads up if you self-host LiteLLM: the 1.107.0 Docker image (and the latest/main-latest/main-stable tags) shipped a credential stealer](https://www.reddit.com/r/selfhosted/comments/1xbu3qr/heads_up_if_you_selfhost_litellm_the_11070_docker/)
-- 2026-10-22T12:24:14+00:00 — [Cheap VPS for Pangolin. Which hardware and is it safe to use it also for other purposes ?](https://www.reddit.com/r/selfhosted/comments/1xch4db/cheap_vps_for_pangolin_which_hardware_and_is_it/)
-- Thu, 22 Oct 2026 13:02:49 +0000 — [kubectl Troubleshooting & Daily Commands Cheat Sheet](https://dev.to/vladguran/kubectl-troubleshooting-daily-commands-cheat-sheet-3597)
-- 2026-10-15T22:01:02+00:00 — [New Project Megathread - Week of 15 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/)
-- 2026-10-21T14:50:11+00:00 — [Portabase (OSS backup/restore platform) now supports file and directory backups](https://www.reddit.com/r/selfhosted/comments/1xbp8ua/portabase_oss_backuprestore_platform_now_supports/)
-- 2026-10-22T00:29:06+00:00 — [Arcane: Why so many images?!?](https://www.reddit.com/r/selfhosted/comments/1xc45n8/arcane_why_so_many_images/)
-- 2026-10-22T10:09:02+00:00 — [UGREEN UGOS: Tailscale 1.104+ (Go 1.27) crashes at start because UGOS exports GODEBUG=tlskyber=0 to every service — plus broken apt and a hidden policy-rc.d](https://www.reddit.com/r/selfhosted/comments/1xcejsq/ugreen_ugos_tailscale_1104_go_127_crashes_at/)
-- Wed, 21 Oct 2026 13:06:14 +0000 — [SlothLog: Why I Built an Offline, AI-Powered Timesheet Generator for Lazy Developers](https://dev.to/alessio_bianchini/slothlog-why-i-built-an-offline-ai-powered-timesheet-generator-for-lazy-developers-2mak)
 <!-- NEWS END -->
