@@ -2,13 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-10-31 13:56 UTC
+Last update: 2026-11-01 14:34 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 01 Nov 2026 14:30:54 +0000 — [แฮกเกอร์จีนใช้ AI โจมตี 200 องค์กรจริงไหม? แยกตัวเลข 200 กับ 140 ให้ชัด](https://dev.to/sarantoon/aehkekrcchiinaich-ai-occhmtii-200-ngkhkrcchringaihm-aeyktawelkh-200-kab-140-aihchad-5enm)
+- Sun, 01 Nov 2026 14:27:01 +0000 — [I Slowed My Trading Bot Down to Four Trades a Year. It Tripled a Backtest, and It Still Failed.](https://dev.to/madukaj/i-slowed-my-trading-bot-down-to-four-trades-a-year-it-tripled-a-backtest-and-it-still-failed-4ml7)
 - 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
+- 2026-11-01T14:26:02+00:00 — [VPS Pilot v0.5.0: open-source monitoring and management for your VPSes, now with scheduled backups to S3](https://www.reddit.com/r/selfhosted/comments/1xl4dn7/vps_pilot_v050_opensource_monitoring_and/)
+- 2026-11-01T01:08:40+00:00 — [Networking and general advice needed](https://www.reddit.com/r/selfhosted/comments/1xkqfmo/networking_and_general_advice_needed/)
 - 2026-10-31T10:23:51+00:00 — [plMail Update: PGP, S/MIME, JMAP, POP3, CardDAV Contacts and more](https://www.reddit.com/r/selfhosted/comments/1xk6o7g/plmail_update_pgp_smime_jmap_pop3_carddav/)
+- 2026-10-31T22:07:19+00:00 — [MinusPod now turns YouTube playlists and channels into ad-free podcast feeds (SponsorBlock first, LLM as fallback)](https://www.reddit.com/r/selfhosted/comments/1xkmq9f/minuspod_now_turns_youtube_playlists_and_channels/)
+- 2026-11-01T02:26:51+00:00 — [Gaming PC x Jellyfin sever?](https://www.reddit.com/r/selfhosted/comments/1xkrvpy/gaming_pc_x_jellyfin_sever/)
+- 2026-11-01T00:18:38+00:00 — [Remote desktop or Container monitoring options? Ubuntu](https://www.reddit.com/r/selfhosted/comments/1xkph35/remote_desktop_or_container_monitoring_options/)
+- 2026-11-01T13:18:48+00:00 — [Using ai in a secure way](https://www.reddit.com/r/selfhosted/comments/1xl2v4u/using_ai_in_a_secure_way/)
+- 2026-10-31T17:10:56+00:00 — [Self hosted DNS filtering?](https://www.reddit.com/r/selfhosted/comments/1xkfnru/self_hosted_dns_filtering/)
+- 2026-10-31T19:35:26+00:00 — [Postgresql version upgrades](https://www.reddit.com/r/selfhosted/comments/1xkj95e/postgresql_version_upgrades/)
 - 2026-10-31T07:17:18+00:00 — [Foldergram v1.3.0: self-hosted photo/video gallery, now with carousels and folder sharing](https://www.reddit.com/r/selfhosted/comments/1xk3q86/foldergram_v130_selfhosted_photovideo_gallery_now/)
 - 2026-10-31T11:44:23+00:00 — [Is it possible to have an AI agent safely help me with my home network?](https://www.reddit.com/r/selfhosted/comments/1xk836r/is_it_possible_to_have_an_ai_agent_safely_help_me/)
 - 2026-10-31T01:40:34+00:00 — [Local LLM Hosting Harness?](https://www.reddit.com/r/selfhosted/comments/1xjxo3v/local_llm_hosting_harness/)
@@ -97,14 +107,4 @@ Last update: 2026-10-31 13:56 UTC
 - 2026-10-24T08:28:18+00:00 — [Review my Jellyfin + *arr plan](https://www.reddit.com/r/selfhosted/comments/1xe39tb/review_my_jellyfin_arr_plan/)
 - 2026-10-22T14:53:57+00:00 — [Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)](https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/)
 - Thu, 22 Oct 2026 23:45:56 +0000 — [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-- Fri, 23 Oct 2026 12:45:24 +0000 — [TaskZen AI: A Smarter Way to Handle Everyday Tasks](https://dev.to/pardeep_gir_6d77/taskzen-ai-a-smarter-way-to-handle-everyday-tasks-2m1b)
-- Fri, 23 Oct 2026 12:41:51 +0000 — [OpenHands: The 91k-Star Open-Source Devin Alternative That Runs Fully Local](https://dev.to/syed_anzar/openhands-the-91k-star-open-source-devin-alternative-that-runs-fully-local-15k7)
-- 2026-10-22T17:14:02+00:00 — [Anyone else moving their services exposed to internet in?](https://www.reddit.com/r/selfhosted/comments/1xcol4j/anyone_else_moving_their_services_exposed_to/)
-- 2026-10-23T09:13:26+00:00 — [Open-source DDoS detection and mitigation for Linux, with Prometheus metrics and Discord alerts](https://www.reddit.com/r/selfhosted/comments/1xd934v/opensource_ddos_detection_and_mitigation_for/)
-- 2026-10-22T16:56:17+00:00 — [Docker Container php2shell audit script](https://www.reddit.com/r/selfhosted/comments/1xco3g9/docker_container_php2shell_audit_script/)
-- 2026-10-22T21:07:42+00:00 — [Help: Radarr, jellyfin, Plex in NAS](https://www.reddit.com/r/selfhosted/comments/1xcuv81/help_radarr_jellyfin_plex_in_nas/)
-- 2026-10-22T14:49:13+00:00 — [GyroidVault v2.3.0 Released: Self-hosted 3D model manager now has customizable themes, OIDC SSO, NAS drive spin-down support & Creality Print integration](https://www.reddit.com/r/selfhosted/comments/1xcknfs/gyroidvault_v230_released_selfhosted_3d_model/)
-- 2026-10-22T18:51:17+00:00 — [Smart Drink Fridge: a self-hosted drink inventory with barcode scanning and Home Assistant shopping lists](https://www.reddit.com/r/selfhosted/comments/1xcr8pw/smart_drink_fridge_a_selfhosted_drink_inventory/)
-- 2026-10-22T17:31:26+00:00 — [Help me deploy Crowdsec's WAF with Traefik](https://www.reddit.com/r/selfhosted/comments/1xcp2bf/help_me_deploy_crowdsecs_waf_with_traefik/)
-- 2026-10-21T17:47:58+00:00 — [Heads up if you self-host LiteLLM: the 1.107.0 Docker image (and the latest/main-latest/main-stable tags) shipped a credential stealer](https://www.reddit.com/r/selfhosted/comments/1xbu3qr/heads_up_if_you_selfhost_litellm_the_11070_docker/)
 <!-- NEWS END -->
