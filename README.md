@@ -2,14 +2,22 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-01 14:34 UTC
+Last update: 2026-11-02 17:29 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Mon, 02 Nov 2026 17:23:57 +0000 — [CVE-2026-28328 and the Limits of Product-Fingerprint Exposure Data](https://dev.to/facilishz/cve-2026-28328-and-the-limits-of-product-fingerprint-exposure-data-2ij6)
+- Mon, 02 Nov 2026 17:21:46 +0000 — [A Four-Line Fix for a 9.8: Anatomy of Linux's TCP Handshake Use-After-Free](https://dev.to/chenyuan20509/a-four-line-fix-for-a-98-anatomy-of-linuxs-tcp-handshake-use-after-free-5137)
+- 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
+- 2026-11-02T10:14:44+00:00 — [Do I need to buy a server or use something I already have ?](https://www.reddit.com/r/selfhosted/comments/1xltg3e/do_i_need_to_buy_a_server_or_use_something_i/)
+- 2026-11-02T00:47:06+00:00 — [Scibrarian: Your personal PubMed catalog and research workflow](https://www.reddit.com/r/selfhosted/comments/1xljfa9/scibrarian_your_personal_pubmed_catalog_and/)
+- 2026-11-02T06:50:16+00:00 — [Looking for suggestions over a humble home server](https://www.reddit.com/r/selfhosted/comments/1xlq9hh/looking_for_suggestions_over_a_humble_home_server/)
+- 2026-11-02T10:10:59+00:00 — [Recommendations for getting started?](https://www.reddit.com/r/selfhosted/comments/1xltdvx/recommendations_for_getting_started/)
+- 2026-11-02T15:56:07+00:00 — [What is the actual demand of self hosting apps?](https://www.reddit.com/r/selfhosted/comments/1xm0ykq/what_is_the_actual_demand_of_self_hosting_apps/)
+- 2026-11-02T15:54:10+00:00 — [Application for kids to draw on ipad (eventually may be payed, may be also for android)](https://www.reddit.com/r/selfhosted/comments/1xm0wko/application_for_kids_to_draw_on_ipad_eventually/)
 - Sun, 01 Nov 2026 14:30:54 +0000 — [แฮกเกอร์จีนใช้ AI โจมตี 200 องค์กรจริงไหม? แยกตัวเลข 200 กับ 140 ให้ชัด](https://dev.to/sarantoon/aehkekrcchiinaich-ai-occhmtii-200-ngkhkrcchringaihm-aeyktawelkh-200-kab-140-aihchad-5enm)
 - Sun, 01 Nov 2026 14:27:01 +0000 — [I Slowed My Trading Bot Down to Four Trades a Year. It Tripled a Backtest, and It Still Failed.](https://dev.to/madukaj/i-slowed-my-trading-bot-down-to-four-trades-a-year-it-tripled-a-backtest-and-it-still-failed-4ml7)
-- 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
 - 2026-11-01T14:26:02+00:00 — [VPS Pilot v0.5.0: open-source monitoring and management for your VPSes, now with scheduled backups to S3](https://www.reddit.com/r/selfhosted/comments/1xl4dn7/vps_pilot_v050_opensource_monitoring_and/)
 - 2026-11-01T01:08:40+00:00 — [Networking and general advice needed](https://www.reddit.com/r/selfhosted/comments/1xkqfmo/networking_and_general_advice_needed/)
 - 2026-10-31T10:23:51+00:00 — [plMail Update: PGP, S/MIME, JMAP, POP3, CardDAV Contacts and more](https://www.reddit.com/r/selfhosted/comments/1xk6o7g/plmail_update_pgp_smime_jmap_pop3_carddav/)
@@ -99,12 +107,4 @@ Last update: 2026-11-01 14:34 UTC
 - Sat, 24 Oct 2026 12:08:41 +0000 — [Signing Netlify Webhooks with HMAC and Timestamps for a Home Automation Server](https://dev.to/the_bomber_f1e42beb1feaec/signing-netlify-webhooks-with-hmac-and-timestamps-for-a-home-automation-server-58j1)
 - Sat, 24 Oct 2026 12:08:40 +0000 — [leantext: up to 99% fewer tokens when your coding agent reads the web](https://dev.to/shouvik12/leantext-up-to-99-fewer-tokens-when-your-coding-agent-reads-the-web-4gk1)
 - Sat, 24 Oct 2026 12:02:34 +0000 — [Dockerfile security mistakes companies keep making](https://dev.to/openrouting_si/dockerfile-security-mistakes-companies-keep-making-2djf)
-- 2026-10-23T13:56:24+00:00 — [Locking down family-facing self-hosted services, how are you handling the current exploit pace?](https://www.reddit.com/r/selfhosted/comments/1xder5x/locking_down_familyfacing_selfhosted_services_how/)
-- 2026-10-24T11:21:00+00:00 — [retrieving data from restic.](https://www.reddit.com/r/selfhosted/comments/1xe63to/retrieving_data_from_restic/)
-- 2026-10-24T10:27:33+00:00 — [Hardware: what & where to buy](https://www.reddit.com/r/selfhosted/comments/1xe56tp/hardware_what_where_to_buy/)
-- 2026-10-23T16:18:23+00:00 — [Should I have a bunch of docker containers and a docker manager or a bunch of LXCs with their own docker containers?](https://www.reddit.com/r/selfhosted/comments/1xdijie/should_i_have_a_bunch_of_docker_containers_and_a/)
-- 2026-10-23T20:24:13+00:00 — [Running all my Docker services in one LXC on Proxmox. Thinking of moving to a Talos VM, thoughts?](https://www.reddit.com/r/selfhosted/comments/1xdp1c2/running_all_my_docker_services_in_one_lxc_on/)
-- 2026-10-24T08:28:18+00:00 — [Review my Jellyfin + *arr plan](https://www.reddit.com/r/selfhosted/comments/1xe39tb/review_my_jellyfin_arr_plan/)
-- 2026-10-22T14:53:57+00:00 — [Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)](https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/)
-- Thu, 22 Oct 2026 23:45:56 +0000 — [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 <!-- NEWS END -->
