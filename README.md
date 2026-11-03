@@ -2,14 +2,27 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-02 17:29 UTC
+Last update: 2026-11-03 15:31 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 03 Nov 2026 15:30:00 +0000 — [Kubernetes GitOps with FluxCD - Part 5 - Implementing Discord Alerts](https://dev.to/kiriapurv/kubernetes-gitops-with-fluxcd-part-5-implementing-discord-alerts-3p4g)
+- Tue, 03 Nov 2026 15:28:09 +0000 — [Isolation Forest Anomaly Detection on Login Logs in Python: Thresholds, Explanations, Drift](https://dev.to/kate_steeleeee/isolation-forest-anomaly-detection-on-login-logs-in-python-thresholds-explanations-drift-1gpo)
+- 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
+- 2026-11-02T22:30:44+00:00 — [SurfSense: a self-hosted NotebookLM alternative](https://www.reddit.com/r/selfhosted/comments/1xmbomg/surfsense_a_selfhosted_notebooklm_alternative/)
+- 2026-11-03T13:35:21+00:00 — [Feedback on my personal anti-censorship VPN setup](https://www.reddit.com/r/selfhosted/comments/1xmt31w/feedback_on_my_personal_anticensorship_vpn_setup/)
+- 2026-11-03T11:32:56+00:00 — [Secure remote control setup](https://www.reddit.com/r/selfhosted/comments/1xmqldn/secure_remote_control_setup/)
+- 2026-11-02T21:24:27+00:00 — [Netbird vs. Pangolin in late 2026](https://www.reddit.com/r/selfhosted/comments/1xm9zmg/netbird_vs_pangolin_in_late_2026/)
+- 2026-11-03T10:00:48+00:00 — [Anyone using Cortendesk](https://www.reddit.com/r/selfhosted/comments/1xmp0v7/anyone_using_cortendesk/)
+- 2026-11-03T13:50:37+00:00 — [Notify-only Docker update checks: what threads here keep landing on](https://www.reddit.com/r/selfhosted/comments/1xmtfmb/notifyonly_docker_update_checks_what_threads_here/)
+- 2026-11-03T14:26:53+00:00 — [pgquery: a Postgres GUI in a single container (SQL editor, ER diagram, RLS policies, EXPLAIN viewer). MIT, no account](https://www.reddit.com/r/selfhosted/comments/1xmucck/pgquery_a_postgres_gui_in_a_single_container_sql/)
+- 2026-11-03T13:44:45+00:00 — [Sterling PDF Sync](https://www.reddit.com/r/selfhosted/comments/1xmtanf/sterling_pdf_sync/)
+- 2026-11-03T13:55:19+00:00 — [BackVault v3.0 RC1](https://www.reddit.com/r/selfhosted/comments/1xmtjti/backvault_v30_rc1/)
+- 2026-11-02T21:06:42+00:00 — [Looking for affordable and scalable hosting for our app](https://www.reddit.com/r/selfhosted/comments/1xm9j0b/looking_for_affordable_and_scalable_hosting_for/)
+- 2026-11-02T21:51:06+00:00 — [Docker HCI Project](https://www.reddit.com/r/selfhosted/comments/1xmaom2/docker_hci_project/)
 - Mon, 02 Nov 2026 17:23:57 +0000 — [CVE-2026-28328 and the Limits of Product-Fingerprint Exposure Data](https://dev.to/facilishz/cve-2026-28328-and-the-limits-of-product-fingerprint-exposure-data-2ij6)
 - Mon, 02 Nov 2026 17:21:46 +0000 — [A Four-Line Fix for a 9.8: Anatomy of Linux's TCP Handshake Use-After-Free](https://dev.to/chenyuan20509/a-four-line-fix-for-a-98-anatomy-of-linuxs-tcp-handshake-use-after-free-5137)
-- 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
 - 2026-11-02T10:14:44+00:00 — [Do I need to buy a server or use something I already have ?](https://www.reddit.com/r/selfhosted/comments/1xltg3e/do_i_need_to_buy_a_server_or_use_something_i/)
 - 2026-11-02T00:47:06+00:00 — [Scibrarian: Your personal PubMed catalog and research workflow](https://www.reddit.com/r/selfhosted/comments/1xljfa9/scibrarian_your_personal_pubmed_catalog_and/)
 - 2026-11-02T06:50:16+00:00 — [Looking for suggestions over a humble home server](https://www.reddit.com/r/selfhosted/comments/1xlq9hh/looking_for_suggestions_over_a_humble_home_server/)
@@ -94,17 +107,4 @@ Last update: 2026-11-02 17:29 UTC
 - Sun, 25 Oct 2026 12:46:20 +0000 — [Charta | Make Folders Intelligent](https://dev.to/mirshah12/charta-make-folders-intelligent-5ck4)
 - Sun, 25 Oct 2026 12:45:32 +0000 — [PocketBase: The Open-Source Firebase Alternative That Runs in a Single Go Binary](https://dev.to/syed_anzar/pocketbase-the-open-source-firebase-alternative-that-runs-in-a-single-go-binary-5h57)
 - 2026-10-24T20:41:39+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen, now at v1.5](https://www.reddit.com/r/selfhosted/comments/1xejb0k/kitchen_board_a_selfhosted_wall_planner_for_the/)
-- 2026-10-24T16:47:45+00:00 — [Is exposing services via reverse proxy still secure enough?](https://www.reddit.com/r/selfhosted/comments/1xedisk/is_exposing_services_via_reverse_proxy_still/)
-- 2026-10-25T02:42:21+00:00 — [Is self-signed cert sufficient?](https://www.reddit.com/r/selfhosted/comments/1xeqwud/is_selfsigned_cert_sufficient/)
-- 2026-10-25T10:01:41+00:00 — [Where to store databases and configs?](https://www.reddit.com/r/selfhosted/comments/1xeygfw/where_to_store_databases_and_configs/)
-- 2026-10-25T11:18:57+00:00 — [Somnaura: self-hosted Discord bot that loops your own ambient audio files (rain, white noise, sleep sounds)](https://www.reddit.com/r/selfhosted/comments/1xezsw3/somnaura_selfhosted_discord_bot_that_loops_your/)
-- 2026-10-24T12:13:48+00:00 — [What tools do you use to keep your containers up to date?](https://www.reddit.com/r/selfhosted/comments/1xe73gj/what_tools_do_you_use_to_keep_your_containers_up/)
-- 2026-10-25T10:09:42+00:00 — [are SMTP gateways good to fix email server on blacklisted IP problem](https://www.reddit.com/r/selfhosted/comments/1xeyldq/are_smtp_gateways_good_to_fix_email_server_on/)
-- 2026-10-25T09:35:13+00:00 — [NPM 403's with Filebrowser Quantam; everything else is fine, please help?](https://www.reddit.com/r/selfhosted/comments/1xey0vb/npm_403s_with_filebrowser_quantam_everything_else/)
-- 2026-10-24T16:09:11+00:00 — [JLTamp, a self-hosted music server with its own Android/iOS apps, CarPlay/Android Auto and a Subsonic API (MIT, one Docker container)](https://www.reddit.com/r/selfhosted/comments/1xeck9x/jltamp_a_selfhosted_music_server_with_its_own/)
-- 2026-10-25T00:49:04+00:00 — [How to restore containers, settings, etc.](https://www.reddit.com/r/selfhosted/comments/1xeoonv/how_to_restore_containers_settings_etc/)
-- 2026-10-25T11:16:46+00:00 — [AgentSwarms 1.6.0 – A complete source-available AI Data platform (Lakehouse + ETL + BI) built natively for multi-agent AI](https://www.reddit.com/r/selfhosted/comments/1xezri2/agentswarms_160_a_complete_sourceavailable_ai/)
-- Sat, 24 Oct 2026 12:08:41 +0000 — [Signing Netlify Webhooks with HMAC and Timestamps for a Home Automation Server](https://dev.to/the_bomber_f1e42beb1feaec/signing-netlify-webhooks-with-hmac-and-timestamps-for-a-home-automation-server-58j1)
-- Sat, 24 Oct 2026 12:08:40 +0000 — [leantext: up to 99% fewer tokens when your coding agent reads the web](https://dev.to/shouvik12/leantext-up-to-99-fewer-tokens-when-your-coding-agent-reads-the-web-4gk1)
-- Sat, 24 Oct 2026 12:02:34 +0000 — [Dockerfile security mistakes companies keep making](https://dev.to/openrouting_si/dockerfile-security-mistakes-companies-keep-making-2djf)
 <!-- NEWS END -->
