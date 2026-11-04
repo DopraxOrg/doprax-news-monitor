@@ -2,17 +2,26 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-03 15:31 UTC
+Last update: 2026-11-04 15:49 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 04 Nov 2026 15:45:26 +0000 — [How to Integrate Real-Time Chat in a React and Django Application (WebSockets & Channels)](https://dev.to/shubham_raj_dev/how-to-integrate-real-time-chat-in-a-react-and-django-application-websockets-channels-2dce)
+- 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
+- 2026-11-04T01:54:39+00:00 — [PSA: Immich Machine Learning has Microsoft Telemetry enabled by default, here's how to disable it](https://www.reddit.com/r/selfhosted/comments/1xnbujt/psa_immich_machine_learning_has_microsoft/)
+- 2026-11-04T12:35:40+00:00 — [Help with Ansible and Borgbackup](https://www.reddit.com/r/selfhosted/comments/1xnn3gu/help_with_ansible_and_borgbackup/)
+- 2026-11-04T14:45:43+00:00 — [Why I'm building an automated laptop to server installer: the "non-technical friend" problem](https://www.reddit.com/r/selfhosted/comments/1xnq0rv/why_im_building_an_automated_laptop_to_server/)
+- 2026-11-04T14:34:07+00:00 — [TexLite – A lightweight self-hosted Overleaf alternative with built-in coding agent support](https://www.reddit.com/r/selfhosted/comments/1xnpqss/texlite_a_lightweight_selfhosted_overleaf/)
+- 2026-11-04T04:32:43+00:00 — [Need advice on upgrading homelab/self-hosting computer](https://www.reddit.com/r/selfhosted/comments/1xnezvo/need_advice_on_upgrading_homelabselfhosting/)
+- 2026-11-04T11:48:42+00:00 — [Versioned backup on change?](https://www.reddit.com/r/selfhosted/comments/1xnm6zq/versioned_backup_on_change/)
+- 2026-11-03T22:42:08+00:00 — [Self Hosted Sanity Check](https://www.reddit.com/r/selfhosted/comments/1xn7lh2/self_hosted_sanity_check/)
+- 2026-11-03T13:35:21+00:00 — [Feedback on my personal anti-censorship VPN setup](https://www.reddit.com/r/selfhosted/comments/1xmt31w/feedback_on_my_personal_anticensorship_vpn_setup/)
+- 2026-11-03T22:39:37+00:00 — [MiBeeNVR: dynamic timelapse and thermal cameras in a self-hosted NVR that keeps your footage on your own hardware](https://www.reddit.com/r/selfhosted/comments/1xn7jbb/mibeenvr_dynamic_timelapse_and_thermal_cameras_in/)
+- 2026-11-02T22:30:44+00:00 — [SurfSense: a self-hosted NotebookLM alternative](https://www.reddit.com/r/selfhosted/comments/1xmbomg/surfsense_a_selfhosted_notebooklm_alternative/)
+- 2026-11-03T11:32:56+00:00 — [Secure remote control setup](https://www.reddit.com/r/selfhosted/comments/1xmqldn/secure_remote_control_setup/)
 - Tue, 03 Nov 2026 15:30:00 +0000 — [Kubernetes GitOps with FluxCD - Part 5 - Implementing Discord Alerts](https://dev.to/kiriapurv/kubernetes-gitops-with-fluxcd-part-5-implementing-discord-alerts-3p4g)
 - Tue, 03 Nov 2026 15:28:09 +0000 — [Isolation Forest Anomaly Detection on Login Logs in Python: Thresholds, Explanations, Drift](https://dev.to/kate_steeleeee/isolation-forest-anomaly-detection-on-login-logs-in-python-thresholds-explanations-drift-1gpo)
-- 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
-- 2026-11-02T22:30:44+00:00 — [SurfSense: a self-hosted NotebookLM alternative](https://www.reddit.com/r/selfhosted/comments/1xmbomg/surfsense_a_selfhosted_notebooklm_alternative/)
-- 2026-11-03T13:35:21+00:00 — [Feedback on my personal anti-censorship VPN setup](https://www.reddit.com/r/selfhosted/comments/1xmt31w/feedback_on_my_personal_anticensorship_vpn_setup/)
-- 2026-11-03T11:32:56+00:00 — [Secure remote control setup](https://www.reddit.com/r/selfhosted/comments/1xmqldn/secure_remote_control_setup/)
 - 2026-11-02T21:24:27+00:00 — [Netbird vs. Pangolin in late 2026](https://www.reddit.com/r/selfhosted/comments/1xm9zmg/netbird_vs_pangolin_in_late_2026/)
 - 2026-11-03T10:00:48+00:00 — [Anyone using Cortendesk](https://www.reddit.com/r/selfhosted/comments/1xmp0v7/anyone_using_cortendesk/)
 - 2026-11-03T13:50:37+00:00 — [Notify-only Docker update checks: what threads here keep landing on](https://www.reddit.com/r/selfhosted/comments/1xmtfmb/notifyonly_docker_update_checks_what_threads_here/)
@@ -98,13 +107,4 @@ Last update: 2026-11-03 15:31 UTC
 - 2026-10-25T22:52:06+00:00 — [My Proxmox homelab: Caddy was the hardest part, and IPv6 Router Advertisements were to blame](https://www.reddit.com/r/selfhosted/comments/1xfgaoq/my_proxmox_homelab_caddy_was_the_hardest_part_and/)
 - 2026-10-26T14:27:35+00:00 — [SpeedKetchup: a 0.23 MB container image that runs a speed test every 10 minutes and charts the results](https://www.reddit.com/r/selfhosted/comments/1xfyclz/speedketchup_a_023_mb_container_image_that_runs_a/)
 - 2026-10-26T13:39:19+00:00 — [NoteDiscovery 0.33.0, wikilink autocomplete and a few important fixes](https://www.reddit.com/r/selfhosted/comments/1xfx38c/notediscovery_0330_wikilink_autocomplete_and_a/)
-- 2026-10-26T00:39:07+00:00 — [Traefik and Authelia help (please, this is killing me)](https://www.reddit.com/r/selfhosted/comments/1xfiogb/traefik_and_authelia_help_please_this_is_killing/)
-- 2026-10-26T03:47:03+00:00 — [From Apple One to NAS – self-hosted media and alternatives?](https://www.reddit.com/r/selfhosted/comments/1xfmhkv/from_apple_one_to_nas_selfhosted_media_and/)
-- 2026-10-26T01:28:28+00:00 — [YAMLResume v0.17 update: new kami HTML template, with accent color support for all engines and slimmed docker image.](https://www.reddit.com/r/selfhosted/comments/1xfjqan/yamlresume_v017_update_new_kami_html_template/)
-- 2026-10-26T07:20:18+00:00 — [CogniCore — self-hosted memory layer for AI agents: SQLite, in-process retrieval, no vector DB, no external service](https://www.reddit.com/r/selfhosted/comments/1xfq2cq/cognicore_selfhosted_memory_layer_for_ai_agents/)
-- 2026-10-25T20:54:20+00:00 — [Dual-node architecture for airgapped private RAG + 24/7 smart home agent (5090 Workstation + M6 Mac Mini)](https://www.reddit.com/r/selfhosted/comments/1xfdjib/dualnode_architecture_for_airgapped_private_rag/)
-- 2026-10-24T15:47:41+00:00 — [One year in, still extremely happy with my selfhosting journey](https://www.reddit.com/r/selfhosted/comments/1xec0wd/one_year_in_still_extremely_happy_with_my/)
-- Sun, 25 Oct 2026 12:46:20 +0000 — [Charta | Make Folders Intelligent](https://dev.to/mirshah12/charta-make-folders-intelligent-5ck4)
-- Sun, 25 Oct 2026 12:45:32 +0000 — [PocketBase: The Open-Source Firebase Alternative That Runs in a Single Go Binary](https://dev.to/syed_anzar/pocketbase-the-open-source-firebase-alternative-that-runs-in-a-single-go-binary-5h57)
-- 2026-10-24T20:41:39+00:00 — [Kitchen Board, a self-hosted wall planner for the family kitchen, now at v1.5](https://www.reddit.com/r/selfhosted/comments/1xejb0k/kitchen_board_a_selfhosted_wall_planner_for_the/)
 <!-- NEWS END -->
