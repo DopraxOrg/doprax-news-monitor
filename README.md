@@ -2,14 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-04 15:49 UTC
+Last update: 2026-11-05 15:51 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 04 Nov 2026 15:45:26 +0000 — [How to Integrate Real-Time Chat in a React and Django Application (WebSockets & Channels)](https://dev.to/shubham_raj_dev/how-to-integrate-real-time-chat-in-a-react-and-django-application-websockets-channels-2dce)
+- Thu, 05 Nov 2026 15:40:32 +0000 — [Minimizing Maintenance for Home Cloud and Media Servers: Strategies for Reliable, Hands-Off Operation](https://dev.to/elenbit/minimizing-maintenance-for-home-cloud-and-media-servers-strategies-for-reliable-hands-off-20ok)
 - 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
+- 2026-11-05T14:12:59+00:00 — [openssh on musl (eg. alpine) accepts any password > 256 characters for accounts with login disabled](https://www.reddit.com/r/selfhosted/comments/1xojnsm/openssh_on_musl_eg_alpine_accepts_any_password/)
+- 2026-11-05T09:42:52+00:00 — [withoutBG v4: self-hosted background removal with a Docker app and brush fixes](https://www.reddit.com/r/selfhosted/comments/1xoel60/withoutbg_v4_selfhosted_background_removal_with_a/)
+- 2026-11-05T14:02:21+00:00 — [FareBot: a self-hosted Telegram bot that tracks Google Flights prices and alerts you when they drop](https://www.reddit.com/r/selfhosted/comments/1xojehe/farebot_a_selfhosted_telegram_bot_that_tracks/)
+- 2026-11-05T02:33:36+00:00 — [Cryptominer in my Plausible anayltics container](https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/)
+- 2026-11-05T12:15:49+00:00 — [Wireguard on router Vs Tailscale](https://www.reddit.com/r/selfhosted/comments/1xoh5zn/wireguard_on_router_vs_tailscale/)
 - 2026-11-04T01:54:39+00:00 — [PSA: Immich Machine Learning has Microsoft Telemetry enabled by default, here's how to disable it](https://www.reddit.com/r/selfhosted/comments/1xnbujt/psa_immich_machine_learning_has_microsoft/)
+- 2026-11-05T12:50:04+00:00 — [I built an annotation-based Kubernetes operator for Uptime Kuma — no CRDs](https://www.reddit.com/r/selfhosted/comments/1xohtqf/i_built_an_annotationbased_kubernetes_operator/)
+- 2026-11-05T15:04:58+00:00 — [What happened to BigBearCasaOS?](https://www.reddit.com/r/selfhosted/comments/1xokxwo/what_happened_to_bigbearcasaos/)
+- 2026-11-05T14:55:44+00:00 — [How do you keep Docker Swarm releases consistent across images, configs and database migrations?](https://www.reddit.com/r/selfhosted/comments/1xokp3s/how_do_you_keep_docker_swarm_releases_consistent/)
+- 2026-11-04T17:26:53+00:00 — [Best Photo Picker: point it at a photo folder and get the best shots back, all on your own hardware (MIT, Docker)](https://www.reddit.com/r/selfhosted/comments/1xnu71s/best_photo_picker_point_it_at_a_photo_folder_and/)
+- 2026-11-05T14:59:47+00:00 — [AI agent for maintenance?](https://www.reddit.com/r/selfhosted/comments/1xoksp4/ai_agent_for_maintenance/)
+- Wed, 04 Nov 2026 15:45:26 +0000 — [How to Integrate Real-Time Chat in a React and Django Application (WebSockets & Channels)](https://dev.to/shubham_raj_dev/how-to-integrate-real-time-chat-in-a-react-and-django-application-websockets-channels-2dce)
 - 2026-11-04T12:35:40+00:00 — [Help with Ansible and Borgbackup](https://www.reddit.com/r/selfhosted/comments/1xnn3gu/help_with_ansible_and_borgbackup/)
 - 2026-11-04T14:45:43+00:00 — [Why I'm building an automated laptop to server installer: the "non-technical friend" problem](https://www.reddit.com/r/selfhosted/comments/1xnq0rv/why_im_building_an_automated_laptop_to_server/)
 - 2026-11-04T14:34:07+00:00 — [TexLite – A lightweight self-hosted Overleaf alternative with built-in coding agent support](https://www.reddit.com/r/selfhosted/comments/1xnpqss/texlite_a_lightweight_selfhosted_overleaf/)
@@ -96,15 +107,4 @@ Last update: 2026-11-04 15:49 UTC
 - 2026-10-26T13:52:25+00:00 — [eMudhra Crisis: What self-hosters should check on their reverse proxies and containers](https://www.reddit.com/r/selfhosted/comments/1xfxf8v/emudhra_crisis_what_selfhosters_should_check_on/)
 - 2026-10-27T12:31:38+00:00 — [Quantixy "v2" – Schrödinger's Proxy, now rewritten in Go](https://www.reddit.com/r/selfhosted/comments/1xgr91n/quantixy_v2_schrödingers_proxy_now_rewritten_in_go/)
 - 2026-10-27T11:16:43+00:00 — [Is it safe to run my commercial servers with my personal self-hosted apps (dockerized) on one VPS?](https://www.reddit.com/r/selfhosted/comments/1xgpr8y/is_it_safe_to_run_my_commercial_servers_with_my/)
-- 2026-10-27T09:11:19+00:00 — [Setup Review](https://www.reddit.com/r/selfhosted/comments/1xgnlb8/setup_review/)
-- 2026-10-26T10:47:07+00:00 — [Finally jumped on the Tailscale bandwagon, and wow… it just works.](https://www.reddit.com/r/selfhosted/comments/1xftfhm/finally_jumped_on_the_tailscale_bandwagon_and_wow/)
-- 2026-10-26T09:48:26+00:00 — [Intrusion detection/prevention on your homelab](https://www.reddit.com/r/selfhosted/comments/1xfsedu/intrusion_detectionprevention_on_your_homelab/)
-- 2026-10-26T21:46:29+00:00 — [Docker image version tracker?](https://www.reddit.com/r/selfhosted/comments/1xga8mf/docker_image_version_tracker/)
-- 2026-10-26T12:26:07+00:00 — [Rebuilt my media server from scratch](https://www.reddit.com/r/selfhosted/comments/1xfvdtz/rebuilt_my_media_server_from_scratch/)
-- 2026-10-25T13:54:52+00:00 — [What are your selfhosting gems](https://www.reddit.com/r/selfhosted/comments/1xf2zcl/what_are_your_selfhosting_gems/)
-- 2026-10-25T11:55:09+00:00 — [TREK 5.0: the only travel app you will ever need to self-host. Plan the trip, route the hike, split the costs, print the photo book, and more](https://www.reddit.com/r/selfhosted/comments/1xf0g6j/trek_50_the_only_travel_app_you_will_ever_need_to/)
-- 2026-10-26T08:02:49+00:00 — [How do you handle backing up databases (Docker + Backrest/Restic setup)?](https://www.reddit.com/r/selfhosted/comments/1xfqpq5/how_do_you_handle_backing_up_databases_docker/)
-- 2026-10-25T22:52:06+00:00 — [My Proxmox homelab: Caddy was the hardest part, and IPv6 Router Advertisements were to blame](https://www.reddit.com/r/selfhosted/comments/1xfgaoq/my_proxmox_homelab_caddy_was_the_hardest_part_and/)
-- 2026-10-26T14:27:35+00:00 — [SpeedKetchup: a 0.23 MB container image that runs a speed test every 10 minutes and charts the results](https://www.reddit.com/r/selfhosted/comments/1xfyclz/speedketchup_a_023_mb_container_image_that_runs_a/)
-- 2026-10-26T13:39:19+00:00 — [NoteDiscovery 0.33.0, wikilink autocomplete and a few important fixes](https://www.reddit.com/r/selfhosted/comments/1xfx38c/notediscovery_0330_wikilink_autocomplete_and_a/)
 <!-- NEWS END -->
