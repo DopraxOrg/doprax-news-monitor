@@ -2,18 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-05 15:51 UTC
+Last update: 2026-11-06 15:25 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 06 Nov 2026 03:16:26 +0000 — [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)
+- Fri, 06 Nov 2026 15:20:06 +0000 — [Beyond a Successful Update: Validating Workspace Continuity and Local Data Persistence in Tables](https://dev.to/arya_hegiste_8528edf8cd29/beyond-a-successful-update-validating-workspace-continuity-and-local-data-persistence-in-tables-105m)
+- 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
+- 2026-11-05T14:12:59+00:00 — [openssh on musl (eg. alpine) accepts any password > 256 characters for accounts with login disabled](https://www.reddit.com/r/selfhosted/comments/1xojnsm/openssh_on_musl_eg_alpine_accepts_any_password/)
+- 2026-11-06T00:49:57+00:00 — [Anyone ever try the Syncthing equivalent of VPNs, Anywherelan?](https://www.reddit.com/r/selfhosted/comments/1xozg3r/anyone_ever_try_the_syncthing_equivalent_of_vpns/)
+- 2026-11-06T09:24:29+00:00 — [I want to give my unused iPad (9th Generation with A19) a new purpose](https://www.reddit.com/r/selfhosted/comments/1xp8jzk/i_want_to_give_my_unused_ipad_9th_generation_with/)
+- 2026-11-05T14:02:21+00:00 — [FareBot: a self-hosted Telegram bot that tracks Google Flights prices and alerts you when they drop](https://www.reddit.com/r/selfhosted/comments/1xojehe/farebot_a_selfhosted_telegram_bot_that_tracks/)
+- 2026-11-05T12:15:49+00:00 — [Wireguard on router Vs Tailscale](https://www.reddit.com/r/selfhosted/comments/1xoh5zn/wireguard_on_router_vs_tailscale/)
+- 2026-11-05T09:42:52+00:00 — [withoutBG v4: self-hosted background removal with a Docker app and brush fixes](https://www.reddit.com/r/selfhosted/comments/1xoel60/withoutbg_v4_selfhosted_background_removal_with_a/)
+- 2026-11-05T16:49:26+00:00 — [Wake on Lan at Immich/Audiobookshelf Connect](https://www.reddit.com/r/selfhosted/comments/1xonmrn/wake_on_lan_at_immichaudiobookshelf_connect/)
+- 2026-11-05T02:33:36+00:00 — [Cryptominer in my Plausible anayltics container](https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/)
 - Thu, 05 Nov 2026 15:40:32 +0000 — [Minimizing Maintenance for Home Cloud and Media Servers: Strategies for Reliable, Hands-Off Operation](https://dev.to/elenbit/minimizing-maintenance-for-home-cloud-and-media-servers-strategies-for-reliable-hands-off-20ok)
 - 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
-- 2026-11-05T14:12:59+00:00 — [openssh on musl (eg. alpine) accepts any password > 256 characters for accounts with login disabled](https://www.reddit.com/r/selfhosted/comments/1xojnsm/openssh_on_musl_eg_alpine_accepts_any_password/)
-- 2026-11-05T09:42:52+00:00 — [withoutBG v4: self-hosted background removal with a Docker app and brush fixes](https://www.reddit.com/r/selfhosted/comments/1xoel60/withoutbg_v4_selfhosted_background_removal_with_a/)
-- 2026-11-05T14:02:21+00:00 — [FareBot: a self-hosted Telegram bot that tracks Google Flights prices and alerts you when they drop](https://www.reddit.com/r/selfhosted/comments/1xojehe/farebot_a_selfhosted_telegram_bot_that_tracks/)
-- 2026-11-05T02:33:36+00:00 — [Cryptominer in my Plausible anayltics container](https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/)
-- 2026-11-05T12:15:49+00:00 — [Wireguard on router Vs Tailscale](https://www.reddit.com/r/selfhosted/comments/1xoh5zn/wireguard_on_router_vs_tailscale/)
 - 2026-11-04T01:54:39+00:00 — [PSA: Immich Machine Learning has Microsoft Telemetry enabled by default, here's how to disable it](https://www.reddit.com/r/selfhosted/comments/1xnbujt/psa_immich_machine_learning_has_microsoft/)
 - 2026-11-05T12:50:04+00:00 — [I built an annotation-based Kubernetes operator for Uptime Kuma — no CRDs](https://www.reddit.com/r/selfhosted/comments/1xohtqf/i_built_an_annotationbased_kubernetes_operator/)
 - 2026-11-05T15:04:58+00:00 — [What happened to BigBearCasaOS?](https://www.reddit.com/r/selfhosted/comments/1xokxwo/what_happened_to_bigbearcasaos/)
@@ -101,10 +107,4 @@ Last update: 2026-11-05 15:51 UTC
 - 2026-10-28T08:53:57+00:00 — [Tool for convenient LLM agent interface](https://www.reddit.com/r/selfhosted/comments/1xhittt/tool_for_convenient_llm_agent_interface/)
 - Tue, 27 Oct 2026 13:30:47 +0000 — [NVIDIA OpenShell คืออะไร? "ห้องกักตัว" ของ AI agent ที่คุมสิทธิ์ถึงระดับเคอร์เนล](https://dev.to/sarantoon/nvidia-openshell-khuueaair-hngkaktaw-khng-ai-agent-thiikhumsiththithuengradabekhrenl-1d9i)
 - Tue, 27 Oct 2026 13:30:01 +0000 — [Is Qwen Safe to Run Locally? Cohere Caught Qwen3.8 Trying to Upload to Beijing](https://dev.to/alanwest/is-qwen-safe-to-run-locally-cohere-caught-qwen38-trying-to-upload-to-beijing-hao)
-- 2026-10-27T02:57:52+00:00 — [Version control for docker compose environment](https://www.reddit.com/r/selfhosted/comments/1xghbex/version_control_for_docker_compose_environment/)
-- 2026-10-27T12:24:10+00:00 — [First homelab: WireGuard vs. Headscale/NetBird, plus a tricky VPN situation](https://www.reddit.com/r/selfhosted/comments/1xgr3b3/first_homelab_wireguard_vs_headscalenetbird_plus/)
-- 2026-10-27T06:46:46+00:00 — [Did a dry run of the Stalwart 0.16 -> 1.0 migration with a copy of my server. Went fine, but heads up if you use the admin API](https://www.reddit.com/r/selfhosted/comments/1xgldsw/did_a_dry_run_of_the_stalwart_016_10_migration/)
-- 2026-10-26T13:52:25+00:00 — [eMudhra Crisis: What self-hosters should check on their reverse proxies and containers](https://www.reddit.com/r/selfhosted/comments/1xfxf8v/emudhra_crisis_what_selfhosters_should_check_on/)
-- 2026-10-27T12:31:38+00:00 — [Quantixy "v2" – Schrödinger's Proxy, now rewritten in Go](https://www.reddit.com/r/selfhosted/comments/1xgr91n/quantixy_v2_schrödingers_proxy_now_rewritten_in_go/)
-- 2026-10-27T11:16:43+00:00 — [Is it safe to run my commercial servers with my personal self-hosted apps (dockerized) on one VPS?](https://www.reddit.com/r/selfhosted/comments/1xgpr8y/is_it_safe_to_run_my_commercial_servers_with_my/)
 <!-- NEWS END -->
