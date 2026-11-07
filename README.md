@@ -2,15 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-06 15:25 UTC
+Last update: 2026-11-07 14:27 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sat, 07 Nov 2026 14:24:06 +0000 — [Your AI agent isn’t stuck because it’s dumb. It’s stuck because it has amnesia.](https://dev.to/codebyaks/your-ai-agent-isnt-stuck-because-its-dumb-its-stuck-because-it-has-amnesia-pk5)
+- Sat, 07 Nov 2026 14:23:32 +0000 — [Docker ports bypass UFW: why it happens and 3 ways to fix it](https://dev.to/veloxadev/docker-ports-bypass-ufw-why-it-happens-and-3-ways-to-fix-it-5emd)
+- Sat, 07 Nov 2026 14:23:32 +0000 — [FastAPI: eventos de email sin polling ciego](https://dev.to/oliviachen7/fastapi-eventos-de-email-sin-polling-ciego-3kmc)
+- 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
+- 2026-11-07T02:59:18+00:00 — [VaultWarden or KeePassXC](https://www.reddit.com/r/selfhosted/comments/1xpvrr1/vaultwarden_or_keepassxc/)
+- 2026-11-06T21:43:03+00:00 — [M1 Pro, 16GB as a homelab or shall I sell it for a mini pc?](https://www.reddit.com/r/selfhosted/comments/1xpp27c/m1_pro_16gb_as_a_homelab_or_shall_i_sell_it_for_a/)
+- 2026-11-07T12:06:52+00:00 — [Replycant - self-hosted image storage](https://www.reddit.com/r/selfhosted/comments/1xq4uhp/replycant_selfhosted_image_storage/)
+- 2026-11-06T22:35:42+00:00 — [Server setup help/advice](https://www.reddit.com/r/selfhosted/comments/1xpqatz/server_setup_helpadvice/)
+- 2026-11-05T14:12:59+00:00 — [openssh on musl (eg. alpine) accepts any password > 256 characters for accounts with login disabled](https://www.reddit.com/r/selfhosted/comments/1xojnsm/openssh_on_musl_eg_alpine_accepts_any_password/)
+- 2026-11-06T20:39:08+00:00 — [Docker network configuration](https://www.reddit.com/r/selfhosted/comments/1xpnina/docker_network_configuration/)
 - Fri, 06 Nov 2026 03:16:26 +0000 — [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)
 - Fri, 06 Nov 2026 15:20:06 +0000 — [Beyond a Successful Update: Validating Workspace Continuity and Local Data Persistence in Tables](https://dev.to/arya_hegiste_8528edf8cd29/beyond-a-successful-update-validating-workspace-continuity-and-local-data-persistence-in-tables-105m)
-- 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
-- 2026-11-05T14:12:59+00:00 — [openssh on musl (eg. alpine) accepts any password > 256 characters for accounts with login disabled](https://www.reddit.com/r/selfhosted/comments/1xojnsm/openssh_on_musl_eg_alpine_accepts_any_password/)
 - 2026-11-06T00:49:57+00:00 — [Anyone ever try the Syncthing equivalent of VPNs, Anywherelan?](https://www.reddit.com/r/selfhosted/comments/1xozg3r/anyone_ever_try_the_syncthing_equivalent_of_vpns/)
 - 2026-11-06T09:24:29+00:00 — [I want to give my unused iPad (9th Generation with A19) a new purpose](https://www.reddit.com/r/selfhosted/comments/1xp8jzk/i_want_to_give_my_unused_ipad_9th_generation_with/)
 - 2026-11-05T14:02:21+00:00 — [FareBot: a self-hosted Telegram bot that tracks Google Flights prices and alerts you when they drop](https://www.reddit.com/r/selfhosted/comments/1xojehe/farebot_a_selfhosted_telegram_bot_that_tracks/)
@@ -99,12 +107,4 @@ Last update: 2026-11-06 15:25 UTC
 - Wed, 28 Oct 2026 14:24:30 +0000 — [FastAPI Token Streaming Without Blocking the Event Loop](https://dev.to/leo_martinez/fastapi-token-streaming-without-blocking-the-event-loop-5bgc)
 - Wed, 28 Oct 2026 14:22:42 +0000 — [Open Source Radar · 2026-10-28: Approval moves from the prompt into the pipeline](https://dev.to/widechaos/open-source-radar-2026-10-28-approval-moves-from-the-prompt-into-the-pipeline-4kpp)
 - 2026-10-27T23:45:36+00:00 — [SETTLE - an IETF proposal that will revolutionize private network trust](https://www.reddit.com/r/selfhosted/comments/1xh8pv7/settle_an_ietf_proposal_that_will_revolutionize/)
-- 2026-10-27T16:31:21+00:00 — [Pangolin now supports mTLS client certificates, great for hardening externally exposed services](https://www.reddit.com/r/selfhosted/comments/1xgxbnb/pangolin_now_supports_mtls_client_certificates/)
-- 2026-10-27T16:31:15+00:00 — [[FOSS] A tool to shrink Immich libraries 20-50% by converting originals to JPEG-XL / AV1 in place while keeping albums and metadata intact.](https://www.reddit.com/r/selfhosted/comments/1xgxbju/foss_a_tool_to_shrink_immich_libraries_2050_by/)
-- 2026-10-28T13:40:05+00:00 — [Need help with Self Hosted VPN](https://www.reddit.com/r/selfhosted/comments/1xhod1c/need_help_with_self_hosted_vpn/)
-- 2026-10-28T04:02:30+00:00 — [New to self hosting and need some guidance](https://www.reddit.com/r/selfhosted/comments/1xhe41b/new_to_self_hosting_and_need_some_guidance/)
-- 2026-10-28T09:56:12+00:00 — [NAS (DXP2800) owners: stick with UGOS or jump to ZimaOS (or something else entirely)?](https://www.reddit.com/r/selfhosted/comments/1xhjtgv/nas_dxp2800_owners_stick_with_ugos_or_jump_to/)
-- 2026-10-28T08:53:57+00:00 — [Tool for convenient LLM agent interface](https://www.reddit.com/r/selfhosted/comments/1xhittt/tool_for_convenient_llm_agent_interface/)
-- Tue, 27 Oct 2026 13:30:47 +0000 — [NVIDIA OpenShell คืออะไร? "ห้องกักตัว" ของ AI agent ที่คุมสิทธิ์ถึงระดับเคอร์เนล](https://dev.to/sarantoon/nvidia-openshell-khuueaair-hngkaktaw-khng-ai-agent-thiikhumsiththithuengradabekhrenl-1d9i)
-- Tue, 27 Oct 2026 13:30:01 +0000 — [Is Qwen Safe to Run Locally? Cohere Caught Qwen3.8 Trying to Upload to Beijing](https://dev.to/alanwest/is-qwen-safe-to-run-locally-cohere-caught-qwen38-trying-to-upload-to-beijing-hao)
 <!-- NEWS END -->
