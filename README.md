@@ -2,16 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-07 14:27 UTC
+Last update: 2026-11-08 14:36 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 08 Nov 2026 14:23:55 +0000 — [React: formularios ágiles sin perder el foco](https://dev.to/silviutech/react-formularios-agiles-sin-perder-el-foco-b75)
+- 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
+- 2026-11-08T11:19:01+00:00 — [GitHub as VPN auth-provider](https://www.reddit.com/r/selfhosted/comments/1xqw6jq/github_as_vpn_authprovider/)
+- 2026-11-08T13:36:49+00:00 — [Domain structure, *.home.example.com or *.example.com](https://www.reddit.com/r/selfhosted/comments/1xqylfx/domain_structure_homeexamplecom_or_examplecom/)
+- 2026-11-08T11:08:38+00:00 — [IaC for selfhosted server?](https://www.reddit.com/r/selfhosted/comments/1xqw0r1/iac_for_selfhosted_server/)
+- 2026-11-08T14:19:58+00:00 — [AbuseBox: know you're blacklisted before your users do](https://www.reddit.com/r/selfhosted/comments/1xqzhp8/abusebox_know_youre_blacklisted_before_your_users/)
+- 2026-11-08T12:39:34+00:00 — [I built a self-hosted FastAPI gateway to control LLM API spending](https://www.reddit.com/r/selfhosted/comments/1xqxi7w/i_built_a_selfhosted_fastapi_gateway_to_control/)
+- 2026-11-08T04:05:28+00:00 — [Questions About Connecting Two Homelabs](https://www.reddit.com/r/selfhosted/comments/1xqpcix/questions_about_connecting_two_homelabs/)
+- 2026-11-07T02:59:18+00:00 — [VaultWarden or KeePassXC](https://www.reddit.com/r/selfhosted/comments/1xpvrr1/vaultwarden_or_keepassxc/)
 - Sat, 07 Nov 2026 14:24:06 +0000 — [Your AI agent isn’t stuck because it’s dumb. It’s stuck because it has amnesia.](https://dev.to/codebyaks/your-ai-agent-isnt-stuck-because-its-dumb-its-stuck-because-it-has-amnesia-pk5)
 - Sat, 07 Nov 2026 14:23:32 +0000 — [Docker ports bypass UFW: why it happens and 3 ways to fix it](https://dev.to/veloxadev/docker-ports-bypass-ufw-why-it-happens-and-3-ways-to-fix-it-5emd)
 - Sat, 07 Nov 2026 14:23:32 +0000 — [FastAPI: eventos de email sin polling ciego](https://dev.to/oliviachen7/fastapi-eventos-de-email-sin-polling-ciego-3kmc)
-- 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
-- 2026-11-07T02:59:18+00:00 — [VaultWarden or KeePassXC](https://www.reddit.com/r/selfhosted/comments/1xpvrr1/vaultwarden_or_keepassxc/)
 - 2026-11-06T21:43:03+00:00 — [M1 Pro, 16GB as a homelab or shall I sell it for a mini pc?](https://www.reddit.com/r/selfhosted/comments/1xpp27c/m1_pro_16gb_as_a_homelab_or_shall_i_sell_it_for_a/)
 - 2026-11-07T12:06:52+00:00 — [Replycant - self-hosted image storage](https://www.reddit.com/r/selfhosted/comments/1xq4uhp/replycant_selfhosted_image_storage/)
 - 2026-11-06T22:35:42+00:00 — [Server setup help/advice](https://www.reddit.com/r/selfhosted/comments/1xpqatz/server_setup_helpadvice/)
@@ -100,11 +107,4 @@ Last update: 2026-11-07 14:27 UTC
 - 2026-10-29T00:51:42+00:00 — [Guide - Use docker to operate legacy scanner hardware on Windows 11](https://www.reddit.com/r/selfhosted/comments/1xi5z2k/guide_use_docker_to_operate_legacy_scanner/)
 - 2026-10-29T05:51:41+00:00 — [Chore management app request](https://www.reddit.com/r/selfhosted/comments/1xibsu2/chore_management_app_request/)
 - 2026-10-28T17:41:51+00:00 — [FiestaBoard v10: a self-hosted dashboard for Vestaboard and Pixoo 64](https://www.reddit.com/r/selfhosted/comments/1xhuyqm/fiestaboard_v10_a_selfhosted_dashboard_for/)
-- 2026-10-28T04:58:35+00:00 — [Sablier, 4 years later: start your apps on demand, now with Podman, Proxmox LXC, Nomad, ECS and more](https://www.reddit.com/r/selfhosted/comments/1xhf3z7/sablier_4_years_later_start_your_apps_on_demand/)
-- 2026-10-28T13:30:19+00:00 — [Looking for a self-hosted music setup: personal archive + online discovery + temporary FLAC cache. Is this realistic?](https://www.reddit.com/r/selfhosted/comments/1xho4fs/looking_for_a_selfhosted_music_setup_personal/)
-- Wed, 28 Oct 2026 14:27:20 +0000 — [Building a test management tool where AI agents are first-class citizens, not an afterthought](https://dev.to/miguel_angelalonsoprez/building-a-test-management-tool-where-ai-agents-are-first-class-citizens-not-an-afterthought-1ek2)
-- Wed, 28 Oct 2026 14:26:45 +0000 — [Reporte: macOS 27.2 revierte el parche manual contra eMudhra](https://dev.to/lu1tr0n/reporte-macos-272-revierte-el-parche-manual-contra-emudhra-3ej7)
-- Wed, 28 Oct 2026 14:24:30 +0000 — [FastAPI Token Streaming Without Blocking the Event Loop](https://dev.to/leo_martinez/fastapi-token-streaming-without-blocking-the-event-loop-5bgc)
-- Wed, 28 Oct 2026 14:22:42 +0000 — [Open Source Radar · 2026-10-28: Approval moves from the prompt into the pipeline](https://dev.to/widechaos/open-source-radar-2026-10-28-approval-moves-from-the-prompt-into-the-pipeline-4kpp)
-- 2026-10-27T23:45:36+00:00 — [SETTLE - an IETF proposal that will revolutionize private network trust](https://www.reddit.com/r/selfhosted/comments/1xh8pv7/settle_an_ietf_proposal_that_will_revolutionize/)
 <!-- NEWS END -->
