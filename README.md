@@ -2,15 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-08 14:36 UTC
+Last update: 2026-11-09 17:52 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sun, 08 Nov 2026 14:23:55 +0000 — [React: formularios ágiles sin perder el foco](https://dev.to/silviutech/react-formularios-agiles-sin-perder-el-foco-b75)
+- Mon, 09 Nov 2026 17:50:00 +0000 — [The Profiler We Weren't Allowed to Have: 72 Hours of Zero-Dependency Rust at Speed Demon 2026](https://dev.to/dannyamah/the-profiler-we-werent-allowed-to-have-72-hours-of-zero-dependency-rust-at-speed-demon-2026-5bnk)
+- Mon, 09 Nov 2026 17:47:32 +0000 — [Breaking the Cold Chain: Technical Breakdown of CVE-2025-41450 and Cyber-Physical OT Sabotage](https://dev.to/gabrieledattile/breaking-the-cold-chain-technical-breakdown-of-cve-2025-41450-and-cyber-physical-ot-sabotage-74h)
+- Mon, 09 Nov 2026 17:46:20 +0000 — [dature: type-safe configuration through plain dataclasses](https://dev.to/niccolum/dature-type-safe-configuration-through-plain-dataclasses-24bi)
 - 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
+- 2026-11-09T11:03:03+00:00 — [Dawarich 1.22.0 — Alternative to Google Timeline, OwnTracks and Life360](https://www.reddit.com/r/selfhosted/comments/1xrourj/dawarich_1220_alternative_to_google_timeline/)
+- 2026-11-08T20:36:44+00:00 — [AudioSilo - Self hosted audiobooks](https://www.reddit.com/r/selfhosted/comments/1xr8g7s/audiosilo_self_hosted_audiobooks/)
+- 2026-11-09T14:53:54+00:00 — [Best price/performance hosting setup for a TypeScript/Node.js SaaS? Dev vs Production, VPS vs PaaS](https://www.reddit.com/r/selfhosted/comments/1xrtp6v/best_priceperformance_hosting_setup_for_a/)
 - 2026-11-08T11:19:01+00:00 — [GitHub as VPN auth-provider](https://www.reddit.com/r/selfhosted/comments/1xqw6jq/github_as_vpn_authprovider/)
+- 2026-11-09T11:18:06+00:00 — [Looking for a google keep alternative(mostly todo list)](https://www.reddit.com/r/selfhosted/comments/1xrp42g/looking_for_a_google_keep_alternativemostly_todo/)
 - 2026-11-08T13:36:49+00:00 — [Domain structure, *.home.example.com or *.example.com](https://www.reddit.com/r/selfhosted/comments/1xqylfx/domain_structure_homeexamplecom_or_examplecom/)
+- 2026-11-08T22:14:31+00:00 — [Self Hosting Dashcams?](https://www.reddit.com/r/selfhosted/comments/1xrapn3/self_hosting_dashcams/)
+- 2026-11-09T15:33:08+00:00 — [How to handle .iso/disk images](https://www.reddit.com/r/selfhosted/comments/1xrupy9/how_to_handle_isodisk_images/)
+- 2026-11-09T11:16:04+00:00 — [Home Lab private setup: combine frontier model for reasoing with local model for execution. Does this exist?](https://www.reddit.com/r/selfhosted/comments/1xrp2t9/home_lab_private_setup_combine_frontier_model_for/)
+- Sun, 08 Nov 2026 14:23:55 +0000 — [React: formularios ágiles sin perder el foco](https://dev.to/silviutech/react-formularios-agiles-sin-perder-el-foco-b75)
 - 2026-11-08T11:08:38+00:00 — [IaC for selfhosted server?](https://www.reddit.com/r/selfhosted/comments/1xqw0r1/iac_for_selfhosted_server/)
 - 2026-11-08T14:19:58+00:00 — [AbuseBox: know you're blacklisted before your users do](https://www.reddit.com/r/selfhosted/comments/1xqzhp8/abusebox_know_youre_blacklisted_before_your_users/)
 - 2026-11-08T12:39:34+00:00 — [I built a self-hosted FastAPI gateway to control LLM API spending](https://www.reddit.com/r/selfhosted/comments/1xqxi7w/i_built_a_selfhosted_fastapi_gateway_to_control/)
@@ -97,14 +107,4 @@ Last update: 2026-11-08 14:36 UTC
 - 2026-10-30T13:17:58+00:00 — [CloudFree Address – an iOS address book that lives on your own FRITZ!Box / FTPS server instead of iCloud. Looking for beta testers](https://www.reddit.com/r/selfhosted/comments/1xjf5b7/cloudfree_address_an_ios_address_book_that_lives/)
 - 2026-10-29T20:29:43+00:00 — [Self-hosted Family tracking app](https://www.reddit.com/r/selfhosted/comments/1xivaak/selfhosted_family_tracking_app/)
 - 2026-10-29T22:00:59+00:00 — [Apache guacamole best approach?](https://www.reddit.com/r/selfhosted/comments/1xixmax/apache_guacamole_best_approach/)
-- 2026-10-28T22:43:31+00:00 — [My journey after six months... and my thoughts..](https://www.reddit.com/r/selfhosted/comments/1xi306l/my_journey_after_six_months_and_my_thoughts/)
-- 2026-10-29T23:01:03+00:00 — [Self-hosted P2P Networking Platform](https://www.reddit.com/r/selfhosted/comments/1xiz2fm/selfhosted_p2p_networking_platform/)
-- Thu, 29 Oct 2026 14:30:50 +0000 — [CVE-2026-115920: CVE-2026-115920: Out-of-Bounds Read in ONNX ConvTranspose Shape Inference](https://dev.to/cverports/cve-2026-115920-cve-2026-115920-out-of-bounds-read-in-onnx-convtranspose-shape-inference-3lbp)
-- Thu, 29 Oct 2026 14:29:55 +0000 — [I Let My AI Agent Create Its Own Databases. Here's How the Passwords Stay Locked Up.](https://dev.to/dennisonbertram/i-let-my-ai-agent-create-its-own-databases-heres-how-the-passwords-stay-locked-up-b8o)
-- Thu, 29 Oct 2026 14:27:28 +0000 — [Build a Process Documentation App With ToolJet MCP](https://dev.to/tooljet/build-a-process-documentation-app-with-tooljet-mcp-3hed)
-- Thu, 29 Oct 2026 14:27:28 +0000 — [Illusory Cloud Backups: Actually Testing Your DR Plan with Velero and a Timed Restore](https://dev.to/florient_4262fab5463a691/illusory-cloud-backups-actually-testing-your-dr-plan-with-velero-and-a-timed-restore-1811)
-- 2026-10-22T22:01:08+00:00 — [New Project Megathread - Week of 22 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/)
-- 2026-10-29T00:51:42+00:00 — [Guide - Use docker to operate legacy scanner hardware on Windows 11](https://www.reddit.com/r/selfhosted/comments/1xi5z2k/guide_use_docker_to_operate_legacy_scanner/)
-- 2026-10-29T05:51:41+00:00 — [Chore management app request](https://www.reddit.com/r/selfhosted/comments/1xibsu2/chore_management_app_request/)
-- 2026-10-28T17:41:51+00:00 — [FiestaBoard v10: a self-hosted dashboard for Vestaboard and Pixoo 64](https://www.reddit.com/r/selfhosted/comments/1xhuyqm/fiestaboard_v10_a_selfhosted_dashboard_for/)
 <!-- NEWS END -->
