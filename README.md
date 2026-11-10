@@ -2,18 +2,25 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-09 17:52 UTC
+Last update: 2026-11-10 15:52 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 10 Nov 2026 15:30:00 +0000 — [Kubernetes - Setup External DNS](https://dev.to/kiriapurv/kubernetes-setup-external-dns-46df)
+- 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
+- 2026-11-10T05:45:12+00:00 — [Anchor Notes: a self-hosted Google Keep alternative, now with a full redesign, highlights and a slash menu](https://www.reddit.com/r/selfhosted/comments/1xsf0kh/anchor_notes_a_selfhosted_google_keep_alternative/)
+- 2026-11-09T23:56:49+00:00 — [Migrating from Proton & Google, what should I self-host next?](https://www.reddit.com/r/selfhosted/comments/1xs7z7z/migrating_from_proton_google_what_should_i/)
+- 2026-11-09T11:03:03+00:00 — [Dawarich 1.22.0 — Alternative to Google Timeline, OwnTracks and Life360](https://www.reddit.com/r/selfhosted/comments/1xrourj/dawarich_1220_alternative_to_google_timeline/)
+- 2026-11-10T12:25:59+00:00 — [Flare: self-hosted OpenTelemetry logs/traces/metrics in one docker compose (MIT)](https://www.reddit.com/r/selfhosted/comments/1xslldi/flare_selfhosted_opentelemetry_logstracesmetrics/)
+- 2026-11-09T19:55:37+00:00 — [IMPS: Self-hosted photo inventory for storage boxes, with printable QR labels](https://www.reddit.com/r/selfhosted/comments/1xs1w9j/imps_selfhosted_photo_inventory_for_storage_boxes/)
+- 2026-11-10T09:24:16+00:00 — [n8n queueing every afternoon since I added AI steps. More cores, faster cores, or queue mode?](https://www.reddit.com/r/selfhosted/comments/1xsihpc/n8n_queueing_every_afternoon_since_i_added_ai/)
+- 2026-11-09T19:51:00+00:00 — [Best Backup Strategy for My Home Server?](https://www.reddit.com/r/selfhosted/comments/1xs1ry3/best_backup_strategy_for_my_home_server/)
+- 2026-11-09T14:53:54+00:00 — [Best price/performance hosting setup for a TypeScript/Node.js SaaS? Dev vs Production, VPS vs PaaS](https://www.reddit.com/r/selfhosted/comments/1xrtp6v/best_priceperformance_hosting_setup_for_a/)
 - Mon, 09 Nov 2026 17:50:00 +0000 — [The Profiler We Weren't Allowed to Have: 72 Hours of Zero-Dependency Rust at Speed Demon 2026](https://dev.to/dannyamah/the-profiler-we-werent-allowed-to-have-72-hours-of-zero-dependency-rust-at-speed-demon-2026-5bnk)
 - Mon, 09 Nov 2026 17:47:32 +0000 — [Breaking the Cold Chain: Technical Breakdown of CVE-2025-41450 and Cyber-Physical OT Sabotage](https://dev.to/gabrieledattile/breaking-the-cold-chain-technical-breakdown-of-cve-2025-41450-and-cyber-physical-ot-sabotage-74h)
 - Mon, 09 Nov 2026 17:46:20 +0000 — [dature: type-safe configuration through plain dataclasses](https://dev.to/niccolum/dature-type-safe-configuration-through-plain-dataclasses-24bi)
-- 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
-- 2026-11-09T11:03:03+00:00 — [Dawarich 1.22.0 — Alternative to Google Timeline, OwnTracks and Life360](https://www.reddit.com/r/selfhosted/comments/1xrourj/dawarich_1220_alternative_to_google_timeline/)
 - 2026-11-08T20:36:44+00:00 — [AudioSilo - Self hosted audiobooks](https://www.reddit.com/r/selfhosted/comments/1xr8g7s/audiosilo_self_hosted_audiobooks/)
-- 2026-11-09T14:53:54+00:00 — [Best price/performance hosting setup for a TypeScript/Node.js SaaS? Dev vs Production, VPS vs PaaS](https://www.reddit.com/r/selfhosted/comments/1xrtp6v/best_priceperformance_hosting_setup_for_a/)
 - 2026-11-08T11:19:01+00:00 — [GitHub as VPN auth-provider](https://www.reddit.com/r/selfhosted/comments/1xqw6jq/github_as_vpn_authprovider/)
 - 2026-11-09T11:18:06+00:00 — [Looking for a google keep alternative(mostly todo list)](https://www.reddit.com/r/selfhosted/comments/1xrp42g/looking_for_a_google_keep_alternativemostly_todo/)
 - 2026-11-08T13:36:49+00:00 — [Domain structure, *.home.example.com or *.example.com](https://www.reddit.com/r/selfhosted/comments/1xqylfx/domain_structure_homeexamplecom_or_examplecom/)
@@ -100,11 +107,4 @@ Last update: 2026-11-09 17:52 UTC
 - 2026-10-30T22:52:22+00:00 — [Loomkeep: one self-hosted library for everything you watch, read, play and listen to](https://www.reddit.com/r/selfhosted/comments/1xjtxmo/loomkeep_one_selfhosted_library_for_everything/)
 - Fri, 30 Oct 2026 14:29:20 +0000 — [Odysseus: a Self-Hosted AI Workspace With a Model Cookbook That Reads Your Hardware First](https://dev.to/automatadotsale/odysseus-a-self-hosted-ai-workspace-with-a-model-cookbook-that-reads-your-hardware-first-4nnl)
 - Fri, 30 Oct 2026 14:28:23 +0000 — [I Built an AI Séance to Bring Dead Codebases Back to Life 👻](https://dev.to/anurag_karmakar_7f8add067/i-built-an-ai-seance-to-bring-dead-codebases-back-to-life-fhc)
-- 2026-10-29T17:39:59+00:00 — [Playmat: a self-hosted Magic: The Gathering server you can play from the browser (Docker Compose, ARM + x86)](https://www.reddit.com/r/selfhosted/comments/1xiqq8c/playmat_a_selfhosted_magic_the_gathering_server/)
-- 2026-10-29T19:24:09+00:00 — [Grimoire v1.10.0 - Character sheets, share links for your VTT, and six weeks of updates to the self-hosted TTRPG library](https://www.reddit.com/r/selfhosted/comments/1xitik9/grimoire_v1100_character_sheets_share_links_for/)
-- 2026-10-29T14:32:00+00:00 — [PSA: Synology NAS owners, there has been a recent uptick in C3RB3R Ransomware attacks](https://www.reddit.com/r/selfhosted/comments/1xilmkv/psa_synology_nas_owners_there_has_been_a_recent/)
-- 2026-10-29T21:58:19+00:00 — [Safety of Cloudflare Access/Zero Trust compared to Tailscale?](https://www.reddit.com/r/selfhosted/comments/1xixjnb/safety_of_cloudflare_accesszero_trust_compared_to/)
-- 2026-10-30T13:17:58+00:00 — [CloudFree Address – an iOS address book that lives on your own FRITZ!Box / FTPS server instead of iCloud. Looking for beta testers](https://www.reddit.com/r/selfhosted/comments/1xjf5b7/cloudfree_address_an_ios_address_book_that_lives/)
-- 2026-10-29T20:29:43+00:00 — [Self-hosted Family tracking app](https://www.reddit.com/r/selfhosted/comments/1xivaak/selfhosted_family_tracking_app/)
-- 2026-10-29T22:00:59+00:00 — [Apache guacamole best approach?](https://www.reddit.com/r/selfhosted/comments/1xixmax/apache_guacamole_best_approach/)
 <!-- NEWS END -->
