@@ -2,14 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-10 15:52 UTC
+Last update: 2026-11-11 15:39 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Tue, 10 Nov 2026 15:30:00 +0000 — [Kubernetes - Setup External DNS](https://dev.to/kiriapurv/kubernetes-setup-external-dns-46df)
+- Wed, 11 Nov 2026 15:30:14 +0000 — [Kubernetes metrics cardinality: cut what nobody reads](https://dev.to/spanobserver/kubernetes-metrics-cardinality-cut-what-nobody-reads-5720)
 - 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
+- 2026-11-11T06:18:43+00:00 — [What a self-hosted dashboard looks like on 31.5 inches of colour e-ink](https://www.reddit.com/r/selfhosted/comments/1xtaf06/what_a_selfhosted_dashboard_looks_like_on_315/)
+- 2026-11-11T07:50:49+00:00 — [DockTail 1.8: Tailscale Services for your Docker containers, now with custom paths, multiple services per container and no host ports needed](https://www.reddit.com/r/selfhosted/comments/1xtbx7a/docktail_18_tailscale_services_for_your_docker/)
+- 2026-11-11T15:32:31+00:00 — [Need OS recommendations](https://www.reddit.com/r/selfhosted/comments/1xtkr5f/need_os_recommendations/)
+- 2026-11-11T11:34:41+00:00 — [Rewindarr: a self-hosted Spotify Wrapped style recap for Plex and Jellyfin](https://www.reddit.com/r/selfhosted/comments/1xtfi4f/rewindarr_a_selfhosted_spotify_wrapped_style/)
 - 2026-11-10T05:45:12+00:00 — [Anchor Notes: a self-hosted Google Keep alternative, now with a full redesign, highlights and a slash menu](https://www.reddit.com/r/selfhosted/comments/1xsf0kh/anchor_notes_a_selfhosted_google_keep_alternative/)
+- 2026-11-10T15:53:52+00:00 — [Container Onion Service: a rootless container that proxies a website as a hidden service on the Tor network (AGPLv3)](https://www.reddit.com/r/selfhosted/comments/1xsqg8g/container_onion_service_a_rootless_container_that/)
+- 2026-11-11T11:51:32+00:00 — [Senlo v0.1.0: the lifecycle editor I promised last time, plus any SMTP server and encrypted credentials](https://www.reddit.com/r/selfhosted/comments/1xtfsos/senlo_v010_the_lifecycle_editor_i_promised_last/)
+- 2026-11-10T22:36:33+00:00 — [Can I plug and play a drive with files on it in a new system with zimaos](https://www.reddit.com/r/selfhosted/comments/1xt0wyb/can_i_plug_and_play_a_drive_with_files_on_it_in_a/)
+- 2026-11-11T13:15:43+00:00 — [some vpn for my selfhosted minecraft server because my router broke](https://www.reddit.com/r/selfhosted/comments/1xthgnz/some_vpn_for_my_selfhosted_minecraft_server/)
+- Tue, 10 Nov 2026 15:30:00 +0000 — [Kubernetes - Setup External DNS](https://dev.to/kiriapurv/kubernetes-setup-external-dns-46df)
 - 2026-11-09T23:56:49+00:00 — [Migrating from Proton & Google, what should I self-host next?](https://www.reddit.com/r/selfhosted/comments/1xs7z7z/migrating_from_proton_google_what_should_i/)
 - 2026-11-09T11:03:03+00:00 — [Dawarich 1.22.0 — Alternative to Google Timeline, OwnTracks and Life360](https://www.reddit.com/r/selfhosted/comments/1xrourj/dawarich_1220_alternative_to_google_timeline/)
 - 2026-11-10T12:25:59+00:00 — [Flare: self-hosted OpenTelemetry logs/traces/metrics in one docker compose (MIT)](https://www.reddit.com/r/selfhosted/comments/1xslldi/flare_selfhosted_opentelemetry_logstracesmetrics/)
@@ -98,13 +107,4 @@ Last update: 2026-11-10 15:52 UTC
 - 2026-11-01T13:18:48+00:00 — [Using ai in a secure way](https://www.reddit.com/r/selfhosted/comments/1xl2v4u/using_ai_in_a_secure_way/)
 - 2026-10-31T17:10:56+00:00 — [Self hosted DNS filtering?](https://www.reddit.com/r/selfhosted/comments/1xkfnru/self_hosted_dns_filtering/)
 - 2026-10-31T19:35:26+00:00 — [Postgresql version upgrades](https://www.reddit.com/r/selfhosted/comments/1xkj95e/postgresql_version_upgrades/)
-- 2026-10-31T07:17:18+00:00 — [Foldergram v1.3.0: self-hosted photo/video gallery, now with carousels and folder sharing](https://www.reddit.com/r/selfhosted/comments/1xk3q86/foldergram_v130_selfhosted_photovideo_gallery_now/)
-- 2026-10-31T11:44:23+00:00 — [Is it possible to have an AI agent safely help me with my home network?](https://www.reddit.com/r/selfhosted/comments/1xk836r/is_it_possible_to_have_an_ai_agent_safely_help_me/)
-- 2026-10-31T01:40:34+00:00 — [Local LLM Hosting Harness?](https://www.reddit.com/r/selfhosted/comments/1xjxo3v/local_llm_hosting_harness/)
-- 2026-10-30T13:41:52+00:00 — [sora-to-ki: a self-hosted personal site where every page is part of one night sky](https://www.reddit.com/r/selfhosted/comments/1xjfpko/soratoki_a_selfhosted_personal_site_where_every/)
-- 2026-10-30T18:56:21+00:00 — [A TUI to get into self-hosting](https://www.reddit.com/r/selfhosted/comments/1xjo1xq/a_tui_to_get_into_selfhosting/)
-- 2026-10-31T11:08:55+00:00 — [How to best scan docker compose files?](https://www.reddit.com/r/selfhosted/comments/1xk7ghp/how_to_best_scan_docker_compose_files/)
-- 2026-10-30T22:52:22+00:00 — [Loomkeep: one self-hosted library for everything you watch, read, play and listen to](https://www.reddit.com/r/selfhosted/comments/1xjtxmo/loomkeep_one_selfhosted_library_for_everything/)
-- Fri, 30 Oct 2026 14:29:20 +0000 — [Odysseus: a Self-Hosted AI Workspace With a Model Cookbook That Reads Your Hardware First](https://dev.to/automatadotsale/odysseus-a-self-hosted-ai-workspace-with-a-model-cookbook-that-reads-your-hardware-first-4nnl)
-- Fri, 30 Oct 2026 14:28:23 +0000 — [I Built an AI Séance to Bring Dead Codebases Back to Life 👻](https://dev.to/anurag_karmakar_7f8add067/i-built-an-ai-seance-to-bring-dead-codebases-back-to-life-fhc)
 <!-- NEWS END -->
