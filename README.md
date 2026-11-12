@@ -2,14 +2,18 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-11 15:39 UTC
+Last update: 2026-11-12 16:23 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Wed, 11 Nov 2026 15:30:14 +0000 — [Kubernetes metrics cardinality: cut what nobody reads](https://dev.to/spanobserver/kubernetes-metrics-cardinality-cut-what-nobody-reads-5720)
 - 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
+- 2026-11-12T12:14:49+00:00 — [M720q Tiny as a DIY NAS + homelab: most reliable SATA expansion for 4 drives?](https://www.reddit.com/r/selfhosted/comments/1xub8mf/m720q_tiny_as_a_diy_nas_homelab_most_reliable/)
+- 2026-11-11T20:30:05+00:00 — [Pi-Dock-Wifi: a Raspberry Pi 5 router with two Wi-Fi cards, Pi-hole and web dashboard](https://www.reddit.com/r/selfhosted/comments/1xtsr4b/pidockwifi_a_raspberry_pi_5_router_with_two_wifi/)
 - 2026-11-11T06:18:43+00:00 — [What a self-hosted dashboard looks like on 31.5 inches of colour e-ink](https://www.reddit.com/r/selfhosted/comments/1xtaf06/what_a_selfhosted_dashboard_looks_like_on_315/)
+- 2026-11-12T09:35:01+00:00 — [disclaimrNG – an open-source email signature server that works with Stalwart (milter + AD/LDAP)](https://www.reddit.com/r/selfhosted/comments/1xu8htq/disclaimrng_an_opensource_email_signature_server/)
+- 2026-11-12T13:07:08+00:00 — [Job Tracker — automate job capture and keep reposts and application history together](https://www.reddit.com/r/selfhosted/comments/1xucau2/job_tracker_automate_job_capture_and_keep_reposts/)
+- Wed, 11 Nov 2026 15:30:14 +0000 — [Kubernetes metrics cardinality: cut what nobody reads](https://dev.to/spanobserver/kubernetes-metrics-cardinality-cut-what-nobody-reads-5720)
 - 2026-11-11T07:50:49+00:00 — [DockTail 1.8: Tailscale Services for your Docker containers, now with custom paths, multiple services per container and no host ports needed](https://www.reddit.com/r/selfhosted/comments/1xtbx7a/docktail_18_tailscale_services_for_your_docker/)
 - 2026-11-11T15:32:31+00:00 — [Need OS recommendations](https://www.reddit.com/r/selfhosted/comments/1xtkr5f/need_os_recommendations/)
 - 2026-11-11T11:34:41+00:00 — [Rewindarr: a self-hosted Spotify Wrapped style recap for Plex and Jellyfin](https://www.reddit.com/r/selfhosted/comments/1xtfi4f/rewindarr_a_selfhosted_spotify_wrapped_style/)
@@ -103,8 +107,4 @@ Last update: 2026-11-11 15:39 UTC
 - 2026-10-31T10:23:51+00:00 — [plMail Update: PGP, S/MIME, JMAP, POP3, CardDAV Contacts and more](https://www.reddit.com/r/selfhosted/comments/1xk6o7g/plmail_update_pgp_smime_jmap_pop3_carddav/)
 - 2026-10-31T22:07:19+00:00 — [MinusPod now turns YouTube playlists and channels into ad-free podcast feeds (SponsorBlock first, LLM as fallback)](https://www.reddit.com/r/selfhosted/comments/1xkmq9f/minuspod_now_turns_youtube_playlists_and_channels/)
 - 2026-11-01T02:26:51+00:00 — [Gaming PC x Jellyfin sever?](https://www.reddit.com/r/selfhosted/comments/1xkrvpy/gaming_pc_x_jellyfin_sever/)
-- 2026-11-01T00:18:38+00:00 — [Remote desktop or Container monitoring options? Ubuntu](https://www.reddit.com/r/selfhosted/comments/1xkph35/remote_desktop_or_container_monitoring_options/)
-- 2026-11-01T13:18:48+00:00 — [Using ai in a secure way](https://www.reddit.com/r/selfhosted/comments/1xl2v4u/using_ai_in_a_secure_way/)
-- 2026-10-31T17:10:56+00:00 — [Self hosted DNS filtering?](https://www.reddit.com/r/selfhosted/comments/1xkfnru/self_hosted_dns_filtering/)
-- 2026-10-31T19:35:26+00:00 — [Postgresql version upgrades](https://www.reddit.com/r/selfhosted/comments/1xkj95e/postgresql_version_upgrades/)
 <!-- NEWS END -->
