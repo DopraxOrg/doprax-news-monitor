@@ -2,14 +2,23 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-12 16:23 UTC
+Last update: 2026-11-13 15:44 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
+- Fri, 13 Nov 2026 15:39:48 +0000 — [Whose permissions does your MCP search run with?](https://dev.to/dudko-dev/whose-permissions-does-your-mcp-search-run-with-1fc)
+- Fri, 13 Nov 2026 15:38:21 +0000 — [Monolith, Modular Monolith, and Microservices: A Practical Comparison for .NET](https://dev.to/mgebrov/monolith-modular-monolith-and-microservices-a-practical-comparison-for-net-pdc)
+- 2026-11-12T23:01:11+00:00 — [New Project Megathread - Week of 12 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/)
 - 2026-11-12T12:14:49+00:00 — [M720q Tiny as a DIY NAS + homelab: most reliable SATA expansion for 4 drives?](https://www.reddit.com/r/selfhosted/comments/1xub8mf/m720q_tiny_as_a_diy_nas_homelab_most_reliable/)
+- 2026-11-13T07:52:48+00:00 — [Has anyone tried TeslaSync? A promising self-hosted TeslaMate alternative](https://www.reddit.com/r/selfhosted/comments/1xv1xn8/has_anyone_tried_teslasync_a_promising_selfhosted/)
+- 2026-11-12T19:46:06+00:00 — [The Low-Complexity Stack: Self-Hosting with OpenSUSE MicroOS and Podman](https://www.reddit.com/r/selfhosted/comments/1xumnpe/the_lowcomplexity_stack_selfhosting_with_opensuse/)
+- 2026-11-12T18:25:35+00:00 — [UptimeKuma | Too many False-Positive Notifications](https://www.reddit.com/r/selfhosted/comments/1xukh5f/uptimekuma_too_many_falsepositive_notifications/)
+- 2026-11-13T06:09:19+00:00 — [Help me check my security risk with a port forwarded instance of slskd](https://www.reddit.com/r/selfhosted/comments/1xv08m7/help_me_check_my_security_risk_with_a_port/)
+- 2026-11-13T14:31:42+00:00 — [Claude Code deletes its session transcripts after 30 days by default. I keep mine on my own box and run a dashboard over them](https://www.reddit.com/r/selfhosted/comments/1xv9ece/claude_code_deletes_its_session_transcripts_after/)
 - 2026-11-11T20:30:05+00:00 — [Pi-Dock-Wifi: a Raspberry Pi 5 router with two Wi-Fi cards, Pi-hole and web dashboard](https://www.reddit.com/r/selfhosted/comments/1xtsr4b/pidockwifi_a_raspberry_pi_5_router_with_two_wifi/)
+- 2026-11-12T19:06:14+00:00 — [Looking for self hosted Cookshelf alternative](https://www.reddit.com/r/selfhosted/comments/1xulknn/looking_for_self_hosted_cookshelf_alternative/)
+- 2026-11-05T23:01:24+00:00 — [New Project Megathread - Week of 05 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/)
 - 2026-11-11T06:18:43+00:00 — [What a self-hosted dashboard looks like on 31.5 inches of colour e-ink](https://www.reddit.com/r/selfhosted/comments/1xtaf06/what_a_selfhosted_dashboard_looks_like_on_315/)
 - 2026-11-12T09:35:01+00:00 — [disclaimrNG – an open-source email signature server that works with Stalwart (milter + AD/LDAP)](https://www.reddit.com/r/selfhosted/comments/1xu8htq/disclaimrng_an_opensource_email_signature_server/)
 - 2026-11-12T13:07:08+00:00 — [Job Tracker — automate job capture and keep reposts and application history together](https://www.reddit.com/r/selfhosted/comments/1xucau2/job_tracker_automate_job_capture_and_keep_reposts/)
@@ -98,13 +107,4 @@ Last update: 2026-11-12 16:23 UTC
 - 2026-11-02T00:47:06+00:00 — [Scibrarian: Your personal PubMed catalog and research workflow](https://www.reddit.com/r/selfhosted/comments/1xljfa9/scibrarian_your_personal_pubmed_catalog_and/)
 - 2026-11-02T06:50:16+00:00 — [Looking for suggestions over a humble home server](https://www.reddit.com/r/selfhosted/comments/1xlq9hh/looking_for_suggestions_over_a_humble_home_server/)
 - 2026-11-02T10:10:59+00:00 — [Recommendations for getting started?](https://www.reddit.com/r/selfhosted/comments/1xltdvx/recommendations_for_getting_started/)
-- 2026-11-02T15:56:07+00:00 — [What is the actual demand of self hosting apps?](https://www.reddit.com/r/selfhosted/comments/1xm0ykq/what_is_the_actual_demand_of_self_hosting_apps/)
-- 2026-11-02T15:54:10+00:00 — [Application for kids to draw on ipad (eventually may be payed, may be also for android)](https://www.reddit.com/r/selfhosted/comments/1xm0wko/application_for_kids_to_draw_on_ipad_eventually/)
-- Sun, 01 Nov 2026 14:30:54 +0000 — [แฮกเกอร์จีนใช้ AI โจมตี 200 องค์กรจริงไหม? แยกตัวเลข 200 กับ 140 ให้ชัด](https://dev.to/sarantoon/aehkekrcchiinaich-ai-occhmtii-200-ngkhkrcchringaihm-aeyktawelkh-200-kab-140-aihchad-5enm)
-- Sun, 01 Nov 2026 14:27:01 +0000 — [I Slowed My Trading Bot Down to Four Trades a Year. It Tripled a Backtest, and It Still Failed.](https://dev.to/madukaj/i-slowed-my-trading-bot-down-to-four-trades-a-year-it-tripled-a-backtest-and-it-still-failed-4ml7)
-- 2026-11-01T14:26:02+00:00 — [VPS Pilot v0.5.0: open-source monitoring and management for your VPSes, now with scheduled backups to S3](https://www.reddit.com/r/selfhosted/comments/1xl4dn7/vps_pilot_v050_opensource_monitoring_and/)
-- 2026-11-01T01:08:40+00:00 — [Networking and general advice needed](https://www.reddit.com/r/selfhosted/comments/1xkqfmo/networking_and_general_advice_needed/)
-- 2026-10-31T10:23:51+00:00 — [plMail Update: PGP, S/MIME, JMAP, POP3, CardDAV Contacts and more](https://www.reddit.com/r/selfhosted/comments/1xk6o7g/plmail_update_pgp_smime_jmap_pop3_carddav/)
-- 2026-10-31T22:07:19+00:00 — [MinusPod now turns YouTube playlists and channels into ad-free podcast feeds (SponsorBlock first, LLM as fallback)](https://www.reddit.com/r/selfhosted/comments/1xkmq9f/minuspod_now_turns_youtube_playlists_and_channels/)
-- 2026-11-01T02:26:51+00:00 — [Gaming PC x Jellyfin sever?](https://www.reddit.com/r/selfhosted/comments/1xkrvpy/gaming_pc_x_jellyfin_sever/)
 <!-- NEWS END -->
