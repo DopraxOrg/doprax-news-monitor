@@ -2,14 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-13 15:44 UTC
+Last update: 2026-11-14 14:34 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- 2026-11-12T23:01:11+00:00 — [New Project Megathread - Week of 12 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/)
+- 2026-11-14T00:44:31+00:00 — [Selfhosted Aircraft Control](https://www.reddit.com/r/selfhosted/comments/1xvotr4/selfhosted_aircraft_control/)
+- 2026-11-13T22:06:42+00:00 — [TaskView v1.58.2 - Massive Update! + Realtime updates + UI + Calendar + Attachments](https://www.reddit.com/r/selfhosted/comments/1xvl93q/taskview_v1582_massive_update_realtime_updates_ui/)
+- 2026-11-13T16:58:56+00:00 — [MusixMatch threatens navidrome-musixmatch-plugin](https://www.reddit.com/r/selfhosted/comments/1xvd79u/musixmatch_threatens_navidromemusixmatchplugin/)
+- 2026-11-14T12:44:57+00:00 — [Privateerr: PIA WireGuard, port forwarding and recovery with Gluetun](https://www.reddit.com/r/selfhosted/comments/1xw1jpb/privateerr_pia_wireguard_port_forwarding_and/)
+- 2026-11-14T13:15:28+00:00 — [Postfalcon: a lightweight self-hosted social media scheduler (AGPL, one-command Docker install)](https://www.reddit.com/r/selfhosted/comments/1xw25ir/postfalcon_a_lightweight_selfhosted_social_media/)
+- 2026-11-14T13:11:04+00:00 — [Backing up my VPS docker services and host configurations - suggestions](https://www.reddit.com/r/selfhosted/comments/1xw22hn/backing_up_my_vps_docker_services_and_host/)
+- 2026-11-13T13:43:33+00:00 — [6 years of selfhosting, hit with RAM corruption](https://www.reddit.com/r/selfhosted/comments/1xv883c/6_years_of_selfhosting_hit_with_ram_corruption/)
+- 2026-11-14T12:40:51+00:00 — [google calendar alternative (docker)](https://www.reddit.com/r/selfhosted/comments/1xw1h0o/google_calendar_alternative_docker/)
+- 2026-11-14T12:24:00+00:00 — [I run an AI agent (Hermes Agent) on my Synology NAS with Docker Compose, password-protected dashboard and Telegram – full write-up](https://www.reddit.com/r/selfhosted/comments/1xw161n/i_run_an_ai_agent_hermes_agent_on_my_synology_nas/)
+- 2026-11-13T15:57:03+00:00 — [trying to know when something at home goes down before anyone notices, self hosted options](https://www.reddit.com/r/selfhosted/comments/1xvbj9n/trying_to_know_when_something_at_home_goes_down/)
 - Fri, 13 Nov 2026 15:39:48 +0000 — [Whose permissions does your MCP search run with?](https://dev.to/dudko-dev/whose-permissions-does-your-mcp-search-run-with-1fc)
 - Fri, 13 Nov 2026 15:38:21 +0000 — [Monolith, Modular Monolith, and Microservices: A Practical Comparison for .NET](https://dev.to/mgebrov/monolith-modular-monolith-and-microservices-a-practical-comparison-for-net-pdc)
-- 2026-11-12T23:01:11+00:00 — [New Project Megathread - Week of 12 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/)
 - 2026-11-12T12:14:49+00:00 — [M720q Tiny as a DIY NAS + homelab: most reliable SATA expansion for 4 drives?](https://www.reddit.com/r/selfhosted/comments/1xub8mf/m720q_tiny_as_a_diy_nas_homelab_most_reliable/)
 - 2026-11-13T07:52:48+00:00 — [Has anyone tried TeslaSync? A promising self-hosted TeslaMate alternative](https://www.reddit.com/r/selfhosted/comments/1xv1xn8/has_anyone_tried_teslasync_a_promising_selfhosted/)
 - 2026-11-12T19:46:06+00:00 — [The Low-Complexity Stack: Self-Hosting with OpenSUSE MicroOS and Podman](https://www.reddit.com/r/selfhosted/comments/1xumnpe/the_lowcomplexity_stack_selfhosting_with_opensuse/)
@@ -97,14 +107,4 @@ Last update: 2026-11-13 15:44 UTC
 - 2026-11-03T10:00:48+00:00 — [Anyone using Cortendesk](https://www.reddit.com/r/selfhosted/comments/1xmp0v7/anyone_using_cortendesk/)
 - 2026-11-03T13:50:37+00:00 — [Notify-only Docker update checks: what threads here keep landing on](https://www.reddit.com/r/selfhosted/comments/1xmtfmb/notifyonly_docker_update_checks_what_threads_here/)
 - 2026-11-03T14:26:53+00:00 — [pgquery: a Postgres GUI in a single container (SQL editor, ER diagram, RLS policies, EXPLAIN viewer). MIT, no account](https://www.reddit.com/r/selfhosted/comments/1xmucck/pgquery_a_postgres_gui_in_a_single_container_sql/)
-- 2026-11-03T13:44:45+00:00 — [Sterling PDF Sync](https://www.reddit.com/r/selfhosted/comments/1xmtanf/sterling_pdf_sync/)
-- 2026-11-03T13:55:19+00:00 — [BackVault v3.0 RC1](https://www.reddit.com/r/selfhosted/comments/1xmtjti/backvault_v30_rc1/)
-- 2026-11-02T21:06:42+00:00 — [Looking for affordable and scalable hosting for our app](https://www.reddit.com/r/selfhosted/comments/1xm9j0b/looking_for_affordable_and_scalable_hosting_for/)
-- 2026-11-02T21:51:06+00:00 — [Docker HCI Project](https://www.reddit.com/r/selfhosted/comments/1xmaom2/docker_hci_project/)
-- Mon, 02 Nov 2026 17:23:57 +0000 — [CVE-2026-28328 and the Limits of Product-Fingerprint Exposure Data](https://dev.to/facilishz/cve-2026-28328-and-the-limits-of-product-fingerprint-exposure-data-2ij6)
-- Mon, 02 Nov 2026 17:21:46 +0000 — [A Four-Line Fix for a 9.8: Anatomy of Linux's TCP Handshake Use-After-Free](https://dev.to/chenyuan20509/a-four-line-fix-for-a-98-anatomy-of-linuxs-tcp-handshake-use-after-free-5137)
-- 2026-11-02T10:14:44+00:00 — [Do I need to buy a server or use something I already have ?](https://www.reddit.com/r/selfhosted/comments/1xltg3e/do_i_need_to_buy_a_server_or_use_something_i/)
-- 2026-11-02T00:47:06+00:00 — [Scibrarian: Your personal PubMed catalog and research workflow](https://www.reddit.com/r/selfhosted/comments/1xljfa9/scibrarian_your_personal_pubmed_catalog_and/)
-- 2026-11-02T06:50:16+00:00 — [Looking for suggestions over a humble home server](https://www.reddit.com/r/selfhosted/comments/1xlq9hh/looking_for_suggestions_over_a_humble_home_server/)
-- 2026-11-02T10:10:59+00:00 — [Recommendations for getting started?](https://www.reddit.com/r/selfhosted/comments/1xltdvx/recommendations_for_getting_started/)
 <!-- NEWS END -->
