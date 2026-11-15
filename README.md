@@ -2,18 +2,21 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-14 14:34 UTC
+Last update: 2026-11-15 15:02 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Sun, 15 Nov 2026 15:01:28 +0000 — [Is Your Router Spying on You? Home Network Privacy and Security](https://dev.to/simone_busatto99/is-your-router-spying-on-you-home-network-privacy-and-security-529d)
 - 2026-11-12T23:01:11+00:00 — [New Project Megathread - Week of 12 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/)
+- 2026-11-15T12:56:13+00:00 — [Two months in, still extremely happy with self-hosting my own AI](https://www.reddit.com/r/selfhosted/comments/1xwutsy/two_months_in_still_extremely_happy_with/)
 - 2026-11-14T00:44:31+00:00 — [Selfhosted Aircraft Control](https://www.reddit.com/r/selfhosted/comments/1xvotr4/selfhosted_aircraft_control/)
+- 2026-11-15T06:49:36+00:00 — [Errors setting up Jellyglances/Postgres](https://www.reddit.com/r/selfhosted/comments/1xworvf/errors_setting_up_jellyglancespostgres/)
 - 2026-11-13T22:06:42+00:00 — [TaskView v1.58.2 - Massive Update! + Realtime updates + UI + Calendar + Attachments](https://www.reddit.com/r/selfhosted/comments/1xvl93q/taskview_v1582_massive_update_realtime_updates_ui/)
-- 2026-11-13T16:58:56+00:00 — [MusixMatch threatens navidrome-musixmatch-plugin](https://www.reddit.com/r/selfhosted/comments/1xvd79u/musixmatch_threatens_navidromemusixmatchplugin/)
-- 2026-11-14T12:44:57+00:00 — [Privateerr: PIA WireGuard, port forwarding and recovery with Gluetun](https://www.reddit.com/r/selfhosted/comments/1xw1jpb/privateerr_pia_wireguard_port_forwarding_and/)
 - 2026-11-14T13:15:28+00:00 — [Postfalcon: a lightweight self-hosted social media scheduler (AGPL, one-command Docker install)](https://www.reddit.com/r/selfhosted/comments/1xw25ir/postfalcon_a_lightweight_selfhosted_social_media/)
 - 2026-11-14T13:11:04+00:00 — [Backing up my VPS docker services and host configurations - suggestions](https://www.reddit.com/r/selfhosted/comments/1xw22hn/backing_up_my_vps_docker_services_and_host/)
+- 2026-11-13T16:58:56+00:00 — [MusixMatch threatens navidrome-musixmatch-plugin](https://www.reddit.com/r/selfhosted/comments/1xvd79u/musixmatch_threatens_navidromemusixmatchplugin/)
+- 2026-11-14T12:44:57+00:00 — [Privateerr: PIA WireGuard, port forwarding and recovery with Gluetun](https://www.reddit.com/r/selfhosted/comments/1xw1jpb/privateerr_pia_wireguard_port_forwarding_and/)
 - 2026-11-13T13:43:33+00:00 — [6 years of selfhosting, hit with RAM corruption](https://www.reddit.com/r/selfhosted/comments/1xv883c/6_years_of_selfhosting_hit_with_ram_corruption/)
 - 2026-11-14T12:40:51+00:00 — [google calendar alternative (docker)](https://www.reddit.com/r/selfhosted/comments/1xw1h0o/google_calendar_alternative_docker/)
 - 2026-11-14T12:24:00+00:00 — [I run an AI agent (Hermes Agent) on my Synology NAS with Docker Compose, password-protected dashboard and Telegram – full write-up](https://www.reddit.com/r/selfhosted/comments/1xw161n/i_run_an_ai_agent_hermes_agent_on_my_synology_nas/)
@@ -104,7 +107,4 @@ Last update: 2026-11-14 14:34 UTC
 - Tue, 03 Nov 2026 15:30:00 +0000 — [Kubernetes GitOps with FluxCD - Part 5 - Implementing Discord Alerts](https://dev.to/kiriapurv/kubernetes-gitops-with-fluxcd-part-5-implementing-discord-alerts-3p4g)
 - Tue, 03 Nov 2026 15:28:09 +0000 — [Isolation Forest Anomaly Detection on Login Logs in Python: Thresholds, Explanations, Drift](https://dev.to/kate_steeleeee/isolation-forest-anomaly-detection-on-login-logs-in-python-thresholds-explanations-drift-1gpo)
 - 2026-11-02T21:24:27+00:00 — [Netbird vs. Pangolin in late 2026](https://www.reddit.com/r/selfhosted/comments/1xm9zmg/netbird_vs_pangolin_in_late_2026/)
-- 2026-11-03T10:00:48+00:00 — [Anyone using Cortendesk](https://www.reddit.com/r/selfhosted/comments/1xmp0v7/anyone_using_cortendesk/)
-- 2026-11-03T13:50:37+00:00 — [Notify-only Docker update checks: what threads here keep landing on](https://www.reddit.com/r/selfhosted/comments/1xmtfmb/notifyonly_docker_update_checks_what_threads_here/)
-- 2026-11-03T14:26:53+00:00 — [pgquery: a Postgres GUI in a single container (SQL editor, ER diagram, RLS policies, EXPLAIN viewer). MIT, no account](https://www.reddit.com/r/selfhosted/comments/1xmucck/pgquery_a_postgres_gui_in_a_single_container_sql/)
 <!-- NEWS END -->
