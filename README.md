@@ -2,13 +2,19 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-15 15:02 UTC
+Last update: 2026-11-16 17:34 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
-- Sun, 15 Nov 2026 15:01:28 +0000 — [Is Your Router Spying on You? Home Network Privacy and Security](https://dev.to/simone_busatto99/is-your-router-spying-on-you-home-network-privacy-and-security-529d)
 - 2026-11-12T23:01:11+00:00 — [New Project Megathread - Week of 12 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/)
+- 2026-11-16T09:18:22+00:00 — [Any blind self hosters?](https://www.reddit.com/r/selfhosted/comments/1xxkxps/any_blind_self_hosters/)
+- 2026-11-16T14:11:48+00:00 — [Pangolin vs reverse proxy on home server](https://www.reddit.com/r/selfhosted/comments/1xxqc14/pangolin_vs_reverse_proxy_on_home_server/)
+- 2026-11-16T12:10:30+00:00 — [Anyone running game servers behind CGNAT? Looking for feedback on a friend-hosted relay approach](https://www.reddit.com/r/selfhosted/comments/1xxns1w/anyone_running_game_servers_behind_cgnat_looking/)
+- 2026-11-15T18:51:15+00:00 — [Spacebin: a lightweight, self-hosted pastebin server in Go (JS-free, encrypted pastes)](https://www.reddit.com/r/selfhosted/comments/1xx3f8c/spacebin_a_lightweight_selfhosted_pastebin_server/)
+- 2026-11-15T15:17:49+00:00 — [Vortix - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding](https://www.reddit.com/r/selfhosted/comments/1xwy0n2/vortix_terminal_ui_for_wireguard_and_openvpn_with/)
+- 2026-11-16T15:08:18+00:00 — [EasyArr – a native Mac / iPhone / iPad / Apple TV app to manage Radarr, Sonarr, Prowlarr, SABnzbd, Seerr and Jellyfin (public TestFlight beta)](https://www.reddit.com/r/selfhosted/comments/1xxrqof/easyarr_a_native_mac_iphone_ipad_apple_tv_app_to/)
+- Sun, 15 Nov 2026 15:01:28 +0000 — [Is Your Router Spying on You? Home Network Privacy and Security](https://dev.to/simone_busatto99/is-your-router-spying-on-you-home-network-privacy-and-security-529d)
 - 2026-11-15T12:56:13+00:00 — [Two months in, still extremely happy with self-hosting my own AI](https://www.reddit.com/r/selfhosted/comments/1xwutsy/two_months_in_still_extremely_happy_with/)
 - 2026-11-14T00:44:31+00:00 — [Selfhosted Aircraft Control](https://www.reddit.com/r/selfhosted/comments/1xvotr4/selfhosted_aircraft_control/)
 - 2026-11-15T06:49:36+00:00 — [Errors setting up Jellyglances/Postgres](https://www.reddit.com/r/selfhosted/comments/1xworvf/errors_setting_up_jellyglancespostgres/)
@@ -101,10 +107,4 @@ Last update: 2026-11-15 15:02 UTC
 - 2026-11-04T11:48:42+00:00 — [Versioned backup on change?](https://www.reddit.com/r/selfhosted/comments/1xnm6zq/versioned_backup_on_change/)
 - 2026-11-03T22:42:08+00:00 — [Self Hosted Sanity Check](https://www.reddit.com/r/selfhosted/comments/1xn7lh2/self_hosted_sanity_check/)
 - 2026-11-03T13:35:21+00:00 — [Feedback on my personal anti-censorship VPN setup](https://www.reddit.com/r/selfhosted/comments/1xmt31w/feedback_on_my_personal_anticensorship_vpn_setup/)
-- 2026-11-03T22:39:37+00:00 — [MiBeeNVR: dynamic timelapse and thermal cameras in a self-hosted NVR that keeps your footage on your own hardware](https://www.reddit.com/r/selfhosted/comments/1xn7jbb/mibeenvr_dynamic_timelapse_and_thermal_cameras_in/)
-- 2026-11-02T22:30:44+00:00 — [SurfSense: a self-hosted NotebookLM alternative](https://www.reddit.com/r/selfhosted/comments/1xmbomg/surfsense_a_selfhosted_notebooklm_alternative/)
-- 2026-11-03T11:32:56+00:00 — [Secure remote control setup](https://www.reddit.com/r/selfhosted/comments/1xmqldn/secure_remote_control_setup/)
-- Tue, 03 Nov 2026 15:30:00 +0000 — [Kubernetes GitOps with FluxCD - Part 5 - Implementing Discord Alerts](https://dev.to/kiriapurv/kubernetes-gitops-with-fluxcd-part-5-implementing-discord-alerts-3p4g)
-- Tue, 03 Nov 2026 15:28:09 +0000 — [Isolation Forest Anomaly Detection on Login Logs in Python: Thresholds, Explanations, Drift](https://dev.to/kate_steeleeee/isolation-forest-anomaly-detection-on-login-logs-in-python-thresholds-explanations-drift-1gpo)
-- 2026-11-02T21:24:27+00:00 — [Netbird vs. Pangolin in late 2026](https://www.reddit.com/r/selfhosted/comments/1xm9zmg/netbird_vs_pangolin_in_late_2026/)
 <!-- NEWS END -->
