@@ -2,13 +2,24 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-16 17:34 UTC
+Last update: 2026-11-17 17:07 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 17 Nov 2026 17:07:12 +0000 — [How I built Folio: 41 free PDF tools and an editor that changes existing text](https://dev.to/niranjan_4407/how-i-built-folio-41-free-pdf-tools-and-an-editor-that-changes-existing-text-40oo)
+- Tue, 17 Nov 2026 17:06:26 +0000 — [How I built Helm: control a Windows PC from an Android phone](https://dev.to/niranjan_4407/how-i-built-helm-control-a-windows-pc-from-an-android-phone-43no)
+- Tue, 17 Nov 2026 17:06:03 +0000 — [Majorana 2 Won't Move Your Post-Quantum Deadline](https://dev.to/lum1nat0r/majorana-2-wont-move-your-post-quantum-deadline-dj1)
 - 2026-11-12T23:01:11+00:00 — [New Project Megathread - Week of 12 Nov 2026](https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/)
+- 2026-11-17T00:26:54+00:00 — [A $2-3/mo VPS is the best remote access solution](https://www.reddit.com/r/selfhosted/comments/1xy63oj/a_23mo_vps_is_the_best_remote_access_solution/)
+- 2026-11-17T04:09:42+00:00 — [My set up, a mangled mess, does it count? Just getting started.](https://www.reddit.com/r/selfhosted/comments/1xyapzb/my_set_up_a_mangled_mess_does_it_count_just/)
+- 2026-11-17T11:49:06+00:00 — [ZFS or SnapRAID](https://www.reddit.com/r/selfhosted/comments/1xyifia/zfs_or_snapraid/)
+- 2026-11-17T01:16:06+00:00 — [Isopod: a self-hosted Minecraft server manager with modpack installs, Bedrock cross-play, and auto-rollback snapshots (Docker, MIT)](https://www.reddit.com/r/selfhosted/comments/1xy75u4/isopod_a_selfhosted_minecraft_server_manager_with/)
+- 2026-11-17T12:08:44+00:00 — [LibreDB Studio 1.3: self-hosted SQL IDE for 42 engines, now with a read-only MCP endpoint](https://www.reddit.com/r/selfhosted/comments/1xyit5q/libredb_studio_13_selfhosted_sql_ide_for_42/)
+- 2026-11-16T23:24:47+00:00 — [Dockhand: Using existing compose files in /opt/stacks/[app_name]](https://www.reddit.com/r/selfhosted/comments/1xy4o4s/dockhand_using_existing_compose_files_in/)
+- 2026-11-17T08:08:04+00:00 — [Need help/orientation about selfhosting](https://www.reddit.com/r/selfhosted/comments/1xyetup/need_helporientation_about_selfhosting/)
 - 2026-11-16T09:18:22+00:00 — [Any blind self hosters?](https://www.reddit.com/r/selfhosted/comments/1xxkxps/any_blind_self_hosters/)
+- 2026-11-17T14:54:17+00:00 — [Warning to new self hosters - Setup Alerts!](https://www.reddit.com/r/selfhosted/comments/1xymgvn/warning_to_new_self_hosters_setup_alerts/)
 - 2026-11-16T14:11:48+00:00 — [Pangolin vs reverse proxy on home server](https://www.reddit.com/r/selfhosted/comments/1xxqc14/pangolin_vs_reverse_proxy_on_home_server/)
 - 2026-11-16T12:10:30+00:00 — [Anyone running game servers behind CGNAT? Looking for feedback on a friend-hosted relay approach](https://www.reddit.com/r/selfhosted/comments/1xxns1w/anyone_running_game_servers_behind_cgnat_looking/)
 - 2026-11-15T18:51:15+00:00 — [Spacebin: a lightweight, self-hosted pastebin server in Go (JS-free, encrypted pastes)](https://www.reddit.com/r/selfhosted/comments/1xx3f8c/spacebin_a_lightweight_selfhosted_pastebin_server/)
@@ -96,15 +107,4 @@ Last update: 2026-11-16 17:34 UTC
 - 2026-11-04T01:54:39+00:00 — [PSA: Immich Machine Learning has Microsoft Telemetry enabled by default, here's how to disable it](https://www.reddit.com/r/selfhosted/comments/1xnbujt/psa_immich_machine_learning_has_microsoft/)
 - 2026-11-05T12:50:04+00:00 — [I built an annotation-based Kubernetes operator for Uptime Kuma — no CRDs](https://www.reddit.com/r/selfhosted/comments/1xohtqf/i_built_an_annotationbased_kubernetes_operator/)
 - 2026-11-05T15:04:58+00:00 — [What happened to BigBearCasaOS?](https://www.reddit.com/r/selfhosted/comments/1xokxwo/what_happened_to_bigbearcasaos/)
-- 2026-11-05T14:55:44+00:00 — [How do you keep Docker Swarm releases consistent across images, configs and database migrations?](https://www.reddit.com/r/selfhosted/comments/1xokp3s/how_do_you_keep_docker_swarm_releases_consistent/)
-- 2026-11-04T17:26:53+00:00 — [Best Photo Picker: point it at a photo folder and get the best shots back, all on your own hardware (MIT, Docker)](https://www.reddit.com/r/selfhosted/comments/1xnu71s/best_photo_picker_point_it_at_a_photo_folder_and/)
-- 2026-11-05T14:59:47+00:00 — [AI agent for maintenance?](https://www.reddit.com/r/selfhosted/comments/1xoksp4/ai_agent_for_maintenance/)
-- Wed, 04 Nov 2026 15:45:26 +0000 — [How to Integrate Real-Time Chat in a React and Django Application (WebSockets & Channels)](https://dev.to/shubham_raj_dev/how-to-integrate-real-time-chat-in-a-react-and-django-application-websockets-channels-2dce)
-- 2026-11-04T12:35:40+00:00 — [Help with Ansible and Borgbackup](https://www.reddit.com/r/selfhosted/comments/1xnn3gu/help_with_ansible_and_borgbackup/)
-- 2026-11-04T14:45:43+00:00 — [Why I'm building an automated laptop to server installer: the "non-technical friend" problem](https://www.reddit.com/r/selfhosted/comments/1xnq0rv/why_im_building_an_automated_laptop_to_server/)
-- 2026-11-04T14:34:07+00:00 — [TexLite – A lightweight self-hosted Overleaf alternative with built-in coding agent support](https://www.reddit.com/r/selfhosted/comments/1xnpqss/texlite_a_lightweight_selfhosted_overleaf/)
-- 2026-11-04T04:32:43+00:00 — [Need advice on upgrading homelab/self-hosting computer](https://www.reddit.com/r/selfhosted/comments/1xnezvo/need_advice_on_upgrading_homelabselfhosting/)
-- 2026-11-04T11:48:42+00:00 — [Versioned backup on change?](https://www.reddit.com/r/selfhosted/comments/1xnm6zq/versioned_backup_on_change/)
-- 2026-11-03T22:42:08+00:00 — [Self Hosted Sanity Check](https://www.reddit.com/r/selfhosted/comments/1xn7lh2/self_hosted_sanity_check/)
-- 2026-11-03T13:35:21+00:00 — [Feedback on my personal anti-censorship VPN setup](https://www.reddit.com/r/selfhosted/comments/1xmt31w/feedback_on_my_personal_anticensorship_vpn_setup/)
 <!-- NEWS END -->
