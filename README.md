@@ -2,11 +2,13 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-18 16:45 UTC
+Last update: 2026-11-19 16:52 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Thu, 19 Nov 2026 16:43:11 +0000 — [Why Most ATS Scanners Store Your Resume Data (And How We Built an In-Memory Python Alternative)](https://dev.to/til_mido_f5b434ab5607ca89/why-most-ats-scanners-store-your-resume-data-and-how-we-built-an-in-memory-python-alternative-1nlk)
+- Thu, 19 Nov 2026 16:40:34 +0000 — [Our API was down for 56 minutes and nothing threw an error](https://dev.to/yakoveka/our-api-was-down-for-56-minutes-and-nothing-threw-an-error-4o4l)
 - Tue, 17 Nov 2026 17:07:12 +0000 — [How I built Folio: 41 free PDF tools and an editor that changes existing text](https://dev.to/niranjan_4407/how-i-built-folio-41-free-pdf-tools-and-an-editor-that-changes-existing-text-40oo)
 - Tue, 17 Nov 2026 17:06:26 +0000 — [How I built Helm: control a Windows PC from an Android phone](https://dev.to/niranjan_4407/how-i-built-helm-control-a-windows-pc-from-an-android-phone-43no)
 - Tue, 17 Nov 2026 17:06:03 +0000 — [Majorana 2 Won't Move Your Post-Quantum Deadline](https://dev.to/lum1nat0r/majorana-2-wont-move-your-post-quantum-deadline-dj1)
@@ -105,6 +107,4 @@ Last update: 2026-11-18 16:45 UTC
 - Thu, 05 Nov 2026 15:40:32 +0000 — [Minimizing Maintenance for Home Cloud and Media Servers: Strategies for Reliable, Hands-Off Operation](https://dev.to/elenbit/minimizing-maintenance-for-home-cloud-and-media-servers-strategies-for-reliable-hands-off-20ok)
 - 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
 - 2026-11-04T01:54:39+00:00 — [PSA: Immich Machine Learning has Microsoft Telemetry enabled by default, here's how to disable it](https://www.reddit.com/r/selfhosted/comments/1xnbujt/psa_immich_machine_learning_has_microsoft/)
-- 2026-11-05T12:50:04+00:00 — [I built an annotation-based Kubernetes operator for Uptime Kuma — no CRDs](https://www.reddit.com/r/selfhosted/comments/1xohtqf/i_built_an_annotationbased_kubernetes_operator/)
-- 2026-11-05T15:04:58+00:00 — [What happened to BigBearCasaOS?](https://www.reddit.com/r/selfhosted/comments/1xokxwo/what_happened_to_bigbearcasaos/)
 <!-- NEWS END -->
