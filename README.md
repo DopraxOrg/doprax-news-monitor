@@ -2,11 +2,15 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-19 16:52 UTC
+Last update: 2026-11-20 16:27 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 20 Nov 2026 16:26:34 +0000 — [Genkit vs LangChain: Google's Agent Framework Compared](https://dev.to/devtoaaron/genkit-vs-langchain-googles-agent-framework-compared-d0f)
+- Fri, 20 Nov 2026 16:26:20 +0000 — [Labels vs annotations: how one YAML indent made Prometheus scrape Pyroscope twice](https://dev.to/quantumbreakz/labels-vs-annotations-how-one-yaml-indent-made-prometheus-scrape-pyroscope-twice-23dp)
+- Fri, 20 Nov 2026 16:25:44 +0000 — [Your app doesn't run on a server anymore. It runs on a desired state.](https://dev.to/quantumbreakz/your-app-doesnt-run-on-a-server-anymore-it-runs-on-a-desired-state-ap3)
+- Fri, 20 Nov 2026 16:25:09 +0000 — [What is a serverless cold start, really?](https://dev.to/quantumbreakz/what-is-a-serverless-cold-start-really-18jp)
 - Thu, 19 Nov 2026 16:43:11 +0000 — [Why Most ATS Scanners Store Your Resume Data (And How We Built an In-Memory Python Alternative)](https://dev.to/til_mido_f5b434ab5607ca89/why-most-ats-scanners-store-your-resume-data-and-how-we-built-an-in-memory-python-alternative-1nlk)
 - Thu, 19 Nov 2026 16:40:34 +0000 — [Our API was down for 56 minutes and nothing threw an error](https://dev.to/yakoveka/our-api-was-down-for-56-minutes-and-nothing-threw-an-error-4o4l)
 - Tue, 17 Nov 2026 17:07:12 +0000 — [How I built Folio: 41 free PDF tools and an editor that changes existing text](https://dev.to/niranjan_4407/how-i-built-folio-41-free-pdf-tools-and-an-editor-that-changes-existing-text-40oo)
@@ -103,8 +107,4 @@ Last update: 2026-11-19 16:52 UTC
 - 2026-11-05T12:15:49+00:00 — [Wireguard on router Vs Tailscale](https://www.reddit.com/r/selfhosted/comments/1xoh5zn/wireguard_on_router_vs_tailscale/)
 - 2026-11-05T09:42:52+00:00 — [withoutBG v4: self-hosted background removal with a Docker app and brush fixes](https://www.reddit.com/r/selfhosted/comments/1xoel60/withoutbg_v4_selfhosted_background_removal_with_a/)
 - 2026-11-05T16:49:26+00:00 — [Wake on Lan at Immich/Audiobookshelf Connect](https://www.reddit.com/r/selfhosted/comments/1xonmrn/wake_on_lan_at_immichaudiobookshelf_connect/)
-- 2026-11-05T02:33:36+00:00 — [Cryptominer in my Plausible anayltics container](https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/)
-- Thu, 05 Nov 2026 15:40:32 +0000 — [Minimizing Maintenance for Home Cloud and Media Servers: Strategies for Reliable, Hands-Off Operation](https://dev.to/elenbit/minimizing-maintenance-for-home-cloud-and-media-servers-strategies-for-reliable-hands-off-20ok)
-- 2026-10-29T23:01:09+00:00 — [New Project Megathread - Week of 29 Oct 2026](https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/)
-- 2026-11-04T01:54:39+00:00 — [PSA: Immich Machine Learning has Microsoft Telemetry enabled by default, here's how to disable it](https://www.reddit.com/r/selfhosted/comments/1xnbujt/psa_immich_machine_learning_has_microsoft/)
 <!-- NEWS END -->
