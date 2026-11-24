@@ -2,11 +2,12 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-23 19:33 UTC
+Last update: 2026-11-24 19:08 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Tue, 24 Nov 2026 18:00:21 +0000 — [AstridVPN: A VPN that doesn't know who you are](https://astridvpn.com/)
 - Fri, 20 Nov 2026 16:26:34 +0000 — [Genkit vs LangChain: Google's Agent Framework Compared](https://dev.to/devtoaaron/genkit-vs-langchain-googles-agent-framework-compared-d0f)
 - Fri, 20 Nov 2026 16:26:20 +0000 — [Labels vs annotations: how one YAML indent made Prometheus scrape Pyroscope twice](https://dev.to/quantumbreakz/labels-vs-annotations-how-one-yaml-indent-made-prometheus-scrape-pyroscope-twice-23dp)
 - Fri, 20 Nov 2026 16:25:44 +0000 — [Your app doesn't run on a server anymore. It runs on a desired state.](https://dev.to/quantumbreakz/your-app-doesnt-run-on-a-server-anymore-it-runs-on-a-desired-state-ap3)
@@ -106,5 +107,4 @@ Last update: 2026-11-23 19:33 UTC
 - 2026-11-05T14:02:21+00:00 — [FareBot: a self-hosted Telegram bot that tracks Google Flights prices and alerts you when they drop](https://www.reddit.com/r/selfhosted/comments/1xojehe/farebot_a_selfhosted_telegram_bot_that_tracks/)
 - 2026-11-05T12:15:49+00:00 — [Wireguard on router Vs Tailscale](https://www.reddit.com/r/selfhosted/comments/1xoh5zn/wireguard_on_router_vs_tailscale/)
 - 2026-11-05T09:42:52+00:00 — [withoutBG v4: self-hosted background removal with a Docker app and brush fixes](https://www.reddit.com/r/selfhosted/comments/1xoel60/withoutbg_v4_selfhosted_background_removal_with_a/)
-- 2026-11-05T16:49:26+00:00 — [Wake on Lan at Immich/Audiobookshelf Connect](https://www.reddit.com/r/selfhosted/comments/1xonmrn/wake_on_lan_at_immichaudiobookshelf_connect/)
 <!-- NEWS END -->
