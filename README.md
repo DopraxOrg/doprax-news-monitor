@@ -2,11 +2,13 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-24 19:08 UTC
+Last update: 2026-11-25 18:13 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Wed, 25 Nov 2026 18:11:20 +0000 — [How Phones Become One Game Board in Your Browser](https://dev.to/nikitaeverywhere/how-phones-become-one-game-board-in-your-browser-194m)
+- Wed, 25 Nov 2026 18:08:16 +0000 — [I built an open-source agentic app store you host yourself](https://dev.to/milochen0418/i-built-an-open-source-agentic-app-store-you-host-yourself-4pad)
 - Tue, 24 Nov 2026 18:00:21 +0000 — [AstridVPN: A VPN that doesn't know who you are](https://astridvpn.com/)
 - Fri, 20 Nov 2026 16:26:34 +0000 — [Genkit vs LangChain: Google's Agent Framework Compared](https://dev.to/devtoaaron/genkit-vs-langchain-googles-agent-framework-compared-d0f)
 - Fri, 20 Nov 2026 16:26:20 +0000 — [Labels vs annotations: how one YAML indent made Prometheus scrape Pyroscope twice](https://dev.to/quantumbreakz/labels-vs-annotations-how-one-yaml-indent-made-prometheus-scrape-pyroscope-twice-23dp)
@@ -105,6 +107,4 @@ Last update: 2026-11-24 19:08 UTC
 - 2026-11-06T00:49:57+00:00 — [Anyone ever try the Syncthing equivalent of VPNs, Anywherelan?](https://www.reddit.com/r/selfhosted/comments/1xozg3r/anyone_ever_try_the_syncthing_equivalent_of_vpns/)
 - 2026-11-06T09:24:29+00:00 — [I want to give my unused iPad (9th Generation with A19) a new purpose](https://www.reddit.com/r/selfhosted/comments/1xp8jzk/i_want_to_give_my_unused_ipad_9th_generation_with/)
 - 2026-11-05T14:02:21+00:00 — [FareBot: a self-hosted Telegram bot that tracks Google Flights prices and alerts you when they drop](https://www.reddit.com/r/selfhosted/comments/1xojehe/farebot_a_selfhosted_telegram_bot_that_tracks/)
-- 2026-11-05T12:15:49+00:00 — [Wireguard on router Vs Tailscale](https://www.reddit.com/r/selfhosted/comments/1xoh5zn/wireguard_on_router_vs_tailscale/)
-- 2026-11-05T09:42:52+00:00 — [withoutBG v4: self-hosted background removal with a Docker app and brush fixes](https://www.reddit.com/r/selfhosted/comments/1xoel60/withoutbg_v4_selfhosted_background_removal_with_a/)
 <!-- NEWS END -->
