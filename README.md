@@ -2,11 +2,13 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-26 17:55 UTC
+Last update: 2026-11-27 17:41 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 27 Nov 2026 17:31:47 +0000 — [A sandbox for Claude Code: running it headless in a cloud workspace](https://dev.to/sandscale/a-sandbox-for-claude-code-running-it-headless-in-a-cloud-workspace-fm8)
+- Fri, 27 Nov 2026 17:30:00 +0000 — [How to Deploy Hugging Face Models in Production](https://dev.to/mango7777/how-to-deploy-hugging-face-models-in-production-412a)
 - Wed, 25 Nov 2026 18:11:20 +0000 — [How Phones Become One Game Board in Your Browser](https://dev.to/nikitaeverywhere/how-phones-become-one-game-board-in-your-browser-194m)
 - Wed, 25 Nov 2026 18:08:16 +0000 — [I built an open-source agentic app store you host yourself](https://dev.to/milochen0418/i-built-an-open-source-agentic-app-store-you-host-yourself-4pad)
 - Tue, 24 Nov 2026 18:00:21 +0000 — [AstridVPN: A VPN that doesn't know who you are](https://astridvpn.com/)
@@ -105,6 +107,4 @@ Last update: 2026-11-26 17:55 UTC
 - Fri, 06 Nov 2026 03:16:26 +0000 — [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)
 - Fri, 06 Nov 2026 15:20:06 +0000 — [Beyond a Successful Update: Validating Workspace Continuity and Local Data Persistence in Tables](https://dev.to/arya_hegiste_8528edf8cd29/beyond-a-successful-update-validating-workspace-continuity-and-local-data-persistence-in-tables-105m)
 - 2026-11-06T00:49:57+00:00 — [Anyone ever try the Syncthing equivalent of VPNs, Anywherelan?](https://www.reddit.com/r/selfhosted/comments/1xozg3r/anyone_ever_try_the_syncthing_equivalent_of_vpns/)
-- 2026-11-06T09:24:29+00:00 — [I want to give my unused iPad (9th Generation with A19) a new purpose](https://www.reddit.com/r/selfhosted/comments/1xp8jzk/i_want_to_give_my_unused_ipad_9th_generation_with/)
-- 2026-11-05T14:02:21+00:00 — [FareBot: a self-hosted Telegram bot that tracks Google Flights prices and alerts you when they drop](https://www.reddit.com/r/selfhosted/comments/1xojehe/farebot_a_selfhosted_telegram_bot_that_tracks/)
 <!-- NEWS END -->
