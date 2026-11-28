@@ -2,11 +2,13 @@
 
 Automated ecosystem news relevant to Doprax users.
 
-Last update: 2026-11-27 17:41 UTC
+Last update: 2026-11-28 16:26 UTC
 
 ## Latest Signals
 
 <!-- NEWS START -->
+- Fri, 27 Nov 2026 23:00:30 +0000 — [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
+- Sat, 28 Nov 2026 16:24:27 +0000 — [I built a full-stack portfolio site in a 1GB sandbox — and it's live on GitHub Pages](https://dev.to/bi_quang_f7db903e86c1505/i-built-a-full-stack-portfolio-site-in-a-1gb-sandbox-and-its-live-on-github-pages-245a)
 - Fri, 27 Nov 2026 17:31:47 +0000 — [A sandbox for Claude Code: running it headless in a cloud workspace](https://dev.to/sandscale/a-sandbox-for-claude-code-running-it-headless-in-a-cloud-workspace-fm8)
 - Fri, 27 Nov 2026 17:30:00 +0000 — [How to Deploy Hugging Face Models in Production](https://dev.to/mango7777/how-to-deploy-hugging-face-models-in-production-412a)
 - Wed, 25 Nov 2026 18:11:20 +0000 — [How Phones Become One Game Board in Your Browser](https://dev.to/nikitaeverywhere/how-phones-become-one-game-board-in-your-browser-194m)
@@ -105,6 +107,4 @@ Last update: 2026-11-27 17:41 UTC
 - 2026-11-05T14:12:59+00:00 — [openssh on musl (eg. alpine) accepts any password > 256 characters for accounts with login disabled](https://www.reddit.com/r/selfhosted/comments/1xojnsm/openssh_on_musl_eg_alpine_accepts_any_password/)
 - 2026-11-06T20:39:08+00:00 — [Docker network configuration](https://www.reddit.com/r/selfhosted/comments/1xpnina/docker_network_configuration/)
 - Fri, 06 Nov 2026 03:16:26 +0000 — [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)
-- Fri, 06 Nov 2026 15:20:06 +0000 — [Beyond a Successful Update: Validating Workspace Continuity and Local Data Persistence in Tables](https://dev.to/arya_hegiste_8528edf8cd29/beyond-a-successful-update-validating-workspace-continuity-and-local-data-persistence-in-tables-105m)
-- 2026-11-06T00:49:57+00:00 — [Anyone ever try the Syncthing equivalent of VPNs, Anywherelan?](https://www.reddit.com/r/selfhosted/comments/1xozg3r/anyone_ever_try_the_syncthing_equivalent_of_vpns/)
 <!-- NEWS END -->
